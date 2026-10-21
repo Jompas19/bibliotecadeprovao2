@@ -11,6 +11,7 @@
     {group:'home',target:'#cloudSyncBtn',outer:true,title:'Sincronizar',body:'Use o mesmo ID para recuperar seu progresso em outros dispositivos.'},
     {group:'question',target:'#studyMarkerToggle',title:'Marca-texto',body:'Ative e selecione palavras para grifar.',demo:'mark'},
     {group:'question',target:'.study-option-exclude',title:'Riscar alternativa (×)',body:'Clique no × para descartar uma opção. Clique de novo para desfazer.',demo:'strike'},
+    {group:'question',target:'.study-copy-question',title:'Copiar questão',body:'Copie o enunciado e as alternativas para colar em suas anotações ou compartilhar com colegas.'},
     {group:'question',target:'.status-wrap',title:'Classificação da questão',body:'Depois de responder, marque Acertei, Errei, Dúvida ou Chutei/Não sabia.'},
     {group:'question',target:'#studyExplanationsToggle',title:'Comentários da questão',body:'Oculte as explicações das alternativas, mantendo o gabarito visível.'},
     {group:'question',target:'.post-actions button[onclick="startRetry()"]',title:'Responder novamente',body:'Faça uma nova tentativa sem apagar seu histórico.'},
@@ -51,7 +52,7 @@
     .tour-button.primary{background:#3156d3;border-color:#3156d3;color:#fff}
     .tour-progress{font-size:12px;color:#607088;font-weight:700;white-space:nowrap}
     .tour-progress-track{height:4px;border-radius:20px;background:#edf0f7;overflow:hidden;margin-top:12px}
-    .tour-progress-track span{display:block;height:100%;background:#4569d9;border-radius:20px;transition:width .18s}
+    .tour-progress-track span{display:block;height:100%;background:#4569d9;border-radius:20px}
     .tour-example{border:1px solid #dfe7f4;background:#f7f9fe;color:#34435b;font-size:13px;line-height:1.45;border-radius:10px;padding:11px 12px;margin-top:11px}
     .tour-example mark{background:#ffe48e;color:#272a32;border-radius:3px;padding:2px 3px}
     .tour-strike{font-weight:700;color:#9f2424;text-decoration:line-through;text-decoration-thickness:2px}
@@ -80,7 +81,12 @@
     const wasActive=active;
     active=false;welcome=false;
     clean();
-    if(wasActive){try{appWindow()?.studyTutorialFinish?.();}catch(_){}}
+    if(wasActive){
+      try {appWindow()?.studyTutorialFinish?.();} catch (_) {}
+      // Mantenha a renderização de retorno sem efeitos; restaure os movimentos depois.
+      const currentDoc=doc();
+      requestAnimationFrame(()=>currentDoc?.documentElement?.classList.remove('study-tour-active'));
+    }
   }
 
   function showWelcome(){
@@ -203,6 +209,7 @@
     if(!ready())return;
     rememberChoice();
     active=true;index=0;
+    doc()?.documentElement?.classList.add('study-tour-active');
     appWindow().studyTutorialShowLibrary();
     showStep();
   }

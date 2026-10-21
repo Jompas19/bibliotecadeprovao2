@@ -25,7 +25,7 @@
 
   function apply() {
     const current = read();
-    if (reduced.matches) { previous = current; return; }
+    if (reduced.matches || document.documentElement.classList.contains('study-tour-active')) { previous = current; return; }
 
     if (current.view === 'library' && previous.view !== 'library') {
       add('.hero', 'motion-enter-hero');
@@ -39,10 +39,7 @@
       const card = app.querySelector('.question-card');
       if (previous.view !== 'question') {
         add('.exam-shell', 'motion-enter-shell');
-        card?.classList.add('motion-enter-question');
-      } else if (previous.id !== current.id) {
-        card?.classList.add('motion-enter-question');
-      } else {
+      } else if (previous.id === current.id) {
         if (!previous.confirmed && current.confirmed) {
           add('.result', 'motion-reveal-result', card);
           card.querySelectorAll('.alternative-comment, .structured-correction, .question-review-note')

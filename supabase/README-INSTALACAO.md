@@ -25,7 +25,7 @@ No segundo projeto: `Edge Functions` → `Secrets` / `Manage secrets`. Configure
 |---|---|
 | `OITUTIGAS_ALLOWED_ORIGINS` | Origem exata do GitHub Pages, como `https://usuario.github.io`. Se for necessário mais de um domínio, separe por vírgulas. |
 | `OITUTIGAS_IP_SALT` | Texto aleatório secreto de pelo menos 32 caracteres, usado para evitar armazenar IPs em texto puro. |
-| `OITUTIGAS_ADMIN_TOKEN` | **Uma segunda chave aleatória diferente, com pelo menos 32 caracteres**. Somente você deve conhecê-la. Ela autoriza a exclusão de QUALQUER comentário. |
+| `OITUTIGAS_ADMIN_TOKEN` | **Senha de moderação com 4 a 256 caracteres**. Somente você deve conhecê-la. Ela autoriza a exclusão de QUALQUER comentário. Senhas curtas oferecem proteção limitada, mesmo com limite básico de tentativas. |
 
 **Não envie as três chaves para o ChatGPT nem as coloque em `comments-config.js`.** É possível gerar duas chaves aleatórias diferentes num gerenciador de senhas ou pelo terminal com `openssl rand -base64 48`. Anote a `OITUTIGAS_ADMIN_TOKEN` em local seguro. Não a reutilize como senha de outro serviço.
 
@@ -62,7 +62,7 @@ Envie os arquivos do site (o conteúdo da pasta `bibliotecadeprovao-main/`) para
 4. Após a validação, cada comentário exibirá `Excluir como administrador`. Você pode excluir comentários de QUALQUER usuário, sem saber os códigos individuais dos autores.
 5. Para encerrar, clique em `Sair da moderação` ou recarregue a página.
 
-A chave não fica armazenada em cookies ou `localStorage`: permanece apenas na memória da aba até sair da moderação ou recarregar. Não compartilhe sua chave. Como o site não exige autenticação, **a posse dessa chave autoriza a moderação**. Configure uma chave aleatória robusta.
+O servidor permite até oito tentativas de autenticação/moderação por hora por identificador de rede. A chave não fica armazenada em cookies ou `localStorage`: permanece apenas na memória da aba até sair da moderação ou recarregar. Não compartilhe sua chave. Como o site não exige autenticação, **a posse dessa chave autoriza a moderação**. Configure uma chave aleatória robusta.
 
 O autor pode apagar o próprio comentário usando o código gerado na publicação. Sem login, o nome exibido **não comprova identidade**.
 

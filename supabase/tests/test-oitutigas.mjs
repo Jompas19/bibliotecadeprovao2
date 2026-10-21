@@ -7,7 +7,7 @@ const origin='https://estudante.github.io';
 const endpoint='https://teste.supabase.co/functions/v1/oitutigas-comments';
 const authorCode='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef';
 const adminToken='Admin-ABC123ABC123ABC123ABC123ABC123XYZ';
-function setup(){
+function setup(configuredAdminToken=adminToken){
   const rows=new Map(),rates=new Map();
   const backend={
     async list(id){return [...rows.values()].filter(r=>r.question_id===id).sort((a,b)=>b.created_at.localeCompare(a.created_at)).slice(0,100);},
@@ -17,7 +17,7 @@ function setup(){
     async deleteByAuthor(id,hash){const row=rows.get(id);if(!row||row.delete_token_hash!==hash)return null;rows.delete(id);return row;},
     async deleteByAdmin(id){const row=rows.get(id)||null;rows.delete(id);return row;}
   };
-  return {handle:createCommentHandler(backend,{allowedOrigins:origin,ipSalt:'test-ip-secret',adminToken}),rows,rates};
+  return {handle:createCommentHandler(backend,{allowedOrigins:origin,ipSalt:'test-ip-secret',adminToken:configuredAdminToken}),rows,rates};
 }
 function req(path,method='GET',data=null,other={}){
   const headers={origin,...other};
@@ -55,6 +55,19 @@ test('não autoriza administrador com senha errada ou não configurada',async()=
   assert.equal(rows.size,1);
   const unconfigured=createCommentHandler({},{allowedOrigins:origin,ipSalt:'salt',adminToken:''});
   assert.equal((await unconfigured(req('/admin/check','GET',null,{'X-Oitutigas-Admin':adminToken}))).status,403);
+});
+test('aceita senha de moderação com quatro caracteres, não três',async()=>{
+  const {handle}=setup('7bC4');
+  assert.equal((await handle(req('/admin/check','GET',null,{'X-Oitutigas-Admin':'7bC4'}))).status,200);
+  assert.equal((await handle(req('/admin/check','GET',null,{'X-Oitutigas-Admin':'7bC'}))).status,403);
+  const notConfigured=setup('7bC');
+  assert.equal((await notConfigured.handle(req('/admin/check','GET',null,{'X-Oitutigas-Admin':'7bC'}))).status,403);
+});
+test('bloqueia excesso de tentativas administrativas sem afetar publicações',async()=>{
+  const {handle}=setup('7bC4');
+  for(let i=0;i<8;i++)assert.equal((await handle(req('/admin/check','GET',null,{'X-Oitutigas-Admin':'xxxx'}))).status,403);
+  assert.equal((await handle(req('/admin/check','GET',null,{'X-Oitutigas-Admin':'7bC4'}))).status,429);
+  assert.equal((await handle(req('/comments','POST',payload()))).status,201);
 });
 test('rejeita imagem no JSON e multipart no servidor',async()=>{
   const {handle,rows}=setup();

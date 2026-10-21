@@ -49,12 +49,20 @@ export function createCommentHandler(backend, settings={}) {
   const origins=String(settings.allowedOrigins||'').split(',').map(x=>x.trim().replace(/\/+$/,'')).filter(Boolean);
   const salt=String(settings.ipSalt||'');
   const adminToken=String(settings.adminToken||'');
-  const adminHash=adminToken.length>=32 ? hash(adminToken) : Promise.resolve(null);
+  const adminHash=adminToken.length>=4 ? hash(adminToken) : Promise.resolve(null);
   async function validAdmin(request) {
     const supplied=request.headers.get('x-oitutigas-admin');
-    if (!supplied || supplied.length<32 || supplied.length>256) return false;
+    if (!supplied || supplied.length<4 || supplied.length>256) return false;
     const expected=await adminHash;
     return !!expected && safeEqual(await hash(supplied),expected);
+  }
+  // Limite simples por origem de rede: oito tentativas de moderação por hora.
+  // Chaves administrativas nunca são armazenadas ou registradas neste controle.
+  async function limitAdmin(request) {
+    const ip=(request.headers.get('cf-connecting-ip')||request.headers.get('x-real-ip')||
+      request.headers.get('x-forwarded-for')||'unknown').split(',')[0].trim();
+    if(!await backend.allowPost(await hash(`${salt}:admin:${ip}`)))
+      throw new HttpError('Muitas tentativas de moderação. Tente novamente em uma hora.',429);
   }
   return async request => {
     const origin=request.headers.get('origin');
@@ -71,6 +79,7 @@ export function createCommentHandler(backend, settings={}) {
         return send({comments:(await backend.list(id)).map(asPublic)},200,cors);
       }
       if(request.method==='GET'&&suffix==='/admin/check') {
+        await limitAdmin(request);
         if(!await validAdmin(request))throw new HttpError('Credencial administrativa inválida.',403);
         return send({admin:true},200,cors);
       }
@@ -94,6 +103,7 @@ export function createCommentHandler(backend, settings={}) {
         const id=match[1];
         // A chave administrativa autoriza a moderação sem conhecer o código do autor.
         if(request.headers.has('x-oitutigas-admin')) {
+          await limitAdmin(request);
           if(!await validAdmin(request))throw new HttpError('Credencial administrativa inválida.',403);
           const removed=await backend.deleteByAdmin(id);
           if(!removed)throw new HttpError('Comentário não encontrado.',404);

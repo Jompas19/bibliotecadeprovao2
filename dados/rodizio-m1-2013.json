@@ -1,0 +1,120 @@
+{
+  "id": "rodizio-m1-2013",
+  "title": "Prova Rodízio M1 (2013)",
+  "original": "28547702_1886114851400653_1205298796_o",
+  "key_source": "Gabarito comentado do PDF",
+  "questions": [
+    {
+      "number": 1,
+      "numberLabel": "1",
+      "prompt": "A gota é um distúrbio metabólico que se manifesta por níveis elevados de ácido úrico sérico, crises recorrentes de artrite aguda e formações crônicas de cristais de monurato de sódio. Pode ser classificada como primária ou secundária ( quando se relaciona a outras condições que concorrem para o acúmulo de ácido úrico sérico). O principal mecanismo da hiperuricemia em pacientes com gota primária é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dieta rica em purinas",
+          "explanation": "INCORRETA. Dieta rica em purinas pode elevar a uricemia e contribuir para crises, mas não constitui o principal mecanismo da gota primária."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento da taxa de renovação celular",
+          "explanation": "INCORRETA. Aumento da renovação celular intensifica a produção de purinas e de ácido úrico, sendo típico de situações de hiperprodução, como algumas doenças proliferativas; não é a explicação predominante na gota primária."
+        },
+        {
+          "letter": "C",
+          "text": "Diminuição da excreção renal de ácido úrico",
+          "explanation": "CORRETA. A redução da excreção renal de urato, que inclui alterações na reabsorção e secreção tubular, explica a maioria dos casos. [1–2]"
+        },
+        {
+          "letter": "D",
+          "text": "Deficiência total da enzima hipoxantinaguanina fosforribosiltransferase (HGPRT-ase)",
+          "explanation": "INCORRETA. Deficiência completa de HGPRT está ligada à doença de Lesch-Nyhan, quadro hereditário raro de hiperprodução de urato, e não ao mecanismo mais comum da gota primária. [3]"
+        }
+      ],
+      "page": 1,
+      "id": "rodizio-m1-2013:q1:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Resposta: C. O mecanismo predominante é a excreção insuficiente de urato pelos rins. A maior parte dos casos clássicos de gota decorre de subexcreção relativa de ácido úrico, e não de produção aumentada. [1–2]",
+      "answer": "C"
+    },
+    {
+      "number": 2,
+      "numberLabel": "2",
+      "prompt": "Joana, 35 anos, gestante, costureira, com sensação de formigamento e queimação em mãos, principalmente no período noturno. Procurou o reumatologista apresentando, ao exame físico, sinais de Tinel e Phalen positivos, bilateralmente. Considerando a distribuição do nervo acometido, esta paciente apresenta parestesia, especificamente, em:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro, segundo, terceiro e parte do quarto dedo",
+          "explanation": "CORRETA. Contempla o primeiro, segundo e terceiro dedos e parte do quarto dedo, correspondendo à distribuição sensitiva do nervo mediano na mão."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo, terceiro e quarto dedos",
+          "explanation": "INCORRETA. Não inclui o polegar, habitualmente inervado pelo mediano, e sugere acometimento integral do quarto dedo, cuja metade ulnar pertence ao nervo ulnar."
+        },
+        {
+          "letter": "C",
+          "text": "Todos os dedos das mãos exceto polegar",
+          "explanation": "INCORRETA. Exclui indevidamente o polegar e abrange o quinto dedo, normalmente inervado pelo nervo ulnar."
+        },
+        {
+          "letter": "D",
+          "text": "Todos os dedos das mãos",
+          "explanation": "INCORRETA. Acometimento de todos os dedos não corresponde ao território isolado do mediano; o quinto dedo e a metade ulnar do quarto são territórios sensitivos do nervo ulnar."
+        }
+      ],
+      "page": 1,
+      "id": "rodizio-m1-2013:q2:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Resposta: A. Parestesias noturnas e testes de Tinel e Phalen positivos sugerem compressão do nervo mediano no punho; gestação é um fator predisponente. O território sensitivo clássico compreende polegar, indicador, médio e metade radial do anelar. [4]",
+      "answer": "A"
+    },
+    {
+      "number": 3,
+      "numberLabel": "3",
+      "prompt": "Serafina, 30 anos, iniciou há 3 meses quadro de astenia, artralgia com edema articular associado em punhos, metacarpofalangeanas e joelhos. Concomitante apresentou erupção maculopapular na região malar e no dorso do nariz persistente, exacerbada com exposição solar e urina espumosa. Hemograma: Hb: 11,0 g/dl ( VR: 12-16 g/dl), Leucócitos: 3000/mm3 ( VR: 4000- 11000/mm3), Plaquetas: 80.000/mm3 ( 150.000- 400.000/mm3). Considerando sua principal hipótese diagnóstica, o padrão do FAN esperado é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nuclear pontilhado fino",
+          "explanation": "POSSÍVEL COM RESSALVA. O padrão nuclear pontilhado fino (AC-4) pode ocorrer em LES, especialmente com anticorpos anti-SSA/Ro ou anti-SSB/La. Não pode ser categoricamente excluído pelo caso clínico. [5–6]"
+        },
+        {
+          "letter": "B",
+          "text": "Nuclear homogêneo",
+          "explanation": "POSSÍVEL COM RESSALVA. O padrão nuclear homogêneo (AC-1) é a associação clássica mais cobrada em provas para LES, especialmente com anticorpos anti-DNA de dupla hélice e anti-nucleossomos. É a opção mais provável como intenção da banca, mas não é obrigatória nem específica. [5–6]"
+        },
+        {
+          "letter": "C",
+          "text": "Nuclear pontilhado fino denso",
+          "explanation": "INCORRETA. O padrão nuclear pontilhado fino denso (AC-2), frequentemente ligado a anti-DFS70, não é o padrão esperado classicamente em lúpus. Sua ocorrência isolada é menos sugestiva de doença autoimune sistêmica; não é impossibilidade absoluta. [5–6]"
+        },
+        {
+          "letter": "D",
+          "text": "Nuclear pontilhado centromérico",
+          "explanation": "INCORRETA. O padrão centromérico (AC-3) é relacionado sobretudo à esclerose sistêmica cutânea limitada, não sendo o achado mais esperado no quadro clínico descrito. [5–6] Ressalva adicional: urina espumosa pode levantar suspeita de proteinúria, mas, sem exame de urina, relação proteína/creatinina, complemento e autoanticorpos específicos, não confirma nefrite lúpica nem permite prever o padrão do FAN. A formulação da questão 3 não estabelece resposta única com segurança. [7]"
+        }
+      ],
+      "page": 1,
+      "id": "rodizio-m1-2013:q3:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "A resposta B é a mais tradicionalmente esperada, mas o quadro clínico não permite prever com certeza o padrão do FAN; o padrão A também é possível. Resposta provável, se for exigida uma única letra: B, com ressalva técnica importante. O conjunto de rash fotossensível em região malar, manifestações articulares, leucopenia, trombocitopenia e possível envolvimento renal sugere lúpus eritematoso sistêmico. Entretanto, não é possível deduzir, a partir dos sintomas, qual padrão de FAN aparecerá no laboratório. O padrão homogêneo (AC-1) é clássico e associado a anti-dsDNA, nucleossomos e histonas; o pontilhado fino (AC-4) também ocorre em lúpus. [5–7]",
+      "answer": "B"
+    },
+    {
+      "number": 4,
+      "numberLabel": "4",
+      "prompt": "Os anti-inflamatórios são um grupo de fármacos que tem em comum o objetivo de controlar a inflamação e promover analgesia. Podem ser classificados em anti- (INCOMPLETO)",
+      "type": "discursive",
+      "options": [],
+      "page": 1,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Sem gabarito possível. No arquivo recebido, o enunciado termina na expressão “Podem ser classificados em anti-” e é seguido da marca “(INCOMPLETO)”. As alternativas não estão disponíveis. Não é tecnicamente correto reconstruir a continuação ou atribuir uma letra. Por essa razão, também não é possível realizar comentários por alternativa. [1] Lipkowitz MS. Regulation of uric acid excretion by the kidney. Curr Rheumatol Rep. 2012;14:179–188. https://pubmed.ncbi.nlm.nih.gov/22359229/ [2] Review: Update on the epidemiology, genetics, and therapeutic options of hyperuricemia. 2020. https://pmc.ncbi.nlm.nih.gov/articles/PMC7407685/ [3] Jinnah HA. HPRT1 Disorders. GeneReviews®, atualização 2020. https://www.ncbi.nlm.nih.gov/books/NBK1149/ [4] American Academy of Orthopaedic Surgeons (AAOS). Carpal Tunnel Syndrome; orientação clínica e território do nervo mediano. https://www.orthoinfo.org/diseases--conditions/carpal-tunnel-syndrome/ [5] International Consensus on ANA Patterns (ICAP). Clinical relevance of HEp-2 immunofluorescent patterns. https://pmc.ncbi.nlm.nih.gov/articles/PMC6585284/ [6] ICAP. ANA patterns: homogeneous, fine speckled, dense fine speckled and centromere (consenso). https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2015.00412/full [7] Aringer M et al. 2019 EULAR/ACR Classification Criteria for Systemic Lupus Erythematosus. https://pmc.ncbi.nlm.n",
+      "id": "rodizio-m1-2013:q4:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "— Anti-inflamatórios"
+    }
+  ],
+  "questionCount": 4
+}

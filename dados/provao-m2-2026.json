@@ -1,0 +1,994 @@
+{
+  "id": "provao-m2-2026",
+  "title": "Provão M2 (2026)",
+  "original": "Provão M2 - A e B - 71",
+  "key_source": "Gabarito comentado do PDF",
+  "questionCount": 30,
+  "questions": [
+    {
+      "number": 1,
+      "prompt": "Menina de 3 anos, com história de 3 episódios de infecção urinária febril no último ano. Realizou ultrassonografia que evidenciou discreta dilatação pielocalicial à direita. Uretrocistografia miccional demonstrou refluxo vesicoureteral grau III à direita. Qual a melhor conduta inicial?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correção cirúrgica imediata (reimplante ureteral)",
+          "explanation": "Incorreta. O refluxo grau III não impõe reimplante ureteral imediato; a decisão depende de infecções de escape, função renal, cicatrizes e disfunção vesicointestinal."
+        },
+        {
+          "letter": "B",
+          "text": "Antibioticoprofilaxia contínua e seguimento clínico",
+          "explanation": "Correta entre as opções. Profilaxia antimicrobiana contínua e acompanhamento são uma estratégia inicial apropriada para RVU grau III sintomático com ITUs febris recorrentes."
+        },
+        {
+          "letter": "C",
+          "text": "Nefrectomia direita",
+          "explanation": "Incorreta. Não há indicação de retirar um rim apenas pela presença de RVU unilateral com discreta dilatação."
+        },
+        {
+          "letter": "D",
+          "text": "Uso de anticolinérgico isolado",
+          "explanation": "Incorreta. Anticolinérgicos isolados não tratam RVU e só têm papel em disfunções vesicais selecionadas."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "1",
+      "answer": "B",
+      "reviewNote": "A profilaxia não é automática para todo RVU: recomendações atuais individualizam seu uso,",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q1:1"
+    },
+    {
+      "number": 2,
+      "prompt": "Menino de 6 anos, com história de ITU febril recorrente e cicatrizes renais à cintilografia com DMSA. UCM revela refluxo vesicoureteral bilateral grau IV. Qual o principal fator que indica intervenção cirúrgica nesse caso?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Idade inferior a 10 anos",
+          "explanation": "Incorreta. Idade abaixo de 10 anos, isoladamente, não determina operação."
+        },
+        {
+          "letter": "B",
+          "text": "Presença de refluxo unilateral",
+          "explanation": "Incorreta. O refluxo descrito é bilateral; sua bilateralidade, especialmente com alto grau, aumenta o risco."
+        },
+        {
+          "letter": "C",
+          "text": "Presença de lesão renal cicatricial associada",
+          "explanation": "Correta como fator decisivo entre os apresentados. Cicatrizes demonstradas por DMSA indicam acometimento parenquimatoso e reforçam a consideração de correção em RVU grau IV recorrente."
+        },
+        {
+          "letter": "D",
+          "text": "Ausência de sintomas urinários baixos",
+          "explanation": "Incorreta. A ausência de sintomas urinários baixos não exclui RVU grave nem afasta risco renal."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "2",
+      "answer": "C",
+      "reviewNote": "Cicatriz não é indicação cirúrgica obrigatória isolada. Grau, infecções febris apesar da profilaxia,",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q2:2"
+    },
+    {
+      "number": 3,
+      "prompt": "Lactente de 8 meses, com testículo não palpável à direita desde o nascimento. Exame físico sem outras alterações. Qual a melhor conduta?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aguardar até 2 anos para intervenção",
+          "explanation": "Incorreta. Esperar até os 2 anos atrasa o tratamento e pode comprometer a função testicular."
+        },
+        {
+          "letter": "B",
+          "text": "Solicitar ultrassonografia antes de qualquer conduta",
+          "explanation": "Incorreta. Ultrassonografia rotineira não é necessária para definir o manejo do testículo não palpável, pois não elimina a necessidade de exploração especializada."
+        },
+        {
+          "letter": "C",
+          "text": "Indicar orquidopexia até 12 meses de idade",
+          "explanation": "Correta. Está indicada avaliação cirúrgica e orquidopexia precoce, idealmente entre 6 e 12 meses e, em geral, até 18 meses de idade."
+        },
+        {
+          "letter": "D",
+          "text": "Iniciar terapia hormonal com hCG",
+          "explanation": "Incorreta. Terapia hormonal com hCG não é recomendada como substituto rotineiro da orquidopexia."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "3",
+      "answer": "C",
+      "reviewNote": "Na criança com testículo não palpável, exame sob anestesia e laparoscopia/exploração podem",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q3:3"
+    },
+    {
+      "number": 4,
+      "prompt": "Paciente de 18 anos, com histórico de criptorquidia unilateral não tratada, apresenta testículo atrófico em posição inguinal. Qual a melhor conduta?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Orquidopexia tardia",
+          "explanation": "Possível em alguns protocolos: a EAU recomenda orquidopexia em testículos palpáveis após a puberdade. Entretanto, atrofia importante favorece discutir orquiectomia, sobretudo com testículo oposto normal."
+        },
+        {
+          "letter": "B",
+          "text": "Acompanhamento clínico apenas",
+          "explanation": "Incorreta. Apenas observar não resolve a exposição a risco neoplásico nem avalia adequadamente o testículo inguinal atrófico."
+        },
+        {
+          "letter": "C",
+          "text": "Orquiectomia",
+          "explanation": "Mais defensável diante de testículo inguinal atrófico no pós-púbere, se contralateral normal: a AUA admite orquiectomia em testículos muito hipoplásicos ou em pacientes pós-púberes."
+        },
+        {
+          "letter": "D",
+          "text": "Terapia hormonal",
+          "explanation": "Incorreta. Hormonioterapia tem pouca utilidade nessa apresentação tardia."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "4",
+      "answer": "C",
+      "reviewNote": "QUESTÃO COM RESSALVA: a EAU 2026 indica, em regra, orquidopexia para testículo palpável e",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q4:4"
+    },
+    {
+      "number": 5,
+      "prompt": "Homem de 68 anos, diabético, com febre (39°C), dor lombar intensa e sinais de sepse. TC de abdome evidencia pielonefrite com presença de gás no parênquima renal. Qual o diagnóstico mais provável?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pielonefrite simples",
+          "explanation": "Incorreta. A presença de gás no parênquima renal indica forma complicada, não pielonefrite simples."
+        },
+        {
+          "letter": "B",
+          "text": "Abscesso renal",
+          "explanation": "Incorreta como diagnóstico mais adequado. Abscesso renal forma coleção purulenta; o achado definidor descrito é gás parenquimatoso."
+        },
+        {
+          "letter": "C",
+          "text": "Pielonefrite enfisematosa",
+          "explanation": "Correta. Infecção renal necrosante, com gás no parênquima à TC e associação frequente com diabetes e sepse, caracteriza pielonefrite enfisematosa."
+        },
+        {
+          "letter": "D",
+          "text": "Pielite aguda",
+          "explanation": "Incorreta. Pielite acomete a pelve renal; não explica adequadamente gás no parênquima."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "5",
+      "answer": "C",
+      "reviewNote": "Trata-se de urgência, com antibióticos intravenosos, suporte à sepse e avaliação de",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q5:5"
+    },
+    {
+      "number": 6,
+      "prompt": "Paciente de 72 anos, portador de HPB, com retenção urinária e uso de sonda vesical de demora, evolui com febre e bacteriúria significativa. Qual a melhor abordagem inicial?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Manter sonda e iniciar antibiótico oral",
+          "explanation": "Incorreta como regra. Manter cateter possivelmente colonizado/biofilme sem reavaliar sua necessidade é inadequado, e via oral pode ser insuficiente conforme gravidade."
+        },
+        {
+          "letter": "B",
+          "text": "Retirar ou trocar a sonda e iniciar antibiótico empírico",
+          "explanation": "Correta. Deve-se retirar a sonda se desnecessária ou trocá-la quando indicado, colher cultura antes de antibiótico e iniciar tratamento empírico ajustado à gravidade."
+        },
+        {
+          "letter": "C",
+          "text": "Apenas observar, pois é colonização",
+          "explanation": "Incorreta. Febre e quadro infeccioso em cateterizado tornam a hipótese de ITU sintomática relevante, em contraste com bacteriúria assintomática."
+        },
+        {
+          "letter": "D",
+          "text": "Indicar cirurgia prostática imediata",
+          "explanation": "Incorreta. Cirurgia prostática imediata não constitui o manejo inicial da infecção aguda."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "6",
+      "answer": "B",
+      "reviewNote": "A troca é especialmente recomendada quando o cateter está há mais de 2 semanas e ainda é",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q6:6"
+    },
+    {
+      "number": 7,
+      "prompt": "O tratamento mais comum para herpes genital é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aciclovir 400 mg 8/8h",
+          "explanation": "Correta. Aciclovir 400 mg por via oral a cada 8 horas por 7 a 10 dias é esquema recomendado para primeiro episódio."
+        },
+        {
+          "letter": "B",
+          "text": "Azitromicina 1 g",
+          "explanation": "Incorreta. Azitromicina é antibiótico, não antiviral para HSV."
+        },
+        {
+          "letter": "C",
+          "text": "Doxiciclina 100 mg",
+          "explanation": "Incorreta. Doxiciclina é antibiótico útil para outras ISTs, não para herpes genital."
+        },
+        {
+          "letter": "D",
+          "text": "Penicilina G",
+          "explanation": "Incorreta. Penicilina G é tratamento para sífilis, sem atividade clínica contra HSV."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "7",
+      "answer": "A",
+      "reviewNote": "A duração e dose variam conforme primeiro episódio, recidiva, supressão crônica, gravidade e",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q7:7"
+    },
+    {
+      "number": 8,
+      "prompt": "O agente etiológico do linfogranuloma venéreo é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Klebsiella granulomatis",
+          "explanation": "Incorreta. Klebsiella granulomatis é agente do donovanose (granuloma inguinal)."
+        },
+        {
+          "letter": "B",
+          "text": "Haemophilus ducreyi",
+          "explanation": "Incorreta. Haemophilus ducreyi causa cancro mole."
+        },
+        {
+          "letter": "C",
+          "text": "Chlamydia trachomatis",
+          "explanation": "Correta. O linfogranuloma venéreo é causado por Chlamydia trachomatis dos sorovares L1, L2 e L3."
+        },
+        {
+          "letter": "D",
+          "text": "Treponema pallidum",
+          "explanation": "Incorreta. Treponema pallidum provoca sífilis."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "8",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q8:8"
+    },
+    {
+      "number": 9,
+      "prompt": "O HPV tipos 6 e 11 estão associados a:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Câncer de colo uterino",
+          "explanation": "Incorreta como associação principal. Câncer cervical relaciona-se sobretudo aos genótipos HPV de alto risco, como 16 e 18."
+        },
+        {
+          "letter": "B",
+          "text": "Verrugas anogenitais",
+          "explanation": "Correta. Tipos 6 e 11 são responsáveis por cerca de 90% das verrugas anogenitais (condilomas acuminados)."
+        },
+        {
+          "letter": "C",
+          "text": "Neurossífilis",
+          "explanation": "Incorreta. Neurossífilis decorre de infecção por Treponema pallidum."
+        },
+        {
+          "letter": "D",
+          "text": "Cancro mole",
+          "explanation": "Incorreta. Cancro mole é causado por Haemophilus ducreyi."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "9",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q9:9"
+    },
+    {
+      "number": 10,
+      "prompt": "O exame em campo escuro detecta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Neisseria gonorrhoeae",
+          "explanation": "Incorreta. Neisseria gonorrhoeae é diplococo Gram-negativo; diagnóstico se faz preferencialmente por testes moleculares e, conforme situação, cultura."
+        },
+        {
+          "letter": "B",
+          "text": "Treponema pallidum",
+          "explanation": "Correta. Microscopia em campo escuro pode demonstrar espiroquetas móveis de Treponema pallidum em exsudato fresco de lesões adequadas."
+        },
+        {
+          "letter": "C",
+          "text": "Haemophilus ducreyi",
+          "explanation": "Incorreta. Haemophilus ducreyi não é identificado pelo método específico clássico para espiroquetas."
+        },
+        {
+          "letter": "D",
+          "text": "HPV",
+          "explanation": "Incorreta. HPV é vírus identificado por métodos moleculares/citopatológicos, não por campo escuro."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "10",
+      "answer": "B",
+      "reviewNote": "O exame de campo escuro tem limitações de disponibilidade e deve evitar material oral devido",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q10:10"
+    },
+    {
+      "number": 11,
+      "prompt": "Um homem de 60 anos chega à clínica queixando-se de dores de cabeça persistentes há quatro semanas. Desde que foi diagnosticado com pressão alta, ele segue uma dieta pobre em sódio e se exercita 30 minutos por dia. É importante observar no histórico médico anterior que sua taxa de filtração glomerular estava no 3º percentil em sua última consulta. Na consulta de hoje, seu Índice de Massa Corporal é 31 e sua pressão arterial é 142/93 mm Hg. Qual o melhor tratamento inicial para a hipertensão?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inibidores da enzima conversora de angiotensina",
+          "explanation": "Melhor resposta presumida. IECA pode controlar a pressão e oferecer benefício renal principalmente quando há albuminúria; requer monitorar creatinina e potássio."
+        },
+        {
+          "letter": "B",
+          "text": "Análogos de purina",
+          "explanation": "Incorreta. Análogos de purina não são anti-hipertensivos e alguns podem ter toxicidade sistêmica."
+        },
+        {
+          "letter": "C",
+          "text": "Anti-inflamatórios não esteroidais",
+          "explanation": "Incorreta. AINEs podem elevar a pressão arterial e deteriorar função renal, não sendo opção terapêutica para hipertensão."
+        },
+        {
+          "letter": "D",
+          "text": "Diuréticos",
+          "explanation": "Plausível em circunstâncias específicas. Diuréticos são anti-hipertensivos adequados, especialmente com retenção de volume, mas faltam dados para considerá-los superiores ao IECA. M2 - 71ª Turma | Gabarito comentado | Anexo ao provão original"
+        }
+      ],
+      "page": 2,
+      "numberLabel": "11",
+      "answer": "A",
+      "reviewNote": "QUESTÃO INSUFICIENTEMENTE ESPECIFICADA: “TFG no 3º percentil” não fornece valor em",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q11:11"
+    },
+    {
+      "number": 12,
+      "prompt": "Para facilitar a micção em paciente com hiperplasia benigna de próstata, qual das seguintes classes de medicamentos é mais adequada?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colinérgicos",
+          "explanation": "Incorreta. Colinérgicos aumentam atividade contrátil vesical, não são tratamento habitual da obstrução prostática."
+        },
+        {
+          "letter": "B",
+          "text": "Anticolinérgicos",
+          "explanation": "Incorreta como melhor opção. Antimuscarínicos podem aliviar urgência/frequência em casos selecionados, com cautela em retenção, mas não reduzem resistência da saída vesical."
+        },
+        {
+          "letter": "C",
+          "text": "Beta-adrenérgicos",
+          "explanation": "Incorreta. Agonistas beta-3 são usados sobretudo para sintomas de armazenamento vesical, não são a principal classe para melhorar esvaziamento obstrutivo."
+        },
+        {
+          "letter": "D",
+          "text": "Alfabloqueadores",
+          "explanation": "Correta. Alfabloqueadores (como tansulosina) relaxam a musculatura lisa do colo vesical e da próstata, melhorando fluxo e sintomas de esvaziamento."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "12",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q12:12"
+    },
+    {
+      "number": 13,
+      "prompt": "Paciente feminina, 70 anos, com quadro de febre alta (39 ºC), calafrios, náuseas e dor lombar direita há 3 dias. Refere também disúria e polaciúria. Ao exame físico, apresenta dor à punho-percussão lombar direita (sinal de Giordano positivo). EAS (urina tipo I): Densidade: 1,018 (VR 1,015-1,025); pH: 6,0 (VR 5,0-7,0); Glicose: negativa; Proteínas: (+); Nitrito: positivo; Esterase leucocitária: positiva. Sedimento urinário: Leucócitos: 200.000/mL (VR < 10.000); Hemácias: 12.000/mL (VR < 5.000); Bactérias: numerosas; Cilindros leucocitários: presentes em vários campos (VR: ausentes). Exames séricos: Leucócitos: 17.000/mm³ (VR 4.000-10.000); PCR: 110 mg/L (VR < 5). Qual a melhor interpretação clínico-laboratorial?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cistite aguda",
+          "explanation": "Incorreta. Cistite isolada costuma causar disúria e urgência sem febre alta, Giordano positivo e comprometimento sistêmico."
+        },
+        {
+          "letter": "B",
+          "text": "Síndrome nefrótica",
+          "explanation": "Incorreta. Síndrome nefrótica caracteriza-se por proteinúria intensa, hipoalbuminemia e edema, ausentes nessa apresentação como síndrome principal."
+        },
+        {
+          "letter": "C",
+          "text": "Pielonefrite aguda",
+          "explanation": "Correta. Febre, calafrios, dor lombar, Giordano positivo, nitrito, piúria, bacteriúria e cilindros leucocitários sustentam pielonefrite aguda."
+        },
+        {
+          "letter": "D",
+          "text": "Exame sem alterações significativas",
+          "explanation": "Incorreta. Há alterações inflamatórias e urinárias relevantes."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "13",
+      "answer": "C",
+      "reviewNote": "Cilindros leucocitários sugerem processo inflamatório renal, mas não são exclusivos de",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q13:13"
+    },
+    {
+      "number": 14,
+      "prompt": "Paciente feminina, 66 anos, com queixa de disúria, polaciúria e urgência urinária há 3 dias. Nega febre e dor lombar. EAS (urina tipo I): Densidade: 1,020 (VR 1,015-1,025); pH: 6,0 (VR 5,0-7,0); Glicose: negativa; Proteínas: traços; Nitrito: positivo (VR negativo); Esterase leucocitária: positiva. Sedimento urinário: Leucócitos: 80.000/mL (VR < 10.000); Hemácias: 5.000/mL (VR < 5.000); Bactérias: numerosas; Cilindros: ausentes. Urocultura: Crescimento bacteriano: 10⁵ UFC/mL (VR < 10³). Qual a melhor interpretação clínico-laboratorial (Escolha a melhor alternativa)?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contaminação da amostra urinária",
+          "explanation": "Incorreta. Disúria, polaciúria e urgência associadas a piúria, nitrito e cultura monomicrobiana significativa favorecem infecção verdadeira."
+        },
+        {
+          "letter": "B",
+          "text": "Infecção urinária bacteriana alta (pielonefrite)",
+          "explanation": "Incorreta. Sem febre, dor lombar ou sinais sistêmicos, não há quadro típico de pielonefrite."
+        },
+        {
+          "letter": "C",
+          "text": "Infecção viral do trato urinário",
+          "explanation": "Incorreta. Nitrito positivo e urocultura bacteriana favorecem etiologia bacteriana, não viral."
+        },
+        {
+          "letter": "D",
+          "text": "Infecção urinária bacteriana baixa (cistite)",
+          "explanation": "Correta. Sintomas do trato urinário baixo associados à bacteriúria e leucocitúria definem quadro de cistite bacteriana."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "14",
+      "answer": "D",
+      "reviewNote": "O corte de 10⁵ UFC/mL não é necessário em toda mulher sintomática; limiares menores também",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q14:14"
+    },
+    {
+      "number": 15,
+      "prompt": "Assinale a alternativa que melhor correlacione a glomerulopatia com sua descrição histológica e causa secundária associada:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Glomerulonefrite membranosa - presença de espículas na coloração pela prata - nefrite lúpica classe V",
+          "explanation": "Correta. Nefropatia membranosa pode apresentar “espículas” na impregnação pela prata; nefrite lúpica classe V é uma causa de padrão membranoso secundário."
+        },
+        {
+          "letter": "B",
+          "text": "Glomeruloesclerose segmentar e focal - duplicação da membrana basal - linfoma",
+          "explanation": "Incorreta. Duplicação da membrana basal é sugestiva de padrão membranoproliferativo, não achado clássico de glomeruloesclerose segmentar e focal."
+        },
+        {
+          "letter": "C",
+          "text": "Doença por lesão mínima - proliferação endocapilar - mieloma múltiplo",
+          "explanation": "Incorreta. Doença por lesões mínimas tem microscopia óptica habitualmente pouco alterada e apagamento podocitário na eletrônica; não proliferação endocapilar."
+        },
+        {
+          "letter": "D",
+          "text": "Nefropatia por IgA - espessamento da membrana basal - uso de anti-inflamatório",
+          "explanation": "Incorreta. Nefropatia por IgA apresenta depósitos mesangiais dominantes de IgA, não apenas espessamento da MB; AINEs se associam a outras lesões renais."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "15",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q15:15"
+    },
+    {
+      "number": 16,
+      "prompt": "A síndrome nefrítica se caracteriza por ter como mecanismo deflagrador da glomerulonefrite:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Perda da carga elétrica da membrana basal glomerular",
+          "explanation": "Incorreta. Alterações da seletividade de carga da barreira glomerular são tradicionalmente relacionadas a proteinúria."
+        },
+        {
+          "letter": "B",
+          "text": "Alteração podocitária com perda de macroproteínas",
+          "explanation": "Incorreta. Lesão podocitária intensa com proteinúria maciça se relaciona mais à síndrome nefrótica."
+        },
+        {
+          "letter": "C",
+          "text": "Proliferação endocapilar e perda da área de filtração glomerular",
+          "explanation": "Correta como descrição fisiopatológica clássica. Inflamação/proliferação endocapilar reduz a superfície efetiva de filtração e pode causar oligúria, hipertensão e hematúria."
+        },
+        {
+          "letter": "D",
+          "text": "Fibrose intersticial",
+          "explanation": "Incorreta. Fibrose intersticial caracteriza lesão crônica e não é mecanismo geral desencadeador de glomerulonefrite nefrítica."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "16",
+      "answer": "C",
+      "reviewNote": "Nem toda síndrome nefrítica exige proliferação endocapilar no exame histológico; a alternativa",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q16:16"
+    },
+    {
+      "number": 17,
+      "prompt": "Na glomerulonefrite rapidamente progressiva, crescêntica, marque a alternativa que correlacione o tipo de glomerulonefrite crescêntica, achados na imunofluorescência da biópsia renal e doenças associadas:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tipo III - imunofluorescência com depósitos de imunoglobulinas padrão linear - Glomerulonefrite pauci- imune",
+          "explanation": "Incorreta. Tipo III é pauci-imune, com poucos ou nenhum depósito na imunofluorescência; padrão linear é do tipo I."
+        },
+        {
+          "letter": "B",
+          "text": "Tipo II - imunofluorescência com depósitos de imunoglobulinas padrão granular - nefrite lúpica (mediada por imunocomplexos)",
+          "explanation": "Correta. Tipo II decorre de imunocomplexos, com padrão granular, podendo ocorrer na nefrite lúpica."
+        },
+        {
+          "letter": "C",
+          "text": "Tipo I - imunofluorescência com ausência de depósitos de imunoglobulinas - vasculite anca associada",
+          "explanation": "Incorreta. Tipo I apresenta anticorpos anti-membrana basal glomerular em padrão linear; vasculite ANCA é mais frequentemente tipo III."
+        },
+        {
+          "letter": "D",
+          "text": "Tipo IV - imunofluorescência com depósitos de imunoglobulinas padrão linear - síndrome de Churg Strauss",
+          "explanation": "Incorreta. “Tipo IV” pode representar dupla positividade ANCA/anti-MBG, e Churg-Strauss (EGPA) é vasculite associada a ANCA/pauci-imune quando envolve rim."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "17",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q17:17"
+    },
+    {
+      "number": 18,
+      "prompt": "Paciente jovem, 19 anos, sexo masculino, raça negra, apresenta quadro de urina espumosa, ganho de peso de 9 Kg em 2 semanas, proteinúria de 24 horas de 5,4 g/24 horas, albumina de 2,1 dl, colesterol de 298 mg/dL, EAS com proteinúria 4+, hematúria microscópica, leucocitúria estéril, função renal normal e PA discretamente elevada. Diante destas características clínicas e laboratoriais, o diagnóstico presuntivo é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Síndrome nefrótica, glomeruloesclerose segmentar e focal (GESF)",
+          "explanation": "Correta como hipótese presuntiva. Proteinúria 5,4 g/dia, albumina 2,1 (provavelmente g/dL), edema e hiperlipidemia definem síndrome nefrótica; etnia referida, hematúria e PA elevada favorecem GESF."
+        },
+        {
+          "letter": "B",
+          "text": "Síndrome nefrótica, lesões mínimas",
+          "explanation": "Menos provável. Lesões mínimas causam síndrome nefrótica, mas a hematúria/hipertensão e o contexto tornam GESF uma hipótese mais forte; não há exclusão definitiva."
+        },
+        {
+          "letter": "C",
+          "text": "Síndrome nefrítica, vasculite pauci-imune",
+          "explanation": "Incorreta. Vasculite pauci-imune costuma causar síndrome nefrítica com declínio de função renal, hematúria glomerular e cilindros hemáticos."
+        },
+        {
+          "letter": "D",
+          "text": "Síndrome nefrítica, glomerulonefrite pós infecciosa",
+          "explanation": "Incorreta. Glomerulonefrite pós-infecciosa cursa classicamente com padrão nefrítico, não síndrome nefrótica isolada."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "18",
+      "answer": "A",
+      "reviewNote": "Não é possível distinguir GESF de doença por lesões mínimas com certeza apenas pelos dados:",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q18:18"
+    },
+    {
+      "number": 19,
+      "prompt": "Na ultrassonografia, qual é a característica típica de um cálculo renal?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Massa sólida com bordas irregulares",
+          "explanation": "Incorreta. Massa irregular sólida orienta mais para neoplasia ou outra lesão sólida do que cálculo típico."
+        },
+        {
+          "letter": "B",
+          "text": "Imagem anecoica com bordas finas e regulares",
+          "explanation": "Incorreta. Imagem anecoica com parede fina e regular sugere cisto simples."
+        },
+        {
+          "letter": "C",
+          "text": "Imagem hiperecogênica com sombra acústica posterior",
+          "explanation": "Correta. Cálculos aparecem como foco hiperecogênico, frequentemente com sombra acústica posterior."
+        },
+        {
+          "letter": "D",
+          "text": "Massa heterogênea com septos internos",
+          "explanation": "Incorreta. Massa heterogênea septada faz pensar em lesão complexa, não cálculo isolado."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "19",
+      "answer": "C",
+      "reviewNote": "Pequenos cálculos podem não produzir sombra nítida, e o artefato de cintilação (twinkling) ao",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q19:19"
+    },
+    {
+      "number": 20,
+      "prompt": "Qual dessas é a principal causa de Injúria Renal Aguda renal?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nefrite túbulo-intersticial",
+          "explanation": "Incorreta como causa mais frequente. Nefrite túbulo-intersticial aguda é reconhecida, frequentemente associada a fármacos, mas é menos comum."
+        },
+        {
+          "letter": "B",
+          "text": "Necrose cortical",
+          "explanation": "Incorreta. Necrose cortical é forma grave e rara de lesão renal isquêmica. M2 - 71ª Turma | Gabarito comentado | Anexo ao provão original"
+        },
+        {
+          "letter": "C",
+          "text": "Necrose tubular aguda",
+          "explanation": "Correta. Necrose/lesão tubular aguda isquêmica ou nefrotóxica é a causa mais comum de IRA intrínseca (renal)."
+        },
+        {
+          "letter": "D",
+          "text": "Glomerulonefrite rapidamente progressiva",
+          "explanation": "Incorreta. Glomerulonefrite rapidamente progressiva é causa importante e urgente, mas menos frequente."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "20",
+      "answer": "C",
+      "reviewNote": "A causa global de IRA pode ser pré-renal em muitos contextos; a palavra “renal” no enunciado é",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q20:20"
+    },
+    {
+      "number": 21,
+      "prompt": "Na injúria renal aguda, a doença renal aguda corresponde a qual período?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sete primeiros dias.",
+          "explanation": "Incorreta como definição completa. Os primeiros sete dias correspondem à janela de IRA; doença renal aguda engloba alterações em período inferior a 90 dias."
+        },
+        {
+          "letter": "B",
+          "text": "Período menor que 90 dias.",
+          "explanation": "Correta entre as opções. DRA/AKD refere-se a anormalidade renal aguda ou subaguda com duração menor que três meses."
+        },
+        {
+          "letter": "C",
+          "text": "Depois dos primeiros 90 dias.",
+          "explanation": "Incorreta. Anormalidades persistentes por pelo menos três meses podem atender à definição de DRC."
+        },
+        {
+          "letter": "D",
+          "text": "Todas as respostas anteriores.",
+          "explanation": "Incorreta. Não podem estar corretos simultaneamente intervalos mutuamente incompatíveis."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "21",
+      "answer": "B",
+      "reviewNote": "Ressalva terminológica: no modelo temporal pós-IRA da ADQI, AKD frequentemente descreve a",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q21:21"
+    },
+    {
+      "number": 22,
+      "prompt": "Qual desses pacientes tem menor risco para injúria renal aguda?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Em uso de diurético",
+          "explanation": "Incorreta como menor risco. Diuréticos podem contribuir para depleção volêmica ou agravar hipoperfusão em certas condições."
+        },
+        {
+          "letter": "B",
+          "text": "Idoso",
+          "explanation": "Incorreta. Idade avançada aumenta suscetibilidade por comorbidades e reserva renal reduzida."
+        },
+        {
+          "letter": "C",
+          "text": "Diabético",
+          "explanation": "Incorreta. Diabetes está associado a doença renal e maior risco de IRA."
+        },
+        {
+          "letter": "D",
+          "text": "Asmático",
+          "explanation": "Correta como escolha relativa. Asma, por si só, não é fator clássico de risco renal comparável aos demais."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "22",
+      "answer": "D",
+      "reviewNote": "O risco verdadeiro é individual e depende de condições associadas, hemodinâmica,",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q22:22"
+    },
+    {
+      "number": 23,
+      "prompt": "A doença renal policística autossômica dominante tipo 1",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocorre por mutação no gene PKD2",
+          "explanation": "Incorreta. PKD2 está ligado ao fenótipo tipo 2, não ao tipo 1."
+        },
+        {
+          "letter": "B",
+          "text": "Ocorre por mutação no cromossomo 4",
+          "explanation": "Incorreta. PKD2 localiza-se no cromossomo 4; PKD1, no cromossomo 16."
+        },
+        {
+          "letter": "C",
+          "text": "Tem o fenótipo pior que o tipo 2.",
+          "explanation": "Correta como tendência populacional. A doença relacionada a PKD1 costuma evoluir mais precocemente e com maior gravidade do que PKD2."
+        },
+        {
+          "letter": "D",
+          "text": "Acomete mais mulheres que homens.",
+          "explanation": "Incorreta. A herança autossômica dominante afeta ambos os sexos, sem predominância feminina obrigatória."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "23",
+      "answer": "C",
+      "reviewNote": "Trata-se de tendência: gravidade depende da variante e de fatores modificadores; há",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q23:23"
+    },
+    {
+      "number": 24,
+      "prompt": "Na hiponatremia dilucional:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O sódio está baixo por perda de sódio na urina",
+          "explanation": "Incorreta como explicação típica. Perda renal de sódio produz hiponatremia por depleção de sódio, não por excesso relativo de água livre."
+        },
+        {
+          "letter": "B",
+          "text": "Um exemplo é a doença renal crônica",
+          "explanation": "Correta como exemplo possível. DRC avançada pode limitar a excreção de água livre, favorecendo retenção hídrica e diluição do sódio."
+        },
+        {
+          "letter": "C",
+          "text": "O sódio está baixo por redistribuição da água para o terceiro espaço",
+          "explanation": "Incorreta. Terceiro espaço produz distribuição anômala de líquidos e hipovolemia efetiva, mas não define, isoladamente, a fisiopatologia típica de hiponatremia dilucional. M2 - 71ª Turma | Gabarito comentado | Anexo ao provão original"
+        },
+        {
+          "letter": "D",
+          "text": "O melhor tratamento é o uso de tiazídicos.",
+          "explanation": "Incorreta. Tiazídicos são causa conhecida de hiponatremia e não são tratamento universal da hiponatremia dilucional."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "24",
+      "answer": "B",
+      "reviewNote": "Nem toda DRC produz hiponatremia; são necessários contexto de ingestão hídrica, capacidade",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q24:24"
+    },
+    {
+      "number": 25,
+      "prompt": "David Giordano descreveu um sinal na Itália, mas que na Polônia é chamado de sinal de Goldflam, no leste europeu é chamado de sinal de Pastemacki, onde foi relatado pelo clínico Fiodor Ignatjevich Pastemacki, da Bielorrússia. O primeiro a descrever este sinal, porém, foi Jonh Benjamin Murphy em 1884, dando o nome de sensibilidade do ângulo costovertebral. Esse sinal pode sugerir:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pielonefrite",
+          "explanation": "Correta como possibilidade. Pielonefrite pode causar dor à punho-percussão lombar."
+        },
+        {
+          "letter": "B",
+          "text": "Urolitíase",
+          "explanation": "Correta como possibilidade. Urolitíase, especialmente obstrutiva, pode produzir dor no ângulo costovertebral."
+        },
+        {
+          "letter": "C",
+          "text": "Abscesso renal",
+          "explanation": "Correta como possibilidade. Abscesso renal pode provocar sensibilidade lombar importante."
+        },
+        {
+          "letter": "D",
+          "text": "Todas as anteriores.",
+          "explanation": "Correta como resposta agregadora. Todos os três diagnósticos anteriores podem cursar com sinal de Giordano positivo."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "25",
+      "answer": "D",
+      "reviewNote": "O sinal é inespecífico: não diferencia, sozinho, infecção renal, obstrução por cálculo ou outras",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q25:25"
+    },
+    {
+      "number": 26,
+      "prompt": "Qual desses testes é o recomendado a ser usado pela Sociedade Internacional de Nefrologia para estimar a Taxa de Filtração Glomerular em adultos, a partir da creatinina sérica?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cockoft-Gault",
+          "explanation": "Incorreta como equação preferida para classificar TFG. Cockcroft-Gault estima depuração de creatinina, ainda útil em ajustes de doses de determinados fármacos."
+        },
+        {
+          "letter": "B",
+          "text": "CKD-EPI 2021",
+          "explanation": "Correta. CKD-EPI 2021 baseada em creatinina, sem coeficiente racial, é equação validada e amplamente recomendada para estimar TFG em adultos."
+        },
+        {
+          "letter": "C",
+          "text": "Salazar-Corcoran",
+          "explanation": "Incorreta. Salazar-Corcoran é fórmula mais antiga, proposta para estimativa de depuração em obesidade, não padrão de eTFG."
+        },
+        {
+          "letter": "D",
+          "text": "MDRD",
+          "explanation": "Incorreta como primeira escolha atual. MDRD é fórmula histórica com desempenho inferior ao CKD-EPI em diversos intervalos de TFG."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "26",
+      "answer": "B",
+      "reviewNote": "Quando disponível e decisiva para conduta, a combinação creatinina + cistatina C melhora a",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q26:26"
+    },
+    {
+      "number": 27,
+      "prompt": "Na nefropatia diabética qual dos achados histológicos é mais comum:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Espessamento difuso da membrana basal glomerular com focos de desdobramento.",
+          "explanation": "Parcialmente correta no espessamento difuso da MBG, alteração frequente e precoce; porém “focos de desdobramento” não é uma característica definidora e sugere outros padrões, como membranoproliferativo."
+        },
+        {
+          "letter": "B",
+          "text": "Padrão de Glomerulonefrite Proliferativa com necrose",
+          "explanation": "Incorreta. Proliferação com necrose é padrão inflamatório de glomerulonefrite, não alteração típica da nefropatia diabética."
+        },
+        {
+          "letter": "C",
+          "text": "Espessamento mesangial positivo para Vermelho Congo",
+          "explanation": "Incorreta. Vermelho Congo positivo sugere depósito de amiloide, não simples expansão mesangial diabética."
+        },
+        {
+          "letter": "D",
+          "text": "Presença de nódulos hialinos mesangiais (glomeruloesclerose nodular)",
+          "explanation": "Correta como achado CARACTERÍSTICO: nódulos mesangiais de Kimmelstiel-Wilson definem glomeruloesclerose nodular diabética."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "27",
+      "answer": "D",
+      "reviewNote": "QUESTÃO COM IMPRECISÃO: o enunciado pede o achado “mais comum”. Espessamento da MBG",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q27:27"
+    },
+    {
+      "number": 28,
+      "prompt": "Marque a alternativa certa quanto ao diabetes e o rim:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Na nefropatia diabética a microalbuminúria está acima de 300mcg/mg de creatinina.",
+          "explanation": "Incorreta. O termo tradicional microalbuminúria corresponde a albuminúria moderadamente aumentada (UACR 30–300 mg/g); acima de 300 caracteriza A3. M2 - 71ª Turma | Gabarito comentado | Anexo ao provão original"
+        },
+        {
+          "letter": "B",
+          "text": "Na doença renal do diabetes se a taxa de filtração glomerular estiver acima de 100ml/min/1,73m2SC, esse diagnóstico não é confirmado.",
+          "explanation": "Incorreta. Hiperfiltração ou TFG preservada/elevada não exclui lesão renal diabética; pode haver albuminúria e alterações precoces."
+        },
+        {
+          "letter": "C",
+          "text": "Na glomerulopatia diabética ocorre a hialinose de arteríolas aferentes, poupando as arteríolas eferentes.",
+          "explanation": "Incorreta. Na nefropatia diabética, podem ocorrer hialinose das arteríolas aferentes E eferentes, esta última particularmente sugestiva."
+        },
+        {
+          "letter": "D",
+          "text": "O último estágio da doença renal do diabetes é atingido pela minoria dos diabéticos.",
+          "explanation": "Correta em termos epidemiológicos. Apenas uma parcela dos diabéticos evolui para estágio terminal de insuficiência renal."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "28",
+      "answer": "D",
+      "reviewNote": "O diagnóstico atual de DRC diabética não depende exclusivamente de albuminúria; confirmar",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q28:28"
+    },
+    {
+      "number": 29,
+      "prompt": "Um paciente diabético com TFG = 38ml/min/1,73m2SC e microalbuminúria de 350mcg/mgCr está em qual classificação da DRC?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "G5A3",
+          "explanation": "Incorreta. G5 significa TFG inferior a 15, não 38 mL/min/1,73 m²."
+        },
+        {
+          "letter": "B",
+          "text": "G4A2",
+          "explanation": "Incorreta. G4 exige TFG de 15–29 e A2 ACR de 30–300 mg/g; ambos incompatíveis."
+        },
+        {
+          "letter": "C",
+          "text": "G3bA3",
+          "explanation": "Correta. TFG 38 classifica G3b (30–44); ACR 350 mcg/mg equivale numericamente a 350 mg/g, categoria A3 (>300)."
+        },
+        {
+          "letter": "D",
+          "text": "G3aA2",
+          "explanation": "Incorreta. G3a é TFG 45–59 e A2 vai até 300 mg/g; nenhuma corresponde aos dados."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "29",
+      "answer": "C",
+      "reviewNote": "DRC exige persistência por pelo menos 3 meses (ou evidência inequívoca de cronicidade).",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q29:29"
+    },
+    {
+      "number": 30,
+      "prompt": "Na síndrome de Alport a herança genética pode ser:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Autossômica recessiva",
+          "explanation": "Verdadeira. Alterações bialélicas em COL4A3 ou COL4A4 causam síndrome de Alport autossômica recessiva."
+        },
+        {
+          "letter": "B",
+          "text": "Autossômica dominante",
+          "explanation": "Verdadeira. Variantes heterozigóticas em COL4A3 ou COL4A4 podem causar doença autossômica dominante."
+        },
+        {
+          "letter": "C",
+          "text": "Ligada ao X",
+          "explanation": "Verdadeira. Variantes em COL4A5 causam síndrome de Alport ligada ao cromossomo X."
+        },
+        {
+          "letter": "D",
+          "text": "Todas as respostas anteriores.",
+          "explanation": "Correta. Todas as três modalidades citadas estão documentadas na genética da síndrome de Alport."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "30",
+      "answer": "D",
+      "reviewNote": "Há ainda formas digênicas descritas na literatura; a existência dessas formas não altera a",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2026:q30:30"
+    }
+  ]
+}

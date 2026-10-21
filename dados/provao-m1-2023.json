@@ -1,0 +1,1595 @@
+{
+  "id": "provao-m1-2023",
+  "title": "Provão M1 (2023)",
+  "original": "PROVÃO M1 TURMA EF 68",
+  "key_source": "Gabarito comentado do PDF",
+  "questions": [
+    {
+      "number": 1,
+      "numberLabel": "M1 · 1",
+      "prompt": "Considerando o laboratório na análise das causas mais frequentes de anemias no idoso, analise as afirmações abaixo e depois escolha a sequência de afirmações corretas (verdadeiras). I- O exame com melhor relação custo/benefício e maior poder de discriminação entre a Anemia Ferropriva, e a Anemia da doença crônica, ambas frequentes, é a dosagem de Ferro. II- O exame com melhor relação custo/benefício e maior poder de discriminação entre a Anemia Ferropriva, e a Anemia da doença crônica, ambas frequentes, é a dosagem de Ferritina. III- A Contagem de Reticulócitos é muito útil na diferenciação da Anemia Ferropriva da Anemia Megaloblástica, também importante causa de anemia no idoso. IV- A pesquisa de sangue oculto nas fezes deve ser solicitada quando estivermos diante de uma anemia microcítica e hipocrômica, com anisocitose, no idoso. A alternativa com as afirmações corretas (verdadeiras) é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I e IV",
+          "explanation": "Incorreta: ferro sérico oscila com inflamação e horário e não é o melhor teste isolado para diferenciar deficiências."
+        },
+        {
+          "letter": "B",
+          "text": "II e IV",
+          "explanation": "Mais adequada entre as opções: II é verdadeira. IV é aceitável como triagem histórica, mas pesquisa de sangue oculto não substitui endoscopia indicada."
+        },
+        {
+          "letter": "C",
+          "text": "I, III e IV",
+          "explanation": "Incorreta: I é falsa; a reticulocitometria mede resposta medular, não separa com confiança anemia ferropriva de megaloblástica isoladamente."
+        },
+        {
+          "letter": "D",
+          "text": "II, III e IV",
+          "explanation": "Incorreta: III não é critério discriminatório isolado e deve ser integrada ao VCM, esfregaço, B12 e folato. Ressalva: A redação IV (“deve ser solicitada”) é excessiva: a avaliação etiológica não deve depender de sangue oculto nas fezes. Se tomada como obrigação universal, nenhuma opção é rigorosamente correta."
+        }
+      ],
+      "page": 1,
+      "id": "provao-m1-2023:m1-q1:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Ferritina é o marcador isolado mais útil do estoque de ferro; investigação de anemia ferropriva em idosos também deve buscar perda gastrointestinal.",
+      "answer": "B"
+    },
+    {
+      "number": 2,
+      "numberLabel": "M1 · 2",
+      "prompt": "Correlacione as colunas, associando os métodos laboratoriais abaixo às questões correspondentes (Prova de Título de Especialista em Reumatologia 2005 68 Rev Bras Reumatol, v. 46, n. 1, p. 61-68, jan/fev, 2006, com adaptações) a) Imunofluorescência direta b) Imunofluorescência indireta c) ELISA d) Western blot e) Imunodifusão radial ( ) Soro do paciente contém anticorpos contra antígenos do núcleo de células em esfregaço de lâmina. Reação é lida no microscópio de fluorescência, após a adição de anti-anticorpo marcado com fluoresceína. ( ) Soro do paciente é submetido a dosagem de C3 (ou pesquisa de anti-Ro, anti-La, anti Sd 70, por exemplo). O soro é colocado em placa de gel que contém anticorpos anti-C3 (ou anti-Ro, anti-La, anti Sd 70, por exemplo). Halo concêntrico se forma. ( ) Antígenos do DNA são separados do soro do paciente após corrente elétrica. A adição de anticorpos gera bandas específicas que podem ser radiografadas ou reveladas com corante. ( ) Espécime de biópsia de pele ou renal é submetido à pesquisa de IgG na junção dermo-epidérmica ou nos glomérulos e membrana. Uma anti-IgG marcada com fluoresceína é adicionada ao tecido. ( ) Soro do paciente é testado para anticorpos antiHbsAg. O soro é colocado em placas sólidas contendo HbsAg. Anti-anticorpos marcados com peroxidase são adicionados. A reação é lida em fotômetro após adição de cromogêneo. A sequência correta é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a-d-e-b-c",
+          "explanation": "Incorreta: a primeira descrição usa anticorpos séricos sobre substrato, portanto não é fluorescência direta."
+        },
+        {
+          "letter": "B",
+          "text": "a-e-d-b-c",
+          "explanation": "Incorreta: a primeira e a quarta descrições foram trocadas."
+        },
+        {
+          "letter": "C",
+          "text": "b-e-d-a-c",
+          "explanation": "Correta: b-e-d-a-c corresponde, respectivamente, a leitura em lâmina, halo de precipitação, bandas eletroforéticas, pesquisa em tecido e reação enzimática."
+        },
+        {
+          "letter": "D",
+          "text": "b-e-c-a-d",
+          "explanation": "Incorreta: o terceiro método é immunoblot/Western blot, não ELISA. Ressalva: Há imprecisões nos exemplos de analitos na descrição da imunodifusão; o mecanismo físico descrito, contudo, identifica a técnica."
+        }
+      ],
+      "page": 1,
+      "id": "provao-m1-2023:m1-q2:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Sequência: imunofluorescência indireta (b) – imunodifusão radial (e) – Western blot (d) – imunofluorescência direta (a) – ELISA (c).",
+      "answer": "C"
+    },
+    {
+      "number": 3,
+      "numberLabel": "M1 · 3",
+      "prompt": "Correlacione adequadamente as colunas, cada anticorpo com a doença em que ele mais frequentemente está positivo: 1. Anti-histonas 2. c-ANCA 3. Anti-RNP 4. Anti-DNA nativo 5. Anti-SSA/Ro ( ) Doença Mista do Tecido Conjuntivo ( ) Nefrite Lúpica ( ) LES induzido por drogas ( ) Granulomatose com Poliangeite - ex Granulomatose de Wegener ( ) Síndrome de Sjögren A sequência correta está em:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1,2,3,4,5",
+          "explanation": "Incorreta: associa anti-histonas com doença mista, trocando o par específico anti-RNP."
+        },
+        {
+          "letter": "B",
+          "text": "1,5,4,2,3",
+          "explanation": "Incorreta: o segundo item não corresponde a c-ANCA, mas ao anti-dsDNA."
+        },
+        {
+          "letter": "C",
+          "text": "3,4,1,2,5",
+          "explanation": "Correta: a sequência 3-4-1-2-5 reproduz as associações esperadas."
+        },
+        {
+          "letter": "D",
+          "text": "5,1,2,4,3",
+          "explanation": "Incorreta: inicia com anti-SSA/Ro para doença mista, quando o marcador clássico é anti-RNP."
+        }
+      ],
+      "page": 2,
+      "id": "provao-m1-2023:m1-q3:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Anti-RNP → doença mista do tecido conjuntivo; anti-dsDNA → nefrite lúpica; anti-histona → lúpus induzido por fármacos; c-ANCA/PR3 → granulomatose com poliangeíte; anti-SSA/Ro → Sjögren.",
+      "answer": "C"
+    },
+    {
+      "number": 4,
+      "numberLabel": "M1 · 4",
+      "prompt": "Estreitamento difuso do espaço articular, erosões marginais, cistos subcondrais, osteopenia e edema de tecidos moles periarticulares são achados de imagem característicos de:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Osteoartrite;",
+          "explanation": "Incorreta: osteoartrite tipicamente produz osteófitos e esclerose subcondral, com estreitamento frequentemente assimétrico."
+        },
+        {
+          "letter": "B",
+          "text": "Pioartrite;",
+          "explanation": "Incorreta como padrão principal: artrite séptica pode destruir rapidamente a articulação, mas exige contexto agudo e infectológico."
+        },
+        {
+          "letter": "C",
+          "text": "Artropatia Inflamatória;",
+          "explanation": "Correta: é o grupo que melhor reúne osteopenia justa-articular e erosões marginais."
+        },
+        {
+          "letter": "D",
+          "text": "Gota.",
+          "explanation": "Incorreta: gota crônica costuma produzir erosões “em saca-bocado” e preservação relativa do espaço articular no início."
+        }
+      ],
+      "page": 2,
+      "id": "provao-m1-2023:m1-q4:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Estreitamento relativamente uniforme, osteopenia periarticular, erosões marginais e edema de tecidos moles sugerem artropatia inflamatória, particularmente artrite reumatoide.",
+      "answer": "C"
+    },
+    {
+      "number": 5,
+      "numberLabel": "M1 · 5",
+      "prompt": "São características do estudo radiográfico, EXCETO:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Método multiplanar;",
+          "explanation": "Correta como EXCETO: ser inerentemente multiplanar não caracteriza uma radiografia convencional."
+        },
+        {
+          "letter": "B",
+          "text": "Utiliza radiação ionizante;",
+          "explanation": "Verdadeira: utiliza radiação ionizante; por isso não satisfaz o EXCETO."
+        },
+        {
+          "letter": "C",
+          "text": "Deve ser realizado preferencialmente em pelo menos duas incidências;",
+          "explanation": "Verdadeira: geralmente se obtêm ao menos duas projeções ortogonais."
+        },
+        {
+          "letter": "D",
+          "text": "Acessível.",
+          "explanation": "Verdadeira: é exame amplamente disponível e de custo relativamente baixo."
+        }
+      ],
+      "page": 2,
+      "id": "provao-m1-2023:m1-q5:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Gabarito técnico - PROVÃO M1 TURMA EF 68 Apêndice • 2 Radiografia convencional é projeção bidimensional; tomografia e ressonância fornecem cortes multiplanares.",
+      "answer": "A"
+    },
+    {
+      "number": 6,
+      "numberLabel": "M1 · 6",
+      "prompt": "Quais os métodos de imagem mais utilizados atualmente no estudo das afecções osteoarticulares?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radiografia, Bursografia, Cintilografia Óssea e Ressonância Magnética;",
+          "explanation": "Incorreta: bursografia não integra rotineiramente os principais métodos de primeira linha."
+        },
+        {
+          "letter": "B",
+          "text": "Ultrassonografia, Tomografia Computadorizada, Ressonância Magnética e Discografia;",
+          "explanation": "Incorreta: discografia é invasiva e de indicação seletiva, não modalidade rotineira."
+        },
+        {
+          "letter": "C",
+          "text": "Tomografia Computadorizada, Mielografia, Radiografia e Ressonância Magnética;",
+          "explanation": "Incorreta: mielografia não é exame habitualmente usado como principal modalidade nesse cenário."
+        },
+        {
+          "letter": "D",
+          "text": "Radiografia, Ultrassonografia, Tomografia computadorizada e Ressonância Magnética.",
+          "explanation": "Correta: reúne os quatro métodos amplamente disponíveis na avaliação osteoarticular."
+        }
+      ],
+      "page": 2,
+      "id": "provao-m1-2023:m1-q6:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Radiografia, ultrassom, TC e ressonância magnética são métodos usuais para avaliar estruturas osteoarticulares.",
+      "answer": "D"
+    },
+    {
+      "number": 7,
+      "numberLabel": "M1 · 7",
+      "prompt": "Uma paciente de 50 anos há 8 meses vem evoluindo com dor e edema nas articulações das mãos e pés. Refere intensa rigidez matinal de mais de 1 hora, mas nega fenômeno de Raynaud, lesões cutâneas ou aftas orais bem como outras comorbidades exceto pelo tabagismo pesado. Exame físico dos sistemas sem alterações. Exame articular apresenta dor e edema nas interfalangeanas proximais das mãos, metacarpofalangeanas bilaterais, punhos, joelhos e tornozelos. A radiografia das mãos mostra erosão óssea justa articular e o fator reumatoide em títulos altos. Em relação ao caso é correto afirmar:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A droga de escolha é a hidroxicloroquina",
+          "explanation": "Incorreta para este quadro erosivo e de pior prognóstico: hidroxicloroquina isolada não é a escolha preferencial."
+        },
+        {
+          "letter": "B",
+          "text": "Deve ser iniciado o sulfato de glicosamina",
+          "explanation": "Incorreta: glicosamina não trata a inflamação autoimune e não previne erosões de AR."
+        },
+        {
+          "letter": "C",
+          "text": "Pode iniciar corticoide na dose antiinflamatória",
+          "explanation": "Correta apenas como possibilidade temporária para alívio dos sintomas, enquanto se institui DMARD."
+        },
+        {
+          "letter": "D",
+          "text": "A pregabalina deve ser iniciada após a crise",
+          "explanation": "Incorreta: pregabalina não trata sinovite nem reduz progressão estrutural. Ressalva: A alternativa C é a única defensável, mas omite tratamento modificador da doença, essencial em paciente com erosões."
+        }
+      ],
+      "page": 3,
+      "id": "provao-m1-2023:m1-q7:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "O quadro sugere artrite reumatoide com erosões e soropositividade, que requer DMARD, usualmente metotrexato como fármaco de base. Corticoide pode ser ponte breve, não terapia modificadora definitiva.",
+      "answer": "C"
+    },
+    {
+      "number": 8,
+      "numberLabel": "M1 · 8",
+      "prompt": "Sobre a gota, assinale a alternativa correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Classicamente se manifesta como monoartrite aguda, que se instala lentamente com poucos sinais flogísticos.",
+          "explanation": "Incorreta: início típico é rápido, com inflamação intensa."
+        },
+        {
+          "letter": "B",
+          "text": "O nível sérico de ácido úrico pode ser normal durante a crise aguda de gota.",
+          "explanation": "Correta: urato sérico normal na crise não descarta gota."
+        },
+        {
+          "letter": "C",
+          "text": "Se manifesta com crise recorrentes, porém não causa dano permanente nas articulações.",
+          "explanation": "Incorreta: artrite gotosa crônica pode causar tofos, erosões e dano permanente."
+        },
+        {
+          "letter": "D",
+          "text": "O alopurinol é a medicação indicada para tratar a crise aguda de gota.",
+          "explanation": "Incorreta: alopurinol reduz urato a longo prazo, mas não substitui anti-inflamatório no tratamento da crise."
+        }
+      ],
+      "page": 3,
+      "id": "provao-m1-2023:m1-q8:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Uricemia pode diminuir durante crise aguda e não exclui gota; diagnóstico definitivo quando possível pela identificação dos cristais no líquido sinovial.",
+      "answer": "B"
+    },
+    {
+      "number": 9,
+      "numberLabel": "M1 · 9",
+      "prompt": "Em relação ao lúpus eritematoso sistêmico analise as seguintes assertivas. I - A administração de imunossupressor, como a ciclofosfamida, está indicada no envolvimento sistêmico grave como a nefrite lúpica. II - Pacientes com a presença de anticorpos antifosfolipedes devem receber anticoagulação III - No lúpus observa-se um aumento das proteínas do complemento, indicando atividade de doença. IV - A presença do anti DNA dupla hélice é um marcador de atividade de doença bem como um marcador de nefrite. São corretas",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I e II",
+          "explanation": "Incorreta: II não é verdadeira para todo portador de anticorpos, sem trombose/SAF."
+        },
+        {
+          "letter": "B",
+          "text": "I, II e IV",
+          "explanation": "Incorreta: mantém II como se anticoagulação plena fosse sempre indicada."
+        },
+        {
+          "letter": "C",
+          "text": "II e III",
+          "explanation": "Incorreta: III é falsa, pois C3 e C4 frequentemente diminuem nas exacerbações."
+        },
+        {
+          "letter": "D",
+          "text": "I e IV",
+          "explanation": "Correta: doença sistêmica grave pode requerer ciclofosfamida, e anti-dsDNA associa-se a atividade e nefrite."
+        }
+      ],
+      "page": 3,
+      "id": "provao-m1-2023:m1-q9:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "I e IV são verdadeiras; anticorpos antifosfolípides isolados não determinam anticoagulação e atividade lúpica costuma consumir complemento.",
+      "answer": "D"
+    },
+    {
+      "number": 10,
+      "numberLabel": "M1 · 10",
+      "prompt": "Qual doença abaixo não cursa com artrite erosiva?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Síndrome de Sjögren",
+          "explanation": "Correta: é a menos associada ao padrão de artrite erosiva clássica. Gabarito técnico - PROVÃO M1 TURMA EF 68 Apêndice • 3"
+        },
+        {
+          "letter": "B",
+          "text": "Artrite reumatoide",
+          "explanation": "Incorreta: AR frequentemente causa erosões marginais."
+        },
+        {
+          "letter": "C",
+          "text": "Artrite gotosa",
+          "explanation": "Incorreta: gota tofácea crônica pode ter erosões ósseas."
+        },
+        {
+          "letter": "D",
+          "text": "Artrite psoriásica.",
+          "explanation": "Incorreta: artropatia psoriásica pode provocar erosões e neoformação óssea. Ressalva: Exceções existem, inclusive associação entre Sjögren e AR; o item pergunta pelo padrão habitual."
+        }
+      ],
+      "page": 3,
+      "id": "provao-m1-2023:m1-q10:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "A artrite associada à síndrome de Sjögren primária costuma ser não erosiva; as outras entidades podem produzir erosões.",
+      "answer": "A"
+    },
+    {
+      "number": 11,
+      "numberLabel": "M1 · 11",
+      "prompt": "De acordo com as recomendações 2019 do Colégio Americano de Reumatologia para o tratamento da osteoartrite de mãos, joelhos e quadril, são fortemente recomendadas as seguintes, EXCETO:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Órtese para a 1ª carpometacarpofalângica, nos casos de osteoartrite de mãos.",
+          "explanation": "Não é EXCETO: órteses de primeira carpometacarpiana têm forte recomendação."
+        },
+        {
+          "letter": "B",
+          "text": "Uso de metotrexate via oral, nos casos de osteoartrite dos joelhos",
+          "explanation": "Correta como EXCETO: não há benefício que sustente metotrexato oral para osteoartrite de joelho."
+        },
+        {
+          "letter": "C",
+          "text": "Tai chi, nos casos de osteoartrite do quadril.",
+          "explanation": "Não é EXCETO: tai chi tem forte recomendação no manejo de OA de quadril/joelho."
+        },
+        {
+          "letter": "D",
+          "text": "Uso de AINH tópico, nos casos de de osteoartrite dos joelhos.",
+          "explanation": "Não é EXCETO: AINE tópico tem forte recomendação na OA de joelho."
+        }
+      ],
+      "page": 3,
+      "id": "provao-m1-2023:m1-q11:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Na diretriz ACR/AF 2019, metotrexato é fortemente recomendado CONTRA na osteoartrite, ao contrário das outras medidas citadas.",
+      "answer": "B"
+    },
+    {
+      "number": 12,
+      "numberLabel": "M1 · 12",
+      "prompt": "Homem de 67 anos, profissão de advogado, refere dor no ombro direito, que irradia para o braço, de intensidade variável e que piora durante a noite, quando se deita deste lado. Refere que o quadro iniciou há seis meses. Há um mês, apresentando piora da dor e limitação ativa dos movimentos do ombro e crepitação aos movimentos. Considerando a possibilidade de síndrome do manguito rotador para este paciente, qual dos testes realizados para avaliação da integridade dos tendões do manguito é exclusivo para avaliação do supraespinal?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yocum",
+          "explanation": "Incorreta: Yocum investiga sobretudo impacto subacromial."
+        },
+        {
+          "letter": "B",
+          "text": "Gerber",
+          "explanation": "Incorreta: Gerber/lift-off testa subescapular."
+        },
+        {
+          "letter": "C",
+          "text": "Patte",
+          "explanation": "Incorreta: Patte avalia principalmente infraespinal/rotação externa."
+        },
+        {
+          "letter": "D",
+          "text": "Jobe",
+          "explanation": "Correta: Jobe testa predominantemente supraespinal. Ressalva: Nenhum teste clínico é absolutamente exclusivo ou confirmatório isoladamente; o termo “exclusivo” é impreciso."
+        }
+      ],
+      "page": 4,
+      "id": "provao-m1-2023:m1-q12:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Jobe (empty can) avalia preferencialmente função/integridade do supraespinal; testes citados diferem quanto ao tendão e mecanismo.",
+      "answer": "D"
+    },
+    {
+      "number": 13,
+      "numberLabel": "M1 · 13",
+      "prompt": "RHFF, 41 anos, sexo feminino, advogada, procurou o ambulatório de Reumatologia, com dores difusas em todo o corpo, sono não reparador, ansiedade, com início dos sintomas há nove meses. Exame físico: sem sinais de artrite, dor a palpação muscular nos quatro membros, sem outras anormalidades. Exames complementares: VHS e PCR normais, fator reumatoide negativo e hemograma normal. Sobre o caso acima, é verdadeiro",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deve-se solicitar polissonografia, punção liquórica e eletroneuromiografia dos quatro membros.",
+          "explanation": "Incorreta: exames invasivos/eletrofisiologia sem indicação clínica não são rotina."
+        },
+        {
+          "letter": "B",
+          "text": "A pregabalina é considerada segura e eficaz no alívio dos sintomas apresentados.",
+          "explanation": "Mais adequada: pregabalina tem evidência de benefício modesto, com vigilância para tontura e sonolência."
+        },
+        {
+          "letter": "C",
+          "text": "O diagnóstico mais provável é o lúpus eritematoso sistêmico.",
+          "explanation": "Incorreta: ausência de inflamação/sinais sistêmicos torna LES menos provável."
+        },
+        {
+          "letter": "D",
+          "text": "Deve-se medicar com metotrexato e cloroquina.",
+          "explanation": "Incorreta: metotrexato e antimalárico não são tratamento de fibromialgia. Ressalva: Exercício graduado e educação são pilares com recomendação mais forte que fármacos."
+        }
+      ],
+      "page": 4,
+      "id": "provao-m1-2023:m1-q13:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Dor difusa, fadiga, sono não reparador e testes inflamatórios normais sugerem fibromialgia. Pregabalina pode beneficiar dor e sono em pacientes selecionados.",
+      "answer": "B"
+    },
+    {
+      "number": 14,
+      "numberLabel": "M1 · 14",
+      "prompt": "O tratamento de primeira linha para osteoporose inclui como opção o uso de drogas anti-catabólicas, também conhecidas como anti-reabsortivas, destacando-se neste grupo os bisfosfonatos. Dentre os bisfosfonatos podemos citar:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abaloparatida",
+          "explanation": "Incorreta: abaloparatida é análogo de PTHrP com ação osteoanabólica."
+        },
+        {
+          "letter": "B",
+          "text": "Romosumabe",
+          "explanation": "Incorreta: romosozumabe é anticorpo contra esclerostina."
+        },
+        {
+          "letter": "C",
+          "text": "Denosumabe",
+          "explanation": "Incorreta: denosumabe é anticorpo anti-RANKL, antirreabsortivo, porém não bisfosfonato."
+        },
+        {
+          "letter": "D",
+          "text": "Ibandronato",
+          "explanation": "Correta: ibandronato inibe reabsorção óssea por osteoclastos e é um bisfosfonato."
+        }
+      ],
+      "page": 4,
+      "id": "provao-m1-2023:m1-q14:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Ibandronato é bisfosfonato; as demais substâncias pertencem a classes terapêuticas distintas.",
+      "answer": "D"
+    },
+    {
+      "number": 15,
+      "numberLabel": "M1 · 15",
+      "prompt": "VAC, 44 anos, sexo masculino, professor, procurou o pronto socorro ortopédico para tratamento de entorse do joelho esquerdo, durante prática esportiva. Destacando-se que o paciente apresentava histórico de úlcera péptica e gastrite, no tratamento medicamentoso, deve-se utilizar preferencialmente:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nimesulida",
+          "explanation": "Incorreta como preferência: nimesulida não garante proteção gastrointestinal e tem risco hepático. Gabarito técnico - PROVÃO M1 TURMA EF 68 Apêndice • 4"
+        },
+        {
+          "letter": "B",
+          "text": "Piroxicam",
+          "explanation": "Incorreta: piroxicam tem risco gastrointestinal elevado e meia-vida prolongada."
+        },
+        {
+          "letter": "C",
+          "text": "Etoricoxibe.",
+          "explanation": "Mais adequada dentre opções: etoricoxibe é seletivo COX-2; exige avaliação de risco cardiovascular e gastroproteção quando indicada."
+        },
+        {
+          "letter": "D",
+          "text": "Diclofenaco",
+          "explanation": "Incorreta: diclofenaco mantém risco GI e cardiovascular, sem vantagem clara no antecedente de úlcera. Ressalva: Em geral, priorizar tratamento não farmacológico, paracetamol ou AINE tópico, conforme quadro; COX-2 não torna a prescrição automaticamente segura."
+        }
+      ],
+      "page": 4,
+      "id": "provao-m1-2023:m1-q15:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Quando AINE for imprescindível em pessoa com úlcera prévia, inibidores seletivos de COX-2 podem reduzir úlcera GI comparados aos não seletivos, sobretudo com proteção gástrica.",
+      "answer": "C"
+    },
+    {
+      "number": 16,
+      "numberLabel": "M1 · 16",
+      "prompt": "A Osteoporose é uma desordem osteometabólica caracterizada por fragilidade óssea e predisposição a fraturas. Em pacientes com osteoporose sem fratura, a abordagem fisioterápica preventiva deve preferencialmente incluir:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hidroterapia",
+          "explanation": "Menos completo: hidroterapia ajuda mobilidade, mas baixa carga gravitacional reduz estímulo osteogênico."
+        },
+        {
+          "letter": "B",
+          "text": "Alongamentos",
+          "explanation": "Menos completo: alongamento isolado não produz estímulo suficiente para fortalecimento/saúde óssea."
+        },
+        {
+          "letter": "C",
+          "text": "Cinesioterapia global com impacto",
+          "explanation": "Mais adequado: treino global com carga e impacto progressivo é eficaz quando tolerado e seguro."
+        },
+        {
+          "letter": "D",
+          "text": "Cinesioterapia localizada sem impacto",
+          "explanation": "Menos adequado como regra: cinesioterapia localizada sem carga fica aquém de treinamento funcional/resistido individualizado. Ressalva: Em osteoporose grave/alto risco vertebral, impacto elevado e flexões forçadas podem ser inadequados; a prescrição deve ser individualizada."
+        }
+      ],
+      "page": 4,
+      "id": "provao-m1-2023:m1-q16:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Exercício resistido e exercícios com descarga mecânica/impacto seguro podem aumentar força e estimular osso em osteoporose sem fratura, conforme risco de queda.",
+      "answer": "C"
+    },
+    {
+      "number": 17,
+      "numberLabel": "M1 · 17",
+      "prompt": "A Uma paciente de 88 anos foi admitida no serviço de urgência com fraqueza como queixa principal. Apresentava dispneia, sintomas gastrointestinais como náuseas e vômitos, dor abdominal, dispepsia, prurido e feridas na boca há 3 dias. Os sintomas foram progressivos. Na avaliação dos medicamentos consumidos foi determinado que ela está em uso contínuo de metotrexato (MTX) há cerca de 5 meses. Na busca da causa do uso de MTX e checagem das prescrições, foi revelado que a paciente recebeu por engano MTX ao invés de digoxina. Ela havia usado MTX 1,25 mg por 5 meses consecutivos, e 2,5 mg cinco dias por semana no último mês. Considerando a sua hipótese diagnóstica, assinale a alternativa que indica a melhor opção terapêutica a ser instituída:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A retirada do MTX e a administração de ácido folínico (leucovorina)",
+          "explanation": "Correta: leucovorina contorna inibição do metabolismo do folato; verificar hemograma, função renal e necessidade de medidas adicionais."
+        },
+        {
+          "letter": "B",
+          "text": "A retirada do MTX e a administração de ácido fólico",
+          "explanation": "Incorreta: ácido fólico é usado em prevenção/rotina, não substitui resgate com leucovorina em intoxicação."
+        },
+        {
+          "letter": "C",
+          "text": "A retirada do MTX e a administração de vitamina E",
+          "explanation": "Incorreta: vitamina E não reverte toxicidade do metotrexato."
+        },
+        {
+          "letter": "D",
+          "text": "Continuação com MTX e a administração de ácido folínico (leucovorina)",
+          "explanation": "Incorreta: manter o agente responsável perpetua intoxicação."
+        }
+      ],
+      "page": 5,
+      "id": "provao-m1-2023:m1-q17:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Uso inadvertido crônico de metotrexato com mucosite e sintomas sistêmicos sugere toxicidade. Suspender imediatamente e administrar ácido folínico (leucovorina) sob avaliação hospitalar.",
+      "answer": "A"
+    },
+    {
+      "number": 18,
+      "numberLabel": "M1 · 18",
+      "prompt": "Um paciente com insuficiência renal crônica em tratamento conservador, foi internado na [Numeração original do documento: 5.] Unidade Coronariana com angina instável. Apresentou, durante sua internação, quadro agudo de artrite na articulação metatarsofalangeana e tornozelo. Relatou que já havia sofrido quadro semelhante previamente. Considerando a sua hipótese diagnóstica, assinale a alternativa que melhor indica o diagnóstico de artrite e opção terapêutica a ser instituída.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artrite Reumatoide e colchicina",
+          "explanation": "Incorreta: artrite reumatoide é improvável pela apresentação, e colchicina exige adequação na DRC."
+        },
+        {
+          "letter": "B",
+          "text": "Gota e alopurinol",
+          "explanation": "Incorreta para o tratamento IMEDIATO da crise: alopurinol é urato-redutor, não anti-inflamatório; pode ser iniciado durante crise com profilaxia em casos indicados."
+        },
+        {
+          "letter": "C",
+          "text": "Gota e antiinflamatório não hormonal",
+          "explanation": "Incorreta como melhor opção: AINE pode agravar função renal e cardiopatia."
+        },
+        {
+          "letter": "D",
+          "text": "Gota e corticosteroides",
+          "explanation": "Correta: corticoides orais ou intra-articulares podem tratar crise, após excluir artrite séptica."
+        }
+      ],
+      "page": 5,
+      "id": "provao-m1-2023:m1-q18:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Monoartrite aguda de primeira metatarsofalangeana em portador de DRC é compatível com gota. Corticosteroide é opção para a crise quando AINE é desfavorável.",
+      "answer": "D"
+    },
+    {
+      "number": 19,
+      "numberLabel": "M1 · 19",
+      "prompt": "Sobre a artrite reumatoide, julgue as alternativas e responda: I. A artrite reumatoide é uma doença autoimune em que o sistema imunológico a sinovial e causa o acúmulo de líquido nas articulações, perda debilitante de cartilagem, fraqueza óssea e deformidade articular. É uma condição crônica e progressiva, podendo haver longos períodos de remissão (sem sintomas). II. Paciente com artrite reumatoide estabelecida e com baixa atividade da doença nunca fez uso de um medicamento antirreumático modificador da doença convencional (DMARD), deve iniciar a monoterapia com metotrexato. III. Paciente com artrite reumatoide estabelecida e com baixa atividade da doença nunca fez uso de um medicamento antirreumático modificador da doença convencional (DMARD), deve iniciar a monoterapia com um inibidor do fator de necrose tumoral (TNF) como monoterapia. IV. Paciente com artrite reumatoide estabelecida em caso de falha da monoterapia inicial com um medicamento antirreumático modificador da doença convencional (DMARD), por exemplo metotrexato, é indicada uma terapia com a combinação dupla ou tripla de DMARD convencional (Metotrexato, leflunomida, sulfassalazina, cloroquina e hidroxicloroquina). 20.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apenas as alternativas I e II estão corretas.",
+          "explanation": "Problema: I é verdadeira, II não pode ser considerada uma obrigação geral para baixa atividade."
+        },
+        {
+          "letter": "B",
+          "text": "Apenas as alternativas I, II e III estão corretas.",
+          "explanation": "Incorreta: acrescenta III, que recomenda TNF-bloqueador como monoterapia inicial sem justificativa."
+        },
+        {
+          "letter": "C",
+          "text": "Apenas as alternativas I, II e IV estão corretas.",
+          "explanation": "Resposta histórica possivelmente esperada: I, II e IV. Hoje, II e a indicação categórica de IV exigem ressalvas importantes."
+        },
+        {
+          "letter": "D",
+          "text": "Todas as alternativas estão corretas.",
+          "explanation": "Incorreta: III é falsa e nem todas as assertivas podem ser aceitas. Gabarito técnico - PROVÃO M1 TURMA EF 68 Apêndice • 5 Ressalva: Não se deve apresentar C como única correta conforme diretrizes atuais; a estratégia após falha varia conforme fatores de prognóstico, atividade e segurança."
+        }
+      ],
+      "page": 5,
+      "id": "provao-m1-2023:m1-q19:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "A assertiva I é correta; III é incorreta. A assertiva II prescreve metotrexato universalmente em baixa atividade, contrariamente à preferência condicional por hidroxicloroquina no ACR 2021. A IV descreve uma estratégia possível, mas não obrigatória após falha.",
+      "answerIssue": "sem_resposta"
+    },
+    {
+      "number": 20,
+      "numberLabel": "M1 · 20",
+      "prompt": "A respeito dos fármacos antirreumáticos modificadores da doença, julgue as alternativas e responda: I. O metotrexato é um fármaco de primeira escolha, que tem atividade citotóxica e imunossupressora. II. A tempo de ½ vida da leflunomida é reduzida pela interação medicamentosa com colestiramina A. III. A ciclosporina inibe a atividade dos linfócitos T efetores CD8+. IV. O tofacitinibe e o baricitibe são anticorpos monoclonais que inibem a via de sinalização JAK-STAT. 21.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apenas as alternativas I e II estão corretas.",
+          "explanation": "Incorreta/incompleta: omite a ação da ciclosporina sobre linfócitos T."
+        },
+        {
+          "letter": "B",
+          "text": "Apenas as alternativas I, II e III estão corretas",
+          "explanation": "Correta: I, II e III são compatíveis com a farmacologia; IV é falsa."
+        },
+        {
+          "letter": "C",
+          "text": "Apenas as alternativas I, II e IV estão corretas.",
+          "explanation": "Incorreta: inclui IV, que classifica erradamente inibidores de JAK como anticorpos."
+        },
+        {
+          "letter": "D",
+          "text": "Todas as alternativas estão corretas.",
+          "explanation": "Incorreta: incorpora IV falsa. Ressalva: A assertiva III é simplificadora: ciclosporina inibe calcineurina e ativação de linfócitos T, não apenas CD8+."
+        }
+      ],
+      "page": 5,
+      "id": "provao-m1-2023:m1-q20:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "I: MTX é DMARD de referência. II: colestiramina acelera eliminação da teriflunomida, metabólito ativo da leflunomida. III: ciclosporina inibe ativação de linfócitos T. IV é falsa: tofacitinibe/baricitinibe são pequenas moléculas, não anticorpos monoclonais.",
+      "answer": "B"
+    },
+    {
+      "number": 21,
+      "numberLabel": "M1 · 21",
+      "prompt": "Qual das seguintes neoplasias é mais frequente na faixa etária pediátrica?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tumor de células gigantes",
+          "explanation": "Incorreta: tumor de células gigantes predomina após maturidade esquelética."
+        },
+        {
+          "letter": "B",
+          "text": "Osteossarcoma",
+          "explanation": "Correta: osteossarcoma é mais frequente no grupo pediátrico que os demais diagnósticos listados."
+        },
+        {
+          "letter": "C",
+          "text": "Condroblastoma",
+          "explanation": "Incorreta: condroblastoma também ocorre em jovens, mas é tumor raro e geralmente benigno."
+        },
+        {
+          "letter": "D",
+          "text": "Condrossarcoma",
+          "explanation": "Incorreta: condrossarcoma predomina na idade adulta."
+        }
+      ],
+      "page": 6,
+      "id": "provao-m1-2023:m1-q21:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Osteossarcoma é o tumor ósseo maligno primário clássico de adolescentes e adultos jovens, particularmente na segunda década.",
+      "answer": "B"
+    },
+    {
+      "number": 22,
+      "numberLabel": "M1 · 22",
+      "prompt": "Em relação aos tumores malignos de partes moles (sarcomas), assinale a alternativa INCORRETA:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "As metástases são geralmente linfáticas",
+          "explanation": "Correta como INCORRETA: metástases são predominantemente hematogênicas, não linfáticas."
+        },
+        {
+          "letter": "B",
+          "text": "A ressonância magnética não é precisa na definição do tipo histológico",
+          "explanation": "Verdadeira: RM caracteriza extensão local, mas a histologia requer biópsia."
+        },
+        {
+          "letter": "C",
+          "text": "São mais frequentes em idosos",
+          "explanation": "Verdadeira: incidência de sarcomas de partes moles, no agregado, é maior em adultos/idosos."
+        },
+        {
+          "letter": "D",
+          "text": "Localização em retroperitônio é associada a pior prognóstico",
+          "explanation": "Verdadeira: localização retroperitoneal associa-se a dificuldade de ressecção e pior prognóstico."
+        }
+      ],
+      "page": 6,
+      "id": "provao-m1-2023:m1-q22:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Sarcomas de partes moles geralmente disseminam por via hematogênica, sobretudo para pulmões; via linfática é menos comum.",
+      "answer": "A"
+    },
+    {
+      "number": 23,
+      "numberLabel": "M1 · 23",
+      "prompt": "Paciente do sexo feminino, cor branca e 25 anos de idade. Procurou médico por apresentar aumento de volume na região do joelho direito e dor local intermitente. Ao exame físico apresentava limitação dos movimentos. A radiografia evidenciou lesão tibial epifisária, derrame articular, fratura patológica, rarefação óssea, fina trabeculação e limites nítidos. Na macroscopia da peça cirúrgica evidenciou-se lesão volumosa, densa, avermelhada e com lacunas hemorrágicas. Na microscopia a neoplasia é constituída por tecido com, rica vascularização e grande número de células gigantes multinucleadas. O diagnóstico menos provável é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sarcoma fibromixoide de baixo grau",
+          "explanation": "Não é diagnóstico típico: sarcoma fibromixoide de baixo grau tem histologia e perfil distintos."
+        },
+        {
+          "letter": "B",
+          "text": "mieloma múltiplo",
+          "explanation": "Não é diagnóstico típico: mieloma múltiplo é incomum aos 25 anos e mostra proliferação plasmocitária."
+        },
+        {
+          "letter": "C",
+          "text": "rabdomiossarcoma",
+          "explanation": "Não é diagnóstico típico: rabdomiossarcoma é neoplasia muscular, não corresponde à descrição epifisária."
+        },
+        {
+          "letter": "D",
+          "text": "sarcoma de Ewing",
+          "explanation": "Não é diagnóstico típico: sarcoma de Ewing costuma ser diafisário/metadiafisário e de pequenas células redondas. Ressalva: Não há critério objetivo para determinar o “menos provável” entre quatro hipóteses que não descrevem a neoplasia real; evitar atribuir letra."
+        }
+      ],
+      "page": 6,
+      "id": "provao-m1-2023:m1-q23:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Mulher jovem com lesão epifisária tibial e numerosas células gigantes sugere tumor de células gigantes do osso, que NEM sequer aparece entre as alternativas. Todas as opções trazem diagnósticos discordantes em maior ou menor grau.",
+      "answerIssue": "sem_resposta"
+    },
+    {
+      "number": 24,
+      "numberLabel": "M1 · 24",
+      "prompt": "Criança é diagnosticada com displasia do desenvolvimento do quadril. Podemos dizer que o quadril instável é aquele que:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está reduzido e luxa quando fazemos manobra de abdução",
+          "explanation": "Incorreta: abdução é empregada sobretudo na redução/Ortolani, não na provocação típica de luxação."
+        },
+        {
+          "letter": "B",
+          "text": "É aquele que tem a cabeça femural com 50% de cobertura pelo acetábulo",
+          "explanation": "Incorreta: cobertura acetabular isolada não define instabilidade dinâmica."
+        },
+        {
+          "letter": "C",
+          "text": "Está reduzido e luxa quando realizamos manobra de adução",
+          "explanation": "Correta: adução e força posterior desencadeiam luxação de quadril instável."
+        },
+        {
+          "letter": "D",
+          "text": "Apresenta incongruência entre a epífise femural e o acetábulo",
+          "explanation": "Incorreta como definição específica: incongruência descreve quadril já deslocado/displásico, não o teste de instabilidade."
+        }
+      ],
+      "page": 6,
+      "id": "provao-m1-2023:m1-q24:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Quadril instável, no teste de Barlow, encontra-se reduzido, porém pode ser luxado com adução e pressão posterior controlada. Gabarito técnico - PROVÃO M1 TURMA EF 68 Apêndice • 6",
+      "answer": "C"
+    },
+    {
+      "number": 25,
+      "numberLabel": "M1 · 25",
+      "prompt": "Você é cirurgião plástico e está explicando as vantagens do uso de uma auto-enxerto para seus residentes. Qual das seguintes afirmativas está correta?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Boa tolerância e incorporação",
+          "explanation": "Correta. Autoenxertos integram-se bem ao receptor, sem rejeição alogênica."
+        },
+        {
+          "letter": "B",
+          "text": "Evita um sítio doador",
+          "explanation": "Incorreta. Um autoenxerto exige um sítio doador."
+        },
+        {
+          "letter": "C",
+          "text": "Sem limite de quantidade de tecido",
+          "explanation": "Incorreta. A quantidade de tecido disponível é limitada."
+        },
+        {
+          "letter": "D",
+          "text": "Redução da morbidade inicial",
+          "explanation": "Incorreta como regra. O sítio doador também acrescenta morbidade."
+        }
+      ],
+      "page": 6,
+      "reviewNote": "As afirmações estão no PDF sem letras; A-D foram atribuídas conforme a ordem, exatamente como a ressalva do gabarito comentado. ",
+      "id": "provao-m1-2023:m1-q25:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "A"
+    },
+    {
+      "number": 26,
+      "numberLabel": "M1 · 26",
+      "prompt": "Nas fraturas de úmero proximal a tuberosidade maior está desviada para:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inferior e anterior",
+          "explanation": "Incorreta: o vetor muscular não é predominantemente inferoanterior."
+        },
+        {
+          "letter": "B",
+          "text": "Inferior e posterior",
+          "explanation": "Incorreta: não se espera deslocamento inferior."
+        },
+        {
+          "letter": "C",
+          "text": "Superior e anterior",
+          "explanation": "Incorreta: posterior é possível, mas a componente usual é superior, e não anterior."
+        },
+        {
+          "letter": "D",
+          "text": "Superior e posterior",
+          "explanation": "Correta: direção superoposterior é a tendência anatômica clássica."
+        }
+      ],
+      "page": 7,
+      "id": "provao-m1-2023:m1-q26:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "A tração do supraespinal e infraespinal na fratura da tuberosidade maior favorece deslocamento superior e posterior.",
+      "answer": "D"
+    },
+    {
+      "number": 27,
+      "numberLabel": "M1 · 27",
+      "prompt": "Paciente, 45 anos, sexo feminino apresenta fratura de úmero fechada com desvio, deve-se:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colocar gelo no local e não imobilizar, uma vez que a fratura está desviada",
+          "explanation": "Incorreta: manter fratura sem imobilização amplia dano e dor."
+        },
+        {
+          "letter": "B",
+          "text": "Reduzir a fratura bem lentamente e imobilizar o local atingindo a articulação acima e abaixo da lesão",
+          "explanation": "Incorreta como regra de socorro: não reduzir arbitrariamente uma fratura fechada sem avaliação adequada."
+        },
+        {
+          "letter": "C",
+          "text": "Colocar gelo sobre a área desviada e fazer curativo compressivo, antes de imobilizar apenas o local da fratura",
+          "explanation": "Incorreta: compressão e imobilização que não abrangem articulações adjacentes são insuficientes."
+        },
+        {
+          "letter": "D",
+          "text": "Imobilizar o local, atingindo a articulação acima e abaixo da lesão, sem reduzir a fratura",
+          "explanation": "Correta: imobilização incluindo articulações proximal e distal, com avaliação neurovascular. Ressalva: Urgência vascular/comprometimento cutâneo pode justificar redução imediata por profissional habilitado."
+        }
+      ],
+      "page": 7,
+      "id": "provao-m1-2023:m1-q27:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Em primeira abordagem de fratura desviada, imobilizar e documentar perfusão/sensibilidade; reduções exigem equipe capacitada e indicações específicas.",
+      "answer": "D"
+    },
+    {
+      "number": 28,
+      "numberLabel": "M1 · 28",
+      "prompt": "Uma mulher de 75 anos, portadora de hemiplegia Direita pós AVCH foi reabilitada por um equipe multiprofissional por 1 ano, tendo evoluído de uma condição de dependência total em todas as atividades para uma condição de independência para autocuidados e dependência parcial para marcha e transferências. Após a alta deste Centro de Reabilitação, procurou outro serviço de reabilitação com objetivo de obter maior destreza para atividades bimanuais, pois decidiu dedicar aos trabalhos artesanais para obter seu sustento. Assinale a alternativa correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O programa de reabilitação não atingiu seu objetivo",
+          "explanation": "Incorreta: obtenção de independência de autocuidados representa avanço importante."
+        },
+        {
+          "letter": "B",
+          "text": "Os autocuidados são o principal objetivo do programa de reabilitação",
+          "explanation": "Incorreta: autonomia para autocuidados é relevante, mas não o único objetivo de reabilitação."
+        },
+        {
+          "letter": "C",
+          "text": "Como a paciente é hemiplégica, ela não vai conseguir destreza para atividades bimanuais, por isso necessita na verdade é de uma abordagem psicológica para trabalhar o limite de seus ganhos funcionais.",
+          "explanation": "Incorreta: hemiplegia não determina incapacidade absoluta de adaptação bimanuais."
+        },
+        {
+          "letter": "D",
+          "text": "A mudança de objetivos do paciente durante o programa de reabilitação é frequente, conforme os ganhos funcionais, e a equipe deve estar atenta para isso.",
+          "explanation": "Correta: metas e necessidades ocupacionais mudam ao longo da reabilitação."
+        }
+      ],
+      "page": 7,
+      "id": "provao-m1-2023:m1-q28:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Reabilitação é orientada por metas pactuadas com o paciente e pode evoluir de autocuidado a atividades produtivas conforme ganhos funcionais.",
+      "answer": "D"
+    },
+    {
+      "number": 29,
+      "numberLabel": "M1 · 29",
+      "prompt": "Qual o 1 sinal clínico que deve chamar a atenção do médico para a possibilidade de lesão vascular em fraturas do ombro?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parestesias",
+          "explanation": "Sinal possível: parestesia pode indicar lesão nervosa ou isquemia, mas é inespecífica."
+        },
+        {
+          "letter": "B",
+          "text": "Pulso radial ausente",
+          "explanation": "Mais objetivo: ausência de pulso distal impõe suspeita de lesão arterial."
+        },
+        {
+          "letter": "C",
+          "text": "Palidez da mão",
+          "explanation": "Sinal possível: palidez também sugere isquemia; não é necessariamente posterior à perda de pulso."
+        },
+        {
+          "letter": "D",
+          "text": "Diminuição da temperatura do membro",
+          "explanation": "Sinal possível: extremidade fria indica perfusão comprometida. Ressalva: Vários sinais são clinicamente importantes; “primeiro sinal” não possui ordem temporal fixa."
+        }
+      ],
+      "page": 7,
+      "id": "provao-m1-2023:m1-q29:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Gabarito técnico - PROVÃO M1 TURMA EF 68 Apêndice • 7 Ausência de pulso radial é sinal de alerta para lesão vascular após fratura de ombro/proximal do úmero e exige avaliação imediata.",
+      "answer": "B"
+    },
+    {
+      "number": 30,
+      "numberLabel": "M1 · 30",
+      "prompt": "Sobre lombalgia marque a correta.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "É uma queixa comum no consultório, com diagnóstico etiológico sendo esclarecido na maioria dos casos, sendo as compressões por hérnia e estenoses de cana lombar as maior causas",
+          "explanation": "Incorreta: lombalgia é predominantemente inespecífica, sem diagnóstico estrutural definido na maioria."
+        },
+        {
+          "letter": "B",
+          "text": "A maioria são lombalgias agudas.",
+          "explanation": "Incorreta como afirmação categórica: episódios agudos são comuns, mas não define etiologia e duração da maioria dos atendimentos."
+        },
+        {
+          "letter": "C",
+          "text": "Uma hérnia discal centro-lateral L4L5 provavelmente comprimirá a raiz de L5.",
+          "explanation": "Correta: raiz L5 é afetada na herniação paracentral L4-L5."
+        },
+        {
+          "letter": "D",
+          "text": "O tratamento inicial de um paciente com hérnia discal L4L5 com compressão nervosa importante à RM é o tratamento cirúrgico.",
+          "explanation": "Incorreta: indicação cirúrgica depende de déficit progressivo, síndrome da cauda equina ou refratariedade, não apenas RM."
+        }
+      ],
+      "page": 7,
+      "id": "provao-m1-2023:m1-q30:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Hérnia discal posterolateral em L4-L5 costuma afetar a raiz transitante L5.",
+      "answer": "C"
+    },
+    {
+      "number": 31,
+      "numberLabel": "M1 · 31",
+      "prompt": "Paciente sexo feminino, 42 anos, sedentária, vem apresentando lombalgia há 3 meses. A dor piora a movimentação, não tem irradiação. Nega alterações esfincterianas, perda de peso, febre ou déficit de força. A conduta médica inicial deve ser:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solicitar Ressonância de coluna lombar, por ter essa queixa de forma persistente e crônica.",
+          "explanation": "Incorreta como rotina: RM não é primeira conduta em ausência de bandeiras vermelhas e quando não alteraria manejo."
+        },
+        {
+          "letter": "B",
+          "text": "Encaminhar a reabilitação para melhora da mobilidade, flexibilidade e fortalecimento muscular, e orientações posturais.",
+          "explanation": "Correta: reabilitação, fortalecimento progressivo e orientações funcionais."
+        },
+        {
+          "letter": "C",
+          "text": "Prescrever anti-inflamatório associado a miorrelaxante por 6 semanas.",
+          "explanation": "Incorreta: AINE com relaxante por seis semanas impõe exposição prolongada desnecessária."
+        },
+        {
+          "letter": "D",
+          "text": "Provavelmente se trata de hérnia discal, pela característica da dor.",
+          "explanation": "Incorreta: hérnia de disco sintomática costuma incluir dor radicular, ausente aqui."
+        }
+      ],
+      "page": 7,
+      "id": "provao-m1-2023:m1-q31:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Lombalgia mecânica sem sintomas radiculares nem sinais de alarme favorece atividade, exercício/reabilitação e educação.",
+      "answer": "B"
+    },
+    {
+      "number": 32,
+      "numberLabel": "M1 · 32",
+      "prompt": "Os estágios de desenvolvimento das úlceras por pressão descritos por EDBERG são:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hiperemia, isquemia, necrose e ulceração.",
+          "explanation": "Provável resposta pretendida: acompanha a sequência histórica apresentada (hiperemia, isquemia, necrose e ulceração)."
+        },
+        {
+          "letter": "B",
+          "text": "Necrose, isquemia, ulceração e hiperemia.",
+          "explanation": "Incorreta: coloca necrose antes da fase isquêmica."
+        },
+        {
+          "letter": "C",
+          "text": "Isquemia, hiperemia, necrose e ulceração.",
+          "explanation": "Incorreta para o esquema histórico de estágios cutâneos: inicia com isquemia anterior à hiperemia observável."
+        },
+        {
+          "letter": "D",
+          "text": "Ulceração, necrose, hiperemia e isquemia.",
+          "explanation": "Incorreta: inicia pela ulceração, que é etapa tardia. Ressalva: Não foi localizada nesta pesquisa uma fonte primária robusta para a atribuição a “Edberg”; biologicamente a pressão compromete perfusão antes da hiperemia visível. Interpretar como nomenclatura didática antiga, não recomendação atual."
+        }
+      ],
+      "page": 8,
+      "id": "provao-m1-2023:m1-q32:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "No esquema histórico referido na questão, descreve-se hiperemia → isquemia → necrose → ulceração; porém tal sequência não substitui a classificação contemporânea por estágios de lesão por pressão.",
+      "answer": "A"
+    },
+    {
+      "number": 33,
+      "numberLabel": "M1 · 33",
+      "prompt": "A escoliose idiopática do adolescente acomete principalmente?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Meninas entre 11 e 18 anos de idade",
+          "explanation": "Correta: faixa etária e sexo de maior prevalência/progressão."
+        },
+        {
+          "letter": "B",
+          "text": "Meninos entre 11 e 18 anos de idade",
+          "explanation": "Incorreta: meninos também podem apresentar, mas menos frequentemente."
+        },
+        {
+          "letter": "C",
+          "text": "Meninas entre 12 e 25 anos de idade",
+          "explanation": "Incorreta: intervalo até 25 anos ultrapassa a classificação habitual de adolescência."
+        },
+        {
+          "letter": "D",
+          "text": "Meninos entre 12 e 25 anos de idade",
+          "explanation": "Incorreta: combina sexo menos prevalente e idade não apropriada. Gabarito técnico - PROVÃO M1 TURMA EF 68 Apêndice • 8"
+        }
+      ],
+      "page": 8,
+      "id": "provao-m1-2023:m1-q33:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Escoliose idiopática do adolescente é mais comum em meninas, principalmente no período de crescimento puberal.",
+      "answer": "A"
+    },
+    {
+      "number": 34,
+      "numberLabel": "M1 · 34",
+      "prompt": "Um médico residente de geriatria estava acompanhando um paciente idoso e diagnosticou um tumor intestinal. O preceptor orientou que ele fizesse uso do protocolo SPIKES. O residente procurou seguir as orientações. Qual dos seguintes itens não é contemplado neste protocolo?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambiente adequado e postura profissional.",
+          "explanation": "Incluída: ambiente e postura integram Setting."
+        },
+        {
+          "letter": "B",
+          "text": "Acolhimento, escuta ativa e comunicação clara.",
+          "explanation": "Incluída: acolhimento e comunicação empática são centrais ao protocolo."
+        },
+        {
+          "letter": "C",
+          "text": "Percepção do desejo do paciente pela informação",
+          "explanation": "Incluída: Invitation verifica o quanto a pessoa deseja saber."
+        },
+        {
+          "letter": "D",
+          "text": "Dar a informação de forma completa sobre o final da vida",
+          "explanation": "Correta como NÃO contemplada: fornecer indiscriminadamente informação completa sobre fim da vida viola adequação, contexto e preferência."
+        }
+      ],
+      "page": 8,
+      "id": "provao-m1-2023:m1-q34:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "O SPIKES estrutura preparação, percepção, convite quanto à informação, comunicação dos fatos, resposta às emoções e planejamento; não exige revelar “todo o final da vida”.",
+      "answer": "D"
+    },
+    {
+      "number": 35,
+      "numberLabel": "M1 · 35",
+      "prompt": "Caso clínico das questões 35–38: Senhor X, de 82 anos, hipertenso, diabético e portador de hipotireoidismo e neuropatia diabética. Fazia uso de Losartana, Anlodipino, Metformina, Pregabalina, Duloxetina e Levotiroxina. Pratica exercícios físicos regulares. Peso habitual: 60 Kg. Estatura: 1,64 m. IMC: 23 Kg/m². Circunferência de Panturrilha (CP): 33 cm. Nos últimos 6 meses, apesar do bom controle glicêmico e da função tiroidiana estar normal, diminuiu a ingestão de alimentos e perdeu 8 Kg. Há 30 dias, apresentou duas quedas da própria altura e, após as quedas, os níveis glicêmicos elevaram-se, sendo necessária a introdução de Insulina. Há uma semana, foi ao consultório do geriatra, sendo constatados: peso de 52 Kg, IMC de 20 Kg/m², CP de 30 cm, velocidade da marcha de 0,6 m/s e força de preensão palmar de 23 Kg. Levou o laudo de uma densitometria corporal total (DXA) mostrando massa muscular esquelética apendicular (braços e pernas) de 17 Kg.\n\nDentre as alterações apresentadas pelo Senhor X citadas abaixo, qual faz parte dos critérios do fenótipo de fragilidade de Fried (2001) para o diagnóstico de fragilidade?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diminuição da CP para menos de 31 cm.",
+          "explanation": "Incorreta: circunferência da panturrilha é usada em avaliação nutricional/muscular, não é item clássico de Fried."
+        },
+        {
+          "letter": "B",
+          "text": "Queda da própria altura.",
+          "explanation": "Incorreta: quedas são consequência/associação, não critério direto do fenótipo."
+        },
+        {
+          "letter": "C",
+          "text": "Redução da força de preensão palmar.",
+          "explanation": "Correta: baixa força de preensão manual é um dos cinco critérios."
+        },
+        {
+          "letter": "D",
+          "text": "Diminuição do IMC para menos de 23 Kg/m2",
+          "explanation": "Incorreta: IMC abaixo de 23 não integra os cinco critérios."
+        }
+      ],
+      "page": 8,
+      "id": "provao-m1-2023:m1-q35:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Fenótipo de fragilidade de Fried envolve perda involuntária de peso, exaustão, baixa atividade, velocidade lenta e fraqueza da preensão.",
+      "answer": "C"
+    },
+    {
+      "number": 36,
+      "numberLabel": "M1 · 36",
+      "prompt": "Caso clínico das questões 35–38: Senhor X, de 82 anos, hipertenso, diabético e portador de hipotireoidismo e neuropatia diabética. Fazia uso de Losartana, Anlodipino, Metformina, Pregabalina, Duloxetina e Levotiroxina. Pratica exercícios físicos regulares. Peso habitual: 60 Kg. Estatura: 1,64 m. IMC: 23 Kg/m². Circunferência de Panturrilha (CP): 33 cm. Nos últimos 6 meses, apesar do bom controle glicêmico e da função tiroidiana estar normal, diminuiu a ingestão de alimentos e perdeu 8 Kg. Há 30 dias, apresentou duas quedas da própria altura e, após as quedas, os níveis glicêmicos elevaram-se, sendo necessária a introdução de Insulina. Há uma semana, foi ao consultório do geriatra, sendo constatados: peso de 52 Kg, IMC de 20 Kg/m², CP de 30 cm, velocidade da marcha de 0,6 m/s e força de preensão palmar de 23 Kg. Levou o laudo de uma densitometria corporal total (DXA) mostrando massa muscular esquelética apendicular (braços e pernas) de 17 Kg.\n\nDe acordo com os dados clínicos apresentados pode-se dizer que, levando-se em conta o fato do Senhor X ser idoso, ele é portador de:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comorbidade, polifarmácia e obesidade",
+          "explanation": "Incorreta: não há obesidade; IMC atual é baixo para muitos critérios geriátricos."
+        },
+        {
+          "letter": "B",
+          "text": "Multimorbidade, polifarmácia e baixo peso",
+          "explanation": "Mais adequada: multimorbidade, polifarmácia e baixo peso/risco nutricional."
+        },
+        {
+          "letter": "C",
+          "text": "Complicações de doença crônica, mas não tem polifarmácia.",
+          "explanation": "Incorreta: seis medicamentos usuais caracterizam polifarmácia, independentemente do número de comprimidos."
+        },
+        {
+          "letter": "D",
+          "text": "Multimorbidade complexa, polifarmácia e peso normal.",
+          "explanation": "Incorreta: há múltiplas condições, mas o perfil ponderal não é normal para interpretação geriátrica usual."
+        }
+      ],
+      "page": 8,
+      "id": "provao-m1-2023:m1-q36:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Há múltiplas doenças crônicas, seis fármacos contínuos e IMC atual 20 kg/m², com perda ponderal marcante (13%).",
+      "answer": "B"
+    },
+    {
+      "number": 37,
+      "numberLabel": "M1 · 37",
+      "prompt": "Caso clínico das questões 35–38: Senhor X, de 82 anos, hipertenso, diabético e portador de hipotireoidismo e neuropatia diabética. Fazia uso de Losartana, Anlodipino, Metformina, Pregabalina, Duloxetina e Levotiroxina. Pratica exercícios físicos regulares. Peso habitual: 60 Kg. Estatura: 1,64 m. IMC: 23 Kg/m². Circunferência de Panturrilha (CP): 33 cm. Nos últimos 6 meses, apesar do bom controle glicêmico e da função tiroidiana estar normal, diminuiu a ingestão de alimentos e perdeu 8 Kg. Há 30 dias, apresentou duas quedas da própria altura e, após as quedas, os níveis glicêmicos elevaram-se, sendo necessária a introdução de Insulina. Há uma semana, foi ao consultório do geriatra, sendo constatados: peso de 52 Kg, IMC de 20 Kg/m², CP de 30 cm, velocidade da marcha de 0,6 m/s e força de preensão palmar de 23 Kg. Levou o laudo de uma densitometria corporal total (DXA) mostrando massa muscular esquelética apendicular (braços e pernas) de 17 Kg.\n\nOs dados clínicos permitem afirmar que o Senhor X:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tem sarcopenia grave.",
+          "explanation": "Correta: baixa força, baixa quantidade muscular e baixo desempenho confirmam sarcopenia grave."
+        },
+        {
+          "letter": "B",
+          "text": "tem sarcopenia apenas",
+          "explanation": "Incorreta: omite a gravidade funcional demonstrada pela marcha lenta."
+        },
+        {
+          "letter": "C",
+          "text": "tem sarcopenia provável",
+          "explanation": "Incorreta: há medida de massa muscular, logo não se restringe a sarcopenia provável."
+        },
+        {
+          "letter": "D",
+          "text": "não tem sarcopenia",
+          "explanation": "Incorreta: preensão de 23 kg está abaixo do ponto de corte masculino de 27 kg."
+        }
+      ],
+      "page": 9,
+      "id": "provao-m1-2023:m1-q37:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Força de preensão de 23 kg em homem, massa apendicular 17 kg/1,64² = 6,32 kg/m² e marcha de 0,6 m/s configuram força, massa e desempenho reduzidos no EWGSOP2.",
+      "answer": "A"
+    },
+    {
+      "number": 38,
+      "numberLabel": "M1 · 38",
+      "prompt": "Caso clínico das questões 35–38: Senhor X, de 82 anos, hipertenso, diabético e portador de hipotireoidismo e neuropatia diabética. Fazia uso de Losartana, Anlodipino, Metformina, Pregabalina, Duloxetina e Levotiroxina. Pratica exercícios físicos regulares. Peso habitual: 60 Kg. Estatura: 1,64 m. IMC: 23 Kg/m². Circunferência de Panturrilha (CP): 33 cm. Nos últimos 6 meses, apesar do bom controle glicêmico e da função tiroidiana estar normal, diminuiu a ingestão de alimentos e perdeu 8 Kg. Há 30 dias, apresentou duas quedas da própria altura e, após as quedas, os níveis glicêmicos elevaram-se, sendo necessária a introdução de Insulina. Há uma semana, foi ao consultório do geriatra, sendo constatados: peso de 52 Kg, IMC de 20 Kg/m², CP de 30 cm, velocidade da marcha de 0,6 m/s e força de preensão palmar de 23 Kg. Levou o laudo de uma densitometria corporal total (DXA) mostrando massa muscular esquelética apendicular (braços e pernas) de 17 Kg.\n\nApós otimização da prescrição medicamentosa, com retirada da Metformina e do Anlodipino e ajuste da dose da Insulina, Senhor X foi encaminhado a um fisioterapeuta para melhora da atividade física e iniciou um programa de intervenção nutricional. Apesar da hipertensão e da diabetes, a função renal estava preservada. Quanto de proteína ele deve ingerir por dia?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "52 g ao dia antes do café-da-manhã.",
+          "explanation": "Incorreta: 52 g/dia é 1,0 g/kg e “antes do café” não faz sentido como ingestão única."
+        },
+        {
+          "letter": "B",
+          "text": "78 g ao dia divididas nas três principais refeições",
+          "explanation": "Correta: 78 g/dia = 1,5 g/kg/dia, distribuídos entre refeições."
+        },
+        {
+          "letter": "C",
+          "text": "156 g ao dia divididas nas três principais refeições.",
+          "explanation": "Incorreta: 156 g/dia = 3 g/kg/dia, acima da necessidade usual."
+        },
+        {
+          "letter": "D",
+          "text": "90 g ao dia em uma dose de suplemento após a atividade física.",
+          "explanation": "Incorreta: 90 g em dose única não segue distribuição proteica e é desproporcional. Ressalva: Avaliar estado clínico e tolerância renal; função renal preservada foi informada no enunciado. Gabarito técnico - PROVÃO M1 TURMA EF 68 Apêndice • 9"
+        }
+      ],
+      "page": 9,
+      "id": "provao-m1-2023:m1-q38:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Com 52 kg e risco nutricional, 1,2–1,5 g/kg/dia é faixa frequentemente indicada, o que corresponde a até 78 g/dia; dividir nas refeições favorece aporte.",
+      "answer": "B"
+    },
+    {
+      "number": 39,
+      "numberLabel": "M1 · 39",
+      "prompt": "A desprescrição de medicamentos está indicada para um paciente de mais de 80 anos principalmente quando ele faz uso regular de",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "medicamentos potencialmente inapropriados para idosos.",
+          "explanation": "Correta: indicação especialmente importante para rever riscos, interações e metas terapêuticas."
+        },
+        {
+          "letter": "B",
+          "text": "dois medicamentos para uma mesma doença crônica.",
+          "explanation": "Incorreta: dois fármacos para a mesma doença podem ser terapia combinada apropriada."
+        },
+        {
+          "letter": "C",
+          "text": "doses recomendadas para adultos jovens.",
+          "explanation": "Incorreta como regra: doses típicas de adultos jovens exigem individualização, mas não determinam automaticamente desprescrição. Ressalva: Alternativa D não existe no arquivo; comentários limitados às três opções efetivamente presentes."
+        }
+      ],
+      "page": 9,
+      "id": "provao-m1-2023:m1-q39:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Presença de medicamentos potencialmente inapropriados justifica revisão estruturada e, quando houver relação desfavorável benefício/risco, desprescrição planejada.",
+      "answer": "A"
+    },
+    {
+      "number": 40,
+      "numberLabel": "M1 · 40",
+      "prompt": "Caso clínico das questões 40–41: O Senhor Y de 63 anos, administrador, é trazido em consulta pela esposa que informa história de que há 2 anos o paciente começou a envolver-se em brigas e discussões, \"não media mais as palavras\", \"não suportava ser corrigido\". Nessa época foi demitido. Afirmava que era \"mais brilhante que todos da empresa e isso despertou inveja\". Tentou novo emprego, mas não conseguiu adaptar-se às novas tarefas. Logo, abandonou o emprego (\"era um profissional muito bom para aquilo\"). Há 6 meses está com perda de autocuidado e aumento exagerado do consumo de álcool. Frequentemente sai do banheiro e não fecha a calça, mesmo em locais públicos. Já expulsou visitas de casa sem motivo e de maneira grosseira. Mais recentemente, anda muito desinteressado, sem vontade e não se preocupa com ninguém, nem mesmo quando os seus dois netinhos pequenos adoecem. Durante a consulta a única queixa que apresenta é de dificuldade de dormir, mas levanta-se diversas vezes e caminha pelo consultório, vai até a janela e repete a mesma frase: \"Vai chover logo\". A pontuação do MEEM foi de 29 pontos, a do Pfeffer de 16 pontos e da Escala de Depressão Geriátrica foi de 1 ponto. Foi solicitada uma avaliação neuropsicológica que mostrou prejuízo na atenção, linguagem, planejamento, organização, resolução de problemas e abstração. Os outros domínios cognitivos estão preservados.\n\nAssinale a alternativa que apresenta qual é o diagnóstico mais provável para o caso do Senhor Y.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provável demência mista (Alzheimer associada à vascular)",
+          "explanation": "Incorreta: Alzheimer + componente vascular não explica melhor a síndrome predominantemente comportamental."
+        },
+        {
+          "letter": "B",
+          "text": "Provável demência frontotemporal variante de linguagem.",
+          "explanation": "Incorreta: não predomina afasia primária progressiva."
+        },
+        {
+          "letter": "C",
+          "text": "Possível demência por doença de Alzheimer pré-senil.",
+          "explanation": "Incorreta: déficits amnésicos progressivos predominantes não foram relatados."
+        },
+        {
+          "letter": "D",
+          "text": "Possível demência frontotemporal variante comportamental.",
+          "explanation": "Mais adequada: critérios clínicos permitem hipótese de DFT variante comportamental; confirmação exige investigação adicional. Ressalva: Classificações “possível” e “provável” dependem de critérios clínicos e imagem; a RM sem atrofia não afasta a hipótese."
+        }
+      ],
+      "page": 9,
+      "id": "provao-m1-2023:m1-q40:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Desinibição, perda de empatia, compulsões, hipersexualidade/comportamento social inadequado e disfunção executiva com memória relativamente preservada sugerem demência frontotemporal variante comportamental.",
+      "answer": "D"
+    },
+    {
+      "number": 41,
+      "numberLabel": "M1 · 41",
+      "prompt": "Caso clínico das questões 40–41: O Senhor Y de 63 anos, administrador, é trazido em consulta pela esposa que informa história de que há 2 anos o paciente começou a envolver-se em brigas e discussões, \"não media mais as palavras\", \"não suportava ser corrigido\". Nessa época foi demitido. Afirmava que era \"mais brilhante que todos da empresa e isso despertou inveja\". Tentou novo emprego, mas não conseguiu adaptar-se às novas tarefas. Logo, abandonou o emprego (\"era um profissional muito bom para aquilo\"). Há 6 meses está com perda de autocuidado e aumento exagerado do consumo de álcool. Frequentemente sai do banheiro e não fecha a calça, mesmo em locais públicos. Já expulsou visitas de casa sem motivo e de maneira grosseira. Mais recentemente, anda muito desinteressado, sem vontade e não se preocupa com ninguém, nem mesmo quando os seus dois netinhos pequenos adoecem. Durante a consulta a única queixa que apresenta é de dificuldade de dormir, mas levanta-se diversas vezes e caminha pelo consultório, vai até a janela e repete a mesma frase: \"Vai chover logo\". A pontuação do MEEM foi de 29 pontos, a do Pfeffer de 16 pontos e da Escala de Depressão Geriátrica foi de 1 ponto. Foi solicitada uma avaliação neuropsicológica que mostrou prejuízo na atenção, linguagem, planejamento, organização, resolução de problemas e abstração. Os outros domínios cognitivos estão preservados.\n\nVocê é o médico que está avaliando o Senhor Y. Fez a sua hipótese diagnóstica e solicitou exames laboratoriais e de imagem cerebral. Os exames laboratoriais não mostraram alterações que pudessem justificar o quadro e a Ressonância Magnética do Crânio não mostrou atrofia cerebral e o paciente tinha leve microangiopatia (Fazekas 1). Dentre os exames abaixo, qual você solicitaria a seguir por ser mais útil para a confirmação da hipótese diagnóstica?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Biomarcadores liquóricos (Proteínas TAU e Beta-amiloide)",
+          "explanation": "Incorreta como primeira complementação específica: tau e amiloide são mais ligados à investigação da patologia Alzheimer."
+        },
+        {
+          "letter": "B",
+          "text": "SPECT (cintilografia de perfusão) cerebral",
+          "explanation": "Correta: SPECT de perfusão está entre exames sugeridos quando permanece dúvida sobre DFT."
+        },
+        {
+          "letter": "C",
+          "text": "Eletroencefalograma.",
+          "explanation": "Incorreta: EEG não é confirmatório para esse padrão de demência."
+        },
+        {
+          "letter": "D",
+          "text": "Polissonografia.",
+          "explanation": "Incorreta: polissonografia avalia distúrbios de sono, não diagnóstico de DFT."
+        }
+      ],
+      "page": 10,
+      "id": "provao-m1-2023:m1-q41:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Diante de forte suspeita de DFT com RM sem atrofia relevante, exame funcional cerebral por SPECT de perfusão ou FDG-PET pode auxiliar a demonstrar acometimento frontotemporal.",
+      "answer": "B"
+    },
+    {
+      "number": 42,
+      "numberLabel": "M1 · 42",
+      "prompt": "A Síndrome da Imobilidade é muito conhecida pelos Geriatras e sua detecção impacta diretamente sobre o prognóstico e orientações aos familiares para cuidados com os pacientes. Sobre ela, assinale a alternativa que contenha um critério diagnóstico maior e um menor, respectivamente.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Déficit cognitivo grave e múltiplas contraturas.",
+          "explanation": "Incorreta: associa dois critérios usualmente classificados como maiores."
+        },
+        {
+          "letter": "B",
+          "text": "Disfagia grave e dupla incontinência.",
+          "explanation": "Incorreta: disfagia e dupla incontinência integram critérios menores."
+        },
+        {
+          "letter": "C",
+          "text": "Múltiplas contraturas e afasia.",
+          "explanation": "Correta: múltiplas contraturas (maior) + afasia (menor)."
+        },
+        {
+          "letter": "D",
+          "text": "Lesão por pressão e disfagia.",
+          "explanation": "Incorreta: lesão por pressão e disfagia representam critérios menores. Ressalva: Esses são critérios didáticos usados em geriatria brasileira; sua aplicação demanda avaliação clínica ampla."
+        }
+      ],
+      "page": 10,
+      "id": "provao-m1-2023:m1-q42:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Nos critérios clínicos tradicionais da síndrome da imobilidade, múltiplas contraturas são critério maior, enquanto afasia é critério menor.",
+      "answer": "C"
+    },
+    {
+      "number": 43,
+      "numberLabel": "M1 · 43",
+      "prompt": "A carga e a complexidade de sintomas ao fim de vida de diversas doenças crônicas são altas, assim, o ideal é que a avaliação dessas queixas sejam sistemáticas e regulares. Analise as afirmativas abaixo que se referem à escala de avaliação de sintomas de Edmonton (ESAS) e marque a alternativa verdadeira:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trata-se de escala de graduação que classifica a intensidade do sintoma de forma qualitativa apenas (leve, moderado e intenso)",
+          "explanation": "Incorreta: a escala principal é numérica, não apenas qualitativa."
+        },
+        {
+          "letter": "B",
+          "text": "Avalia sempre vinte sintomas básicos, dentre os quais constam prurido, agitação psicomotora e alterações do aspecto da pele",
+          "explanation": "Incorreta: número básico não é fixado em 20 sintomas, e os exemplos dados não são todos obrigatórios."
+        },
+        {
+          "letter": "C",
+          "text": "Existe a possibilidade de acrescentar outros sintomas para serem avaliados além dos sintomas básicos sempre presentes na escala.",
+          "explanation": "Correta: outros sintomas podem ser adicionados além do conjunto principal. Gabarito técnico - PROVÃO M1 TURMA EF 68 Apêndice • 10 Ressalva: A alternativa D não consta no PDF; não foi criada nem comentada. Gabarito técnico - PROVÃO M1 TURMA EF 68 Apêndice • 11"
+        }
+      ],
+      "page": 10,
+      "id": "provao-m1-2023:m1-q43:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "ESAS (Edmonton) usa escalas numéricas 0–10 para sintomas básicos e aceita acréscimo de outros sintomas conforme necessidades. O documento contém somente as alternativas A, B e C desta questão; um fragmento de outra questão, incompleto, foi desconsiderado.",
+      "answer": "C"
+    },
+    {
+      "number": 16,
+      "numberLabel": "M2 · 16",
+      "prompt": "A hiperplasia prostática benigna (HPB) é uma das doenças mais prevalentes do idoso. Estima-se que cerca de 50% dos homens maiores de 80 anos apresentam essa condição. A respeito deste tema, assinale a alternativa incorreta.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O arsenal terapêutico medicamentoso envolve Alfa bloqueadores que relaxam a musculatura lisa da próstata e inibidores da enzima 5-alfa-redutase que bloqueiam a conversão de testosterona em di-hidrotestosterona.",
+          "explanation": "Verdadeira: descreve as duas classes e seus alvos principais."
+        },
+        {
+          "letter": "B",
+          "text": "Foram descritos efeitos apoptóticos induzidos por bloqueadores alfa-1 e finasterida. Porém, esses efeitos são descritos como secundários e não se tem certeza se eles efeitos são suficientes para o controle da HPB.",
+          "explanation": "Parcialmente verdadeira: alterações apoptóticas foram investigadas, mas não são o principal mecanismo de benefício dos alfa-bloqueadores."
+        },
+        {
+          "letter": "C",
+          "text": "O tratamento farmacológico da HPB baseia-se na atuação dos fármacos sobre o componente mecânico desta patologia, com o uso de alfa-bloqueadores por diminuição do volume prostático e sobre o componente dinâmico com o uso de inibidores da 5-alfa-redutase.",
+          "explanation": "Correta como INCORRETA: inverte os mecanismos ao atribuir redução volumétrica aos alfa-bloqueadores e relaxamento dinâmico aos 5-ARI."
+        },
+        {
+          "letter": "D",
+          "text": "Antagonistas para receptores alfa 1-A e alfa 1-D, como a alfuzonina, têm uma incidência de hipotensão postural menor, devido à sua maior seletividade sobre os subtipos de adrenorreceptores.",
+          "explanation": "Imprecisa: alfuzosina tem uro-seletividade funcional, não seletividade robusta por subtipos α1A/α1D que explique, por si só, todo o perfil de hipotensão. Ressalva: Pela imprecisão da D, item pode ser questionado, mas C tem erro inequívoco."
+        }
+      ],
+      "page": 1,
+      "id": "provao-m1-2023:m2-q16:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "O componente dinâmico da HPB é reduzido por alfa-bloqueadores; o componente de volume é reduzido por inibidores da 5-alfa-redutase.",
+      "answer": "C"
+    },
+    {
+      "number": 17,
+      "numberLabel": "M2 · 17",
+      "prompt": "Acerca da farmacoterapia para tratamento da disfunção erétil, assinale a opção correta.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aos pacientes com ausência de ereção no TEFI (Teste de ereção farmacoinuzida) independente da integridade do sistema de veno-oclusão, deve ser recomendado o tratamento intracavernoso intermitente (FIC).",
+          "explanation": "Incorreta: falha em teste fármaco-induzido não significa automaticamente que injeção intracavernosa intermitente seja a indicação correta."
+        },
+        {
+          "letter": "B",
+          "text": "Agentes vasodilatadores como a fentolamina e a papaverina constituem o tratamento de primeira linha principalmente para pacientes com disfunção erétil de origem mista.",
+          "explanation": "Incorreta: papaverina/fentolamina não são primeira linha rotineira; inibidores PDE-5 são usualmente usados inicialmente."
+        },
+        {
+          "letter": "C",
+          "text": "O uso de drogas como etanol e de fármacos como determinadas classes de anti-hipertensivos e diuréticos estão associados com Disfunção Erétil de origem orgânica.",
+          "explanation": "Correta: álcool e determinados fármacos podem contribuir para disfunção erétil orgânica ou mista."
+        },
+        {
+          "letter": "D",
+          "text": "Agentes vasodilatadores como o alprostadil apesar de demonstrarem menor eficácia que os inibidores de PDE-5, são amplamente utilizados devido à conveniência de administração e baixa incidência de priapismo.",
+          "explanation": "Incorreta: alprostadil intracavernoso é invasivo e pode causar dor/priapismo; não é preferido pela conveniência."
+        }
+      ],
+      "page": 2,
+      "id": "provao-m1-2023:m2-q17:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Álcool e alguns anti-hipertensivos/diuréticos podem estar associados a disfunção erétil, conforme dose e condições clínicas.",
+      "answer": "C"
+    },
+    {
+      "number": 18,
+      "numberLabel": "M2 · 18",
+      "prompt": "No conceito de injúria renal aguda é certo dizer:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consiste no estágio 1 de IRA na KDIGO 2012.",
+          "explanation": "Incorreta: LRA abrange estágios 1–3; não equivale ao primeiro estágio."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento da creatinina ≥ 0,3 mg/dl em 12h",
+          "explanation": "Incorreta: 0,3 mg/dL é critério em 48 h, não em 12 h; se em 12 h, ainda satisfaz aumento observado no intervalo de 48 h, o que torna a literalidade ambígua."
+        },
+        {
+          "letter": "C",
+          "text": "Aumento da creatinina ≥ 2 vezes a basal, a qual é conhecida nos 7 dias anteriores.",
+          "explanation": "Mais adequada: duplicação da creatinina em 7 dias confirma LRA se a temporalidade for demonstrada."
+        },
+        {
+          "letter": "D",
+          "text": "Aumento da creatinina ≥ 2 vezes a basal, a qual é presumida.",
+          "explanation": "Imprecisa: “presumida” isoladamente carece de definição do intervalo temporal e referência basal. Ressalva: Alternativa B também pode ser biologicamente verdadeira caso elevação tenha ocorrido em 12 horas; a prova confunde limite máximo de observação com tempo mínimo, razão de possível recurso."
+        }
+      ],
+      "page": 2,
+      "id": "provao-m1-2023:m2-q18:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "KDIGO caracteriza LRA por aumento de creatinina ≥0,3 mg/dL em 48 h, aumento ≥1,5 vez em até 7 dias ou oligúria persistente.",
+      "answer": "C"
+    },
+    {
+      "number": 19,
+      "numberLabel": "M2 · 19",
+      "prompt": "Qual desses pacientes tem menor risco para injúria renal aguda?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Em uso de diurético",
+          "explanation": "Não é menor risco: volume intravascular pode ser reduzido por diuréticos."
+        },
+        {
+          "letter": "B",
+          "text": "Idoso",
+          "explanation": "Não é menor risco: reserva renal menor e comorbidades aumentam susceptibilidade."
+        },
+        {
+          "letter": "C",
+          "text": "Diabético",
+          "explanation": "Não é menor risco: diabetes aumenta risco em diversos contextos."
+        },
+        {
+          "letter": "D",
+          "text": "Alérgico a penicilina",
+          "explanation": "Correta: alergia isolada não eleva o risco basal de LRA. Gabarito técnico - PROVÃO M1 TURMA EF 68 Apêndice • 12"
+        }
+      ],
+      "page": 2,
+      "id": "provao-m1-2023:m2-q19:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Idade avançada, diabetes e uso de diuréticos podem aumentar vulnerabilidade à LRA; alergia a penicilina, isoladamente, não é fator clássico de risco.",
+      "answer": "D"
+    },
+    {
+      "number": 20,
+      "numberLabel": "M2 · 20",
+      "prompt": "A doença renal policística autossômica dominante tipo 1",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocorre por mutação no gene PKD2",
+          "explanation": "Incorreta: PKD2 define o tipo 2."
+        },
+        {
+          "letter": "B",
+          "text": "Ocorre por mutação no cromossomo 4",
+          "explanation": "Incorreta: PKD1 localiza-se no cromossomo 16."
+        },
+        {
+          "letter": "C",
+          "text": "É a doença policística renal mais comum.",
+          "explanation": "Correta: tipo 1 é a forma mais comum da doença policística autossômica dominante."
+        },
+        {
+          "letter": "D",
+          "text": "Acomete mais mulheres que homens.",
+          "explanation": "Incorreta: não há predominância feminina marcante definidora."
+        }
+      ],
+      "page": 2,
+      "id": "provao-m1-2023:m2-q20:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "DRPAD tipo 1 decorre geralmente de mutações PKD1 no cromossomo 16 e é mais frequente que o tipo 2 (PKD2, cromossomo 4).",
+      "answer": "C"
+    },
+    {
+      "number": 21,
+      "numberLabel": "M2 · 21",
+      "prompt": "Na hiponatremia dilucional: I O sódio está baixo por perda de sódio na urina II Um exemplo é a doença renal crônica III O sódio está baixo por redistribuição da água para o terceiro espaço IV O melhor tratamento é o uso de tiazídicos. (ALTERNATIVAS INCOMPLETAS) (INCOMPLETO) Paciente de 35 anos, masculino, ex-tabagista, é internado na UTI em insuficiência respiratória, devido à hemorragia [trecho à esquerda da fotografia cortado]. ... injúria renal aguda oligúrica e hipertensão arterial. Iniciado tratamento hemodialítico de urgência, anti-hipertensivos e investigação de causas secundárias para o quadro clínico. Laboratorialmente apresentava EAS com [trecho à esquerda cortado] ... hematúria e proteinúria com presença de cilindros hemáticos, proteinúria de 24 horas- 0,5 g/24 horas, ... sérica=5,5 mg/dL, ANCAs negativos e anticorpo anti-membrana basal reagente. O principal diagnóstico ... e etiológico neste caso são: (INCOMPLETO)",
+      "type": "discursive",
+      "options": [],
+      "page": 2,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Hiponatremia dilucional resulta de água em excesso em relação ao sódio; DRC avançada com retenção hídrica é causa possível.",
+      "id": "provao-m1-2023:m2-q21:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "M2 – questão 21 — SOMENTE II (SEM OPÇÕES)"
+    }
+  ],
+  "questionCount": 49
+}

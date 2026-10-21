@@ -1,0 +1,435 @@
+{
+  "id": "rodizio-m1-2023",
+  "title": "Prova Rodízio M1 (2023)",
+  "original": "PROVA RECENTE M1",
+  "key_source": "Gabarito comentado do PDF",
+  "questionCount": 14,
+  "questions": [
+    {
+      "number": 1,
+      "prompt": "Uma paciente de 58 anos apresenta-se no ambulatório com história de dor no joelho direito há anos com piora há 4 meses, associado a rigidez matinal de 25 minutos. Durante a deambulação, há intensificação da dor. Ao exames do joelho direito, observa-se crepitação a movimentação ativa e passiva. Qual o diagnóstico?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artrite reumatoide",
+          "explanation": "Incorreta. A artrite reumatoide costuma provocar sinovite inflamatória e rigidez matinal prolongada; não é o padrão predominante descrito."
+        },
+        {
+          "letter": "B",
+          "text": "Doença por pirofosfato de cálcio",
+          "explanation": "Incorreta como hipótese principal. A doença por depósito de pirofosfato pode acometer joelhos, mas faltam episódios agudos de sinovite ou identificação de cristais/condrocalcinose."
+        },
+        {
+          "letter": "C",
+          "text": "Osteoartrite",
+          "explanation": "Correta. Dor pior à deambulação, rigidez matinal de 25 minutos e crepitação favorecem osteoartrite."
+        },
+        {
+          "letter": "D",
+          "text": "Condromalácia de patela",
+          "explanation": "Incorreta como melhor resposta. A condropatia patelar pode causar dor anterior no joelho, mas o quadro geral crônico favorece osteoartrite."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "1",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2023:q1:1"
+    },
+    {
+      "number": 2,
+      "prompt": "Uma paciente de 38 anos relata 2 anos de evolução de dor e aumento de volume das articulações 2as, 3as, e 4as metacarpofalangeanas, os punhos e as 3as e 4as interfalangeanas, de forma aditiva. Relata dificuldade para realizar as atividades no período matinal com rigidez de 2 horas. Nega xeroftalmia, xerostomia, úlceras orais, fotossensibilidade, manchas na pele e fenômeno de Raynaud. Ao exame observa-se artrite das articulações envolvidas, desvio ulnar bilateral. Qual dos achados abaixo não é esperado para o caso?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radiografia com erosão subcondrais",
+          "explanation": "Esperada. Erosões periarticulares/marginais são achados radiográficos da artrite reumatoide; o termo subcondrais do enunciado é pouco específico."
+        },
+        {
+          "letter": "B",
+          "text": "Fator reumatoide positivo",
+          "explanation": "Esperada. O fator reumatoide pode ser positivo, embora sua negatividade não exclua a doença."
+        },
+        {
+          "letter": "C",
+          "text": "Velocidade de hemossedimentação elevada",
+          "explanation": "Esperada. A velocidade de hemossedimentação pode aumentar com inflamação ativa, sem ser específica."
+        },
+        {
+          "letter": "D",
+          "text": "Acometimento da coluna lombar",
+          "explanation": "Correta como a alternativa NÃO esperada. O acometimento axial típico da artrite reumatoide é cervical, não da coluna lombar."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "2",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2023:q2:2"
+    },
+    {
+      "number": 3,
+      "prompt": "ASS, 28 anos comparece ao consultório queixando-se de emagrecimento, dores do corpo com piora progressiva nos últimos 2 meses. Nega sintomas neurológicos, respiratórios, urinários e gastrointestinais. Relata muita astenia, dor em joelhos, tornozelos e com edema nos tornozelos. Ao exame está em bom estado geral, com mucosas descoradas moderadamente e com úlceras orais. Traz radiografia de tornozelo normal, hemoglobina =9g/dl, hematócrito = 26%; 90.000 plaquetas, 2000 leucócitos; urina 1 (EAS) com proteínas 2+. Assinale a alternativa que apresenta a principal hipótese diagnóstica e quais os exames para auxiliar na sua confirmação.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artrite reumatoide, anti CCP e velocidade de hemossedimentação",
+          "explanation": "Incorreta. Artrite reumatoide isoladamente não explica tão bem as citopenias em múltiplas linhagens, úlceras e alteração urinária."
+        },
+        {
+          "letter": "B",
+          "text": "Lúpus eritematoso sistêmico, anticorpo antinuclear e anti DNA",
+          "explanation": "Correta. FAN/ANA auxilia na triagem; anti-DNA de dupla hélice é autoanticorpo específico e pode apoiar avaliação de doença renal lúpica."
+        },
+        {
+          "letter": "C",
+          "text": "Síndrome de Sjogren, fator reumatoide e anti Ro",
+          "explanation": "Incorreta como melhor resposta. Sjögren costuma destacar sintomas de secura; anti-Ro pode ocorrer também no lúpus."
+        },
+        {
+          "letter": "D",
+          "text": "Hepatites virais, sorologias virais e pesquisa de crioglobulinemia.",
+          "explanation": "Incorreta como hipótese principal. Hepatites e crioglobulinemia são diferenciais em cenários apropriados, mas o conjunto descrito favorece lúpus."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "3",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2023:q3:3"
+    },
+    {
+      "number": 4,
+      "prompt": "O equilíbrio entre agentes anabólicos e agentes catabólicos determina a homeostase, e um desequilíbrio entre estes agentes, com predomínio dos catabólicos, ocasiona a degradação cartilaginosa observada na osteoartrite. Com relação à resposta catabólica dos condrócitos, a seguinte alteração é descrita:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "diminuição da síntese de proteoglicanos.",
+          "explanation": "Correta. Citocinas como IL-1β e TNF-α podem reduzir a síntese de proteoglicanos."
+        },
+        {
+          "letter": "B",
+          "text": "diminuição da síntese de metaloproteases.",
+          "explanation": "Incorreta. Há tipicamente aumento, não diminuição, de metaloproteinases degradativas."
+        },
+        {
+          "letter": "C",
+          "text": "aumento da síntese de inibitor tecidual do plasminogênio.",
+          "explanation": "Incorreta como mecanismo descrito. O aumento de inibidores fibrinolíticos não representa a principal alteração catabólica; a via proteolítica é complexa."
+        },
+        {
+          "letter": "D",
+          "text": "aumento da síntese de colágenos tipo II e IX.",
+          "explanation": "Incorreta. A síntese de colágenos estruturais, sobretudo tipo II, é comprometida no ambiente catabólico."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "4",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2023:q4:4"
+    },
+    {
+      "number": 5,
+      "prompt": "“A doença do manguito rotador pode se desenvolver apenas como tendinite ou evoluir para a ruptura.” Nesse contexto, torna-se indispensável realização de testes específicos que identificam a tendinite e de testes que avaliam a integridade dos tendões. Dentre os testes utilizados para avaliação da integridade dos tendões, incluem-se:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Neer e Hawkins.",
+          "explanation": "Incorreta. Neer e Hawkins-Kennedy são manobras relacionadas predominantemente ao conflito subacromial."
+        },
+        {
+          "letter": "B",
+          "text": "Palm-up test e Yergason.",
+          "explanation": "Incorreta. Palm-up e Yergason são empregados na investigação da cabeça longa do bíceps."
+        },
+        {
+          "letter": "C",
+          "text": "Jobe e Patte.",
+          "explanation": "Correta. Jobe e Patte são testes de força/função utilizados na avaliação dos tendões do manguito rotador."
+        },
+        {
+          "letter": "D",
+          "text": "Gerber e Yocum.",
+          "explanation": "Incorreta como conjunto. Gerber avalia subescapular, mas Yocum é sobretudo um teste de impacto subacromial."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "5",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2023:q5:5"
+    },
+    {
+      "number": 6,
+      "prompt": "VSB, sexo feminino, 32 anos, é encaminhada para ambulatório de reumatologia em uso antiinflamatórios, com dor intensa na mão direita. Relata que não gosta de atividades físicas e que fica muitas horas seguidas no uso de computador, tablet ou celular. O possível diagnóstico é a Tenossinovite Estenosante De Quervain, que abrange o primeiro compartimento dorsal (tendões do abdutor longo e do extensor curto do polegar). Assinale o teste adequado para a sua confirmação?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thompson",
+          "explanation": "Incorreta. Thompson pesquisa integridade do tendão calcâneo (Aquiles)."
+        },
+        {
+          "letter": "B",
+          "text": "Tinel",
+          "explanation": "Incorreta. Tinel investiga irritação/lesão de nervos periféricos, não sendo teste específico para De Quervain."
+        },
+        {
+          "letter": "C",
+          "text": "Finkelstein",
+          "explanation": "Correta. A manobra de Finkelstein reproduz dor no lado radial do punho em casos compatíveis com De Quervain."
+        },
+        {
+          "letter": "D",
+          "text": "Cosen",
+          "explanation": "Incorreta. Cozen (grafado \"Cosen\" no enunciado) é relacionado à epicondilite lateral do cotovelo."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "6",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2023:q6:6"
+    },
+    {
+      "number": 7,
+      "prompt": "Os auto-anticorpos devem ser solicitados nos cenários em que se suspeita de uma doença inflamatória imunomediada. A dosagem positiva dos anticorpos anti-DNA dupla hélice e anti-Sm tem maior especificidade para o diagnóstico de",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lúpus eritematoso sistêmico.",
+          "explanation": "Correta. Os dois autoanticorpos estão entre os marcadores imunológicos específicos reconhecidos para o LES."
+        },
+        {
+          "letter": "B",
+          "text": "doença de Behçet.",
+          "explanation": "Incorreta. Behçet tem diagnóstico essencialmente clínico; esses anticorpos não o caracterizam."
+        },
+        {
+          "letter": "C",
+          "text": "doença mista do colágeno.",
+          "explanation": "Incorreta. A doença mista do tecido conjuntivo é mais associada a anti-U1-RNP de alto título."
+        },
+        {
+          "letter": "D",
+          "text": "dermatopolimiosite.",
+          "explanation": "Incorreta. Dermatomiosite tem outros perfis sorológicos, como anti-Mi-2 e anticorpos específicos de miosite."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "7",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2023:q7:7"
+    },
+    {
+      "number": 8,
+      "prompt": "Durante a expansão cutânea realizada para reconstrução de uma sequela de queimaduras, o que podemos observar na área tecidual operada?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atrofia da derme",
+          "explanation": "Verdadeira. Ocorre afinamento/atrofia relativa da derme sob tensão."
+        },
+        {
+          "letter": "B",
+          "text": "Hipertrofia da epiderme",
+          "explanation": "Verdadeira. Pode ocorrer espessamento/hiperplasia da epiderme."
+        },
+        {
+          "letter": "C",
+          "text": "Formação de cápsula fibrosa em volta do expansor",
+          "explanation": "Verdadeira. Forma-se cápsula fibrosa reacional ao redor do expansor."
+        },
+        {
+          "letter": "D",
+          "text": "Todas estão corretas",
+          "explanation": "Correta. A, B e C são achados documentados; portanto, todas estão corretas."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "8",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2023:q8:8"
+    },
+    {
+      "number": 9,
+      "prompt": "Você está descrevendo os riscos e benefícios da expansão tecidual para os pais de uma criança que apresenta uma área de alopécia no couro cabeludo. Qual das seguintes alternativas constitui a principal vantagem da expansão tecidual para esta criança?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O menor número de procedimentos com anestesia geral",
+          "explanation": "Incorreta. A expansão pode exigir implantação, expansão seriada e segundo procedimento; não garante menos anestesias."
+        },
+        {
+          "letter": "B",
+          "text": "O menor número de consultas clínicas hospitalares",
+          "explanation": "Incorreta. Requer retornos ambulatoriais frequentes para expansão e acompanhamento."
+        },
+        {
+          "letter": "C",
+          "text": "O defeito pode fechar diretamente utilizando um retalho de pele com cabelo",
+          "explanation": "Correta. Permite avançar pele do couro cabeludo que mantém unidades pilosas, com melhor semelhança de tecido."
+        },
+        {
+          "letter": "D",
+          "text": "A reconstrução pode ser terminada rapidamente",
+          "explanation": "Incorreta. Expansão convencional ocorre ao longo de semanas ou meses, e não é um método de finalização rápida."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "9",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2023:q9:9"
+    },
+    {
+      "number": 10,
+      "prompt": "Paciente 38 anos, masculino, tem acidente de carro e chega ao Pronto-socorro queixando-se de muita dor na coluna, e logo após exame clínico é feito a hipótese de fratura de coluna toracolombar, que é confirmado pelo R-x coluna torácica e lombar. É considerado critério de instabilidade na fratura explosão da coluna toracolombar:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cifose maior do que 10 graus",
+          "explanation": "Incorreta como critério isolado. Cifose superior a 10° não é, por si, limiar universal de instabilidade."
+        },
+        {
+          "letter": "B",
+          "text": "achatamento maior do que 20 graus",
+          "explanation": "Incorreta como critério isolado. O enunciado fornece graus para achatamento, unidade inadequada; perda de altura precisa ser quantificada e interpretada com outros dados."
+        },
+        {
+          "letter": "C",
+          "text": "déficit neurológico",
+          "explanation": "Mais defensável no contexto clínico. O déficit neurológico é um fator de gravidade e integra avaliações contemporâneas de lesões toracolombares, mas não define sozinho instabilidade mecânica."
+        },
+        {
+          "letter": "D",
+          "text": "destruição da coluna média",
+          "explanation": "Possível resposta histórica (ressalva). Na teoria de Denis a lesão da coluna média era considerada sinal de instabilidade; hoje, o envolvimento da coluna média também integra fraturas explosivas que podem ser estáveis."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "10",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2023:q10:10"
+    },
+    {
+      "number": 11,
+      "prompt": "Os primeiros cuidados no trauma de extremidades devem ser feitos pelo protocolo PRICE, onde é incorreto afirmar:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "P significa proteção",
+          "explanation": "Correta como definição de letra. P corresponde a protection/proteção."
+        },
+        {
+          "letter": "B",
+          "text": "R significa repouso",
+          "explanation": "Correta como definição de letra. R corresponde a rest/repouso."
+        },
+        {
+          "letter": "C",
+          "text": "I significa imobilização",
+          "explanation": "Alternativa INCORRETA solicitada. I significa ice (gelo), e não imobilização, embora imobilizar possa ser útil conforme a lesão."
+        },
+        {
+          "letter": "D",
+          "text": "C significa compressão leve",
+          "explanation": "Correta como definição de letra. C é compression, habitualmente compressão sem comprometer a perfusão."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "11",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2023:q11:11"
+    },
+    {
+      "number": 12,
+      "prompt": "Paciente após acidente motociclístico, apresenta fratura exposta de membro superior Esquerdo, com sangramento abundante. Para se estancar uma hemorragia devemos realizar a seguinte sequência:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compressão direta do ferimento, elevação do membro, compressão da artéria proximal, pinçamento dos cotos vasculares e torniquete",
+          "explanation": "Inadequada. Começa com compressão direta, mas posterga o torniquete até depois de pinçamento de vasos, que não é rotina no primeiro atendimento."
+        },
+        {
+          "letter": "B",
+          "text": "Elevação do membro, compressão da artéria proximal, compressão direto do ferimento, torniquete e pinçamento dos cotos vasculares",
+          "explanation": "Inadequada. Antecede a compressão direta por elevação e compressão proximal, atrasando o controle efetivo do sangramento."
+        },
+        {
+          "letter": "C",
+          "text": "Compressão direta do ferimento, compressão da artéria proximal, torniquete e pinçamento dos cotos vasculares, elevação do membro",
+          "explanation": "Inadequada. Inclui etapas não recomendadas rotineiramente e deixa elevação por último; não expressa uma sequência segura padronizada."
+        },
+        {
+          "letter": "D",
+          "text": "Compressão direta do ferimento, elevação do membro, compressão da artéria proximal, torniquete e pinçamento dos cotos vasculares",
+          "explanation": "Provável resposta tradicional, porém tecnicamente inadequada hoje. Compressão direta é apropriada; elevação e compressão proximal não são etapas obrigatórias, e pinçamento de cotos vasculares não deve constar de manobra leiga. Em sangramento grave de extremidade, torniquete pode ser necessário precocemente."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "12",
+      "answerIssue": "sem_resposta",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2023:q12:12"
+    },
+    {
+      "number": 13,
+      "prompt": "Uma paciente de 24 anos, brasileira, foi submetida à plastica mamária (mastopexia com prótese) há 90 dias e queixa-se da qualidade de sua cicatriz. A mesma refere que apresenta ardência local eventualmente. Ao exame físico da cicatriz: encontra-se com coloração avermelhada, de consistência pouco mais endurecida e levemente elevada, porém não ultrapassando os limites da própria cicatriz. Essa paciente apresenta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "uma cicatriz queloidiana.",
+          "explanation": "Incorreta. Queloide habitualmente ultrapassa os limites da ferida original."
+        },
+        {
+          "letter": "B",
+          "text": "um tumor desmóide.",
+          "explanation": "Incorreta. Tumor desmoide é proliferação fibromatosa profunda, e não uma cicatriz elevada típica da incisão."
+        },
+        {
+          "letter": "C",
+          "text": "uma cicatriz hipertrófica.",
+          "explanation": "Correta. Elevação restrita à linha cirúrgica, vermelhidão e endurecimento aos 90 dias caracterizam cicatriz hipertrófica."
+        },
+        {
+          "letter": "D",
+          "text": "um carcinoma basocelular.",
+          "explanation": "Incorreta. Carcinoma basocelular não é explicado pela evolução comum de uma cicatriz recente e teria outros sinais clínicos."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "13",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2023:q13:13"
+    },
+    {
+      "number": 14,
+      "prompt": "Quanto à fratura exposta, temos os seguintes cuidados: I - não movimentar o acidentado; II - imobilizar o local atingido usando talas improvisadas; III - tentar colocar o osso no lugar, puxando as extremidades do membro afetado, para que não ocorra maior perfuração de órgãos ou rompimento de veias ou artérias; IV - amarrar a tala com tiras de pano, em lugares acima e abaixo do local fraturado; V - a vítima ser encaminhada ao hospital mais próximo. Dos procedimentos acima, o único totalmente INCORRETO: As alternativas desta questão não estão presentes no arquivo fornecido.",
+      "type": "discursive",
+      "options": [],
+      "page": 4,
+      "numberLabel": "14",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2023:q14:14"
+    }
+  ]
+}

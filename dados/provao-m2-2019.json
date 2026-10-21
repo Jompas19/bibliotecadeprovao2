@@ -1,0 +1,869 @@
+{
+  "id": "provao-m2-2019",
+  "title": "Provão M2 (2019)",
+  "original": "Provão uro e nefro - Junho",
+  "key_source": "Gabarito comentado do PDF",
+  "questionCount": 28,
+  "questions": [
+    {
+      "number": 1,
+      "prompt": "Sobre a Doença Renal Policística:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mutação no gene PKD2 é mais frequente que em PKD1",
+          "explanation": "INCORRETA. PKD1 é mais frequente que PKD2 na DRPAD, embora as proporções variem segundo a população estudada."
+        },
+        {
+          "letter": "B",
+          "text": "O alvo da osmolalidade urinária é de 100 mOsm/KgH2O para diminuir o crescimento dos cistos",
+          "explanation": "INCORRETA. Não existe recomendação universal de osmolalidade urinária de 100 mOsm/kg. Hidratação, vasopressina e metas individualizadas dependem de função renal, sintomas e risco."
+        },
+        {
+          "letter": "C",
+          "text": "A tipo 1 é mais benigna que a tipo 2",
+          "explanation": "INCORRETA. Em geral, doença por PKD1 evolui com fenótipo renal mais grave e perda de função mais precoce que PKD2."
+        },
+        {
+          "letter": "D",
+          "text": "As células dos cistos apresentam mutação nós dois alelos dos genes PKD",
+          "explanation": "CORRETA NO MODELO CLÁSSICO. A formação focal de cistos pode seguir o modelo de dois eventos (two-hit), com variante germinativa em uma cópia e inativação somática da cópia funcional no epitélio cístico. Ressalva / interpretação: “Dois alelos” não significa que PKD1 e PKD2 precisem ambos estar alterados. O modelo de dois eventos explica muitos cistos, sem impor que todos tenham mecanismo idêntico."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "1",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q1:1"
+    },
+    {
+      "number": 2,
+      "prompt": "Exemplos de IRA Pré-Renal:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rabdomiólise, vômitos e diarreia",
+          "explanation": "INCORRETA. Vômitos e diarreia geram hipovolemia pré-renal, mas rabdomiólise é causa típica de lesão tubular intrínseca por mioglobina."
+        },
+        {
+          "letter": "B",
+          "text": "Trombose de veia renal, infarto agudo do miocárdio e vômitos",
+          "explanation": "INCORRETA. IAM pode reduzir perfusão renal e vômitos causam depleção volêmica, mas trombose de veia renal representa doença vascular renal, não exemplo habitual de IRA pré-renal."
+        },
+        {
+          "letter": "C",
+          "text": "Hiperplasia prostática benigna, infarto agudo do miocárdio e diarreia",
+          "explanation": "INCORRETA. Hiperplasia prostática benigna com retenção constitui causa pós-renal; IAM e diarreia podem desencadear componente pré-renal."
+        },
+        {
+          "letter": "D",
+          "text": "Insuficiência cardíaca, diarreia e vômitos",
+          "explanation": "CORRETA. Insuficiência cardíaca, diarreia e vômitos podem comprometer a perfusão renal, por baixo débito ou perda de volume circulante efetivo."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "2",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q2:2"
+    },
+    {
+      "number": 3,
+      "prompt": "Bactéria mais frequente na Infecção do Trato Urinário:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "E. coli",
+          "explanation": "CORRETA. Escherichia coli é o principal uropatógeno nas ITUs comunitárias, especialmente nas cistites não complicadas."
+        },
+        {
+          "letter": "B",
+          "text": "Proteus mirabilis",
+          "explanation": "INCORRETA. Proteus mirabilis causa ITU e pode formar cálculos de estruvita, mas é menos comum que E. coli."
+        },
+        {
+          "letter": "C",
+          "text": "Klebsiella sp",
+          "explanation": "INCORRETA. Klebsiella spp. é agente relevante, sobretudo em pacientes com comorbidades ou assistência à saúde, mas não o predominante globalmente."
+        },
+        {
+          "letter": "D",
+          "text": "Pseudomona sp",
+          "explanation": "INCORRETA. Pseudomonas spp. relaciona-se a ITU complicada, cateterização e ambiente hospitalar; não lidera a frequência geral."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "3",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q3:3"
+    },
+    {
+      "number": 4,
+      "prompt": "Na verdadeira hematúria glomerular o teste de dismorfismo eritrocitário mostra alterações de forma utilizando:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Microscópio de imunofluorescência",
+          "explanation": "INCORRETA. Imunofluorescência é usada para identificar marcadores ou depósitos, principalmente em biópsias, não para a avaliação morfológica habitual dos eritrócitos urinários."
+        },
+        {
+          "letter": "B",
+          "text": "Microscópio óptico",
+          "explanation": "INSUFICIENTE COMO RESPOSTA CLÁSSICA. A microscopia óptica comum pode mostrar hemácias e alterações, mas oferece menor resolução de detalhes morfológicos nesse uso."
+        },
+        {
+          "letter": "C",
+          "text": "Microscópio eletrônico",
+          "explanation": "INCORRETA. Microscopia eletrônica não é o método rotineiro para contagem e descrição de dismorfismo eritrocitário na urina."
+        },
+        {
+          "letter": "D",
+          "text": "Microscópio de contraste de fase",
+          "explanation": "CORRETA. Microscopia de contraste de fase permite reconhecer dismorfismo, sobretudo acantócitos, reforçando origem glomerular da hematúria. Ressalva / interpretação: A presença de hemácias dismórficas é sugestiva, não equivalente a diagnóstico etiológico definitivo. Interpretar junto a cilindros, albuminúria e quadro clínico."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "4",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q4:4"
+    },
+    {
+      "number": 5,
+      "prompt": "Causa mais frequente de litíase urinária:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estruvita",
+          "explanation": "INCORRETA. Estruvita é típica de cálculos relacionados a infecção por bactérias produtoras de urease; representa parcela menor."
+        },
+        {
+          "letter": "B",
+          "text": "Oxalato de fósforo",
+          "explanation": "INCORRETA. “Oxalato de fósforo” não corresponde à classificação composicional usual; fosfato de cálcio e oxalato de cálcio são categorias distintas."
+        },
+        {
+          "letter": "C",
+          "text": "Oxalato de cálcio",
+          "explanation": "CORRETA. Os cálculos de oxalato de cálcio são os mais frequentes na população geral."
+        },
+        {
+          "letter": "D",
+          "text": "Ácido úrico",
+          "explanation": "INCORRETA. Cálculos de ácido úrico são relevantes, sobretudo com urina ácida, mas não os mais comuns."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "5",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q5:5"
+    },
+    {
+      "number": 6,
+      "prompt": "Qual antibiótico que tem menor resistência bacteriana na ITU?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sulfametoxazol + Trimetoprima",
+          "explanation": "MENOS ADEQUADA EMPIRICAMENTE. A resistência de E. coli a sulfametoxazol-trimetoprima pode ser elevada e deve orientar-se por antibiograma e epidemiologia local."
+        },
+        {
+          "letter": "B",
+          "text": "Amoxicilina",
+          "explanation": "MENOS ADEQUADA. Resistência às aminopenicilinas, como amoxicilina isolada, é frequente em uropatógenos comuns."
+        },
+        {
+          "letter": "C",
+          "text": "Nitrofurantoína",
+          "explanation": "MELHOR RESPOSTA PROVÁVEL. Nitrofurantoína mantém, em muitos cenários, boa atividade contra E. coli e figura como primeira linha na cistite localizada em mulheres."
+        },
+        {
+          "letter": "D",
+          "text": "Ciprofloxacino",
+          "explanation": "MENOS ADEQUADA. Resistência às fluoroquinolonas e riscos de efeitos adversos limitam ciprofloxacino como primeira escolha em cistite simples. Ressalva / interpretação: Não existe antibiótico universalmente “de menor resistência”: depende de espécie, local, ano e população. Nitrofurantoína não é tratamento adequado para pielonefrite por baixa concentração tecidual renal."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "6",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q6:6"
+    },
+    {
+      "number": 7,
+      "prompt": "Classificação G3bA2 ta TFG e microalbuminúria corresponde a",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "TFG 30-49; albumina 30-300",
+          "explanation": "INCORRETA. G3b exige TFG 30-44, não 30-49 mL/min/1,73 m²."
+        },
+        {
+          "letter": "B",
+          "text": "TFG 70-90; albumina <30",
+          "explanation": "INCORRETA. TFG 70-90 e albuminúria inferior a 30 não correspondem a G3bA2."
+        },
+        {
+          "letter": "C",
+          "text": "TFG 15-30; albumina >300",
+          "explanation": "INCORRETA. TFG 15-29 representa G4; albuminúria superior a 300 mg/g é A3."
+        },
+        {
+          "letter": "D",
+          "text": "TFG 30-44/ albumina 30-300",
+          "explanation": "CORRETA. G3b corresponde a TFG 30-44 mL/min/1,73 m²; A2 corresponde a relação albumina/creatinina urinária 30-300 mg/g (aproximadamente). Ressalva / interpretação: Para classificar DRC são necessários critérios de cronicidade de pelo menos 3 meses, não apenas uma medida isolada."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "7",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q7:7"
+    },
+    {
+      "number": 8,
+      "prompt": "Porque a maior causa de DRC no brasil é Hipertensão, e nos países desenvolvidos é a Diabetes?",
+      "type": "discursive",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resposta no gabarito"
+        }
+      ],
+      "page": 2,
+      "numberLabel": "8",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q8:8"
+    },
+    {
+      "number": 12,
+      "prompt": "A classificação KDOQI da Lesão renal aguda foi estabelecida para:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Homogeneizar os critérios diagnósticos de LRA",
+          "explanation": "CORRETA COMO FINALIDADE PRIMÁRIA. Critérios padronizados permitem uniformizar diagnóstico e gravidade da IRA/LRA e comparar estudos e serviços."
+        },
+        {
+          "letter": "B",
+          "text": "Escalonar o risco de mortalidade da LRA",
+          "explanation": "VERDADEIRA COMO CONSEQUÊNCIA, não como finalidade isolada: estágios crescentes se associam a risco maior de mortalidade e outros desfechos."
+        },
+        {
+          "letter": "C",
+          "text": "Auxiliar nos critérios de indicação de terapia de substituição da função renal",
+          "explanation": "IMPRECISA. A estratificação auxilia avaliação de gravidade, mas não determina isoladamente indicação de diálise, que depende de alterações clínicas e metabólicas. PROVÃO UROLOGIA E NEFROLOGIA | Gabarito técnico comentado"
+        },
+        {
+          "letter": "D",
+          "text": "Todos os itens acima",
+          "explanation": "NÃO RIGOROSAMENTE CORRETA. “Todas” pressupõe que a classificação estabelece critérios de terapia substitutiva; na prática, ela não substitui a avaliação clínica. Ressalva / interpretação: O arquivo fala “KDOQI”, embora as classificações usuais de IRA sejam RIFLE, AKIN e KDIGO. O gabarito original marca D; com leitura rigorosa das recomendações atuais, A é mais defensável, reconhecendo-se a utilidade prognóstica de B."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "12",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q12:12"
+    },
+    {
+      "number": 13,
+      "prompt": "Paciente de 65 anos, sexo feminino, com antecedente de Câncer de estômago há 02 anos, evoluiu com síndrome nefrótica. A biópsia renal da paciente mostra espessamento da membrana basal glomerular sem proliferação capsular ou presença de crescentes. O diagnóstico baseado nas informações é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Glomerulonefrite por lesão mínima",
+          "explanation": "INCORRETA. Doença de lesões mínimas geralmente mostra glomérulos de aspecto quase normal à microscopia óptica."
+        },
+        {
+          "letter": "B",
+          "text": "Glomeruloesclerose segmentar e focal",
+          "explanation": "INCORRETA. GESF apresenta esclerose de segmentos de alguns glomérulos, não espessamento difuso isolado da membrana basal."
+        },
+        {
+          "letter": "C",
+          "text": "Membranosa",
+          "explanation": "CORRETA. Nefropatia membranosa cursa com espessamento de paredes capilares sem proliferação marcante; pode estar associada a tumores sólidos."
+        },
+        {
+          "letter": "D",
+          "text": "Membranoproliferativa",
+          "explanation": "INCORRETA. Padrão membranoproliferativo tipicamente envolve proliferação mesangial/endocapilar e duplicação da membrana basal. Ressalva / interpretação: Histologia descritiva isolada é sugestiva, não confirma mecanismo tumoral. Imunofluorescência, microscopia eletrônica e estudo etiológico são necessários."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "13",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q13:13"
+    },
+    {
+      "number": 14,
+      "prompt": "Paciente de 6 anos, sexo feminino, com presença de edema há 02 dias, cansaço, dispneia, com urina escura e avermelhada. Refere ter tido histórico de amigdalite purulenta há 3 meses atrás. Por essas informações, qual o diagnóstico mais provável e sua respectiva conduta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Glomerulonefrite pós estreptocócica, uso de diuréticos",
+          "explanation": "MELHOR ENTRE AS OFERECIDAS. Glomerulonefrite pós-estreptocócica pode causar edema, hematúria macroscópica, hipertensão e oligúria; diuréticos de alça são usados conforme sobrecarga de volume."
+        },
+        {
+          "letter": "B",
+          "text": "Nefrite lúpica, uso de corticóides",
+          "explanation": "MENOS PROVÁVEL. Nefrite lúpica requer contexto clínico-imunológico compatível, não fornecido; corticoides não devem ser presumidos."
+        },
+        {
+          "letter": "C",
+          "text": "Glomerulonefrite rapidamente progressiva, uso de IECA",
+          "explanation": "MENOS PROVÁVEL. Glomerulonefrite rapidamente progressiva demanda evidência de declínio acelerado da função renal e investigação urgente, não apenas IECA."
+        },
+        {
+          "letter": "D",
+          "text": "Vasculite renal, uso de imunossupressor",
+          "explanation": "MENOS PROVÁVEL. Vasculite renal exige sinais e exames de suporte; imunossupressão não deve ser instituída apenas pelos sintomas apresentados. Ressalva / interpretação: RESSALVA RELEVANTE: três meses entre amigdalite e síndrome nefrítica fogem ao período habitual pós-faringite estreptocócica (cerca de 10 dias; geralmente 1-3 semanas). Confirmar função renal, complemento C3, ASO/anti-DNase B, pressão arterial e outras etiologias antes de fechar diagnóstico."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "14",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q14:14"
+    },
+    {
+      "number": 18,
+      "prompt": "Qual a principal causa metabólica de litíase urinária",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipercalciúria primária",
+          "explanation": "CORRETA ENTRE AS OPÇÕES. Hipercalciúria é uma das alterações metabólicas mais frequentes associadas a cálculos de cálcio; frequentemente é idiopática."
+        },
+        {
+          "letter": "B",
+          "text": "Hiperoxalúria",
+          "explanation": "INCORRETA COMO PRINCIPAL GERAL. Hiperoxalúria é importante, mas não é o marcador mais clássico entre as opções para litíase cálcica."
+        },
+        {
+          "letter": "C",
+          "text": "Cistinúria",
+          "explanation": "INCORRETA. Cistinúria é doença hereditária rara que causa cálculos de cistina."
+        },
+        {
+          "letter": "D",
+          "text": "Hipomagnesúria",
+          "explanation": "INCORRETA. Hipomagnesúria é fator predisponente menos comum do que hipercalciúria. Ressalva / interpretação: A frequência relativa de hipercalciúria e hiperoxalúria depende de critérios e população; a EAU relata faixas sobrepostas. O termo “primária” no arquivo provavelmente pretende dizer hipercalciúria idiopática."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "18",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q18:18"
+    },
+    {
+      "number": 19,
+      "prompt": "Qual afirmação está incorreta sobre os fármacos Sildenafil, Tadalafil e Vardenafil",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comida gordurosa inibe a absorção de Sildenafil e Vardenafil, mas não de Tadalafila",
+          "explanation": "ESSENCIALMENTE CORRETA, COM RESSALVA. Refeição gordurosa pode atrasar a absorção de sildenafil e vardenafil; tadalafil sofre pouca interferência alimentar. “Inibir” é termo impreciso. PROVÃO UROLOGIA E NEFROLOGIA | Gabarito técnico comentado"
+        },
+        {
+          "letter": "B",
+          "text": "O prejuízo visual é mais comum na Sildenafil do que na Vardenafil e Tadalafil",
+          "explanation": "CORRETA EM TERMOS COMPARATIVOS. Alterações visuais transitórias são mais associadas a sildenafil, embora possam ocorrer com outros inibidores de PDE5."
+        },
+        {
+          "letter": "C",
+          "text": "A maior meia vida plasmática é de Tadalafil",
+          "explanation": "CORRETA. Tadalafil tem meia-vida de cerca de 17,5 horas, maior que sildenafil e vardenafil (aproximadamente 3-4 horas)."
+        },
+        {
+          "letter": "D",
+          "text": "Mialgia e dor lombar é menos comum na Tadalafil",
+          "explanation": "INCORRETA (É A SOLICITADA). Mialgia e dor lombar são efeitos adversos caracteristicamente mais associados à tadalafil, não menos comuns nela."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "19",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q19:19"
+    },
+    {
+      "number": 20,
+      "prompt": "Qual afirmação está incorreta sobre os fármacos Finasterida e Dutasterida",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Finasterida diminui menos a DHT plasmática que Dutasterida",
+          "explanation": "CORRETA. Dutasterida inibe isoenzimas 5-alfa-redutase tipo 1 e 2, e reduz DHT circulante mais intensamente que finasterida (tipo 2)."
+        },
+        {
+          "letter": "B",
+          "text": "Finasterida diminui de 20 a 30% o volume da próstata enquanto Dutasterida diminui 26%",
+          "explanation": "APROXIMADAMENTE CORRETA. Ambas reduzem volume prostático, geralmente da ordem de 18-28%; porcentagens pontuais diferem por dose, duração e estudo."
+        },
+        {
+          "letter": "C",
+          "text": "Disfunção erétil é igualmente comum na FInasterida e na Dutasterida e é aproximadamente de 8%",
+          "explanation": "IMPRECISA. Disfunção erétil pode ocorrer com ambas, mas equivalência exata e incidência fixa de “8%” não podem ser universalizadas."
+        },
+        {
+          "letter": "D",
+          "text": "Diminuição do libido é 3 vezes mais maior na Finasterida que na Dutasterida",
+          "explanation": "INCORRETA MAIS CLARA (É A SOLICITADA). Não há base robusta para afirmar que redução de libido é exatamente três vezes mais comum com finasterida que com dutasterida. Ressalva / interpretação: A ausência de contexto para as porcentagens prejudica a precisão também em B e C. A distinção robusta é a inibição dual da dutasterida e os efeitos sexuais possíveis de ambas."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "20",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q20:20"
+    },
+    {
+      "number": 21,
+      "prompt": "Marque a alternativa incorreta em relação aos antagonistas alfa-1 utilizados no tratamento da HPB:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Os novos antagonistas alfa-1, como a tansulosina e a alfuzosina provocam menos hipotensão e podem ser administradas uma vez ao dia.",
+          "explanation": "CORRETA EM GERAL. Formulações apropriadas de tansulosina e alfuzosina são usadas uma vez ao dia; costumam apresentar menor repercussão pressórica que alguns agentes não seletivos."
+        },
+        {
+          "letter": "B",
+          "text": "A tansulosina tem sido o mais utilizado atualmente.",
+          "explanation": "PLAUSÍVEL. Tansulosina é amplamente utilizada, mas “a mais usada” depende do país e período e não é verdade universal."
+        },
+        {
+          "letter": "C",
+          "text": "Existe a possibilidade de tratamento combinado da HPB: tansulosina + finasterida.",
+          "explanation": "CORRETA. Associação alfa-bloqueador e inibidor da 5-alfa-redutase pode ser indicada em pacientes selecionados com sintomas e próstata aumentada."
+        },
+        {
+          "letter": "D",
+          "text": "A terazosina, por ser um antagonista alfa-1-C, é o fármaco mais potente para o tratamento da HPB.",
+          "explanation": "INCORRETA (É A SOLICITADA). Terazosina não é antagonista específico de um suposto receptor alfa-1C; é bloqueador alfa-1 não seletivo e não é comprovadamente a opção mais potente."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "21",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q21:21"
+    },
+    {
+      "number": 22,
+      "prompt": "Sobre escroto agudo, assinale a correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ultrassonografia com doppler é exame que nada ajuda na investigação.",
+          "explanation": "INCORRETA. Ultrassonografia Doppler é útil em casos duvidosos, se obtida sem atrasar cirurgia quando a suspeita clínica é alta."
+        },
+        {
+          "letter": "B",
+          "text": "Torção do cordão espermático (ou de testículo) é o diagnóstico a ser excluído no atendimento do paciente com dor testicular aguda. Sabe-se que quase a totalidade dos testículos é preservada quando a exploração cirúrgica é realizada em até 6h do início do quadro.",
+          "explanation": "CORRETA. Torção deve ser excluída prontamente; a chance de salvamento é maior nas primeiras 4-6 horas, caindo com a duração da isquemia."
+        },
+        {
+          "letter": "C",
+          "text": "Em caso de abordagem cirúrgica em que confirme a torção testicular, a fixação do testículo contralateral não é necessária.",
+          "explanation": "INCORRETA. É habitual realizar orquidopexia contralateral durante exploração da torção para evitar evento no lado oposto."
+        },
+        {
+          "letter": "D",
+          "text": "Traumas contusos de testículo não podem ter indicação de tratamento cirúrgico.",
+          "explanation": "INCORRETA. Trauma contuso pode exigir cirurgia quando há rotura testicular, hematocele importante ou outras complicações. Ressalva / interpretação: “Quase todos” preservados em até 6h é estimativa aproximada, não garantia: viabilidade depende do tempo, grau de torção e condições locais."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "22",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q22:22"
+    },
+    {
+      "number": 23,
+      "prompt": "Hidronefrose antenatal é um achado comum em ultrassonografias obstétricas. Acerca dessas alterações responda a correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "VUP é causa de hidronefrose antenatal. Não pode cursar com IRC.",
+          "explanation": "INCORRETA. Válvula de uretra posterior pode causar obstrução grave, displasia e evolução para doença renal crônica."
+        },
+        {
+          "letter": "B",
+          "text": "RVU - nem todos os casos são cirúrgicos. Tratamento visa impedir ITU febril.",
+          "explanation": "CORRETA. Refluxo vesicoureteral nem sempre requer cirurgia; prevenção de ITU febril e dano renal, seguimento e tratamento de disfunção vesical são centrais. PROVÃO UROLOGIA E NEFROLOGIA | Gabarito técnico comentado"
+        },
+        {
+          "letter": "C",
+          "text": "JUP é a mais frequente. Nunca é cirúrgico.",
+          "explanation": "INCORRETA. Obstrução da junção ureteropélvica pode demandar pieloplastia quando há obstrução significativa ou piora funcional."
+        },
+        {
+          "letter": "D",
+          "text": "Terapias endoscópicas não podem ser usadas para tratamento de RVU.",
+          "explanation": "INCORRETA. Injeção endoscópica de agentes de preenchimento é opção terapêutica para RVU selecionado."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "23",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q23:23"
+    },
+    {
+      "number": 24,
+      "prompt": "Sobre hipospádia:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A grande maioria é anterior ou distal (até 50% dos casos).",
+          "explanation": "REDAÇÃO CONTRADITÓRIA. Hipospádia distal/anterior constitui a maioria dos casos, porém “grande maioria ... (até 50%)” é numericamente incoerente: até 50% não define maioria."
+        },
+        {
+          "letter": "B",
+          "text": "Hipospádias posteriores (penoescrotal, escrotal ou perineal) são de correção mais simples que as distais.",
+          "explanation": "INCORRETA. Hipospádias proximais/posteriores tendem a exigir reconstrução mais complexa e podem associar-se a curvatura peniana e outras alterações."
+        },
+        {
+          "letter": "C",
+          "text": "Há apenas uma técnica cirúrgica para correção de hipospádia.",
+          "explanation": "INCORRETA. Existem múltiplas técnicas operatórias, selecionadas pela localização do meato, curvatura e qualidade da placa uretral."
+        },
+        {
+          "letter": "D",
+          "text": "Hipospádias posteriores não tem relação com infertilidade.",
+          "explanation": "INCORRETA COMO NEGAÇÃO ABSOLUTA. Hipospádias proximais graves podem associar-se a dificuldades reprodutivas e ejaculatórias; não se pode descartar qualquer relação com fertilidade. Ressalva / interpretação: O arquivo marca A. A ideia clínica da alternativa A é a pretendida, mas a expressão “até 50%” inviabiliza sua literalidade; é recomendável retificação ou anulação."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "24",
+      "answerIssue": "sem_resposta",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q24:24"
+    },
+    {
+      "number": 25,
+      "prompt": "A dosagem de antígeno prostático específico (PSA) tem aumentado sua importância na prática médica. Sobre o PSA:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Não se altera com infecção urinária.",
+          "explanation": "INCORRETA. Prostatite, infecções e inflamação urinária/prostática podem elevar transitoriamente o PSA."
+        },
+        {
+          "letter": "B",
+          "text": "PSA na hiperplasia prostática benigna aumenta 0.8 ng/g de tecido hiperplásico por ano; enquanto no câncer de próstata aumenta cerca de 3 vezes mais.",
+          "explanation": "INCORRETA. A relação proposta em ng por grama “por ano” e multiplicador fixo de câncer não constitui regra clínica validada para diferenciar HPB de neoplasia."
+        },
+        {
+          "letter": "C",
+          "text": "Relação PSA livre/total > 20% é sugestiva de malignidade.",
+          "explanation": "INCORRETA. Relação PSA livre/total maior costuma reduzir, e não aumentar, a suspeita de câncer em contextos selecionados; percentuais não são diagnósticos isolados."
+        },
+        {
+          "letter": "D",
+          "text": "Uso de inibidor da 5 alfa-redutase diminui em 50 % o valor do PSA após 1 ano de tratamento.",
+          "explanation": "CORRETA. Inibidores da 5-alfa-redutase reduzem o PSA sérico em torno de 50% após aproximadamente 6 a 12 meses de uso. Ressalva / interpretação: Na interpretação do PSA sob finasterida ou dutasterida, considerar duração, PSA basal, tendência e ajuste clínico (frequentemente dobrar valor medido após estabilização)."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "25",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q25:25"
+    },
+    {
+      "number": 26,
+      "prompt": "Acerca da Hiperplasia Prostática Benigna (HPB) assinale a correta: ?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paciente com sintomas de esvaziamento e próstata maior que 40 gramas é indicação de tratamento cirúrgico.",
+          "explanation": "INCORRETA. Próstata >40 g e sintomas, por si sós, não determinam cirurgia; há opções de tratamento conservador e medicamentoso, salvo complicações e refratariedade."
+        },
+        {
+          "letter": "B",
+          "text": "Uretrocistografia retrógrada e miccional faz diagnóstico de obstrução prostática.",
+          "explanation": "INCORRETA. Uretrocistografia identifica alterações anatômicas, mas não é exame-padrão para comprovar obstrução prostática funcional; estudos pressão-fluxo são referência quando necessários."
+        },
+        {
+          "letter": "C",
+          "text": "Paciente castrado antes da puberdade não desenvolve HPB.",
+          "explanation": "CORRETA. Ausência de exposição androgênica puberal por castração pré-puberal impede, em regra, desenvolvimento da hiperplasia prostática dependente de andrógenos."
+        },
+        {
+          "letter": "D",
+          "text": "Fluxo urinário > 150 ml indica descompensação detrusora.",
+          "explanation": "INCORRETA. “Fluxo urinário >150 mL” mistura conceitos: Qmáx é expresso em mL/s. Volume urinado superior a 150 mL é condição desejável para interpretar urofluxometria, não sinal de descompensação detrusora. Ressalva / interpretação: CORREÇÃO DO GABARITO DO ARQUIVO: está marcada D, que é falsa. A melhor opção é"
+        }
+      ],
+      "page": 4,
+      "numberLabel": "26",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q26:26"
+    },
+    {
+      "number": 30,
+      "prompt": "Reconstrução urinária pós cistectomia radical",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Qualquer paciente pode ser candidato a neobexiga ao invés de derivações externas",
+          "explanation": "INCORRETA. Neobexiga ortotópica exige critérios anatômicos, oncológicos, renais e capacidade do paciente; nem todos são candidatos."
+        },
+        {
+          "letter": "B",
+          "text": "Distúrbios hidroeletrolíticos são pouco frequentes no P.O.",
+          "explanation": "INCORRETA COMO GENERALIZAÇÃO. Derivações intestinais podem gerar acidose metabólica hiperclorêmica e outras alterações metabólicas, especialmente ao longo do acompanhamento."
+        },
+        {
+          "letter": "C",
+          "text": "Neobexiga tem mesmo padrão de contração e esvaziamento",
+          "explanation": "INCORRETA. Neobexiga intestinal não contrai e esvazia como bexiga com detrusor íntegro; muitos pacientes usam manobras abdominais e treinamento miccional. PROVÃO UROLOGIA E NEFROLOGIA | Gabarito técnico comentado"
+        },
+        {
+          "letter": "D",
+          "text": "Preserva porção distal do íleo devido absorção de B12",
+          "explanation": "CORRETA. Preservar, quando viável, segmento terminal do íleo reduz prejuízo da absorção de vitamina B12 e sais biliares. Ressalva / interpretação: Mesmo com preservação do íleo terminal, há risco de deficiência de B12 após derivação intestinal; é indicado acompanhamento nutricional e metabólico prolongado."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "30",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q30:30"
+    },
+    {
+      "number": 31,
+      "prompt": "Indicações absolutas de intervenção cirúrgica no trauma renal",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hematoma retroperitoneal pulsátil ou em expansão",
+          "explanation": "CORRETA. Hematoma perirrenal/retroperitoneal em expansão ou pulsátil encontrado em laparotomia constitui indicação forte de exploração, especialmente com suspeita de lesão vascular."
+        },
+        {
+          "letter": "B",
+          "text": "Lesão de alto grau",
+          "explanation": "INCORRETA COMO INDICAÇÃO ABSOLUTA. Lesões renais de alto grau podem receber manejo não operatório quando há estabilidade hemodinâmica e recursos apropriados."
+        },
+        {
+          "letter": "C",
+          "text": "Extravasamento de contraste",
+          "explanation": "INCORRETA COMO INDICAÇÃO ABSOLUTA. Extravasamento de contraste em paciente estável pode ser tratado seletivamente com angioembolização e observação, conforme cenário."
+        },
+        {
+          "letter": "D",
+          "text": "Estadiamento incompleto",
+          "explanation": "INCORRETA. Estadiamento incompleto requer avaliação adicional quando possível, não cirurgia obrigatória apenas por esse motivo. Ressalva / interpretação: O contexto importa: hematoma expansivo/pulsátil durante laparotomia e instabilidade persistente são indicações relevantes; nem todo hematoma retroperitoneal deve ser aberto."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "31",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q31:31"
+    },
+    {
+      "number": 32,
+      "prompt": "Bactérias comuns em ITU",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pseudomonas e Staphilo em gestantes",
+          "explanation": "INCORRETA COMO PADRÃO TÍPICO. Gestantes são frequentemente acometidas por E. coli e estreptococo do grupo B; Pseudomonas e estafilococos não formam o par habitual dominante."
+        },
+        {
+          "letter": "B",
+          "text": "Staphylo saprophticus cresce rápido e diagnóstico é fácil",
+          "explanation": "INCORRETA. Staphylococcus saprophyticus é causa reconhecida de cistite, mas cultura e identificação podem demandar condições específicas; não existe garantia geral de crescimento “rápido e diagnóstico fácil”."
+        },
+        {
+          "letter": "C",
+          "text": "S. aureus dissemina hematogênico",
+          "explanation": "CORRETA. Staphylococcus aureus isolado na urina pode representar semeadura hematogênica a partir de bacteremia, especialmente sem manipulação urinária; também pode ocorrer por outras vias."
+        },
+        {
+          "letter": "D",
+          "text": "E beta hemolítico grupo B é comum nosocomial",
+          "explanation": "INCORRETA COMO REGRA. Streptococcus agalactiae (grupo B) é importante em gestantes e alguns grupos vulneráveis, mas não é a causa nosocomial predominante geral. Ressalva / interpretação: S. aureus na urocultura não comprova por si só bacteremia: investigar cenário clínico, sintomas, dispositivos e eventual indicação de hemoculturas."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "32",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q32:32"
+    },
+    {
+      "number": 33,
+      "prompt": "São fatores predisponentes para ITU",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incontinência urinária na infância",
+          "explanation": "POTENCIALMENTE CORRETA. Incontinência na infância associada a disfunção vesicointestinal, esvaziamento incompleto ou constipação pode aumentar risco de ITU; isoladamente, o termo é pouco específico."
+        },
+        {
+          "letter": "B",
+          "text": "Alteração hormonal em mulheres jovens",
+          "explanation": "NÃO COMPROVADA COMO REGRA. Mudanças hormonais que aumentam risco são sobretudo hipoestrogenismo pós-menopausa; “alteração hormonal em mulheres jovens” é vaga."
+        },
+        {
+          "letter": "C",
+          "text": "Início precoce da vida sexual em homens.",
+          "explanation": "NÃO É FATOR TÍPICO ISOLADO. Vida sexual pode influenciar riscos e ISTs, mas “início precoce” em homens não é fator geral estabelecido para ITU bacteriana."
+        },
+        {
+          "letter": "D",
+          "text": "Uso recente de antibióticos",
+          "explanation": "MAIS DEFENSÁVEL NO SENTIDO DE RISCO DE INFECÇÕES POR BACTÉRIAS RESISTENTES. Uso recente de antibióticos seleciona patógenos resistentes e se associa a quadros de ITU complicada/recorrente. Ressalva / interpretação: GABARITO ANTIGO: D. A questão é ambígua porque A também pode representar fator de risco, dependendo da causa da incontinência. Antibioticoterapia prévia é fator de risco bem estabelecido para organismos resistentes, não sinônimo de causa necessária de nova ITU."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "33",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q33:33"
+    },
+    {
+      "number": 34,
+      "prompt": "Qual a zona mais afetada no câncer de próstata?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zona central",
+          "explanation": "INCORRETA. Zona central é origem menos frequente de adenocarcinoma que a zona periférica."
+        },
+        {
+          "letter": "B",
+          "text": "Zona anterior",
+          "explanation": "INCORRETA. Região anterior pode abrigar tumores, mas não é a localização predominante. PROVÃO UROLOGIA E NEFROLOGIA | Gabarito técnico comentado"
+        },
+        {
+          "letter": "C",
+          "text": "Zona periférica",
+          "explanation": "CORRETA. A maioria dos adenocarcinomas prostáticos surge na zona periférica."
+        },
+        {
+          "letter": "D",
+          "text": "Zona de transição.",
+          "explanation": "INCORRETA. Zona de transição é a região tipicamente associada ao crescimento nodular de HPB; pode ter câncer, mas não é a principal zona de origem."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "34",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q34:34"
+    },
+    {
+      "number": 35,
+      "prompt": "Paciente com adenocarcinoma de próstata, estádio T3bN0M0. O tumor é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "palpável no toque retal, invade vesícula seminal, sem metástase ganglionar ou a distância.",
+          "explanation": "MELHOR OPÇÃO. T3b indica invasão de vesículas seminais, N0 ausência de metástase regional e M0 ausência de metástase a distância."
+        },
+        {
+          "letter": "B",
+          "text": "impalpável no toque retal, invade um lado da próstata, com metástase ganglionar ou a distância",
+          "explanation": "INCORRETA. A descrição mistura doença limitada a um lado e metástases, incompatível com T3bN0M0."
+        },
+        {
+          "letter": "C",
+          "text": "impalpável no toque retal, invade músculo elevador do ânus, sem metástase ganglionar ou a distância.",
+          "explanation": "INCORRETA. Invasão de músculos elevadores do ânus é critério de T4, não T3b, além de haver indicação errada sobre palpabilidade."
+        },
+        {
+          "letter": "D",
+          "text": "palpável no toque retal, invade os dois lados da próstata, com metástase ganglionar ou a distância.",
+          "explanation": "INCORRETA. Bilateralidade intraprostática relaciona-se a T2c, e a alternativa ainda atribui metástases ausentes em N0M0. Ressalva / interpretação: A informação de palpabilidade no toque não é necessária para inferir toda a apresentação tumoral a partir do TNM usado no enunciado; a âncora para T3b é invasão de vesícula seminal."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "35",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q35:35"
+    },
+    {
+      "number": 39,
+      "prompt": "Paciente 26 anos de idade, feminino, apresentando febre, dor na região lombar e disúria. EAS - (medlab?) Nitrito + Aspecto turvo Cor amarelo escuro Proteína = 300 Hemácias = +++/4+ Leucocitos = 145.000 Hemácias = 500.000 Isomorficas = 200.000 Dismórficas = 400.000 Células tubulares = 80.000",
+      "type": "discursive",
+      "options": [],
+      "page": 5,
+      "numberLabel": "39",
+      "answer": null,
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Chave de resposta não corresponde às alternativas disponíveis no arquivo.",
+      "id": "provao-m2-2019:q39:39"
+    },
+    {
+      "number": 40,
+      "prompt": "Paciente, sexo masculino, 19 anos, vida sexual ativa (várias parceiras nos últimos meses). Notou aparecimento de lesão papular, cinco dias após relação sexual com desconhecida, sendo que esta lesão ulcerou, apresentou bases irregulares, não endurecidas, extremamente dolorosas, e apareceram em pele de região próxima também (“lesões em beijo”) e depois passou a apresentar adenopatia inguinal, unilateral, que passou a drenar secreção purulenta, por único ponto de secreção purulenta. Para confirmar sua hipótese clínica, dentre os exames abaixo, qual seria o mais indicado?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pesquisa de corpúsculo de donovan (em secreção corada pelo Leishman ou biópsia corada pelo Giemsa)",
+          "explanation": "INCORRETA. Corpúsculos de Donovan são achado de donovanose, caracterizada tipicamente por lesões ulceradas pouco dolorosas e sangrantes; bubão supurativo não é a apresentação clássica."
+        },
+        {
+          "letter": "B",
+          "text": "Pesquisa de bacilos gram negativos através de bacterioscopia pelo gram da secreção drenada do bulbão.",
+          "explanation": "MAIS COMPATÍVEL ENTRE AS OPÇÕES. Cancro mole por Haemophilus ducreyi associa-se a úlcera dolorosa não endurecida e linfadenite supurativa; Gram pode mostrar bacilos/cocobacilos Gram-negativos."
+        },
+        {
+          "letter": "C",
+          "text": "Pesquisa de Clamidia na secreção do bulbão, através, por exemplo, de IFD ou por PCR para clamidia.",
+          "explanation": "MENOS COMPATÍVEL. Linfogranuloma venéreo por Chlamydia trachomatis pode ter bubão, mas lesão primária costuma ser pequena, transitória e pouco dolorosa."
+        },
+        {
+          "letter": "D",
+          "text": "Bacterioscopia pelo gram da secreção do bulbão, com ênfase a pesquisa de diplococos gram negativos, intra e extracelulares. GABARITO",
+          "explanation": "INCORRETA. Diplococos Gram-negativos intracelulares sugerem Neisseria gonorrhoeae e não são o achado etiológico do cancro mole. Ressalva / interpretação: IMPORTANTE: a bacterioscopia pelo Gram do bubão não é método confiável para confirmar H. ducreyi. Conforme CDC, confirmação depende de cultura especial ou NAAT/PCR validada onde disponível, com exclusão de sífilis e herpes; a opção B é apenas a mais próxima dentre exames insuficientes."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "40",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m2-2019:q40:40"
+    }
+  ]
+}

@@ -1,0 +1,1329 @@
+{
+  "id": "provao-m2-2019-2",
+  "title": "Provão M2 (2019.2)",
+  "original": "Provão uro e nefro - Outubro",
+  "key_source": "Gabarito comentado do PDF",
+  "questions": [
+    {
+      "number": 1,
+      "numberLabel": "1",
+      "prompt": "Os diuréticos têm sido utilizados no tratamento da hipertensão arterial há mais de 40 anos e permanecem como uma das cinco classes de medicamentos anti-hipertensivos de primeira linha. Assinale a alternativa que relaciona corretamente a classe de diurético e seu mecanismo de ação:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Os diuréticos tiazídicos atuam na alça de Henle. Aumentam o fluxo plasmático renal e o fluxo plasmático medular e papilar. O principal efeito colateral é a hipernatremia",
+          "explanation": "INCORRETA. Tiazídicos inibem o cotransportador Na-Cl no túbulo contorcido distal, não na alça de Henle. Hiponatremia e hipocalemia são reações mais típicas do que hipernatremia."
+        },
+        {
+          "letter": "B",
+          "text": "Os diuréticos de alça atuam nos segmentos espessos da alça de Henle. Promovem diurese intensa e rápida, redução da PA e também potencializa a ação de outros hipotensores",
+          "explanation": "CORRETA. Diuréticos de alça, como furosemida, bloqueiam o cotransportador NKCC2 no ramo ascendente espesso da alça de Henle e produzem natriurese/diurese intensas; também podem potencializar o tratamento anti-hipertensivo."
+        },
+        {
+          "letter": "C",
+          "text": "Os diuréticos osmóticos atuam no ducto coletor. Possuem a propriedade de inibir a excreção de K+ e inibe a reabsorção de hidrogênio",
+          "explanation": "INCORRETA. Diuréticos osmóticos, como manitol, agem sobretudo no túbulo proximal e ramo descendente da alça ao reter água no filtrado; a descrição de retenção de potássio e interferência na secreção de H+ não é seu mecanismo."
+        },
+        {
+          "letter": "D",
+          "text": "Os inibidores da anidrase carbônica atuam no túbulo contorcido distal e causam diminuição na excreção urinária de sódio, potássio, bicarbonato e fosfato.",
+          "explanation": "INCORRETA. Inibidores da anidrase carbônica, como acetazolamida, atuam principalmente no túbulo proximal e aumentam a excreção de bicarbonato e sódio, podendo causar acidose metabólica. Nota: Mecanismos tubulares e efeitos sobre eletrólitos devem ser diferenciados. [1]"
+        }
+      ],
+      "page": 1,
+      "id": "provao-m2-2019-2:q1:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "B"
+    },
+    {
+      "number": 2,
+      "numberLabel": "2",
+      "prompt": "O tratamento da disfunção erétil começa com a identificação e controle dos fatores de risco. Além disso, o médico poderá prescrever medicamentos que irão contribuir para a melhoria na qualidade das ereções e consequentemente na atividade sexual do paciente. Assinale a alternativa que relaciona corretamente a classe de medicamento e seu mecanismo de ação no tratamento da disfunção erétil.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Os inibidores da PDE5 atuam impedindo a degradação do GMPc, o que levará ao bloqueio dos canais de K+ e abertura dos canais de Ca2+ e consequentemente ao relaxamento da musculatura lisa do corpo cavernoso.",
+          "explanation": "INCORRETA COMO REDIGIDA. É correto que inibidores da PDE5 elevam o GMPc; contudo, o relaxamento cavernoso associa-se a redução do cálcio intracelular e hiperpolarização, não a abertura de canais de Ca2+ e bloqueio de canais de K+ como mecanismo relaxante."
+        },
+        {
+          "letter": "B",
+          "text": "A fentolamina, um antagonista não-seletivo dos receptores α-adrenérgicos, é amplamente utilizado no tratamento da disfunção erétil, uma vez que impede a vasoconstrição da musculatura lisa do corpo cavernoso ocasionada por ação do sistema nervoso autônomo simpático.",
+          "explanation": "INCORRETA. Fentolamina é antagonista alfa-adrenérgico e pode compor misturas injetáveis, mas não é amplamente utilizada isoladamente como primeira linha. Inibidores orais da PDE5 são a abordagem farmacológica usual inicial quando não contraindicados."
+        },
+        {
+          "letter": "C",
+          "text": "O Alprostadil, um análogo sintético da PGE1, pertence à classe de medicamentos de segunda linha do tratamento da disfunção erétil, devendo ser administrado por via sublingual minutos antes da relação sexual.",
+          "explanation": "INCORRETA. Alprostadil, análogo de PGE1, pode ser intracavernoso ou intrauretral (e outras formulações específicas); não se recomenda sua administração sublingual rotineira conforme a alternativa."
+        },
+        {
+          "letter": "D",
+          "text": "Todas as alternativas estão erradas.",
+          "explanation": "CORRETA NO FORMATO DA QUESTÃO. As alternativas A, B e C contêm erros clínicos ou farmacológicos relevantes. Nota: A primeira oração de A é correta, mas o conjunto de A é falso. [2]"
+        }
+      ],
+      "page": 1,
+      "id": "provao-m2-2019-2:q2:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Resposta técnica mais adequada.",
+      "answer": "D"
+    },
+    {
+      "number": 3,
+      "numberLabel": "3",
+      "prompt": "Em relação ao tratamento da Hiperplasia Prostática Benigna (HPB), assinale a alternativa CORRETA.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para redução do volume prostático é indicado o uso de fármacos inibidores da enzima 5α redutase que é responsável pela hidrólise do hormônio di-hidrotestosterona. Desta forma ocorrerá uma redução na liberação de fatores de crescimento e consequentemente no aumento da proliferação celular no tecido prostático.",
+          "explanation": "INCORRETA. A 5-alfa-redutase CONVERTE testosterona em di-hidrotestosterona (DHT), não hidrolisa DHT. Sua inibição reduz estímulo de crescimento e volume prostático, não aumenta proliferação."
+        },
+        {
+          "letter": "B",
+          "text": "O tratamento dos sintomas do trato urinário inferior na HPB é feito a partir da utilização de fármacos antagonistas dos receptores α1-adrenérgicos, tendo como efeito principal o relaxamento do músculo detrusor da bexiga.",
+          "explanation": "INCORRETA. Bloqueadores alfa-1 relaxam principalmente a musculatura lisa da próstata, uretra prostática e colo vesical, não o músculo detrusor como mecanismo principal."
+        },
+        {
+          "letter": "C",
+          "text": "A fármacos antagonistas dos receptores α1-adrenérgicos que possuem maior seletividade para os subtipos de receptores α1A e α1C, não apresentam os efeitos adversos de hipotensão ou ejaculação retrógrada.",
+          "explanation": "INCORRETA. Seletividade por determinados subtipos alfa-1 não elimina hipotensão nem alterações ejaculatórias."
+        },
+        {
+          "letter": "D",
+          "text": "Todas as alternativas estão corretas.",
+          "explanation": "INCORRETA. Não podem estar todas corretas, pois A, B e C são falsas. Nota: O enunciado não oferece opção integralmente verdadeira. A redação correta de B teria como alvo colo vesical e uretra prostática. [3]"
+        }
+      ],
+      "page": 1,
+      "id": "provao-m2-2019-2:q3:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Questão passível de anulação.",
+      "answerIssue": "sem_resposta"
+    },
+    {
+      "number": 4,
+      "numberLabel": "4",
+      "prompt": "Na glomerupatia membranosa primária os depósitos eletrodensos são:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subepiteliais",
+          "explanation": "CORRETA. Na nefropatia membranosa primária, imunocomplexos predominantemente subepiteliais causam espessamento capilar e formação de espículas (spikes)."
+        },
+        {
+          "letter": "B",
+          "text": "Subendoteliais",
+          "explanation": "INCORRETA. Depósitos subendoteliais são mais típicos de processos proliferativos, como nefrite lúpica classes III/IV."
+        },
+        {
+          "letter": "C",
+          "text": "Submembranosos",
+          "explanation": "INCORRETA. “Submembranoso” não designa de forma padronizada o compartimento morfológico predominante desta doença."
+        },
+        {
+          "letter": "D",
+          "text": "Intraendoteliais",
+          "explanation": "INCORRETA. O depósito é extracelular na interface epitélio-membrana basal, não dentro do endotélio. Nota: Distinção histológica entre lesão membranosa e proliferativa. [4]"
+        }
+      ],
+      "page": 1,
+      "id": "provao-m2-2019-2:q4:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "A"
+    },
+    {
+      "number": 5,
+      "numberLabel": "5",
+      "prompt": "Na glomerupatia membranosa secundária, como o Lupus Eritematoso Sistêmico, os depósitos eletrodensos são:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subepiteliais",
+          "explanation": "CORRETA PARA A FORMA MEMBRANOSA LÚPICA PURA (classe V). Há depósitos imunes subepiteliais, habitualmente também mesangiais."
+        },
+        {
+          "letter": "B",
+          "text": "Subendoteliais",
+          "explanation": "INCORRETA COMO LOCALIZAÇÃO PRINCIPAL DA CLASSE V PURA. Depósitos subendoteliais são característicos de nefrite lúpica proliferativa III/IV e podem aparecer quando há lesões combinadas (III+V/IV+V)."
+        },
+        {
+          "letter": "C",
+          "text": "Submembranosos",
+          "explanation": "INCORRETA. “Submembranoso” é termo impreciso e não a descrição ultrassestrutural preferível."
+        },
+        {
+          "letter": "D",
+          "text": "Intraendoteliais",
+          "explanation": "INCORRETA. Não se descreve a nefrite membranosa por depósitos intraendoteliais. Nota: A palavra “secundária” não implica localização subendotelial: a membranosa lúpica classe V também é subepitelial. [4][5]"
+        }
+      ],
+      "page": 2,
+      "id": "provao-m2-2019-2:q5:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura com ressalva.",
+      "answer": "A"
+    },
+    {
+      "number": 6,
+      "numberLabel": "6",
+      "prompt": "Sobre a Litotripsia Extra Corpórea (LECO), julgue as afirmativas abaixo e marque a correta.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A LECO deve ser indicada para cálculos calicinais sintomáticos ou maiores que 5 mm e menores que 20 mm. renais",
+          "explanation": "MAIS ADEQUADA, COM RESERVA. LECO pode ser opção para cálculo renal calicinal sintomático e para vários cálculos menores de 20 mm; indicação concreta depende de localização, densidade, anatomia e preferência, não apenas de 5-20 mm."
+        },
+        {
+          "letter": "B",
+          "text": "Cálculos com densidade topografia acima de 1000UH tem melhor resultado com a LECO",
+          "explanation": "INCORRETA. Alta densidade tomográfica (aproximadamente superior a 1.000 HU) tende a reduzir fragmentação/eficácia da LECO."
+        },
+        {
+          "letter": "C",
+          "text": "Alterações na coagulação sanguínea não contraindicam o procedimento.",
+          "explanation": "INCORRETA. Coagulopatia não corrigida e certos tratamentos antitrombóticos elevam risco hemorrágico e contraindicam LECO naquele momento."
+        },
+        {
+          "letter": "D",
+          "text": "Poderá ser realizado mesmo na presença de obstrução e infecção.",
+          "explanation": "INCORRETA. Infecção urinária não controlada e obstrução distal ao cálculo constituem contraindicações ou exigem tratamento/desobstrução prévios. Nota: A indicação não deve ser tratada como automática para todo cálculo dentro da faixa. [6]"
+        }
+      ],
+      "page": 2,
+      "id": "provao-m2-2019-2:q6:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Melhor alternativa, não regra universal.",
+      "answer": "A"
+    },
+    {
+      "number": 7,
+      "numberLabel": "7",
+      "prompt": "Sobre a litíase urinária assinale a alternativa incorreta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O cálculo mais comum é o de oxalato de cálcio",
+          "explanation": "CORRETA. Os cálculos contendo cálcio (sobretudo oxalato de cálcio) são os mais frequentes."
+        },
+        {
+          "letter": "B",
+          "text": "A dor na cólica é causada pela distensão da cápsula renal",
+          "explanation": "NÃO É A MELHOR OPÇÃO COMO ERRO. A cólica renal decorre sobretudo do aumento de pressão e distensão do sistema coletor/ureter e espasmo; o estiramento capsular pode contribuir, mas não explica sozinho a cólica."
+        },
+        {
+          "letter": "C",
+          "text": "A maioria dos cálculos são rádio transparentes",
+          "explanation": "INCORRETA (ALTERNATIVA A MARCAR). A maior parte dos cálculos urinários, especialmente os cálcicos, é radiopaca, não radiotransparente."
+        },
+        {
+          "letter": "D",
+          "text": "Os cálculos de urato amorfo ou ácido úrico são em geral transparentes",
+          "explanation": "CORRETA. Cálculos de ácido úrico costumam ser radiotransparentes na radiografia simples, mas visíveis à tomografia sem contraste. Nota: A letra B é fisiopatologicamente simplificada, mas C é a falsidade inequívoca. [6]"
+        }
+      ],
+      "page": 2,
+      "id": "provao-m2-2019-2:q7:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura, com nuance em B.",
+      "answer": "C"
+    },
+    {
+      "number": 8,
+      "numberLabel": "8",
+      "prompt": "Qual é a metástase hematogênica mais frequente do câncer de próstata?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hepática.",
+          "explanation": "INCORRETA. Metástases hepáticas podem ocorrer, mas não predominam."
+        },
+        {
+          "letter": "B",
+          "text": "Pulmonar.",
+          "explanation": "INCORRETA. Metástases pulmonares são possíveis, porém menos frequentes do que as ósseas."
+        },
+        {
+          "letter": "C",
+          "text": "Óssea.",
+          "explanation": "CORRETA. O câncer de próstata metastatiza com predileção para os ossos, produzindo frequentemente lesões osteoblásticas."
+        },
+        {
+          "letter": "D",
+          "text": "Renal.",
+          "explanation": "INCORRETA. Metástase renal não é o principal padrão de disseminação hematogênica. Nota: Padrão clássico de disseminação hematogênica do adenocarcinoma prostático. [7]"
+        }
+      ],
+      "page": 2,
+      "id": "provao-m2-2019-2:q8:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "C"
+    },
+    {
+      "number": 9,
+      "numberLabel": "9",
+      "prompt": "O tempo médio para espermatogênese testicular, incluindo transporte e maturação do espermatozoide pelo epidídimo, é de:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "01 semana",
+          "explanation": "INCORRETA. Uma semana é insuficiente para a espermatogênese."
+        },
+        {
+          "letter": "B",
+          "text": "30 dias",
+          "explanation": "INCORRETA. Trinta dias não contempla o processo testicular completo."
+        },
+        {
+          "letter": "C",
+          "text": "60 dias",
+          "explanation": "INCORRETA. Sessenta dias subestima a duração total testicular mais trânsito epididimário na convenção clássica."
+        },
+        {
+          "letter": "D",
+          "text": "90 dias",
+          "explanation": "CORRETA COMO APROXIMAÇÃO. A espermatogênese testicular é frequentemente estimada em cerca de 64-74 dias; somado o amadurecimento/trânsito epididimário, valor de ordem de 80-90 dias é o mais apropriado entre as opções. Nota: A duração exata é variável conforme método e definição do início/fim do processo. [8]"
+        }
+      ],
+      "page": 2,
+      "id": "provao-m2-2019-2:q9:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura como valor aproximado.",
+      "answer": "D"
+    },
+    {
+      "number": 10,
+      "numberLabel": "10",
+      "prompt": "De acordo com os parâmetros seminais do manual da Organização Mundial de Saúde (OMS) de 2010, as alterações morfológicas, com base nos parâmetros de Kruger, com morfologia normal menor do que 4%, recebem o nome de:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Astenozoospermia",
+          "explanation": "INCORRETA. Astenozoospermia significa redução de motilidade progressiva/total."
+        },
+        {
+          "letter": "B",
+          "text": "Hipospermia",
+          "explanation": "INCORRETA. Hipospermia significa baixo volume ejaculado."
+        },
+        {
+          "letter": "C",
+          "text": "Teratozoospermia",
+          "explanation": "CORRETA. Teratozoospermia é a proporção de espermatozoides morfologicamente normais abaixo do limite de referência (4% pelo critério estrito citado)."
+        },
+        {
+          "letter": "D",
+          "text": "Criptozoospermia",
+          "explanation": "INCORRETA. Criptozoospermia é presença muito escassa de espermatozoides, detectáveis após centrifugação. Nota: Critérios descritos pela OMS (2010), conforme temporalidade expressamente pedida. [8]"
+        }
+      ],
+      "page": 2,
+      "id": "provao-m2-2019-2:q10:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "C"
+    },
+    {
+      "number": 11,
+      "numberLabel": "11",
+      "prompt": "Em relação à epidemiologia do câncer de bexiga, assinale a alternativa INCORRETA:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "É mais comum em mulheres do que homens, com incidência estimada de 3:1.",
+          "explanation": "INCORRETA (ALTERNATIVA A MARCAR). O câncer de bexiga é mais comum em homens; razão de incidência masculina/feminina é aproximadamente 3-4:1, e não o inverso."
+        },
+        {
+          "letter": "B",
+          "text": "O Tabagismo é o principal fator de risco.",
+          "explanation": "CORRETA. Tabagismo é o principal fator de risco modificável."
+        },
+        {
+          "letter": "C",
+          "text": "Tem maior incidência na sexta e sétima décadas de vida.",
+          "explanation": "CORRETA. Predomina em faixas etárias avançadas, incluindo sexta/sétima décadas e além."
+        },
+        {
+          "letter": "D",
+          "text": "A exposição a aminas aromáticas e agentes químicos industriais também são fatores de risco a serem considerados.",
+          "explanation": "CORRETA. Exposição ocupacional a aminas aromáticas e carcinógenos industriais eleva o risco. Nota: Epidemiologia varia por país e período, sem inverter a predominância masculina. [9]"
+        }
+      ],
+      "page": 2,
+      "id": "provao-m2-2019-2:q11:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "A"
+    },
+    {
+      "number": 12,
+      "numberLabel": "12",
+      "prompt": "Em relação aos subtipos histológicos do câncer de bexiga, assinale a alternativa INCORRETA:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O subtipo urotelial corresponde a mais de 90% das neoplasias vesicais.",
+          "explanation": "CORRETA EM LINHAS GERAIS. Carcinoma urotelial é amplamente predominante, embora as estimativas de proporção dependam da população e critérios de registro."
+        },
+        {
+          "letter": "B",
+          "text": "Em geral, o carcinoma de células escamosas (CEC) e o adenocarcinoma têm prognóstico pior, por doença avançada no momento do diagnóstico.",
+          "explanation": "CORRETA COMO TENDÊNCIA. Tumores escamosos e adenocarcinomas frequentemente têm diagnóstico em estágios mais avançados, sem significar que todo caso terá pior prognóstico."
+        },
+        {
+          "letter": "C",
+          "text": "A infecção crônica da bexiga por Schistosoma haematobium é fator de risco para surgimento de adenocarcinoma, bem como os processos inflamatórios crônicos vesicais, como cálculos urinários, infecções do trato urinário e uso de cateter vesical de demora por período prolongado.",
+          "explanation": "INCORRETA (ALTERNATIVA A MARCAR). Schistosoma haematobium está classicamente associado ao CARCINOMA ESCAMOSO de bexiga, e não primariamente ao adenocarcinoma. Irritação crônica também favorece diferenciação escamosa."
+        },
+        {
+          "letter": "D",
+          "text": "Deve-se sempre excluir a possibilidade de outros sítios primários de adenocarcinoma de bexiga, como reto, mama, próstata e ovário.",
+          "explanation": "CORRETA. Ao diagnosticar adenocarcinoma em bexiga, é fundamental afastar extensão/metástase de primário extravesical, especialmente colorretal e outros órgãos. Nota: A comparação deve reconhecer associações com inflamação crônica e histologia escamosa. [9]"
+        }
+      ],
+      "page": 3,
+      "id": "provao-m2-2019-2:q12:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "C"
+    },
+    {
+      "number": 13,
+      "numberLabel": "13",
+      "prompt": "São indicação de exames de imagem no trauma renal, exceto:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hematúria macroscópica.",
+          "explanation": "CORRETA COMO INDICAÇÃO. Hematúria macroscópica após trauma renal exige investigação por imagem em paciente estável."
+        },
+        {
+          "letter": "B",
+          "text": "Hematúria microscópica + PAS < 90 mmHg",
+          "explanation": "CORRETA COMO INDICAÇÃO. Micro-hematúria com hipotensão sistólica abaixo de 90 mmHg é critério clássico de tomografia em trauma fechado."
+        },
+        {
+          "letter": "C",
+          "text": "Trauma com mecanismo de desaceleração",
+          "explanation": "CORRETA COMO INDICAÇÃO. Desaceleração rápida ou mecanismo preocupante pode justificar TC mesmo sem hematúria."
+        },
+        {
+          "letter": "D",
+          "text": "Mais de 50 hemácias na urina/campo em crianças",
+          "explanation": "MELHOR EXCEÇÃO. “Mais de 50 hemácias/campo em crianças” não é limiar universal independente para decidir TC: em pediatria pesam mecanismo, exame e sinais associados; algumas orientações históricas usam limiares variáveis. Nota: A alternativa D pode justificar exame em certos contextos clínicos; portanto a palavra “exceto” é excessiva. [10]"
+        }
+      ],
+      "page": 3,
+      "id": "provao-m2-2019-2:q13:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Mais provável no critério tradicional, com ressalva.",
+      "answer": "D"
+    },
+    {
+      "number": 14,
+      "numberLabel": "14",
+      "prompt": "São características específicas da urina que protegem contra infecções urinárias, exceto:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alta Osmolalidade",
+          "explanation": "POTENCIALMENTE PROTETORA. Urina concentrada/alta osmolalidade pode reduzir a multiplicação bacteriana, embora o efeito dependa dos solutos."
+        },
+        {
+          "letter": "B",
+          "text": "Concentração de ureia",
+          "explanation": "PROTETORA. A ureia em certas concentrações é inibitória para múltiplas bactérias urinárias."
+        },
+        {
+          "letter": "C",
+          "text": "Presença de ácidos orgânicos",
+          "explanation": "IMPRECISA, NÃO UMA EXCEÇÃO UNIVERSAL. Ácidos orgânicos isolados não se correlacionaram de modo consistente à ação antibacteriana em estudo clássico, mas a acidificação urinária pode contribuir; não é seguro afirmar sua completa irrelevância."
+        },
+        {
+          "letter": "D",
+          "text": "pH baixo",
+          "explanation": "PROTETORA. pH urinário baixo dificulta o crescimento de alguns uropatógenos. Nota: Sem qualificação sobre solutos/pH/espécie bacteriana, não há única propriedade que deva ser negada de forma categórica. Se o elaborador exige uma, C seria a mais discutível, não fato estabelecido. [11]"
+        }
+      ],
+      "page": 3,
+      "id": "provao-m2-2019-2:q14:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Questão com formulação problemática.",
+      "answerIssue": "sem_resposta"
+    },
+    {
+      "number": 15,
+      "numberLabel": "15",
+      "prompt": "São fatores predisponentes de infecções urinárias, exceto:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uretra feminina curta",
+          "explanation": "FATOR DE RISCO. Uretra feminina curta facilita infecção ascendente."
+        },
+        {
+          "letter": "B",
+          "text": "Atividade sexual",
+          "explanation": "FATOR DE RISCO. Atividade sexual favorece cistites, sobretudo em mulheres jovens."
+        },
+        {
+          "letter": "C",
+          "text": "Modificações hormonais na mulher pré menopausa",
+          "explanation": "MAIS QUESTIONÁVEL, PROVÁVEL EXCEÇÃO. Alterações hormonais típicas da PÓS-menopausa (hipoestrogenismo), e não uma suposta alteração hormonal pré-menopausal inespecífica, são fator reconhecido de infecção urinária recorrente."
+        },
+        {
+          "letter": "D",
+          "text": "Predisposição genética",
+          "explanation": "FATOR DE RISCO. Predisposição genética/história familiar e fenótipos de receptores uroteliais podem contribuir. Nota: Alterações hormonais em gestação, contraceptivos e outras condições podem influenciar risco, portanto C não é falsidade absoluta. [12]"
+        }
+      ],
+      "page": 3,
+      "id": "provao-m2-2019-2:q15:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Resposta provável, enunciado impreciso.",
+      "answer": "C"
+    },
+    {
+      "number": 16,
+      "numberLabel": "16",
+      "prompt": "Sobre escroto agudo, assinale a correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ultrassonografia com doppler de testículo é exame que nada acrescenta na investigação de escroto agudo.",
+          "explanation": "INCORRETA. Doppler escrotal pode ajudar a diferenciar torção e epididimite, desde que não atrase exploração de suspeita forte."
+        },
+        {
+          "letter": "B",
+          "text": "Torção de cordão espermático (ou torção de testículo) é o diagnóstico a ser excluído no atendimento do paciente com dor testicular aguda. Sabe-se que quase a totalidade dos testículos é preservada quando a exploração cirúrgica é realizada em até 24 horas após o início do quadro.",
+          "explanation": "INCORRETA. Torção é diagnóstico tempo-dependente, mas quase todos os testículos NÃO são preservados se abordados até 24 h; a melhor janela é idealmente até 4-6 h."
+        },
+        {
+          "letter": "C",
+          "text": "Em caso de abordagem cirúrgica em que se confirme torção testicular, a fixação do testículo contralateral é necessária",
+          "explanation": "CORRETA. Confirmada a torção na exploração, geralmente se fixa também o testículo contralateral devido ao risco anatômico de torção futura."
+        },
+        {
+          "letter": "D",
+          "text": "Trauma contusos de testículo não pode ter indicação de tratamento cirúrgico.",
+          "explanation": "INCORRETA. Trauma contuso com ruptura testicular ou outras lesões significativas pode necessitar de cirurgia. Nota: A suspeita clínica forte demanda atendimento cirúrgico urgente. [13]"
+        }
+      ],
+      "page": 3,
+      "id": "provao-m2-2019-2:q16:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "C"
+    },
+    {
+      "number": 17,
+      "numberLabel": "17",
+      "prompt": "Sobre Hidronefrose perianatal, assinale a alternativa correta.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Válvula de uretra posterior é causa de hidronefrose antenatal. Esta doença pode cursar com insuficiência renal crônica.",
+          "explanation": "CORRETA. Válvula de uretra posterior causa obstrução fetal e hidronefrose e pode evoluir com DRC/insuficiência renal."
+        },
+        {
+          "letter": "B",
+          "text": "Refluxo vesicoureteral (RVU) é a condição na qual há fluxo retrógrado de urina da bexiga para o trato urinário superior. Pode ser classificado pela uretrocistografia em 4 graus. Nem todos os casos são cirúrgicos. A principal finalidade do tratamento conservados é impedir o surgimento de infecção urinária febril.",
+          "explanation": "INCORRETA NO TODO. Refluxo vesicoureteral é retrógrado e nem todo caso requer cirurgia, mas é classicamente graduado em CINCO graus, não quatro."
+        },
+        {
+          "letter": "C",
+          "text": "Obstrução da junção ureteropiélica (JUP) é a causa mais frequente de obstrução do trato urinário superior na população e seu tratamento quase nunca é cirúrgico.",
+          "explanation": "INCORRETA. Obstrução da junção pieloureteral é causa importante de hidronefrose e pode exigir pieloplastia por comprometimento funcional, sintomas ou infecções."
+        },
+        {
+          "letter": "D",
+          "text": "Terapias endoscópica não podem ser usadas para tratamento de refluxo vesicoureteral.",
+          "explanation": "INCORRETA. Injeção endoscópica de agente expansor é opção terapêutica selecionada para refluxo vesicoureteral. Nota: Válvula de uretra posterior constitui causa relevante de DRC em crianças. [14]"
+        }
+      ],
+      "page": 3,
+      "id": "provao-m2-2019-2:q17:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "A"
+    },
+    {
+      "number": 18,
+      "numberLabel": "18",
+      "prompt": "Hipospádia é uma anomalia do sistema urogenital muito frequente. Sobre esta condição é correto:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A grande maioria dos casos é proximal.",
+          "explanation": "INCORRETA. A maioria das hipospádias é distal/anterior, não proximal."
+        },
+        {
+          "letter": "B",
+          "text": "Hipospádias penoescrotal, escrotal ou perineal são de correção mais simples do que apresentações distais.",
+          "explanation": "INCORRETA. Hipospádias penoescrotais/perineais geralmente requerem correção mais complexa."
+        },
+        {
+          "letter": "C",
+          "text": "Existe apenas uma técnica cirúrgica descrita para tratamento de hipospádias.",
+          "explanation": "INCORRETA. Há múltiplas técnicas cirúrgicas escolhidas conforme anatomia e gravidade."
+        },
+        {
+          "letter": "D",
+          "text": "Hipospádias posteriores podem ter relação com infertilidade.",
+          "explanation": "CORRETA. Formas posteriores graves podem comprometer função sexual/reprodutiva e associar-se a alterações testiculares ou genitais, influenciando fertilidade. Nota: O risco depende da gravidade e da presença de anomalias associadas. [14]"
+        }
+      ],
+      "page": 3,
+      "id": "provao-m2-2019-2:q18:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "D"
+    },
+    {
+      "number": 19,
+      "numberLabel": "19",
+      "prompt": "Em relação ao PSA (antígeno prostático específico) assinale a alternativa CORRETA:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O PSA se altera com infecção urinária.",
+          "explanation": "CORRETA. Infecções urinárias e prostatite podem elevar transitoriamente PSA; reavaliar após resolução clínica."
+        },
+        {
+          "letter": "B",
+          "text": "O aumento do PSA na HPB é de 0,8 ng/grama de tecido hiperplásico/ano, enquanto no Ca de próstata o aumento é 3 vezes maior.",
+          "explanation": "INCORRETA. Não existe progressão anual fixa de PSA por grama nesses valores que diferencie com certeza HPB de câncer."
+        },
+        {
+          "letter": "C",
+          "text": "A relação PSA total/ PSA livre acima de 20 por cento é sugestiva de malignidade.",
+          "explanation": "INCORRETA. Fração livre/total mais ALTA tende a ser favorável a benignidade, enquanto menor fração livre pode aumentar suspeita de câncer."
+        },
+        {
+          "letter": "D",
+          "text": "O uso de inibidores de 5 redutase diminui em 10 por cento o valor do PSA após 1 ano de tratamento.",
+          "explanation": "INCORRETA. Inibidores da 5-alfa-redutase costumam reduzir PSA aproximadamente 50% em 6-12 meses, não apenas 10%. Nota: PSA não é específico para câncer. [3]"
+        }
+      ],
+      "page": 4,
+      "id": "provao-m2-2019-2:q19:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "A"
+    },
+    {
+      "number": 20,
+      "numberLabel": "20",
+      "prompt": "Em relação à HPB, marque a alternativa correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A uretrocistográfica retrógrada e miccional faz o diagnóstico de obstrução prostática",
+          "explanation": "INCORRETA. Uretrocistografia pode identificar alterações uretrais/anatômicas, mas não é método padrão isolado para diagnosticar obstrução por HPB."
+        },
+        {
+          "letter": "B",
+          "text": "Indivíduos castrados antes da puberdade desenvolvem HPB",
+          "explanation": "INCORRETA. Ausência de androgênios testiculares antes da puberdade impede o desenvolvimento habitual de HPB."
+        },
+        {
+          "letter": "C",
+          "text": "Fluxo urinário maior que 15 ml/s é indicativo de descompensação detrusora",
+          "explanation": "INCORRETA. Pico de fluxo urinário acima de 15 mL/s não caracteriza por si só falência do detrusor."
+        },
+        {
+          "letter": "D",
+          "text": "Paciente com sintomas de esvaziamento e próstata maior que 40gr é indicado podem ser conduzidos sem cirurgia",
+          "explanation": "CORRETA NA INTERPRETAÇÃO POSSÍVEL. Homens com sintomas e próstata maior que 40 g podem receber tratamento clínico e seguimento, sem indicação automática de cirurgia. O enunciado apresenta defeito de redação. Nota: A cirurgia depende de complicações, sintomas refratários e preferências do paciente. [3]"
+        }
+      ],
+      "page": 4,
+      "id": "provao-m2-2019-2:q20:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Melhor alternativa, texto truncado.",
+      "answer": "D"
+    },
+    {
+      "number": 21,
+      "numberLabel": "21",
+      "prompt": "Qual dos seguintes sintomas não é considerado de armazenamento (irritativo):",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Noctúria",
+          "explanation": "INCORRETA COMO RESPOSTA, pois noctúria é sintoma de armazenamento."
+        },
+        {
+          "letter": "B",
+          "text": "Urgência miccional",
+          "explanation": "INCORRETA COMO RESPOSTA, pois urgência é sintoma de armazenamento."
+        },
+        {
+          "letter": "C",
+          "text": "Polaciúria",
+          "explanation": "INCORRETA COMO RESPOSTA, pois polaciúria é sintoma de armazenamento."
+        },
+        {
+          "letter": "D",
+          "text": "Sensação de esvaziamento incompleto",
+          "explanation": "CORRETA COMO EXCEÇÃO. Sensação de esvaziamento incompleto é sintoma PÓS-miccional, e não sintoma clássico da fase de armazenamento. Nota: Classificação ICS: armazenamento, esvaziamento e pós-miccionais. [3]"
+        }
+      ],
+      "page": 4,
+      "id": "provao-m2-2019-2:q21:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "D"
+    },
+    {
+      "number": 22,
+      "numberLabel": "22",
+      "prompt": "Marque a alternativa incorreta quanto a comparação entre finasterida e dutasterida.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A finasterida diminui menos a DHT plasmática do que a dutasterida.",
+          "explanation": "ACEITÁVEL. Dutasterida inibe os dois tipos de 5-alfa-redutase e reduz mais DHT sérica do que finasterida."
+        },
+        {
+          "letter": "B",
+          "text": "A finasterida reduz o volume prostático (em seis meses de tratamento) em torno de 20% a 30%, enquanto que a dutasterida reduz em 26%.",
+          "explanation": "APROXIMAÇÃO. Ambas reduzem volume prostático em geral em cerca de 18-28%, dependendo do tempo e tamanho inicial; percentuais fixos para seis meses não são universais."
+        },
+        {
+          "letter": "C",
+          "text": "A incidência de disfunção erétil em pacientes tratados com dutasterida e a finasterida é a mesma, ou seja, em torno 8%.",
+          "explanation": "IMPRECISA. Disfunção erétil ocorre com ambos, mas taxa exata igual a 8% não é universal e varia conforme ensaio, dose e população."
+        },
+        {
+          "letter": "D",
+          "text": "A diminuição da libido em pacientes tratados com finasterida é o triplo quando comparada com a dutasterida.",
+          "explanation": "INCORRETA (MELHOR RESPOSTA). Não existe proporção fixa, generalizável, de redução de libido “três vezes maior” com finasterida que dutasterida. Nota: A letra C também deve ser relativizada; a questão superestima precisão de taxas de eventos adversos. [3][15]"
+        }
+      ],
+      "page": 4,
+      "id": "provao-m2-2019-2:q22:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Resposta provável, com outra imprecisão.",
+      "answer": "D"
+    },
+    {
+      "number": 23,
+      "numberLabel": "23",
+      "prompt": "Uma mulher de 25 anos tem início súbito de febre, mal-estar e náusea. Exame da urina de rotina mostra proteína 1+, ausência de cetonas, ausência de glicose e sangue 4+, com cilindros hemáticos ao exame microscópico. Há acentuada hipercelularidade glomerular por microscopia óptica, com neutrófilos nas alças capilares glomerulares. A microscopia por imunofluorescência revela deposição granular de IgG e C3 nas membranas basais capilares glomerulares. À microscopia eletrônica, observam-se “gibas” subepiteliais eletrondensas. O diagnóstico mais provável é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Síndrome de Goodpasture.",
+          "explanation": "INCORRETA. Na doença anti-membrana basal há marcação LINEAR por IgG, não depósitos granulares e gibas."
+        },
+        {
+          "letter": "B",
+          "text": "Glomerulonefrite membranosa.",
+          "explanation": "INCORRETA. Na nefropatia membranosa predominam espessamento da membrana e depósitos subepiteliais sem hipercelularidade exsudativa típica."
+        },
+        {
+          "letter": "C",
+          "text": "Glomerulonefrite pós-infecciosa.",
+          "explanation": "CORRETA. GN pós-infecciosa mostra hipercelularidade endocapilar com neutrófilos, IgG/C3 granular e “humps” subepiteliais."
+        },
+        {
+          "letter": "D",
+          "text": "Diabetes mellitus.",
+          "explanation": "INCORRETA. Nefropatia diabética apresenta expansão mesangial/hialinose arteriolar e pode ter nódulos de Kimmelstiel-Wilson, não esse padrão exsudativo. Nota: O padrão histopatológico é característico de GN associada a infecções. [16]"
+        }
+      ],
+      "page": 4,
+      "id": "provao-m2-2019-2:q23:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "C"
+    },
+    {
+      "number": 24,
+      "numberLabel": "24",
+      "prompt": "Um homem saudável de 72 anos sente dificuldade crescente à micção. Ele precisa levantar várias vezes durante a noite em razão de sensação de urgência, mas a cada vez o volume de urina é pequeno. Ele tem dificuldade em inicial e interromper a micção. Este problema se agravou nos últimos anos. O nível sérico de PSA está levemente aumentado, mas estável durante esse período. Biopsia da próstata provavelmente revelará:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nódulos hiperplásicos de estroma e glândulas revestidas por duas camadas de epitélio.",
+          "explanation": "CORRETA. HPB apresenta nódulos de hiperplasia glandular e estromal, com células basais e luminais preservadas."
+        },
+        {
+          "letter": "B",
+          "text": "Glândulas mal diferenciadas revestidas por uma única camada de epitélio, com fusão de ácinos.",
+          "explanation": "INCORRETA. Glândulas fundidas e perda de camada basal sugerem adenocarcinoma de próstata."
+        },
+        {
+          "letter": "C",
+          "text": "Células inflamatórias com predomínio de neutrófilos e abscessos no estroma e em glândulas.",
+          "explanation": "INCORRETA. Abscessos com neutrófilos indicam prostatite aguda bacteriana."
+        },
+        {
+          "letter": "D",
+          "text": "Múltiplas áreas de inflamação granulomatosa caseosa.",
+          "explanation": "INCORRETA. Granulomas caseosos sugerem infecção granulomatosa, como tuberculose. Nota: Sintomas urinários progressivos e PSA pouco variável favorecem HPB, não confirmam ausência de câncer. [3]"
+        }
+      ],
+      "page": 4,
+      "id": "provao-m2-2019-2:q24:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "A"
+    },
+    {
+      "number": 25,
+      "numberLabel": "25",
+      "prompt": "Uma criança de 2 anos possui uma massa no testículo esquerdo com 2,5cm de diâmetro e bem circunscrita. Histologicamente, essa massa demonstra lâminas de células com glândulas mal definidas compostas de células cuboides, algumas das quais contendo glóbulos hialinos eosinofílicos. A análise encontra microcistos e estruturas glomeruloides primitivas. É demonstrada AFP (alfa fetoproteína) no citoplasma das células neoplásicas por imuno-histoquímica. A criança provavelmente tem:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coriocarcinoma.",
+          "explanation": "INCORRETA. Coriocarcinoma tem diferenciação trofoblástica e costuma cursar com elevação de hCG."
+        },
+        {
+          "letter": "B",
+          "text": "Seminoma.",
+          "explanation": "INCORRETA. Seminoma é excepcional na primeira infância e não tem o padrão de corpos de Schiller-Duval com AFP."
+        },
+        {
+          "letter": "C",
+          "text": "Tumor do saco vitelino.",
+          "explanation": "CORRETA. Tumor do saco vitelino em criança mostra estruturas glomeruloides de Schiller-Duval, glóbulos hialinos e expressão de AFP."
+        },
+        {
+          "letter": "D",
+          "text": "Teratoma.",
+          "explanation": "INCORRETA. Teratoma apresenta diferenciação de múltiplos tecidos e não é definido por esse padrão característico. Nota: A descrição histológica e a imuno-histoquímica permitem resposta firme. [17]"
+        }
+      ],
+      "page": 5,
+      "id": "provao-m2-2019-2:q25:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "C"
+    },
+    {
+      "number": 26,
+      "numberLabel": "26",
+      "prompt": "Paciente com 60 anos de idade, diabética há 10 anos, hipertensa também há 10 anos, com taxa de filtração glomerular 19 ml/min/1,73 m2SC. Nega hematúria, nega cólicas ou dores, nega uso de anti-inflamatórios, nega alterações cutâneas ou articulares. A taxa de filtração glomerular há 1 ano era de 23 ml/min/1,72m2SC. Microalbuminúria = 10 mg/g de creatinina. EAS mostra apenas glicosúria e densidade de 1008. Como deve ser o aspecto mais provável dos rins à ultrassonografia?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rins policísticos.",
+          "explanation": "INCORRETA. Cistos múltiplos renais não foram descritos."
+        },
+        {
+          "letter": "B",
+          "text": "Rins de aspecto normal",
+          "explanation": "POSSÍVEL EM ALGUNS DIABÉTICOS. A nefropatia diabética pode preservar ou aumentar tamanho renal, mesmo com disfunção; entretanto a alternativa não é a mais esperada para DRC avançada crônica de etiologia não determinada."
+        },
+        {
+          "letter": "C",
+          "text": "Rins pequenos",
+          "explanation": "MAIS PROVÁVEL NA DRC AVANÇADA DE LONGA DATA. Redução crônica de TFG frequentemente acompanha rins reduzidos, cortical adelgaçada e maior ecogenicidade."
+        },
+        {
+          "letter": "D",
+          "text": "Hidronefrose bilateral",
+          "explanation": "INCORRETA. Hidronefrose requer evidência de obstrução bilateral, ausente no caso. Nota: Albuminúria de apenas 10 mg/g e TFG 19 indicam DRC G4A1 de etiologia ainda não comprovada; USG não pode ser inferida com certeza. [18]"
+        }
+      ],
+      "page": 5,
+      "id": "provao-m2-2019-2:q26:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Mais provável, não diagnóstica.",
+      "answer": "C"
+    },
+    {
+      "number": 27,
+      "numberLabel": "27",
+      "prompt": "Quanto às doenças císticas renais é correto afirmar:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A DRPAD tipo 1 é menos frequente que a tipo 2",
+          "explanation": "INCORRETA. DRPAD tipo 1 (PKD1) é mais frequente do que tipo 2 (PKD2)."
+        },
+        {
+          "letter": "B",
+          "text": "A DRPAD apresenta fenótipo menos intenso que a tipo 2",
+          "explanation": "INCORRETA. Em geral PKD1 apresenta fenótipo mais grave e progressão renal mais precoce que PKD2."
+        },
+        {
+          "letter": "C",
+          "text": "A DRPAD tipo 1 ocorre por alterações genética no cromossomo 16",
+          "explanation": "CORRETA. PKD1 localiza-se no cromossomo 16 (16p13.3), enquanto PKD2 se localiza no cromossomo 4."
+        },
+        {
+          "letter": "D",
+          "text": "A DRPAD tipo 2 ocorre mais frequentemente no sexo feminino.",
+          "explanation": "INCORRETA. Não se reconhece predomínio feminino inequívoco de PKD2; a transmissão é autossômica dominante. Nota: A distinção genética altera prognóstico médio, mas há expressiva heterogeneidade clínica. [18]"
+        }
+      ],
+      "page": 5,
+      "id": "provao-m2-2019-2:q27:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "C"
+    },
+    {
+      "number": 28,
+      "numberLabel": "28",
+      "prompt": "Paciente de 35 anos, masculino, ex-tabagista, é internado na UTI em insuficiência respiratória devido à hemorragia pulmonar aguda, insuficiência renal aguda oligúrica e hipertensão arterial. Iniciado tratamento hemodialítico de urgência, anti-hipertensivos e investigação de causas secundárias para o quadro clínico. Laboratorialmente apresentava EAS com leucocitúria, hematúria e proteinúria com presença de cilindros hemáticos, proteinúria de 24 horas= 0,5 g/24 horas, creatinina sérica= 6,5 mg/dL, ANCAs negativos e anticorpo anti-membrana basal reagente. O principal diagnóstico sindrômico e etiológico neste caso são:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Síndrome nefrótica e lesão mínima primária.",
+          "explanation": "INCORRETA. Lesão mínima causa síndrome nefrótica com proteinúria importante, mas não explica hemorragia alveolar e anti-MBG."
+        },
+        {
+          "letter": "B",
+          "text": "Síndrome nefrítica e nefropatia por IgA.",
+          "explanation": "INCORRETA. Nefropatia por IgA pode ser nefrítica, porém não explica anticorpos anti-MBG reativos com hemorragia pulmonar nessa apresentação."
+        },
+        {
+          "letter": "C",
+          "text": "Síndrome nefrítica e glomeruloesclerose segmentar e focal.",
+          "explanation": "INCORRETA. GESF não é causa típica de síndrome pulmão-rim anti-MBG."
+        },
+        {
+          "letter": "D",
+          "text": "Síndrome nefrítica e síndrome de goodpasture.",
+          "explanation": "CORRETA. Hemorragia pulmonar + glomerulonefrite rapidamente progressiva + anti-membrana basal positiva caracterizam doença anti-MBG (síndrome de Goodpasture). Nota: Constitui emergência imunológica e nefrológica. [16]"
+        }
+      ],
+      "page": 5,
+      "id": "provao-m2-2019-2:q28:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "D"
+    },
+    {
+      "number": 29,
+      "numberLabel": "29",
+      "prompt": "Correlacione as complicações da síndrome nefrótica de acordo com a proteína perdida e assinale a alternativa que apresenta a sequência correta, de cima para baixo: 1-perda urinária de albumina; 2-perda urinária de imunoglobulinas e fatores do complemento; 3-perda urinária de anti-trombina III; 4-perda urinária da proteína transportadora de vitamina D. ( ) Trombose venosa profunda ( ) Edema ( ) Peritonite bacteriana espontânea ( ) Hiperparatireoidismo",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 - 3 - 4 - 2",
+          "explanation": "INCORRETA. Sequência 1-3-4-2 atribui trombose à albumina, o que não corresponde à associação pedida."
+        },
+        {
+          "letter": "B",
+          "text": "3 - 1 - 2 - 4",
+          "explanation": "CORRETA. Antitrombina III (3) perdida favorece trombose; albumina (1) favorece edema; imunoglobulinas/complemento (2) predispõem a infecções; proteína transportadora de vitamina D (4) altera metabolismo mineral."
+        },
+        {
+          "letter": "C",
+          "text": "2 - 1 - 3 - 4",
+          "explanation": "INCORRETA. Sequência 2-1-3-4 desloca a trombose para perda de imunoglobulinas."
+        },
+        {
+          "letter": "D",
+          "text": "3 - 1 - 4 - 2",
+          "explanation": "INCORRETA. Sequência 3-1-4-2 atribui infecção à proteína transportadora de vitamina D e hiperparatireoidismo à perda de imunoglobulinas. Nota: A fisiopatologia da hipercoagulabilidade nefrótica é multifatorial e não se restringe à perda de antitrombina. [16]"
+        }
+      ],
+      "page": 5,
+      "id": "provao-m2-2019-2:q29:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "B"
+    },
+    {
+      "number": 30,
+      "numberLabel": "30",
+      "prompt": "Criança de oito anos, após diagnóstico de impetigo há 15 dias, dá entrada no pronto-socorro com quadro de dispneia, cansaço, edema, hipertensão arterial, diminuição do volume urinário e coloração avermelhada na urina há 48 horas. A fisiopatologia envolvida no surgimento da hipertensão arterial e edema neste caso são:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento da filtração glomerular com maior reabsorção tubular de água",
+          "explanation": "INCORRETA. A GN pós-estreptocócica reduz a filtração, e não a aumenta."
+        },
+        {
+          "letter": "B",
+          "text": "Diminuição da filtração glomerular e hipervolemia",
+          "explanation": "CORRETA. Retenção renal de sódio e água secundária à queda da TFG causa hipervolemia, hipertensão e edema."
+        },
+        {
+          "letter": "C",
+          "text": "Necrose tubular aguda secundário ao quadro infeccioso e oligúria",
+          "explanation": "INCORRETA. O quadro é de GN pós-infecciosa, não de necrose tubular aguda típica como mecanismo principal."
+        },
+        {
+          "letter": "D",
+          "text": "Aumento da permeabilidade da membrana basal glomerular e hipovolemia",
+          "explanation": "INCORRETA. Hipovolemia não caracteriza a fisiopatologia usual da hipertensão/edema nessa síndrome nefrítica. Nota: Antecedente de impetigo com intervalo de 1-3 semanas é compatível com glomerulonefrite pós-estreptocócica. [16]"
+        }
+      ],
+      "page": 6,
+      "id": "provao-m2-2019-2:q30:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "B"
+    },
+    {
+      "number": 31,
+      "numberLabel": "31",
+      "prompt": "Três maratonistas tiveram estratégias diferentes durante a corrida. O primeiro decidiu por tomar água para repor as perdas e ganhou 2Kg após a corrida. O segundo resolveu tomar água com gás e também ganhou 3Kg após a corrida. O terceiro resolveu não tomar líquidos durante a corrida. Quais as alterações possíveis do sódio encontradas no final da corrida, respectivamente em cada corredor?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hiponatremia, hiponatremia, hiponatremia.",
+          "explanation": "INCORRETA COMO MELHOR PADRÃO. O terceiro corredor sem líquidos tende à desidratação/possível hipernatremia, e não é o mesmo padrão dos que ganharam peso por ingerir água."
+        },
+        {
+          "letter": "B",
+          "text": "Hiponatremia, hipernatremia, hipernatremia.",
+          "explanation": "INCORRETA. A água com gás, se não contiver sódio em quantidade suficiente para alterar significativamente o balanço, não deve explicar hipernatremia após ganho de 3 kg."
+        },
+        {
+          "letter": "C",
+          "text": "Hipernatremia, hipernatremia, hipernatremia.",
+          "explanation": "INCORRETA. Ganho ponderal por excesso de água nos dois primeiros tende a hiponatremia, não hipernatremia."
+        },
+        {
+          "letter": "D",
+          "text": "Hiponatremia, hiponatremia, hipernatremia.",
+          "explanation": "CORRETA COMO CENÁRIO MAIS PROVÁVEL. Primeiro e segundo com ganho de peso pela água: hiponatremia associada ao exercício; terceiro sem reposição: hipernatremia pode ocorrer por perda hídrica. Nota: O sódio real exige medidas laboratoriais; ganho de peso sugere retenção de água, mas não prova hiponatremia, e privação hídrica não implica hipernatremia obrigatória. [19]"
+        }
+      ],
+      "page": 6,
+      "id": "provao-m2-2019-2:q31:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Resposta fisiologicamente plausível.",
+      "answer": "D"
+    },
+    {
+      "number": 32,
+      "numberLabel": "32",
+      "prompt": "São exemplos de LRA pré-renal:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rabdomiólise, diarréia e vômitos",
+          "explanation": "INCORRETA. Rabdomiólise causa sobretudo LRA intrínseca por lesão tubular pigmentar, embora vômitos/diarreia causem pré-renal."
+        },
+        {
+          "letter": "B",
+          "text": "Trombose de veia renal, infarto agudo do miocárdio e vômitos",
+          "explanation": "INCORRETA. Trombose de veia renal é lesão vascular renal, não causa típica de hipoperfusão pré-renal simples."
+        },
+        {
+          "letter": "C",
+          "text": "Hiperplasia prostática benigna, infarto agudo do miocárdio e diarréia",
+          "explanation": "INCORRETA. HPB é causa pós-renal; infarto miocárdico e diarreia podem causar pré-renal."
+        },
+        {
+          "letter": "D",
+          "text": "Insuficiência cardíaca, grande queimado e vômitos",
+          "explanation": "CORRETA. Insuficiência cardíaca (redução do volume arterial efetivo), grandes queimaduras (perdas) e vômitos (depleção) provocam LRA pré-renal. Nota: Classifica-se pela fisiopatologia predominante: hipoperfusão, lesão renal estrutural ou obstrução. [18]"
+        }
+      ],
+      "page": 6,
+      "id": "provao-m2-2019-2:q32:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "D"
+    },
+    {
+      "number": 33,
+      "numberLabel": "33",
+      "prompt": "Na lesão renal aguda por necrose tubular aguda a concentração do sódio urinário está elevada por vários motivos, entre eles:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocorre uma maior reabsorção de água por vazamento retrógrado",
+          "explanation": "INCORRETA. “Backleak” tubular significa vazamento retrógrado do filtrado e não reabsorção fisiológica aumentada de água para explicar natriúria."
+        },
+        {
+          "letter": "B",
+          "text": "O sódio é menos reabsorvido por perda da polaridade das células tubulares renais",
+          "explanation": "CORRETA. Lesão tubular e perda da polaridade celular reduzem a reabsorção eficiente de sódio, elevando sódio urinário em necrose tubular típica."
+        },
+        {
+          "letter": "C",
+          "text": "O sódio é mais secretado por ação da aldosterona",
+          "explanation": "INCORRETA. Aldosterona promove reabsorção de sódio no néfron distal, não secreção aumentada."
+        },
+        {
+          "letter": "D",
+          "text": "Há uma maior ação do hormônio antidiurético reabsorvendo água",
+          "explanation": "INCORRETA. ADH atua na permeabilidade à água, sem explicar diretamente a perda tubular de sódio descrita. Nota: Fração de excreção de sódio pode ser pouco confiável em sepse, uso de diuréticos e múltiplas situações. [18]"
+        }
+      ],
+      "page": 6,
+      "id": "provao-m2-2019-2:q33:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "B"
+    },
+    {
+      "number": 34,
+      "numberLabel": "34",
+      "prompt": "Na fisiopatologia da nefropatia diabética encontramos:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deficiência na formação dos AGEs (Advanced Glycation End Products)",
+          "explanation": "INCORRETA. Hiperglicemia leva a maior formação de produtos finais de glicação avançada (AGEs)."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento de formação da matriz mesangial.",
+          "explanation": "CORRETA. Expansão de matriz mesangial é achado central na progressão da glomerulopatia diabética."
+        },
+        {
+          "letter": "C",
+          "text": "Proliferação acentuada de podócitos.",
+          "explanation": "INCORRETA. Ocorrem lesão, disfunção e perda de podócitos, não proliferação acentuada como mecanismo principal."
+        },
+        {
+          "letter": "D",
+          "text": "Inibição da formação de sorbitol intracelular",
+          "explanation": "INCORRETA. Há aumento da via dos polióis/sorbitol em hiperglicemia, e não inibição generalizada dessa via. Nota: Também podem ocorrer espessamento da membrana basal e hialinose de arteríolas aferentes e eferentes. [18]"
+        }
+      ],
+      "page": 6,
+      "id": "provao-m2-2019-2:q34:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "B"
+    },
+    {
+      "number": 35,
+      "numberLabel": "35",
+      "prompt": "Os IECA e BRA são renoprotetores porque?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentam o fluxo plasmático renal",
+          "explanation": "INCORRETA COMO MECANISMO PRINCIPAL. IECA/BRA reduzem angiotensina II e dilatam preferencialmente a arteríola eferente."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentam a resistência da arteríola eferente",
+          "explanation": "INCORRETA. O efeito hemodinâmico típico é REDUZIR a resistência eferente."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentam a resistência da arteríola aferente",
+          "explanation": "INCORRETA. Aumentar resistência aferente não é mecanismo protetor de bloqueio do SRAA."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentam o calibre da arteríola eferente",
+          "explanation": "CORRETA. Dilatação eferente reduz pressão intraglomerular e proteinúria e pode retardar progressão de DRC albuminúrica. Nota: Monitorar creatinina e potássio ao iniciar/ajustar dose. [18]"
+        }
+      ],
+      "page": 6,
+      "id": "provao-m2-2019-2:q35:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Segura.",
+      "answer": "D"
+    },
+    {
+      "number": 36,
+      "numberLabel": "36",
+      "prompt": "Na lesão renal aguda deve-se evitar o uso de:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anti-inflamatórios não hormonais",
+          "explanation": "POTENCIALMENTE NEFROTÓXICA. AINEs reduzem síntese de prostaglandinas renais e podem piorar a perfusão em suscetíveis; normalmente devem ser evitados na LRA."
+        },
+        {
+          "letter": "B",
+          "text": "IECA e BRA",
+          "explanation": "RESSALVA. IECA/BRA podem reduzir TFG durante hipovolemia ou hipotensão, exigindo revisão individual; não constituem proibição absoluta em toda forma de LRA."
+        },
+        {
+          "letter": "C",
+          "text": "Anfotericina",
+          "explanation": "POTENCIALMENTE NEFROTÓXICA. Anfotericina B (sobretudo desoxicolato) pode causar lesão tubular, devendo-se avaliar alternativa/formulação e necessidade."
+        },
+        {
+          "letter": "D",
+          "text": "Todas as respostas",
+          "explanation": "CORRETA COMO RESPOSTA PRETENDIDA. Todas exigem avaliação cuidadosa na LRA; isso não significa que IECA/BRA devam ser suspensos invariavelmente ou que anfotericina seja impossível quando imprescindível. Nota: Evitar nefrotóxicos quando possível e individualizar decisões clínicas. [18]"
+        }
+      ],
+      "page": 7,
+      "id": "provao-m2-2019-2:q36:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Mais próxima, com ressalva clínica.",
+      "answer": "D"
+    },
+    {
+      "number": 37,
+      "numberLabel": "37",
+      "prompt": "Qual a principal causa de Doença Renal Crônica dialítica no Brasil?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diabete melito",
+          "explanation": "CORRETA NO CENSO DE 2024. Diabetes mellitus figura como causa primária atribuída em 29% dos pacientes em diálise."
+        },
+        {
+          "letter": "B",
+          "text": "Doença renal policística",
+          "explanation": "INCORRETA. Doença renal policística contribui para DRC terminal, mas tem participação menor."
+        },
+        {
+          "letter": "C",
+          "text": "Hipertensão arterial sistêmica",
+          "explanation": "CORRETA NO CENSO DE 2024. Hipertensão arterial também responde por 29%; historicamente liderava isoladamente nas séries brasileiras anteriores, incluindo a época de 2019."
+        },
+        {
+          "letter": "D",
+          "text": "Urolitíase",
+          "explanation": "INCORRETA. Urolitíase isoladamente não é causa predominante da doença renal dialítica no Brasil. Nota: Gabarito provável da prova de 2019: C; na atualização do Censo Brasileiro de Diálise 2024, A e C empataram, impossibilitando resposta única atual. [20]"
+        }
+      ],
+      "page": 7,
+      "id": "provao-m2-2019-2:q37:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Questão temporalmente desatualizada.",
+      "answer": "A/C"
+    },
+    {
+      "number": 38,
+      "numberLabel": "38",
+      "prompt": "Paciente de 36 anos de idade, feminina, apresentando queda de cabelo, dores articulares e dor no corpo e nas últimas semanas vem apresentado “inchaço” e edema de membros inferiores. O exame Fator Anti Nuclear (FAN) apresentou-se positivo, com título de 1280 e padrão nuclear pontilhado fino. O seu EAS apresentou o seguinte resultado: Exame Físico/Químico COR- Amarelo escuro (V.R:Am.citrino) CHEIRO-“Sui Generis”(V.R:”Sui Gen”) ASPECTO- Lig. Turvo(V.R:Límpido) DEPÓSITO-moderado (V.R:Ausente) DENSIDADE- 1025 (V.R:1015 a 1025), pH- 6.0 (V.R:ácido) NITRITO- Negativo (V.R:Negativo) PROTEÍNAS- 2800mg/dL(V.R:<30 mg/dL) GLICOSE- 0 mg/dL (V.R: 0 mg/dL) CORPOS CETÔNICOS-Ausente (V.R-Aus.) UROBILINOGÊNIO- <1mg/dL(V.R:<1) BILIRRUBINA-Ausente (V.R:Ausente) HEMÁCIA-Presente(+/4+) (V.R:Aus.) HEMOGLOBINAS-Presente(V.R:Ausente) Exame Microscópico LEUCÓCITOS-15.000/mL (V.R:até 10.000/mL) MUCO-Presente(++/4+) HEMÁCIAS TOTAL- 20.000/mL(V.R:até 10.000/mL) Hm.ISOMÓRFICAS-15.000/mL Hm.DISMÓRFICAS- 5.000/mL (V.R:<5% das Hm.Total) Cel.UROTELIAIS-15.000/mL (V.R:até 10.000/mL) Cel.TUBULARES- 8.000/mL (V.R: até 1.500/mL) CRISTAIS-de oxalato de cálcio(+/4+) CILINDROS HIALINOS- 4000/mL (até 1750/mL) OUTROS CILINDROS - Gordurosos: 2000/mL (V.R: 0) NO SORO: COLESTEROL:340 mg/dL (V.R:<200 mg/dL) ALBUMINA:2.9mg/dL(V.R:4.5-5.5mg/dL) Considerando a exposição acima, com estes dados, responda: Que enfermidade melhor explicaria estes achados clínicos/ laboratoriais?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Síndrome nefrótica-Glomerulonefrite Aguda (GNDA)",
+          "explanation": "Incorreta. GN aguda com síndrome nefrótica não é o melhor diagnóstico etiológico diante do conjunto sugestivo de lúpus."
+        },
+        {
+          "letter": "B",
+          "text": "Síndrome nefrítica-Glomerulonefrite Aguda (GNDA)",
+          "explanation": "Incorreta. A síndrome nefrítica isolada não explica tão bem a proteinúria intensa, a hipoalbuminemia, a lipidúria e a hipercolesterolemia."
+        },
+        {
+          "letter": "C",
+          "text": "Síndrome nefrótica-Nefropatia lúpica",
+          "explanation": "Correta. Manifestações de lúpus com proteinúria intensa, edema, cilindros gordurosos, albumina reduzida e hipercolesterolemia sugerem síndrome nefrótica por nefropatia lúpica."
+        },
+        {
+          "letter": "D",
+          "text": "Síndrome nefrítica-Nefropatia lúpica",
+          "explanation": "Incorreta. Nefropatia lúpica é provável, mas o padrão principal é nefrótico, embora haja hematúria concomitante."
+        }
+      ],
+      "page": 7,
+      "reviewNote": "No arquivo original, as alternativas estão na ordem gráfica A, C, B, D. Foram reorganizadas visualmente, mantendo suas letras originais. Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Grau de segurança: Segura, conferindo letras originais.",
+      "id": "provao-m2-2019-2:q38:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "C"
+    },
+    {
+      "number": 39,
+      "numberLabel": "39",
+      "prompt": "Paciente de 26 anos de idade, feminina, apresentando febre, dor na região lombar e disúria. Foi solicitado um EAS que apresentou: Exame Físico/Químico COR: amarelo-escura (V.R: amarelo-citrino) ASPECTO: turvo (V.R: límpido) CHEIRO-“Sui Generis” (V.R:”Sui Generis”) DEPÓSITO-Moderado (V.R: Ausente) pH- 6.5 (V.R: ácido) DENSIDADE: 1022 (V.R: 1015 a 1025) NITRITO: Positivo (V.R: negativo) GLICOSE: 0mg/dL (V.R: 0mg/dL) UROBILINOGÊNIO < 1mg/dL (V.R: < 1 mg/dL) PROTEÍNA- 300mg/dL (V.R: <30mg/dL) CORPOS CETÔNICOS:Ausentes (V.R: Ausente) BILIRRUBINA-Ausente (V.R: Ausente) HEMÁCIAS: Presente (+++/4+) (V.R: ausentes) HEMOGLOBINA-Presente(V.R: Ausente) Exame Microscópico LEUCÓCITO - 145.000/mL (V.R: até 10.000/mL) HEMÁCIAS TOTAL - 500.000/mL (V.R: até 10.000/mL) Hm. ISOMÓRFICAS - 200.000/mL Hm. DISMÓRFICAS - 400.000/mL (V.R: <5% das Hm. Total) Cel. TUBULARES - 80.000/mL (V.R: até 1.500/mL) Cel. UROTELIAIS - 20.000/mL (V.R: até 10.000/mL) CILINDROS HIALINOS- 2000/mL (V.R: até 1750/mL) OUTROS CILINDROS - Hemático: 50.000/mL (V.R: 0) Leucocitário- 100.000/mL (V.R: 0) MUCO: Presente (++/4+) CRISTAIS-Ausentes Considerando a exposição acima, com estes dados, responda: Que enfermidade melhor explicaria estes achados clínicos/ laboratoriais?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infecção do Trato Urinário (ITU) Baixa/Cistite",
+          "explanation": "INCORRETA COMO MELHOR. Febre e dor lombar apontam comprometimento do trato urinário alto, não apenas cistite."
+        },
+        {
+          "letter": "B",
+          "text": "Infecção do Trato Urinário (ITU) Alta/ Pielonefrite",
+          "explanation": "PROVÁVEL RESPOSTA PRETENDIDA. Disúria, febre, dor lombar, nitrito positivo e cilindros LEUCOCITÁRIOS podem indicar pielonefrite."
+        },
+        {
+          "letter": "C",
+          "text": "Glomerulonefrite Aguda (GNDA)",
+          "explanation": "ALTERNATIVA PLAUSÍVEL PELO SEDIMENTO. Hemácias dismórficas e cilindros HEMÁTICOS favorecem glomerulonefrite, tornando insuficiente a certeza de pielonefrite isolada."
+        },
+        {
+          "letter": "D",
+          "text": "Nefropatia lúpica",
+          "explanation": "INCORRETA COMO HIPÓTESE INICIAL. Não há história de LES/FAN positivo ou outros critérios suficientes para atribuir o quadro a nefrite lúpica. Nota: O EAS é internamente inconsistente: 200 mil hemácias isomórficas + 400 mil dismórficas > 500 mil totais; cilindros hemáticos exigem reavaliação e investigação de GN. [12][16]"
+        }
+      ],
+      "page": 7,
+      "id": "provao-m2-2019-2:q39:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Ambígua por achados contraditórios.",
+      "answer": "B"
+    },
+    {
+      "number": 40,
+      "numberLabel": "40",
+      "prompt": "Paciente de sexo masculino, 19 anos, com vida sexual ativa (várias parceiras nos último meses), notou o aparecimento de lesão papular, cinco dias após relação sexual com desconhecida, sendo que esta lesão ulcerou, apresentando bases irregulares, não endurecidas, extremamente dolorosas, que apareceram em pele de região próxima também (\"lesões em beijo\") e depois passou a apresentar adenopatia inguinal, unilateral, que passou a drenar secreção purulenta, por único ponto de drenagem. Para confirmar a hipótese clínica que deve ser feita, dentre os exames abaixo, qual seria o mais indicado?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pesquisa de bacilos Gram negativos através de Bacterioscopia pelo Gram da secreção drenada do bulbão.",
+          "explanation": "MAIS PRÓXIMA. Quadro sugere cancro mole (Haemophilus ducreyi): úlcera dolorosa, irregular, lesões em beijo e bubão unilateral supurativo. Cultura específica ou teste molecular validado são preferíveis quando disponíveis; Gram do bubão tem baixa sensibilidade e NÃO confirma com segurança."
+        },
+        {
+          "letter": "B",
+          "text": "Pesquisa de Clamidia na secreção do bulbão, através, por exemplo, de imunofluorescência direta ou por Reação em Cadeia da Polimerase (PCR) para Clamidia.",
+          "explanation": "INCORRETA. Pesquisa de clamídia é direcionada especialmente ao linfogranuloma venéreo, mais associado a lesão primária discreta e linfadenopatia com outras características."
+        },
+        {
+          "letter": "C",
+          "text": "Bacterioscopia pelo Gram da secreção do bulbão, com ênfase a pesquisa de diplococos Gram negativos, intra e extracelulares.",
+          "explanation": "INCORRETA. Diplococos Gram-negativos são associados a gonococo, e não são a etiologia usual dessa úlcera dolorosa."
+        },
+        {
+          "letter": "D",
+          "text": "Pesquisa de corpúsculo de Donovan (em secreção corada pelo Leishman ou biópsia corada pelo Giemsa)",
+          "explanation": "INCORRETA. Corpúsculos de Donovan pertencem ao granuloma inguinal (donovanose), quadro predominantemente ulcerativo pouco doloroso e sem bubão típico. Nota: O diagnóstico clínico de cancro mole exige excluir sífilis e herpes; confirmação microbiológica por métodos específicos pode ser difícil. [21]"
+        }
+      ],
+      "page": 8,
+      "id": "provao-m2-2019-2:q40:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Grau de segurança: Resposta mais próxima entre as oferecidas.",
+      "answer": "A"
+    }
+  ],
+  "questionCount": 40
+}

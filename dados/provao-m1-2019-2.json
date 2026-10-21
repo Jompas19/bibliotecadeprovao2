@@ -1,0 +1,1259 @@
+{
+  "id": "provao-m1-2019-2",
+  "title": "Provão M1 (2019.2)",
+  "original": "Provão reumato e o resto - Outubro",
+  "key_source": "Gabarito comentado do PDF",
+  "questionCount": 40,
+  "questions": [
+    {
+      "number": 1,
+      "prompt": "Quedas são frequentes entre os idosos. Sobre as adaptações que devem ser realizadas para preveni-las, marque a opção correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uso de barras de apoio no vaso sanitário para que facilitem o ato de sentar e levantar.",
+          "explanation": "Correta. Barras de apoio firmemente instaladas junto ao vaso sanitário auxiliam transferências e reduzem quedas."
+        },
+        {
+          "letter": "B",
+          "text": "Preferência pelo uso de sandálias e chinelos por serem mais fáceis de colocar e tirar e se adaptam melhor aos pés.",
+          "explanation": "Incorreta. Chinelos e sandálias soltas aumentam escorregões; preferir calçados fechados, ajustados e antiderrapantes."
+        },
+        {
+          "letter": "C",
+          "text": "Subir em pequenos bancos (tamboretes) para pegar coisas em locais mais altos, evitando-se assim o esforço de esticar os braços.",
+          "explanation": "Incorreta. Subir em bancos ou tamboretes eleva o risco de desequilíbrio; objetos frequentes devem ficar acessíveis."
+        },
+        {
+          "letter": "D",
+          "text": "Diminuir um pouco a iluminação dos cômodos mais usados na casa para evitar o ofuscamento.",
+          "explanation": "Incorreta. Iluminação insuficiente piora identificação de obstáculos; recomenda-se iluminação adequada e sem ofuscamento. Fundamentação principal: R1."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "1",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q1:1"
+    },
+    {
+      "number": 2,
+      "prompt": "- Homem de 85 anos em uso de 6 medicamentos para tratamento de glaucoma, hipertensão arterial e depressão é atendido no pronto-socorro com história de que há 72 horas apresentava inversão de padrão do sono, desorientação e fraqueza. Há 24 horas está muito sonolento, não querendo alimentar-se. Foi levado à Unidade de Pronto-Atendimento (UPA). Ao exame clínico, apresentava-se sonolento, desorientado, com FR de 28 irpm, FC de 88 bpm, PA de 110/70 mmHg, temperatura de 36,9º, SatO2 de 90% em ar ambiente, RCR, sem sopros, pulmões com estertores finos na base direita, abdome e membros sem alterações, pupilas isocóricas e fotorreagentes, tônus e força muscular normais, reflexos presentes e simétricos. Escala de Glasgow: Pontuação: Qual é o diagnóstico mais provável?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Delirium",
+          "explanation": "Correta. Desorientação e alteração aguda do ciclo sono-vigília em 72 horas, com sonolência, sugerem delirium; hipoxemia e possível infecção são precipitantes."
+        },
+        {
+          "letter": "B",
+          "text": "Depressão",
+          "explanation": "Incorreta. Depressão costuma ter curso mais prolongado e não explica tão bem a instalação abrupta e a alteração do nível de consciência."
+        },
+        {
+          "letter": "C",
+          "text": "Demência",
+          "explanation": "Incorreta. Demência é tipicamente progressiva e crônica; pode predispor a delirium, mas não explica isoladamente a mudança súbita."
+        },
+        {
+          "letter": "D",
+          "text": "Acidente vascular cerebral",
+          "explanation": "Incorreta. Sem déficit neurológico focal descrito, AVC é menos provável, embora deva ser investigado se surgirem sinais sugestivos."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "2",
+      "answer": "A",
+      "reviewNote": "A imagem da escala de Glasgow no original foi preservada: abertura ocular 3 + resposta verbal 4 + motora 5 = 12,",
+      "answerSource": "Gabarito comentado do PDF",
+      "images": [
+        "imagens/provao-m1-2019-2/p1-img1.png"
+      ],
+      "id": "provao-m1-2019-2:q2:2"
+    },
+    {
+      "number": 3,
+      "prompt": "- Mulher de 68 anos, sem capacidade funcional, que não usava medicamentos regularmente, recebeu diagnóstico de hipertensão, sendo prescrita Hidroclorotiazida 25 mg pela manhã. Desde então, a paciente passou a ir mais vezes ao banheiro, algumas delas precedidas por perda urinária de pequena monta. Incomodada com essas perdas, ela procura outro serviço médico. Com o relato de incontinência urinária, é feita a prescrição de anticolinérgico para contrações não inibidas do músculo detrusor (Oxibutinina) na dose de 5 mg/dia. Poucos dias depois, a paciente apresenta insônia com períodos de confusão mental e agitação. A filha, preocupada, leva a mãe em um pronto-socorro, onde é submetida a tomografia de crânio e radiografia do tórax, além de realizar hemograma, PCR, glicemia, ureia, creatinina, eletrólitos, sendo que todos os resultados são normais. O médico do pronto-socorro prescreve clonazepam para a insônia e agitação. A paciente piora, fica muito agitada a noite e pela manhã fica muito sonolenta. A filha então a leva de volta a o primeiro médico, que, entendendo o ocorrido, suspende todas as medicações, com reversão do quadro em 72 horas. Com base no caso apresentado, assinale a alternativa que indica o fenômeno pelo qual a paciente passou:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Polifarmácia",
+          "explanation": "Incorreta como resposta principal. Há múltiplos fármacos, mas o fenômeno central é tratar efeitos adversos de medicamentos como novas doenças."
+        },
+        {
+          "letter": "B",
+          "text": "Prescrição em cascata",
+          "explanation": "Correta. Hidroclorotiazida desencadeou sintomas urinários; oxibutinina causou confusão; clonazepam agravou sedação/agitação."
+        },
+        {
+          "letter": "C",
+          "text": "Superdosagem",
+          "explanation": "Incorreta. Não há demonstração de doses acima das prescritas ou de superdosagem."
+        },
+        {
+          "letter": "D",
+          "text": "Interações medicamentosas",
+          "explanation": "Incorreta como classificação principal. Interações podem ocorrer, mas a sequência de novas prescrições por efeitos adversos define cascata."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "3",
+      "answer": "B",
+      "reviewNote": "O caso exige revisar medicamentos antes de acrescentar fármacos.",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q3:3"
+    },
+    {
+      "number": 4,
+      "prompt": "- Homem de 88 anos com demência avançada, se encontra acamado a mais de 2 anos, tendo tido 4 internações por pneumonia no último ano, foi internado hoje devido a outro quadro de pneumonia, tendo uma queda grave do estado geral. Qual seria a conduta mais adequada para o paciente em questão?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entubar paciente e dar droga vasoativa",
+          "explanation": "Incorreta como rotina. Intubação e vasopressores podem ser desproporcionais conforme prognóstico, desejos e objetivos de cuidado."
+        },
+        {
+          "letter": "B",
+          "text": "Iniciar antibiótico, mandar paciente para UTI e depois avisar a família do ocorrido",
+          "explanation": "Incorreta. Instituir medidas invasivas e avisar só depois retira a participação adequada da pessoa/representantes na decisão."
+        },
+        {
+          "letter": "C",
+          "text": "Conversar com a família sobre o prognóstico reservado do paciente, esclarecendo que há uma doença incurável e oferecer cuidados paliativos ofertando conforto ao paciente.",
+          "explanation": "Correta. Comunicar prognóstico, discutir preferências e oferecer cuidado paliativo focado em conforto, sem excluir intervenções proporcionais."
+        },
+        {
+          "letter": "D",
+          "text": "Conversar com a família para que eles definam as condutas (inclusive as invasivas) e orientar a equipe a seguir as vontades da família",
+          "explanation": "Incorreta. A família participa como representante quando aplicável, mas não substitui automaticamente a vontade prévia do paciente nem o juízo clínico."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "4",
+      "answer": "C",
+      "reviewNote": "Cuidados paliativos não significam abandono; antibióticos ou internação podem ser discutidos conforme benefício",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q4:4"
+    },
+    {
+      "number": 5,
+      "prompt": "- Sobre a gastrostomia em pacientes com demência avançada.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A gastrostomia é sempre um procedimento indicado",
+          "explanation": "Incorreta. A sonda não é sempre indicada; deve-se avaliar objetivos, benefícios e danos."
+        },
+        {
+          "letter": "B",
+          "text": "Deve ser feita para evitar quadros de pneumonia devido a aspiração.",
+          "explanation": "Incorreta. Alimentação por gastrostomia não elimina aspiração de secreções ou refluxo e não demonstrou prevenir pneumonia aspirativa."
+        },
+        {
+          "letter": "C",
+          "text": "É indicada pois previne úlceras por pressão",
+          "explanation": "Incorreta. Não há evidência de prevenção de lesões por pressão; pode haver aumento do risco."
+        },
+        {
+          "letter": "D",
+          "text": "Não deve ser indicada, pois não previne pneumonia, não melhora a nutrição e não previne úlceras de pressão",
+          "explanation": "Correta no contexto de demência avançada. Não há benefício consistente em prevenção de pneumonia, melhora clínica nutricional/sobrevida ou prevenção de lesões por pressão."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "5",
+      "answer": "D",
+      "reviewNote": "Preferir alimentação oral assistida e adaptada quando possível. A formulação sobre «não melhora a nutrição»",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q5:5"
+    },
+    {
+      "number": 6,
+      "prompt": "- Uma filha chega com a mãe analfabeta em seu consultório, referindo que a mãe anda meio esquecida. A mãe refere que anda mesmo desatenta, e que não quer mais sair de casa, pois anda muito desanimada. A mãe apresentou pontuação normal em todos os testes com exceção no teste de escala para depressão o qual apresentou 7 pontos. Sobre o caso exposto podemos afirmar:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paciente tem demência",
+          "explanation": "Incorreta. Não há perda funcional cognitiva progressiva suficiente para diagnosticar demência."
+        },
+        {
+          "letter": "B",
+          "text": "A paciente tem a possibilidade de ter depressão",
+          "explanation": "Correta. Desânimo, retraimento e escore aumentado na escala de depressão geriátrica sugerem investigar depressão."
+        },
+        {
+          "letter": "C",
+          "text": "A paciente tem alzheimer pois ela apresentou baixa pontuação no MEEM (Ela deu a pontuação do MEEM, era 22)",
+          "explanation": "Incorreta. MEEM 22 isolado, sobretudo em pessoa analfabeta, não diagnostica Alzheimer; é preciso interpretar escolaridade e função."
+        },
+        {
+          "letter": "D",
+          "text": "A paciente está apenas com um quadro de envelhecimento normal",
+          "explanation": "Incorreta. Mudanças de humor clinicamente relevantes não devem ser atribuídas automaticamente à idade."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "6",
+      "answer": "B",
+      "reviewNote": "O escore 7 sugere rastreio positivo se a escala utilizada for a GDS-15, mas o enunciado não especifica sua versão.",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q6:6"
+    },
+    {
+      "number": 7,
+      "prompt": "- Assinale a alternativa correta que descreva o uso medicações inapropriadas em pacientes idosos.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Betabloqueador em idosos com insuficiência cardíaca",
+          "explanation": "Incorreta. Betabloqueadores específicos são tratamento prognóstico recomendado na insuficiência cardíaca com fração de ejeção reduzida."
+        },
+        {
+          "letter": "B",
+          "text": "Benzodiazepínicos em idoso com síndrome demencial",
+          "explanation": "Correta. Benzodiazepínicos tendem a elevar risco de quedas, delirium e piora cognitiva em pessoas com demência."
+        },
+        {
+          "letter": "C",
+          "text": "Antipsicóticos em baixas doses em idosos com delirium",
+          "explanation": "Imprecisa como prática generalizada. Antipsicóticos não são de rotina no delirium; só excepcionalmente, por breve período, diante de risco grave e após medidas não farmacológicas."
+        },
+        {
+          "letter": "D",
+          "text": "Diuréticos tiazídicos para hipertensão arterial em idosos funcionais",
+          "explanation": "Incorreta. Tiazídicos podem ser apropriados no tratamento da hipertensão em idosos, com atenção a eletrólitos e hipotensão."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "7",
+      "answer": "B",
+      "reviewNote": "A questão poderia ter redação mais precisa: antipsicóticos também podem ser inapropriados se prescritos",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q7:7"
+    },
+    {
+      "number": 8,
+      "prompt": "- Sobre a síndrome de fragilidade, é correto afirmar que:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O número de doenças crônicas que define se o idoso é portador de fragilidade",
+          "explanation": "Incorreta. Comorbidades se associam à fragilidade, mas sua contagem não define a síndrome."
+        },
+        {
+          "letter": "B",
+          "text": "A incapacidade funcional é a principal causa de fragilidade, pois todos idosos frágeis são incapazes",
+          "explanation": "Incorreta. Fragilidade pode preceder incapacidade; nem toda pessoa frágil é incapaz."
+        },
+        {
+          "letter": "C",
+          "text": "A polifarmácia é um fator de risco independente da a síndrome de fragilidade",
+          "explanation": "Correta. Polifarmácia se associa independentemente a maior risco de fragilidade em estudos observacionais."
+        },
+        {
+          "letter": "D",
+          "text": "Dentre os critérios do fenótipo de fragilidade de Fried a presença do déficit cognitivo é o mais importante",
+          "explanation": "Incorreta. Déficit cognitivo não compõe os cinco componentes originais do fenótipo de Fried."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "8",
+      "answer": "C",
+      "reviewNote": "Fried: perda ponderal, exaustão, força reduzida, marcha lenta e baixa atividade física.",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q8:8"
+    },
+    {
+      "number": 9,
+      "prompt": "- Sexo feminino 82 anos queixa-se de fraqueza, dificuldade de subir escadas e carregar um saco de arroz. Refere também que tem tido dificuldades para levantar-se de uma cadeira e apresentou 2 quedas sem maiores consequências nos últimos 6 meses. No exame clínico, foi solicitada a sentar-se e levantar-se de uma cadeira 5 vezes seguidas. Gastou 38 segundos para fazer isso. Com base nos dados, qual é o diagnóstico que pode ser feito?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sarcopenia definida",
+          "explanation": "Incorreta. Sarcopenia confirmada exige comprovação de baixa quantidade/qualidade muscular."
+        },
+        {
+          "letter": "B",
+          "text": "Síndrome de fragilidade",
+          "explanation": "Incorreta. Não foram informados critérios suficientes do fenótipo de fragilidade."
+        },
+        {
+          "letter": "C",
+          "text": "Provável sarcopenia",
+          "explanation": "Correta. Cinco levantamentos da cadeira em 38 s indicam redução acentuada da força; pelo EWGSOP2, mais de 15 s sugere provável sarcopenia."
+        },
+        {
+          "letter": "D",
+          "text": "Provável fragilidade",
+          "explanation": "Incorreta. O dado disponível permite suspeitar de sarcopenia com base na força, não estabelecer «provável fragilidade» como melhor classificação."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "9",
+      "answer": "C",
+      "reviewNote": "A imagem e o resultado do teste devem ser avaliados com suas limitações funcionais.",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q9:9"
+    },
+    {
+      "number": 10,
+      "prompt": "- Ainda sobre o caso anterior, qual será o próximo passo a ser realizado para o diagnóstico?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Medir força de preensão plantar",
+          "explanation": "Incorreta. O teste pertinente para força manual seria preensão PALMAR, não «plantar», e a baixa força já está demonstrada."
+        },
+        {
+          "letter": "B",
+          "text": "Medir velocidade de marcha",
+          "explanation": "Incorreta como próximo passo para confirmação. Velocidade de marcha ajuda a estimar gravidade/desempenho, depois da confirmação por massa muscular."
+        },
+        {
+          "letter": "C",
+          "text": "solicitar dosagens de vitaminas",
+          "explanation": "Incorreta. Dosagens de vitaminas não estabelecem sarcopenia."
+        },
+        {
+          "letter": "D",
+          "text": "quantificar a massa muscular",
+          "explanation": "Correta. Medir quantidade/qualidade muscular (por exemplo DXA ou bioimpedância validada) confirma sarcopenia no modelo EWGSOP2. Fundamentação principal: R5."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "10",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q10:10"
+    },
+    {
+      "number": 11,
+      "prompt": "- Sobre a cicatrização por segunda intenção, assinale a alternativa verdadeira:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ela se verifica quando ocorre aproximação direta das bordas da ferida",
+          "explanation": "Incorreta. Bordas diretamente aproximadas e suturadas caracterizam primeira intenção."
+        },
+        {
+          "letter": "B",
+          "text": "Ela favorece o processo de remodelagem cicatricial",
+          "explanation": "Incorreta como característica definidora. Remodelamento ocorre nas várias modalidades de cicatrização."
+        },
+        {
+          "letter": "C",
+          "text": "Normalmente ocorre nas lesões em que havia a presença prévia de infecção local, que após ser debelada, apresenta condições de fechamento",
+          "explanation": "Incorreta. Fechamento posterior à resolução de contaminação descreve melhor fechamento primário tardio/terceira intenção."
+        },
+        {
+          "letter": "D",
+          "text": "Ela ocorre quando a cicatrização acontece por processo biológico natural, sem síntese cirúrgica",
+          "explanation": "Correta. A ferida permanece aberta e cicatriza espontaneamente por granulação, contração e epitelização. Fundamentação principal: R6."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "11",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q11:11"
+    },
+    {
+      "number": 12,
+      "prompt": "- Na Displasia de Desenvolvimento do Quadril",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O teste de Barlow é a manobra que detecta a luxação do quadril. Esta manobra é executada realizando a flexão e adução do quadril.",
+          "explanation": "Mais adequada, mas incompleta. Barlow parte de quadril flexionado e aduzido com suave pressão posterior para identificar quadril instável/luxável; o teste de Ortolani REDUZ um quadril luxado."
+        },
+        {
+          "letter": "B",
+          "text": "O teste de Galleazzi é sempre anormal mesmo na presença dessa patologia nos quadris bilateralmente",
+          "explanation": "Incorreta. Sinal de Galeazzi pode estar ausente em luxação bilateral simétrica."
+        },
+        {
+          "letter": "C",
+          "text": "Independente da idade da criança, não deve ser realizado tratamento cirúrgico.",
+          "explanation": "Incorreta. Cirurgia pode ser necessária conforme idade, gravidade e resposta ao tratamento conservador."
+        },
+        {
+          "letter": "D",
+          "text": "O calção gessado é sempre usado nas luxações teratológicas do quadril.",
+          "explanation": "Incorreta. Luxação teratológica não é invariavelmente tratada com calção gessado; depende das características e intervenções realizadas."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "12",
+      "answer": "A",
+      "reviewNote": "O enunciado chama Barlow de teste que «detecta a luxação»; tecnicamente, ele testa a possibilidade de",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q12:12"
+    },
+    {
+      "number": 13,
+      "prompt": "Paciente feminina de 25 anos de idade, chega ao pronto socorro com queimadura de 2º grau por causa de uma combustão de álcool com 35% da superfície corporal queimada. Qual a sequência lógica no atendimento inicial dessa paciente?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acesso venoso - reposição com ringer lactato - curativo - sonda nasogástrica - analgesia intramuscular - profilaxia para tétano",
+          "explanation": "Incorreta. Não prioriza via aérea e inclui analgesia IM, de absorção pouco confiável em paciente hipoperfundido."
+        },
+        {
+          "letter": "B",
+          "text": "Analgesia endovenosa - avaliar vias aéreas - acesso venoso - reposição com soro glicosado - curativo - sonda nasogástrica",
+          "explanation": "Incorreta. Embora analgesia IV e atenção à via aérea sejam importantes, soro glicosado não é a solução inicial habitual para ressuscitação de queimaduras extensas."
+        },
+        {
+          "letter": "C",
+          "text": "Avaliar vias aéreas - acesso venoso - reposição com soro ringer lactato - avaliar lesões associadas - analgesia endovenosa - sonda vesical",
+          "explanation": "Correta. Avaliar via aérea, obter acesso venoso, iniciar cristaloide isotônico balanceado (Ringer lactato), buscar lesões e monitorar diurese."
+        },
+        {
+          "letter": "D",
+          "text": "Oxigênio a 100% - analgesia intramuscular - acesso venoso - antibiótico - profilaxia para tétano - curativo",
+          "explanation": "Incorreta. Via intramuscular e antibioticoprofilaxia sistêmica rotineira não são indicadas; oxigênio deve ser adaptado ao contexto, com prioridade à via aérea."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "13",
+      "answer": "C",
+      "reviewNote": "O volume da reposição depende de peso, área queimada e resposta; diretriz ABA sugere iniciar em 2 mL/kg/%SCQ nas",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q13:13"
+    },
+    {
+      "number": 14,
+      "prompt": "Em relação ao osteossarcoma, marque a alternativa correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "É o tumor ósseo benigno mais comum",
+          "explanation": "Incorreta. É neoplasia óssea maligna, não tumor benigno."
+        },
+        {
+          "letter": "B",
+          "text": "Acomete mais frequentemente a diáfise de ossos tubulares curtos",
+          "explanation": "Incorreta. O local habitual é metáfise de ossos longos (por exemplo, fêmur distal/tíbia proximal), não diáfise de ossos tubulares curtos."
+        },
+        {
+          "letter": "C",
+          "text": "Acomete mais frequentemente a metáfise de ossos longos e o RX é com bordas mal definidas",
+          "explanation": "Correta. Lesão metafisária agressiva apresenta limites mal definidos, destruição óssea e reação periosteal."
+        },
+        {
+          "letter": "D",
+          "text": "No RX simples, os bordos são bem definidos",
+          "explanation": "Incorreta. Margens nitidamente delimitadas, em regra, sugerem comportamento menos agressivo. Fundamentação principal: R9."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "14",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q14:14"
+    },
+    {
+      "number": 15,
+      "prompt": "Paciente com escoliose idiopática do adolescente com Cobb entre T5 e T11 de 91 graus. Sobre a história natural dessa deformidade, marque a alternativa correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paciente com maior risco de desnutrição pelo menor volume abdominal",
+          "explanation": "Incorreta. Desnutrição por suposta redução abdominal não é consequência fundamental para identificar essa deformidade."
+        },
+        {
+          "letter": "B",
+          "text": "Pela deformidade tridimensional há uma deformidade do tórax com maior risco de síndrome restritiva pulmonar",
+          "explanation": "Correta. Curva torácica de 91° provoca deformidade costovertebral tridimensional e pode reduzir volumes pulmonares."
+        },
+        {
+          "letter": "C",
+          "text": "Como a curva é de pequena magnitude o paciente apresenta vida normal e não requer tratamento",
+          "explanation": "Incorreta. Ângulo de 91° é curva grave, não de pequena magnitude; necessita avaliação especializada."
+        },
+        {
+          "letter": "D",
+          "text": "O ângulo de Cobb nada influencia a gravidade do caso e sim a localização da curva e idade do paciente",
+          "explanation": "Incorreta. O ângulo de Cobb é parâmetro central da magnitude e do risco de progressão, embora localização e maturidade também importem. Fundamentação principal: R9."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "15",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q15:15"
+    },
+    {
+      "number": 16,
+      "prompt": "Qual o nervo mais utilizado para a enxertia nervosa?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fibular",
+          "explanation": "Incorreta. Enxerto do nervo fibular causaria maior déficit motor/sensitivo e não é o doador clássico."
+        },
+        {
+          "letter": "B",
+          "text": "Sural",
+          "explanation": "Correta. Nervo sural é frequentemente usado como enxerto autólogo sensitivo por acesso e extensão apropriados."
+        },
+        {
+          "letter": "C",
+          "text": "Safeno",
+          "explanation": "Incorreta. O safeno é sensitivo e pode ser utilizado em situações selecionadas, mas não é o mais empregado."
+        },
+        {
+          "letter": "D",
+          "text": "Auricular posterior",
+          "explanation": "Incorreta. O nervo auricular posterior não é doador habitual para enxertia longa; o grande auricular é alternativa em enxertos curtos. Fundamentação principal: R9."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "16",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q16:16"
+    },
+    {
+      "number": 17,
+      "prompt": "Tumor músculo-esquelético osteolítico mais frequente na diáfise em crianças, com semelhança a osteomielite, por apresentar reação periosteal em casca de cebola:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Osteossarcoma",
+          "explanation": "Incorreta. Osteossarcoma é em geral metafisário e costuma produzir matriz osteoide agressiva."
+        },
+        {
+          "letter": "B",
+          "text": "Condrossarcoma",
+          "explanation": "Incorreta. Condrossarcoma predomina no adulto e costuma ser lesão de matriz cartilaginosa."
+        },
+        {
+          "letter": "C",
+          "text": "Sarcoma de Ewing",
+          "explanation": "Correta. Sarcoma de Ewing costuma atingir diáfise de ossos longos em jovens e pode ter periostite lamelada."
+        },
+        {
+          "letter": "D",
+          "text": "Osteoblastoma",
+          "explanation": "Incorreta. Osteoblastoma é menos típico dessa apresentação diafisária agressiva."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "17",
+      "answer": "C",
+      "reviewNote": "O aspecto em «casca de cebola» não é patognomônico.",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q17:17"
+    },
+    {
+      "number": 18,
+      "prompt": "Paciente de 18 anos de idade, vítima de acidente automobilístico. Atendido no PS, onde foi feito em diagnóstico de fratura da diáfise do úmero, simples, fechada e com desvio angular em antecurvado. O vértice da mesma é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anterior",
+          "explanation": "Correta. Antecurvado significa angulação com vértice voltado anteriormente."
+        },
+        {
+          "letter": "B",
+          "text": "Medial",
+          "explanation": "Incorreta. Vértice medial denotaria desvio no plano frontal."
+        },
+        {
+          "letter": "C",
+          "text": "Lateral",
+          "explanation": "Incorreta. Vértice lateral igualmente corresponde a outro plano de angulação."
+        },
+        {
+          "letter": "D",
+          "text": "Posterior",
+          "explanation": "Incorreta. Vértice posterior caracteriza recurvato, não antecurvado. Fundamentação principal: R9."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "18",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q18:18"
+    },
+    {
+      "number": 19,
+      "prompt": "- Paciente sexo masculino 18 anos, vítima queda de 5 metros, está desacordado e com sangramento abundante em face:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prioridade neste caso é avaliar a fratura de face, devido ao sangramento e risco de choque hipovolêmico",
+          "explanation": "Incorreta. Primeira prioridade é via aérea com proteção cervical e controle de hemorragia ameaçadora, não apenas avaliação da fratura facial."
+        },
+        {
+          "letter": "B",
+          "text": "Como ele está desacordado, não se deve preocupar com estabilidade da coluna, pois rebaixamento nível de consciência é mais grave",
+          "explanation": "Incorreta. Inconsciência aumenta a necessidade de proteção da coluna até exclusão de lesão."
+        },
+        {
+          "letter": "C",
+          "text": "Devemos suspeitar de trauma em coluna cervical quando existe trauma de face, TCE, intoxicação alcoólica ou em pacientes comatosos",
+          "explanation": "Correta. Trauma de face, TCE, intoxicação e coma impedem excluir lesão cervical sem avaliação apropriada."
+        },
+        {
+          "letter": "D",
+          "text": "Se este paciente apresentar Babinsky e Hoffman positivos é provável que tenha trauma raquimedular lombar",
+          "explanation": "Incorreta. Babinski e Hoffmann sugerem comprometimento de via piramidal, em geral acima dos segmentos lombares isolados. Fundamentação principal: R10."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "19",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q19:19"
+    },
+    {
+      "number": 20,
+      "prompt": "- Paciente sexo masculino, 42 anos, sedentária, vem apresentando lombalgia há 3 meses. A dor piora a movimentação, não tem irradiação, nega alterações esfincterianas, perda de peso, febre ou déficit de força. A conduta deve ser:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solicitar Ressonância da coluna lombar por ter essa queixa de forma persistente e crônica",
+          "explanation": "Incorreta. Ressonância não é rotineira apenas por três meses de lombalgia, sem déficit, sinais de alerta ou falha documentada de tratamento conservador adequado."
+        },
+        {
+          "letter": "B",
+          "text": "Encaminhar a reabilitação para reeducação neuromuscular e orientações ergonômicas de vida",
+          "explanation": "Correta. Reabilitação ativa, educação, exercício e orientações ergonômicas são tratamentos iniciais apropriados."
+        },
+        {
+          "letter": "C",
+          "text": "Prescrever AINE e miorrelaxante por 6 semanas",
+          "explanation": "Incorreta. AINE/miorrelaxante por seis semanas não é estratégia inicial preferencial, pelo perfil de riscos e benefício limitado."
+        },
+        {
+          "letter": "D",
+          "text": "Provavelmente se trata de hérnia discal pela característica da dor",
+          "explanation": "Incorreta. Ausência de irradiação e sintomas neurológicos não favorece hérnia discal sintomática como principal hipótese."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "20",
+      "answer": "B",
+      "reviewNote": "Se houver persistência incapacitante apesar de tratamento adequado ou novos sinais de alarme, reavaliar",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q20:20"
+    },
+    {
+      "number": 21,
+      "prompt": "- Homem, 36 anos, atleta profissional, diagnosticado com síndrome de impacto do ombro esquerdo. Paciente refere dor no referido ombro há 8 meses, após atividade de elevação do MMSS. Dor a rotação interna a se vestir e dor noturna no decúbito ipsilateral. Diagnósticos diferenciais:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Capsulite adesiva e tendinite calcária fase crônica",
+          "explanation": "Possível. Capsulite adesiva e tendinopatia calcária podem causar dor no ombro e compor diferencial."
+        },
+        {
+          "letter": "B",
+          "text": "Subluxação glenoumeral e hérnia discal cervical",
+          "explanation": "Possível. Instabilidade/subluxação glenoumeral e radiculopatia por hérnia cervical podem simular sintomas, conforme exame."
+        },
+        {
+          "letter": "C",
+          "text": "Radiculopatia cervical e neoplasma",
+          "explanation": "Possível. Radiculopatia cervical é diferencial; neoplasia é menos provável, mas deve ser considerada com sinais de alarme."
+        },
+        {
+          "letter": "D",
+          "text": "Rotura completa do tendão supraespinhal e artrose acromioclavicular",
+          "explanation": "Possível. Ruptura do supraespinhal e artrose acromioclavicular podem produzir quadro semelhante e são diferenciais usuais."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "21",
+      "answerIssue": "sem_resposta",
+      "reviewNote": "A pergunta pede «diagnósticos diferenciais» sem «mais prováveis», sem dados discriminatórios e com múltiplos pares",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q21:21"
+    },
+    {
+      "number": 22,
+      "prompt": "- Mulher, 84 anos, aguarda consulta com reumatologista para avaliação de dor constante no joelho esquerdo, de aparecimento há um mês, após queda da própria altura. Após a avaliação clínica, o médico solicita uma USG do joelho e encaminha a paciente para a consulta com a geriatria, com suspeita de “síndrome do idoso caidor”. Nesse caso, para a suspeita da referida síndrome, o médico reumatologista deve ter encontrado, durante a consulta, a seguinte característica:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Barthel = 90 pontos",
+          "explanation": "Incorreta. Barthel=90 informa independência funcional, não critério de quedas recorrentes."
+        },
+        {
+          "letter": "B",
+          "text": "SARC-F = 6 pontos",
+          "explanation": "Incorreta. SARC-F=6 rastreia sarcopenia, mas não define a síndrome de quedas recorrentes."
+        },
+        {
+          "letter": "C",
+          "text": "Antecedentes de duas quedas em um período de doze meses.",
+          "explanation": "Correta. Duas ou mais quedas em 12 meses apontam quedas recorrentes e exigem avaliação multifatorial."
+        },
+        {
+          "letter": "D",
+          "text": "Antecedentes de uma queda com fratura grave em um período de dois anos.",
+          "explanation": "Incorreta como definição da síndrome recorrente. Queda única grave também demanda investigação, mas não caracteriza recorrência por si só."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "22",
+      "answer": "C",
+      "reviewNote": "Uma queda com lesão grave continua sendo indicação de avaliação e prevenção, independentemente do rótulo.",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q22:22"
+    },
+    {
+      "number": 23,
+      "prompt": "- A Osteoporose é uma desordem osteometabólica caracterizada por fragilidade óssea e predisposição a fraturas. Em pacientes com osteoporose sem fratura, a abordagem fisioterápica preventiva deve preferencialmente incluir:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hidroterapia",
+          "explanation": "Incorreta como preferência exclusiva. Hidroterapia ajuda mobilidade/equilíbrio, mas oferece menor carga osteogênica."
+        },
+        {
+          "letter": "B",
+          "text": "Alongamentos",
+          "explanation": "Incorreta. Alongamentos isolados não representam estímulo suficiente de resistência óssea."
+        },
+        {
+          "letter": "C",
+          "text": "Cinesioterapia global com impacto",
+          "explanation": "Mais adequada se individualizada. Exercícios globais com carga/impacto apropriado e fortalecimento contribuem para a manutenção óssea."
+        },
+        {
+          "letter": "D",
+          "text": "Cinesioterapia localizada sem impacto",
+          "explanation": "Menos adequada como regra absoluta. Fortalecimento sem impacto pode ser útil, mas não precisa excluir estímulo osteogênico seguro."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "23",
+      "answer": "C",
+      "reviewNote": "«Com impacto» não significa impacto alto indiscriminado. Intensidade, risco de quedas/fraturas e treinamento devem",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q23:23"
+    },
+    {
+      "number": 24,
+      "prompt": "- A fibromialgia (FM) é uma síndrome dolorosa crônica, presente em aproximadamente 2,5% da população brasileira, predominando entre mulheres de 35 a 44 anos. Segundo as novas diretrizes da Sociedade Brasileira de Reumatologia (2017) para o diagnóstico desta enfermidade, é verdadeiro:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A termografia é um método válido para diagnóstico da FM, exceto em pacientes portadores de hipertensão arterial.",
+          "explanation": "Incorreta. Termografia não é exame diagnóstico validado para fibromialgia."
+        },
+        {
+          "letter": "B",
+          "text": "A polissonografia pode ser utilizada como método diagnóstico para a FM apenas nos pacientes com insônia terminal.",
+          "explanation": "Incorreta. Polissonografia não diagnostica fibromialgia; pode investigar distúrbio do sono concomitante."
+        },
+        {
+          "letter": "C",
+          "text": "A presença de dor difusa não é essencial para o diagnóstico em pacientes com suspeita de FM.",
+          "explanation": "Incorreta ou ao menos inadequada ao contexto: dor generalizada faz parte essencial dos critérios ACR 2016 e da avaliação clínica proposta."
+        },
+        {
+          "letter": "D",
+          "text": "Os pontos dolorosos podem ser úteis no diagnóstico de fm quando avaliados em conjunto com outros distúrbios funcionais.",
+          "explanation": "Correta. Pontos dolorosos podem auxiliar exame e avaliação em conjunto com fadiga, sono não reparador e sintomas funcionais, embora não sejam obrigatórios."
+        }
+      ],
+      "page": 6,
+      "numberLabel": "24",
+      "answer": "D",
+      "reviewNote": "As diretrizes de 2017 não tornam a contagem de tender points condição indispensável.",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q24:24"
+    },
+    {
+      "number": 25,
+      "prompt": "-Uma mulher de 62 anos comparece ao seu consultório para avaliação da reumatologia , como exames apresenta uma densitometria óssea com t-score de 2.9. Considerando isso, o diagnóstico e :",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Osteopenia",
+          "explanation": "Incorreta. Osteopenia corresponde ao intervalo entre −1,0 e −2,5, não a +2,9."
+        },
+        {
+          "letter": "B",
+          "text": "Osteoporose",
+          "explanation": "Incorreta conforme redação literal. Osteoporose densitométrica exige T-score ≤ −2,5; seria a letra correta se o valor fosse −2,9."
+        },
+        {
+          "letter": "C",
+          "text": "Massa óssea inadequada para a idade",
+          "explanation": "Incorreta. «Massa óssea para idade» é usualmente avaliada pelo Z-score, principalmente em adultos jovens."
+        },
+        {
+          "letter": "D",
+          "text": "Normal",
+          "explanation": "Correta se o enunciado for literal. Um T-score de +2,9 indica densidade óssea acima da média de referência e não preenche osteoporose."
+        }
+      ],
+      "page": 6,
+      "numberLabel": "25",
+      "answer": "D",
+      "reviewNote": "QUESTÃO COM POSSÍVEL ERRO DE SINAL. O PDF informa «t-score de 2.9» sem sinal negativo. Não é lícito pressupor",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q25:25"
+    },
+    {
+      "number": 26,
+      "prompt": "- Uma das etapas importantes no exame da coluna vertebral consiste na manobra que avalia a sacroileite, denominado teste de Patrick-Fabere, que consiste na seguinte manobra sobre uma das pernas",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "flexão, abdução,rotação externa",
+          "explanation": "Correta. FABER significa flexão, abdução e rotação externa."
+        },
+        {
+          "letter": "B",
+          "text": "extensão,abdução,rotação interna",
+          "explanation": "Incorreta. Extensão e rotação interna não constituem FABER."
+        },
+        {
+          "letter": "C",
+          "text": "extensão, abdução,rotação interna",
+          "explanation": "Incorreta. Repete a descrição de extensão e rotação interna, que não corresponde ao teste."
+        },
+        {
+          "letter": "D",
+          "text": "flexão, adução,rotação externa",
+          "explanation": "Incorreta. O teste requer abdução, não adução."
+        }
+      ],
+      "page": 6,
+      "numberLabel": "26",
+      "answer": "A",
+      "reviewNote": "O teste provoca dor que pode ser sacroilíaca ou do quadril; resultado isolado não diagnostica sacroileíte.",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q26:26"
+    },
+    {
+      "number": 27,
+      "prompt": "- S.J.U , 28 anos, vem à consulta queixando de xerostomia, xeroftalmia, poliartralgia, de joelhos, mãos e punhos. Como exames complementares trás um fator reumatoide positivo e anti ccp negativos, anti RO e anti La com títulos de 1:280. O diagnóstico correto é :",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artrite reumatoide",
+          "explanation": "Incorreta como melhor hipótese. Artrite reumatoide pode cursar com sicca secundária, mas xeroftalmia/xerostomia e anti-Ro/La favorecem Sjögren."
+        },
+        {
+          "letter": "B",
+          "text": "Síndrome de Sjogren",
+          "explanation": "Correta. Sicca ocular e oral mais anti-SSA/Ro e anti-SSB/La sustentam síndrome de Sjögren, embora a classificação exija avaliação objetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Artrite Psoriásica",
+          "explanation": "Incorreta. Não há psoríase, dactilite ou padrão clínico compatível como hipótese principal."
+        },
+        {
+          "letter": "D",
+          "text": "osteoartrite",
+          "explanation": "Incorreta. Osteoartrite não explica autoanticorpos SSA/SSB ou queixas secretórias."
+        }
+      ],
+      "page": 6,
+      "numberLabel": "27",
+      "answer": "B",
+      "reviewNote": "FR positivo é inespecífico; pode ocorrer em Sjögren. A expressão «títulos 1:280» não corresponde necessariamente à",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q27:27"
+    },
+    {
+      "number": 28,
+      "prompt": "- Paciente de 49 anos, masculino, queixa-se de dor e edema em joelho direito há 3 dias. Relata episódios semelhantes em hálux esquerdo há 1 ano e em tornozelo direito há 5 meses. Nega febre, tosse, disúria e erupção cutânea. Exame Físico: artrite de joelho direito de joelho direito. Artrocentese evidenciando cristais em forma de agulha, com birrefringência fortemente negativa. Foi solicitado Raio-X de joelhos, porém o laudo não foi liberado. É correto afirmar:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Raio-x dos joelhos revela calcificação dos meniscos, confirmando diagnóstico de artrite reumatoide",
+          "explanation": "Incorreta. Condrocalcinose aponta deposição de pirofosfato de cálcio, não artrite reumatoide."
+        },
+        {
+          "letter": "B",
+          "text": "Raio-x dos joelhos revela erosão em saca-bocado, confirmando diagnóstico de osteoartrite",
+          "explanation": "Incorreta. Erosões em «saca-bocado» são típicas da gota tofácea crônica, não osteoartrite."
+        },
+        {
+          "letter": "C",
+          "text": "Medicar, imediatamente, com colchicina e/ou diclofenaco",
+          "explanation": "Correta. Colchicina ou AINE, como diclofenaco se não houver contraindicação, podem tratar crise de gota; também se pode usar corticosteroide."
+        },
+        {
+          "letter": "D",
+          "text": "Medicar, imediatamente, com alopurinol ou benzobromarona Caso clínico para as questões 29 e 30: 22 anos, estudante, não falava o sexo, relata dor e edema de todas IFPs bilateralmente e punhos há 4 semanas. Relata febre não aferida, inapetência e aftas orais. Queixa-se de disúria e urina espumosa. Nega dispneia e palpitação. Informa relação sexual sem proteção. Hemograma normal, VHS= 80, FR= negativo, FAN= positivo- padrão nuclear homogêneo (1/640). Raio-x de mãos e punhos normais.",
+          "explanation": "Incorreta como resposta à inflamação aguda. Alopurinol/benzbromarona reduzem urato, mas não substituem anti-inflamatórios para controlar a crise."
+        }
+      ],
+      "page": 6,
+      "numberLabel": "28",
+      "answer": "C",
+      "reviewNote": "Pode-se iniciar terapia redutora de urato durante a crise em indicação adequada, com anti-inflamatório concomitante;",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q28:28"
+    },
+    {
+      "number": 29,
+      "prompt": "- Quais são as possibilidades diagnósticas?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Osteoartrite, gota e artrite séptica",
+          "explanation": "Incorreta. Osteoartrite é pouco compatível com 4 semanas de poliartrite inflamatória simétrica, febre e FAN alto."
+        },
+        {
+          "letter": "B",
+          "text": "Artrite reumatoide, Artrite viral e osteoartrite",
+          "explanation": "Incorreta. Inclui osteoartrite e omite LES, hipótese forte por úlceras orais e possível envolvimento renal."
+        },
+        {
+          "letter": "C",
+          "text": "Artrite gonocócica, LES e Artrite viral",
+          "explanation": "Correta como conjunto. LES, artrite viral e gonocócica devem ser contempladas diante de FAN alto, úlceras, disúria e relação sexual sem proteção."
+        },
+        {
+          "letter": "D",
+          "text": "Artrite psorásica, Artrite gonocócica e Artrite reumatoide",
+          "explanation": "Menos adequada. AR e artrite gonocócica são possíveis, mas artrite psoriásica não é sustentada e LES fica de fora."
+        }
+      ],
+      "page": 7,
+      "numberLabel": "29",
+      "answer": "C",
+      "reviewNote": "O envolvimento renal deve ser esclarecido com urina tipo I, relação proteína/creatinina e função renal; FAN isolado",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q29:29"
+    },
+    {
+      "number": 30,
+      "prompt": "- Quais exames pedir?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ácido úrico e proteinúria de 24 horas",
+          "explanation": "Incorreta como prioridade. Ácido úrico não explica o padrão inflamatório descrito, embora mensurar proteína urinária seja relevante."
+        },
+        {
+          "letter": "B",
+          "text": "Anti-CCP e RNM das mãos",
+          "explanation": "Incorreta como prioridade. Anti-CCP pode auxiliar hipótese de AR, porém RM de mãos não é o primeiro exame diante de provável doença sistêmica renal."
+        },
+        {
+          "letter": "C",
+          "text": "Punção articular e sorologia viral (hepatites, HIV e Chick)",
+          "explanation": "Parcialmente pertinente. Artrocentese pode ser essencial se houver suspeita de artrite infecciosa, e sorologias para HIV/hepatites/arboviroses podem integrar investigação."
+        },
+        {
+          "letter": "D",
+          "text": "Anti-DNA e proteinúria de 24 horas",
+          "explanation": "Mais adequada ao conjunto. Anti-dsDNA e quantificação da proteinúria ajudam a investigar LES com possível nefrite."
+        }
+      ],
+      "page": 7,
+      "numberLabel": "30",
+      "answer": "D",
+      "reviewNote": "D não exclui a necessidade de investigar gonococo/IST e descartar artrite séptica, conforme achados; C também tem",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q30:30"
+    },
+    {
+      "number": 31,
+      "prompt": "Leia as afirmativas a seguir e selecione a alternativa correta I - É um antibiótico peptídico, porém considerado um DMARDs não biológico.Inibe a produção dos receptores de IL-1 e IL-2 e, secundariamente, inibe a interação entre macrófagos e células T, bem como a responsividade das células T e a função das células B dependentes das células T; II - Interfere com a síntese de purinas e é citotóxica. Principal efeito indesejável é a depressão da medula óssea; III - É um DMARDs não biológico sintético, é metabolizada a sulfapiridina e ácido 5-aminossalicílico. A sulfapiridina é provavelmente o composto ativo no tratamento da Artrite Reumatóide; IV - É um antibiótico macrolídeo de origem fúngica que tem um mecanismo de ação muito semelhante ao da ciclosporina; A alternativa que correlaciona corretamente a característica descrita e o respectivo fármaco é:",
+      "type": "discursive",
+      "options": [],
+      "page": 7,
+      "numberLabel": "31",
+      "answer": null,
+      "reviewNote": "ALTERNATIVAS A-D NÃO FORAM ANOTADAS NO DOCUMENTO. Não há como atribuir uma letra verificável. Chave de resposta não corresponde às alternativas disponíveis no arquivo.",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q31:31"
+    },
+    {
+      "number": 32,
+      "prompt": "Em relação aos AINES, marque a alternativa correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Os principais efeitos dos AINES são anti inflamatório, anti hipertensivo e anti-depressivo",
+          "explanation": "Incorreta. Efeitos usuais são analgesia, antitermia e ação anti-inflamatória; podem aumentar pressão arterial."
+        },
+        {
+          "letter": "B",
+          "text": "Naproxeno, um derivado do ácido propiônico, tem potência 20x inferior a aspirina, daí sua ineficácia clínica",
+          "explanation": "Incorreta. Naproxeno tem eficácia clínica demonstrada; não é 20 vezes menos potente a ponto de se tornar ineficaz."
+        },
+        {
+          "letter": "C",
+          "text": "Os AINES tradicionais inibem tanto a COX-1 como a COX-2, embora a sua potência relativa para cada isoforma seja diferente",
+          "explanation": "Correta. A maioria dos AINEs tradicionais inibe COX-1 e COX-2, com diferenças de seletividade/potência."
+        },
+        {
+          "letter": "D",
+          "text": "O Paracetamol, derivado do para-aminofenol, tem uma melhor atividade anti inflamatória que antitérmica e analgésica",
+          "explanation": "Incorreta. Paracetamol é analgésico e antitérmico, com pouca atividade anti-inflamatória periférica. Fundamentação principal: R18."
+        }
+      ],
+      "page": 7,
+      "numberLabel": "32",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q32:32"
+    },
+    {
+      "number": 33,
+      "prompt": "Em relação aos glicocorticóides, julgue os itens abaixo. I - As alterações da hidrocortisona e da cortisona deram inicio aos potentes glicocorticoides atuais com menor retenção de sódio II - Análogos sintéticos da hidrocortisona possuem vantagens como: maior potência antiinflamatória, ação prolongada e menor retenção de sódio III - Acrescentando um radical hidroxila ou metil ao carbono 16 da 19-flurpredinisolona, temos a triancinolona e a betametasona, com ação glicocorticoide cerca de 30x maior que a hidrocortisona e com atividade mineralocorticoide nula",
+      "type": "discursive",
+      "options": [],
+      "page": 8,
+      "numberLabel": "33",
+      "reviewNote": "As opções de resposta por letras não foram preservadas no arquivo; apresenta-se o julgamento das três afirmações,",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q33:33"
+    },
+    {
+      "number": 35,
+      "prompt": "Laboratório de anemia no idoso I. O exame com melhor custo/benefício e maior poder de discriminação entre anemia ferropriva e da anemia de doença crônica no idoso é a dosagem de ferro II. O exame com melhor custo/benefício e maior poder de discriminação entre anemia ferropriva e da anemia de doença crônica no idoso é a ferritina III. A contagem de reticulócitos é um exame muito útil para diferenciar a anemia ferropriva da megaloblástica, muito comum no idoso IV. O sangue oculto nas fezes dever ser solicitado ao idoso se apresentar anemia microcítica e hipocrômica com anisocitose Quais afirmativas são verdadeiras?",
+      "type": "discursive",
+      "options": [],
+      "page": 8,
+      "numberLabel": "35",
+      "reviewNote": "O gabarito antigo aponta II+IV. Pelas recomendações atuais, «sangue oculto deve ser solicitado» não é exigência",
+      "answerSource": "Gabarito comentado do PDF",
+      "images": [
+        "imagens/provao-m1-2019-2/p9-img1.png"
+      ],
+      "id": "provao-m1-2019-2:q35:35"
+    },
+    {
+      "number": 37,
+      "prompt": "- Paciente feminino, 25 anos, tumor epífise da tíbia. Rx: limites nítidos, fino trabeculado ósseo. Macroscopia: grande volume, lesão densa, avermelhada com lacunas hemorrágicas. Microscopia: tecido osteóide, células gigantes multinucleadas, alta vascularização. Qual o diagnóstico menos provável?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tumor de células gigantes",
+          "explanation": "Possível. Tumor de células gigantes é tipicamente epifisário, em adulto jovem, lítico e às vezes hemorrágico."
+        },
+        {
+          "letter": "B",
+          "text": "Cisto ósseo aneurismático",
+          "explanation": "Possível. Cisto ósseo aneurismático pode apresentar cavidades sanguinolentas e células gigantes."
+        },
+        {
+          "letter": "C",
+          "text": "Tumor marrom de hiperparatireoidismo",
+          "explanation": "Possível. Tumor marrom do hiperparatireoidismo contém células gigantes e hemorragia, embora deva ser correlacionado com PTH/cálcio."
+        },
+        {
+          "letter": "D",
+          "text": "Osteossarcoma osteoblástico",
+          "explanation": "Menos provável pela descrição da imagem. Osteossarcoma osteoblástico convencional tende a ter imagem agressiva e margens não nítidas."
+        }
+      ],
+      "page": 10,
+      "numberLabel": "37",
+      "answer": "D",
+      "reviewNote": "A referência a «tecido osteóide» é inespecífica sem descrição de osteoide neoplásico maligno. Se houver osteoide",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q37:37"
+    },
+    {
+      "number": 38,
+      "prompt": "- Em relação ao sarcoma:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No peritônio apresenta diagnóstico tardio,",
+          "explanation": "Correta, entendendo-se sarcoma retroperitoneal. O crescimento em espaço profundo permite volume grande antes de sintomas e diagnóstico tardio."
+        },
+        {
+          "letter": "B",
+          "text": "É mais frequente em crianças do que em idosos e adultos",
+          "explanation": "Incorreta. Sarcomas em conjunto afetam várias idades e não são, como grupo, mais frequentes em crianças do que em adultos."
+        },
+        {
+          "letter": "C",
+          "text": "Linfonodo como sítio de metástase mais frequente",
+          "explanation": "Incorreta. A disseminação habitual dos sarcomas de partes moles é hematogênica; linfonodos são menos frequentes, salvo subtipos."
+        },
+        {
+          "letter": "D",
+          "text": "Cérebro como sítio de metástase mais frequente",
+          "explanation": "Incorreta. O pulmão é sítio clássico de metástase hematogênica, não o cérebro."
+        }
+      ],
+      "page": 10,
+      "numberLabel": "38",
+      "answer": "A",
+      "reviewNote": "O enunciado diz «peritônio» em vez de «retroperitônio», provavelmente pretendendo essa localização anatômica.",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q38:38"
+    },
+    {
+      "number": 39,
+      "prompt": "- Paciente feminino,60 anos, 5 nódulos de 5 cm na coxa, superficiais e sem invasão neurovascular ao USG. Diagnóstico mais provável:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lipoma",
+          "explanation": "Mais provável. Lipomas são tumores benignos comuns no subcutâneo e podem ser múltiplos."
+        },
+        {
+          "letter": "B",
+          "text": "Hemangioma",
+          "explanation": "Menos provável. Hemangiomas/lesões vasculares podem ser múltiplos, mas costumam apresentar características vasculares na imagem e exame."
+        },
+        {
+          "letter": "C",
+          "text": "Rabdomiossarcoma",
+          "explanation": "Menos provável epidemiologicamente. Rabdomiossarcoma é raro aos 60 anos e costuma levantar suspeita por massa crescente."
+        },
+        {
+          "letter": "D",
+          "text": "Osteoma",
+          "explanation": "Incorreta. Osteoma é tumor ósseo, incompatível com múltiplos nódulos subcutâneos não relacionados ao osso."
+        }
+      ],
+      "page": 10,
+      "numberLabel": "39",
+      "answer": "A",
+      "reviewNote": "Tamanho de cerca de 5 cm exige análise criteriosa, sobretudo se houver crescimento, consistência atípica ou achados",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q39:39"
+    },
+    {
+      "number": 40,
+      "prompt": "A osteoartrite é uma alteração extremamente prevalente que ocorre na estrutura articular. com relação a esse assunto, assinale a correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "rarefação Óssea periarticular é um achado de imagem fortemente sugestivo desse diagnóstico",
+          "explanation": "Incorreta. Osteopenia justa-articular é mais típica de artrites inflamatórias, como AR."
+        },
+        {
+          "letter": "B",
+          "text": "osteófitos são achado de imagem que favorece o diagnóstico",
+          "explanation": "Correta. Osteófitos, redução do espaço articular e esclerose subcondral favorecem osteoartrite."
+        },
+        {
+          "letter": "C",
+          "text": "sinovite e erosões marginais são achados muito sugestivos de osteoartrite",
+          "explanation": "Incorreta. Sinovite pode coexistir, mas erosões marginais são mais típicas de artrites inflamatórias."
+        },
+        {
+          "letter": "D",
+          "text": "anormalidades do alinhamento ósseo como geno varo não estão associados à osteoartrite",
+          "explanation": "Incorreta. Geno varo ou valgo pode aumentar e resultar de sobrecarga assimétrica no joelho com osteoartrite. Fundamentação principal: R22."
+        }
+      ],
+      "page": 10,
+      "numberLabel": "40",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q40:40"
+    },
+    {
+      "number": 41,
+      "prompt": "Assinale a opção correta acerca da osteomielite",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "abscesso de Brodie caracteriza o estágio agudo da doença",
+          "explanation": "Incorreta. Abscesso de Brodie é forma localizada subaguda, não marcador do estágio agudo clássico."
+        },
+        {
+          "letter": "B",
+          "text": "abscesso de Brodie está localizado na cortical",
+          "explanation": "Incorreta como regra. Abscesso de Brodie costuma ser intramedular, frequentemente metafisário, embora haja localização cortical ocasional."
+        },
+        {
+          "letter": "C",
+          "text": "sequestro ósseo caracteriza estágio crônico da osteomielite",
+          "explanation": "Correta. Sequestro é fragmento ósseo desvitalizado separado do osso viável, característico de osteomielite crônica."
+        },
+        {
+          "letter": "D",
+          "text": "reação periosteal e um achado de imagem patognomônico desta condição",
+          "explanation": "Incorreta. Reação periosteal ocorre em infecção, tumor e trauma; não é patognomônica. Fundamentação principal: R23."
+        }
+      ],
+      "page": 10,
+      "numberLabel": "41",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q41:41"
+    },
+    {
+      "number": 42,
+      "prompt": "assinale a opção incorreta acerca da osteomielite",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Os achados de imagem do tipo rarefação óssea mal definidas são precocemente identificados nos exames radiográficos (primeiras 24h)",
+          "explanation": "Incorreta, portanto é a resposta. Radiografia convencional costuma não exibir lise osteomielítica nas primeiras 24h; alterações ósseas são tardias."
+        },
+        {
+          "letter": "B",
+          "text": "as metáfises são comumente acometidas e as fises abertas sao barreiras mecânicas para a disseminação do processo infeccioso para as epífises",
+          "explanation": "Correta em geral, com ressalva. Metáfises são foco comum em crianças; fise aberta pode limitar disseminação para epífise, mas não é barreira absoluta."
+        },
+        {
+          "letter": "C",
+          "text": "a osteomielite pode ser causada por algumas condições, entre elas amigdalite, furúnculos, e infecções respiratórias e do trato urinário que se disseminam por via hematogênica",
+          "explanation": "Correta em princípio. Focos infecciosos à distância podem causar bacteremia e semeadura hematogênica óssea."
+        },
+        {
+          "letter": "D",
+          "text": "entre os agentes causadores mais frequentes estao: S. aureus, P. mirabilis, P. aeruginosa e E. coli",
+          "explanation": "Aceitável apenas de modo contextual. S. aureus é predominante; bacilos gram-negativos como E. coli, Pseudomonas e Proteus aparecem sobretudo em grupos/rotas específicos, não como quartetos universalmente «mais frequentes»."
+        }
+      ],
+      "page": 10,
+      "numberLabel": "42",
+      "answer": "A",
+      "reviewNote": "Embora A seja claramente falsa, a generalização de D também é criticável. A resposta mais segura para «incorreta» é",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019-2:q42:42"
+    }
+  ]
+}

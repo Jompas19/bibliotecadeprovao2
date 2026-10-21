@@ -1,0 +1,2224 @@
+{
+  "id": "provao-m1-m2-2023",
+  "title": "Provão M1 e M2 (2023)",
+  "original": "Provão UroReumato’",
+  "key_source": "Gabarito comentado do PDF",
+  "questions": [
+    {
+      "number": 1,
+      "numberLabel": "M2 · 1",
+      "prompt": "Paciente, 70 anos, acompanha com urologista por hiperplasia prostática benigna. Está em tratamento clínico otimizado e possui ressonância magnética de próstata e biópsia de próstata com resultados tranquilizadores. Considerando os mecanismos que levaram à hiperplasia prostática benigna, assinale a afirmativa correta.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A testosterona atua nas células do estroma prostático, estimulando a secreção de fatores de crescimento e a consequente proliferação glandular.",
+          "explanation": "Testosterona é precursora; a ação proliferativa descrita é atribuída principalmente à DHT."
+        },
+        {
+          "letter": "B",
+          "text": "A 5-alfa-redutase realiza a conversão de di-hidrotestosterona em testosterona, atuando, então, como fator estimulador na hiperplasia prostática benigna.",
+          "explanation": "A reação enzimática foi invertida: testosterona transforma-se em DHT."
+        },
+        {
+          "letter": "C",
+          "text": "A 5-alfa-redutase inibe a conversão de testosterona em di-hidrotestosterona, atuando, então, como fator protetor para hiperplasia prostática benigna.",
+          "explanation": "A enzima não bloqueia essa conversão: ela a catalisa."
+        },
+        {
+          "letter": "D",
+          "text": "A di-hidrotestosterona atua nas células do estroma prostático, estimulando a secreção de fatores de crescimento e a consequente proliferação glandular.",
+          "explanation": "A DHT promove fatores de crescimento e hiperplasia estromal/glandular."
+        }
+      ],
+      "page": 1,
+      "id": "provao-m1-m2-2023:m2-q1:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "A di-hidrotestosterona (DHT), formada pela 5-alfa-redutase a partir da testosterona, ativa sinalização proliferativa no estroma prostático.",
+      "answer": "D"
+    },
+    {
+      "number": 2,
+      "numberLabel": "M2 · 2",
+      "prompt": "Paciente, sexo masculino, 60 anos, queixa-se de oito meses de noctúria e aumento considerável de frequência miccional. Relata, ainda, impacto significativo em sua qualidade de vida. Negou perda de peso no período. Possui ressonância nuclear magnética de próstata indicando órgão com, aproximadamente, 35 gramas e sem sinais de malignidade. Considerando o quadro clínico, assinale a afirmativa correta.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O tamanho da próstata se relaciona diretamente com o grau de obstrução e sintomas.",
+          "explanation": "Volume aumentado não determina proporcionalmente gravidade sintomática ou obstrução."
+        },
+        {
+          "letter": "B",
+          "text": "O tamanho da próstata não se correlaciona diretamente com o grau de obstrução e sintomas.",
+          "explanation": "Correta: próstata relativamente pequena pode causar sintomas relevantes."
+        },
+        {
+          "letter": "C",
+          "text": "O quadro clínico é pouco condizente com o exame de imagem realizado, devendo-se repetir a ressonância nuclear magnética ou realizar biópsia de próstata.",
+          "explanation": "Não se infere indicação de nova ressonância ou biópsia apenas por essa discordância."
+        },
+        {
+          "letter": "D",
+          "text": "A síndrome do lobo mediano, onde o aumento do segmento prostático exerce um efeito semelhante a uma válvula na bexiga, não deve ser considerada nessa situação.",
+          "explanation": "A protrusão intravesical do lobo mediano pode causar obstrução mesmo com volume total modesto."
+        }
+      ],
+      "page": 1,
+      "id": "provao-m1-m2-2023:m2-q2:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Os sintomas urinários inferiores não se correlacionam diretamente ao volume prostático, pois dependem de obstrução dinâmica, anatomia e função vesical.",
+      "answer": "B"
+    },
+    {
+      "number": 3,
+      "numberLabel": "M2 · 3",
+      "prompt": "Paciente, sexo masculino, 60 anos, queixa-se de noctúria, esforço miccional, enfraquecimento do jato e gotejamento. Refere sintomas com impacto significativo em sua qualidade de vida. Possui seguimento regular com urologista, que registrou um IPSS de 24 na atual avaliação. Está há seis meses em uso de doxazosina com discreta melhora dos sintomas. Realizou USG de bexiga com resíduo pós-miccional de 70 mL. Ressonância nuclear magnética de próstata indica órgão com, aproximadamente, 30 cm³ e lobo mediano aumentado. Considerando o quadro clínico, qual a melhor conduta terapêutica?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indicar prostatectomia radical.",
+          "explanation": "Prostatectomia radical é tratamento oncológico, não abordagem da HPB."
+        },
+        {
+          "letter": "B",
+          "text": "Indicar início de alfa-1-bloqueador.",
+          "explanation": "O paciente já utiliza doxazosina, que é alfa-1-bloqueador."
+        },
+        {
+          "letter": "C",
+          "text": "Indicar ressecção endoscópica de próstata.",
+          "explanation": "Ressecção endoscópica pode tratar obstrução por lobo mediano e sintomas refratários."
+        },
+        {
+          "letter": "D",
+          "text": "Associar anticolinérgico à terapêutica em vigor.",
+          "explanation": "Anticolinérgico dirige-se sobretudo a sintomas de armazenamento; requer avaliar risco de retenção e não resolve a obstrução. RESSALVA: A indicação operatória não é automática: outras opções e preferências do paciente precisam ser consideradas."
+        }
+      ],
+      "page": 1,
+      "id": "provao-m1-m2-2023:m2-q3:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "IPSS grave (24), resposta insuficiente a alfa-bloqueador e lobo mediano aumentado tornam razoável propor desobstrução endoscópica após decisão compartilhada.",
+      "answer": "C"
+    },
+    {
+      "number": 4,
+      "numberLabel": "M2 · 4",
+      "prompt": "Paciente, sexo masculino, 75 anos, vem encaminhado a urologista após atendimento em pronto-socorro de hospital terciário. Refere quadro de hematúria macroscópica com dois dias de evolução. Foram realizados exames laboratoriais e tomografias, assim como sondagem vesical de demora e irrigação com soro fisiológico gelado por 24 horas. Recebeu alta com manutenção da sondagem e encaminhamento para equipe de urologia. Relata, ainda, antecedente pessoal de tabagismo pesado e hipertensão em uso de losartana. Apresenta exames laboratoriais sem alterações e tomografia computadorizada de abdômen e pelve com protocolo de urotomografia que acusou lesão vegetante vesical com invasão da próstata e envolvimento de múltiplos linfonodos em cadeia pélvica. Tomografia de crânio e tórax sem alterações dignas de nota. Assinale a classificação TNM de tal paciente.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "T4a N2 M0.",
+          "explanation": "Combina extensão a órgão adjacente, N2 regional e ausência de metástase conhecida."
+        },
+        {
+          "letter": "B",
+          "text": "T4b N3 M1.",
+          "explanation": "T4b exige parede pélvica/abdominal; N3 e M1 não estão documentados."
+        },
+        {
+          "letter": "C",
+          "text": "T4a N3 M0.",
+          "explanation": "N3 indica linfonodos ilíacos comuns, não apenas múltiplos pélvicos."
+        },
+        {
+          "letter": "D",
+          "text": "T4b N2 M0.",
+          "explanation": "T4b requer invasão da parede pélvica ou abdominal, não descrita. RESSALVA: A frase \"invasão da próstata\" não explicita invasão do estroma; o estadiamento definitivo exige esclarecer esse ponto e os territórios linfonodais."
+        }
+      ],
+      "page": 1,
+      "id": "provao-m1-m2-2023:m2-q4:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Extensão tumoral vesical ao estroma prostático caracteriza T4a; múltiplos linfonodos regionais na pelve verdadeira sugerem N2; sem metástase distante demonstrada, M0.",
+      "answer": "A"
+    },
+    {
+      "number": 5,
+      "numberLabel": "M2 · 5",
+      "prompt": "Paciente, sexo masculino, 65 anos, vem encaminhado para urologista após diagnóstico de neoplasia de bexiga. Na investigação inicial, apresentava tumoração de 3,5 cm na parede lateral direita da bexiga. Tomografia de tórax, abdômen e pelve do estadiamento sem outras lesões ou linfonodomegalias. Foi então submetido à ressecção transuretral de bexiga. Na reavaliação após a cirurgia, apresenta relatório de anatomopatológico indicando carcinoma urotelial de alto grau sem invasão da camada muscular própria. Não possui demais comorbidades além do tabagismo. Demais exames pré-operatórios sem alterações. Qual a melhor opção terapêutica?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radioterapia local.",
+          "explanation": "Radioterapia isolada não é a conduta habitual nesse cenário."
+        },
+        {
+          "letter": "B",
+          "text": "Indicar nova RTUb.",
+          "explanation": "Nova ressecção pode ser necessária, mas sem tratamento intravesical pode ser insuficiente."
+        },
+        {
+          "letter": "C",
+          "text": "Iniciar protocolo de BCG intravesical.",
+          "explanation": "BCG pode ser pertinente, porém não substitui uma segunda RTU quando indicada."
+        },
+        {
+          "letter": "D",
+          "text": "Indicar nova RTUb e iniciar protocolo de BCG intravesical.",
+          "explanation": "Associa reavaliação da ressecção/estadiamento a BCG para alto risco. RESSALVA: O laudo não informa se há músculo detrusor representado nem distingue Ta de T1; portanto a necessidade de repetir RTU não é demonstrada de forma inequívoca."
+        }
+      ],
+      "page": 2,
+      "id": "provao-m1-m2-2023:m2-q5:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Tumor urotelial de alto grau não músculo-invasivo deve ser estadiado adequadamente. Uma nova RTU é indicada em T1, ressecção incompleta ou ausência de músculo detrusor no espécime, e BCG é considerado segundo estratificação de risco.",
+      "answer": "D"
+    },
+    {
+      "number": 6,
+      "numberLabel": "M2 · 6",
+      "prompt": "Paciente, sexo masculino, 55 anos, assintomático, procura urologista para iniciar seguimento e prevenção. Está assintomático e nega antecedentes pessoais relevantes. Ao exame físico, está em bom estado geral, próstata de, aproximadamente, 35 gramas, fibroelástica e sem nodulações, PSA de 7 ng/mL. Foi submetido à biópsia de próstata, com diagnóstico de adenocarcinoma Gleason 7 (4+3). Qual a melhor alternativa terapêutica?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ter vigilância ativa.",
+          "explanation": "Vigilância ativa não é recomendação padrão para Gleason 4+3."
+        },
+        {
+          "letter": "B",
+          "text": "Indicar a prostatectomia radical; a cintilografia óssea é obrigatória.",
+          "explanation": "Cintilografia óssea isoladamente não é obrigatória em todos os casos, especialmente com métodos modernos de estadiamento."
+        },
+        {
+          "letter": "C",
+          "text": "Indicar a prostatectomia radical; a cintilografia óssea é uma indicação relativa.",
+          "explanation": "Cirurgia pode ser apropriada e a necessidade de cintilografia depende do risco e disponibilidade de outros exames."
+        },
+        {
+          "letter": "D",
+          "text": "O paciente deve ser estadiado com ressonância magnética de pelve e próstata e, confirmada doença localizada, indicar prostatectomia radical.",
+          "explanation": "A proposta de estadiar antes de cirurgia curativa é a mais abrangente das disponíveis. RESSALVA: RM não é obrigatoriamente repetida após biópsia e outras opções curativas existem; PSMA PET/CT é preferível quando disponível para estadiamento indicado."
+        }
+      ],
+      "page": 2,
+      "id": "provao-m1-m2-2023:m2-q6:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Gleason 4+3 corresponde ao grupo prognóstico ISUP 3, geralmente risco intermediário desfavorável; recomenda-se estadiar e discutir opções curativas, incluindo cirurgia ou radioterapia.",
+      "answer": "D"
+    },
+    {
+      "number": 7,
+      "numberLabel": "M2 · 7",
+      "prompt": "Paciente, sexo masculino, 80 anos, retorna para avaliação de urologista com resultado de biópsia de próstata. Está assintomático e possui como antecedentes pessoais fibrilação atrial, hipertensão e hipotireoidismo com tratamento adequado e efetivo. (ILEGÍVEL) de, aproximadamente, 45 gramas e região endurecida em base de lobo direito. Apresenta PSA = (ILEGÍVEL) e biópsia indicando adenocarcinoma Gleason 3+3 em dois fragmentos no total de 20. A proporção de tumor nos fragmentos é (ILEGÍVEL). Qual a melhor conduta?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radioterapia.",
+          "explanation": "Radioterapia imediata pode trazer morbidade desnecessária em doença aparentemente indolente."
+        },
+        {
+          "letter": "B",
+          "text": "Vigilância ativa.",
+          "explanation": "Vigilância ativa é compatível com doença de baixo risco em pessoa selecionada."
+        },
+        {
+          "letter": "C",
+          "text": "Bloqueio hormonal.",
+          "explanation": "Bloqueio hormonal isolado não é estratégia usual para doença localizada de baixo risco."
+        },
+        {
+          "letter": "D",
+          "text": "Prostatectomia sem linfadenectomia.",
+          "explanation": "Prostatectomia traz risco considerável e benefício limitado nessa faixa etária, dependendo da expectativa de vida. RESSALVA: Em expectativa de vida limitada, \"observação vigilante\" (watchful waiting) pode ser mais indicada que vigilância ativa; há dados ilegíveis sobre PSA e volume tumoral."
+        }
+      ],
+      "page": 2,
+      "id": "provao-m1-m2-2023:m2-q7:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Gleason 3+3 em poucos fragmentos sugere neoplasia de baixo risco; em paciente de 80 anos, evitar tratamento excessivo costuma ser apropriado.",
+      "answer": "B"
+    },
+    {
+      "number": 8,
+      "numberLabel": "M2 · 8",
+      "prompt": "Os diuréticos de alça (furosemida) são os agentes mais eficazes disponíveis para induzir excreção de água e eletrólitos. Seu mecanismo de ação é ou são: ",
+      "type": "true_false",
+      "options": [],
+      "page": 3,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Furosemida bloqueia o cotransportador NKCC2 no ramo ascendente espesso da alça de Henle. 1ª afirmativa - 1ª afirmativa verdadeira: inibe NKCC2 e aumenta oferta distal de sódio. 2ª afirmativa - 2ª falsa: não age ativando ECA. 3ª afirmativa - 3ª falsa: não bloqueia receptores de angiotensina II. 4ª afirmativa - 4ª falsa: não antagoniza receptor mineralocorticoide. RESSALVA: As letras e as sequências das alternativas estão ilegíveis no PDF; não há como indicar A, B, C ou D.",
+      "id": "provao-m1-m2-2023:m2-q8:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "statements": [
+        {
+          "id": "A",
+          "text": "Bloquear o simportador de Na+-K+-2Cl- no ramo ascendente da alça de Henle e chegada de mais Na+ ao túbulo distal com perda urinária de Na+ e água.",
+          "answer": "V",
+          "explanation": "Correta: diuréticos de alça inibem NKCC2 no ramo ascendente espesso."
+        },
+        {
+          "id": "B",
+          "text": "Aumentar a atividade da enzima conversora de angiotensina (ECA).",
+          "answer": "F",
+          "explanation": "Incorreta: furosemida não aumenta atividade da ECA."
+        },
+        {
+          "id": "C",
+          "text": "Antagonista dos receptores de angiotensina II.",
+          "answer": "F",
+          "explanation": "Incorreta: furosemida não é antagonista da angiotensina II."
+        },
+        {
+          "id": "D",
+          "text": "Antagonista dos receptores da aldosterona.",
+          "answer": "F",
+          "explanation": "Incorreta: furosemida não bloqueia receptores da aldosterona."
+        }
+      ],
+      "answer": "V-F-F-F"
+    },
+    {
+      "number": 9,
+      "numberLabel": "M2 · 9",
+      "prompt": "Os estudos laboratoriais de uma mulher hipertensiva (160/110 mmHg) mostram níveis séricos de potássio muito baixos (2,7 mEq/L), alto nível de sódio e de HCO3. A associação de (ILEGÍVEL) será a mais adequada nessa paciente.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Espironolactona + hidroclorotiazida.",
+          "explanation": "Espironolactona poupa potássio, mas a hidroclorotiazida pode agravá-lo; combinação exige cautela."
+        },
+        {
+          "letter": "B",
+          "text": "Furosemida + clorotiazida.",
+          "explanation": "Dois diuréticos perdedores de potássio tendem a acentuar hipocalemia."
+        },
+        {
+          "letter": "C",
+          "text": "Hidroclorotiazida + glicerina.",
+          "explanation": "Tiazídico isolado aumenta perda renal de potássio; glicerina não é esquema adequado."
+        },
+        {
+          "letter": "D",
+          "text": "Manitol + acetazolamida.",
+          "explanation": "Manitol/acetazolamida não constituem tratamento apropriado para essa apresentação. RESSALVA: A melhor conduta real inclui investigação de hiperaldosteronismo e correção de potássio; a alternativa A não deve ser interpretada como prescrição universal."
+        }
+      ],
+      "page": 3,
+      "id": "provao-m1-m2-2023:m2-q9:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Hipertensão associada a hipocalemia e alcalose metabólica sugere excesso mineralocorticoide; espironolactona antagoniza essa ação.",
+      "answer": "A"
+    },
+    {
+      "number": 10,
+      "numberLabel": "M2 · 10",
+      "prompt": "A nefropatia medicamentosa ocasionada pelo uso constante de analgésicos e anti-inflamatórios é um dos principais problemas enfrentados por pacientes portadores de doenças crônicas de origem inflamatória, os quais fazem tratamento à base destes medicamentos. Em relação à nefropatia induzida por analgésicos/anti-inflamatórios, assinale a alternativa CORRETA.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apenas os anti-inflamatórios não esteroidais não seletivos para COX-2 são capazes de desencadear a nefropatia induzida por anti-inflamatórios.",
+          "explanation": "Inibidores seletivos de COX-2 também podem ser nefrotóxicos."
+        },
+        {
+          "letter": "B",
+          "text": "A nefropatia induzida por analgésicos/anti-inflamatórios ocorre por uma redução da produção dos eicosanoides prostaglandina E2 e prostaciclina no rim, os quais estão envolvidos na manutenção da homeostase do fluxo sanguíneo renal e da taxa de filtração glomerular.",
+          "explanation": "Inibição de PGE2 e prostaciclina compromete autorregulação hemodinâmica renal."
+        },
+        {
+          "letter": "C",
+          "text": "A nefropatia induzida por analgésicos/anti-inflamatórios ocorre por um excesso de deposição de metabólitos inativos destes medicamentos na membrana de filtração do glomérulo.",
+          "explanation": "A lesão típica não decorre de depósito glomerular de metabólitos inativos."
+        },
+        {
+          "letter": "D",
+          "text": "Todas as alternativas estão corretas.",
+          "explanation": "Não podem ser todas corretas porque A e C são falsas."
+        }
+      ],
+      "page": 3,
+      "id": "provao-m1-m2-2023:m2-q10:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Anti-inflamatórios não esteroidais podem provocar vasoconstrição da arteríola aferente por supressão de prostaglandinas renais, com redução de perfusão e filtração.",
+      "answer": "B"
+    },
+    {
+      "number": 11,
+      "numberLabel": "M2 · 11",
+      "prompt": "Paciente de 29 anos de idade, feminina, apresentando febre, dor na região lombar e disúria. Foi solicitado um EAS que apresentou: Exame físico/químico: cor amarelo-escura; aspecto turvo; densidade 1022; pH 6,5; nitrito positivo; glicose 0 mg/dL; proteínas 300 mg/dL; bilirrubina ausente; hemoglobina presente; hemácias presentes (+++/4+). Outros parâmetros: (ILEGÍVEL). Exame microscópico: leucócitos 145.000/mL; hemácias totais 500.000/mL; hemácias isomórficas 200.000/mL; hemácias dismórficas 400.000/mL; células tubulares (ILEGÍVEL); células uroteliais 20.000/mL; cilindros hialinos (ILEGÍVEL); outros cilindros - hemáticos 50.000/mL e leucocitários 100.000/mL; muco presente; cristais ausentes. Considerando a exposição acima, com estes dados, que enfermidade melhor explicaria estes achados clínicos/laboratoriais?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infecção do trato urinário (ITU) baixa/cistite.",
+          "explanation": "Cistite isolada não explica bem febre e dor lombar."
+        },
+        {
+          "letter": "B",
+          "text": "Infecção do trato urinário (ITU) alta/pielonefrite.",
+          "explanation": "Infecção do trato urinário superior é a hipótese clínica mais plausível."
+        },
+        {
+          "letter": "C",
+          "text": "Glomerulonefrite aguda (GNDA).",
+          "explanation": "Cilindros hemáticos são achado glomerular importante, mas há sinais clínicos/microbiológicos de infecção."
+        },
+        {
+          "letter": "D",
+          "text": "Nefropatia lúpica.",
+          "explanation": "Ausência de história lúpica, sorologia ou elementos imunológicos enfraquece esta hipótese. RESSALVA: Exames são internamente contraditórios: hemácias isomórficas + dismórficas superam o total referido. Não é seguro excluir glomerulonefrite concomitante."
+        }
+      ],
+      "page": 3,
+      "id": "provao-m1-m2-2023:m2-q11:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Febre, dor lombar, disúria, nitrito positivo e leucocitúria intensa favorecem pielonefrite; entretanto cilindros hemáticos e dismorfismo eritrocitário apontam também para lesão glomerular.",
+      "answer": "B"
+    },
+    {
+      "number": 12,
+      "numberLabel": "M2 · 12",
+      "prompt": "Paciente do sexo masculino, 23 anos, com vida sexual ativa (várias parceiras nos últimos meses), notou o aparecimento de lesão papular, cinco dias após relação sexual com desconhecida, sendo que esta lesão ulcerou, apresentando bordas irregulares, não endurecidas, extremamente dolorosas, que apareceram em pele de região próxima também (“lesões em beijo”) e depois passou a apresentar adenopatia inguinal, unilateral, que passou a drenar secreção purulenta, por único ponto de drenagem. Para confirmar a hipótese clínica, dentre os exames abaixo, qual seria o mais indicado?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pesquisa de bacilos Gram negativos através de bacterioscopia pelo Gram da secreção drenada do bubão.",
+          "explanation": "Bacilos/cocobacilos Gram-negativos são compatíveis, porém Gram do bubão não confirma com segurança; cultura especial/PCR do agente é preferível onde disponível."
+        },
+        {
+          "letter": "B",
+          "text": "Pesquisa de clamídia na secreção do bubão, através, por exemplo, de imunofluorescência direta ou por reação em cadeia da polimerase (PCR) para clamídia.",
+          "explanation": "Clamídia com bubões sugere linfogranuloma venéreo, tipicamente de outra apresentação inicial."
+        },
+        {
+          "letter": "C",
+          "text": "Bacterioscopia pelo Gram da secreção do bubão, com ênfase à pesquisa de diplococos Gram negativos, intra e extracelulares.",
+          "explanation": "Diplococos Gram-negativos remetem à infecção gonocócica, não ao cancroide típico."
+        },
+        {
+          "letter": "D",
+          "text": "Pesquisa de corpúsculo de Donovan (em secreção corada pelo Leishman ou biópsia corada pelo Giemsa).",
+          "explanation": "Corpúsculos de Donovan identificam donovanose, geralmente úlcera pouco dolorosa. RESSALVA: A formulação fala em \"confirmar\", mas Gram do bubão é pouco sensível/específico; investigação de sífilis, HSV e HIV continua relevante."
+        }
+      ],
+      "page": 4,
+      "id": "provao-m1-m2-2023:m2-q12:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Úlceras genitais muito dolorosas, de borda irregular, em espelho e adenite inguinal supurativa unilateral sugerem cancroide por Haemophilus ducreyi.",
+      "answer": "A"
+    },
+    {
+      "number": 13,
+      "numberLabel": "M2 · 13",
+      "prompt": "Paciente de 6 anos de idade, masculino, apresentando edema (ILEGÍVEL) de face e membros inferiores, PA = 160 x 105 mmHg e (ILEGÍVEL). Exame de urina (EAS): cor amarelo-escura; aspecto turvo; densidade 1022; pH 6,5; nitrito negativo; proteínas 280 mg/dL; hemoglobina presente; hemácias presentes (+++/4+); leucócitos 25.000/mL; hemácias totais 500.000/mL; hemácias isomórficas 200.000/mL; hemácias dismórficas 400.000/mL; células tubulares 80.000/mL; células uroteliais 20.000/mL; cilindros hialinos 2.000/mL; cilindros hemáticos 20.000/mL; muco presente; cristais ausentes. No soro: colesterol 190 mg/dL; albumina 4,9 [unidade ILEGÍVEL]. [Parte dos parâmetros originais ILEGÍVEL]. Considerando a exposição acima, com estes dados, que enfermidade melhor explicaria estes achados clínicos/laboratoriais?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infecção do trato urinário (ITU).",
+          "explanation": "ITU sem processo glomerular não costuma produzir cilindros hemáticos."
+        },
+        {
+          "letter": "B",
+          "text": "Tumor renal.",
+          "explanation": "Tumor renal é improvável como causa do quadro nefrítico agudo infantil."
+        },
+        {
+          "letter": "C",
+          "text": "Glomerulonefrite aguda (GNDA).",
+          "explanation": "GNDA explica hipertensão, retenção hidrossalina, hematúria e cilindrúria."
+        },
+        {
+          "letter": "D",
+          "text": "Nefropatia lúpica.",
+          "explanation": "Nefrite lúpica pode produzir nefrite, mas falta contexto clínico e sorológico para preferi-la. RESSALVA: Há trechos clínicos e unidades ilegíveis; a etiologia pós-estreptocócica não deve ser afirmada sem história/exames complementares."
+        }
+      ],
+      "page": 4,
+      "id": "provao-m1-m2-2023:m2-q13:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Edema, hipertensão acentuada, hematúria dismórfica e cilindros hemáticos indicam síndrome nefrítica aguda, cuja etiologia específica requer avaliação.",
+      "answer": "C"
+    },
+    {
+      "number": 14,
+      "numberLabel": "M2 · 14",
+      "prompt": "Paciente com 55 anos de idade, diagnóstico recente pela tomografia computadorizada de um nódulo renal sólido com 4,0 cm de diâmetro, com realce pelo contraste, exofítico, em polo superior do rim esquerdo. Qual a melhor conduta a ser tomada?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radioterapia externa.",
+          "explanation": "Radioterapia externa isolada não é abordagem padrão de massa renal ressecável."
+        },
+        {
+          "letter": "B",
+          "text": "Nefrectomia parcial laparoscópica.",
+          "explanation": "Nefrectomia parcial preserva parênquima e oferece controle oncológico apropriado para T1a."
+        },
+        {
+          "letter": "C",
+          "text": "Por ser um tumor no estádio T2a, está indicada a nefrectomia radical (ILEGÍVEL).",
+          "explanation": "Um tumor de 4,0 cm não é T2a; T2a exige diâmetro >7 até 10 cm."
+        },
+        {
+          "letter": "D",
+          "text": "Por estar afastada a possibilidade de lesão maligna, (ILEGÍVEL).",
+          "explanation": "Realce por contraste não afasta malignidade; vigilância requer seleção fundamentada."
+        }
+      ],
+      "page": 4,
+      "id": "provao-m1-m2-2023:m2-q14:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Massa renal sólida e contrastante de 4,0 cm é potencialmente maligna (T1a se limitada ao rim); nefrectomia parcial é opção preferencial quando factível.",
+      "answer": "B"
+    },
+    {
+      "number": 15,
+      "numberLabel": "M2 · 15",
+      "prompt": "Em relação ao câncer renal, é correto afirmar que:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Realizar atividades físicas, evitar tabagismo e redução da obesidade são medidas de prevenção primária.",
+          "explanation": "Medidas de estilo de vida e cessação do tabagismo reduzem fatores de risco."
+        },
+        {
+          "letter": "B",
+          "text": "Representam 5-8% das neoplasias (ILEGÍVEL).",
+          "explanation": "Proporção de 5-8% de todos os cânceres não é a estimativa padrão e a alternativa está truncada."
+        },
+        {
+          "letter": "C",
+          "text": "O subtipo histológico papilar é o subtipo histológico mais comum.",
+          "explanation": "O carcinoma de células claras é o subtipo mais frequente, não o papilar."
+        },
+        {
+          "letter": "D",
+          "text": "Devido ao aumento de consultas regulares preventivas, sua incidência tem diminuído (ILEGÍVEL).",
+          "explanation": "A incidência observada não pode ser declarada decrescente simplesmente por mais consultas preventivas."
+        }
+      ],
+      "page": 5,
+      "id": "provao-m1-m2-2023:m2-q15:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Redução do tabagismo e obesidade, e atividade física regular, associam-se a prevenção de câncer renal.",
+      "answer": "A"
+    },
+    {
+      "number": 16,
+      "numberLabel": "M2 · 16",
+      "prompt": "Sobre litíase urinária, assinale a afirmativa CORRETA.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Os cálculos coraliformes preenchem todo o sistema pielocalicinal e ureter.",
+          "explanation": "Coraliformes ocupam pelve e cálices, não necessariamente ureter nem todas as estruturas."
+        },
+        {
+          "letter": "B",
+          "text": "Cálculos de ácido oxalato de cálcio podem ser dissolvidos com medicação.",
+          "explanation": "Cálculos de oxalato de cálcio não se dissolvem com fármacos rotineiramente."
+        },
+        {
+          "letter": "C",
+          "text": "Os cálculos de ácido úrico são radiotransparentes.",
+          "explanation": "Ácido úrico é geralmente radiolucente na radiografia convencional."
+        },
+        {
+          "letter": "D",
+          "text": "Os cálculos de estruvita são compostos de oxalato de cálcio e ácido úrico.",
+          "explanation": "Estruvita é fosfato amônio-magnesiano, com frequência associado a infecção por urease."
+        }
+      ],
+      "page": 5,
+      "id": "provao-m1-m2-2023:m2-q16:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Cálculos de ácido úrico são tipicamente radiotransparentes no raio X simples e podem ser dissolvidos por alcalinização urinária quando apropriado.",
+      "answer": "C"
+    },
+    {
+      "number": 17,
+      "numberLabel": "M2 · 17",
+      "prompt": "Sobre varicocele, assinale a afirmativa CORRETA.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos os pacientes devem ser tratados, mesmo se assintomáticos.",
+          "explanation": "Não se trata indiscriminadamente varicoceles assintomáticas."
+        },
+        {
+          "letter": "B",
+          "text": "O tratamento clínico resolve a maioria dos casos.",
+          "explanation": "Medidas clínicas não resolvem anatomicamente a maioria das varicoceles."
+        },
+        {
+          "letter": "C",
+          "text": "Por se tratar de uma doença venosa, é sempre bilateral.",
+          "explanation": "É mais frequente à esquerda, não obrigatoriamente bilateral."
+        },
+        {
+          "letter": "D",
+          "text": "O diagnóstico é clínico, podendo ser complementado com o ultrassom/Doppler de bolsa escrotal.",
+          "explanation": "Exame físico é principal; Doppler complementa achados duvidosos."
+        }
+      ],
+      "page": 5,
+      "id": "provao-m1-m2-2023:m2-q17:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "O diagnóstico de varicocele é primariamente clínico, em ortostatismo e com manobra de Valsalva, com Doppler quando indicado.",
+      "answer": "D"
+    },
+    {
+      "number": 18,
+      "numberLabel": "M2 · 18",
+      "prompt": "No tratamento do cálculo renal:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A litotripsia externa apresenta melhores resultados que a abordagem ureteroscópica nos cálculos de ureter distal.",
+          "explanation": "Ureteroscopia costuma ter maior taxa de resolução imediata de cálculo ureteral distal."
+        },
+        {
+          "letter": "B",
+          "text": "Os resultados da litotripsia externa têm relação com o índice de massa corpórea do paciente (distância pele-cálculo).",
+          "explanation": "Maior distância pele-cálculo pode reduzir efetividade da litotripsia."
+        },
+        {
+          "letter": "C",
+          "text": "A litotripsia externa apresenta melhores resultados que a cirurgia percutânea nos cálculos menores que 2 cm, independentemente da composição do cálculo.",
+          "explanation": "Composição/densidade e localização influenciam os resultados; não é universalmente superior à abordagem percutânea."
+        },
+        {
+          "letter": "D",
+          "text": "A litotripsia externa apresenta os mesmos resultados que a cirurgia percutânea nos cálculos de até 2 cm, localizados em cálices inferiores.",
+          "explanation": "Para cálice inferior, cirurgia endoscópica/percutânea tende a melhor taxa livre de cálculos em certas situações."
+        }
+      ],
+      "page": 5,
+      "id": "provao-m1-m2-2023:m2-q18:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "O sucesso da litotripsia extracorpórea depende, entre outros, da distância pele-cálculo, densidade e composição do cálculo.",
+      "answer": "B"
+    },
+    {
+      "number": 19,
+      "numberLabel": "M2 · 19",
+      "prompt": "Uma condição clínica devastadora, que mesmo quando tratada adequadamente, traz um grande risco de doença renal crônica. Sua suspeita diagnóstica é forte quando no ultrassom antenatal tem-se: hidronefrose bilateral, oligohidrâmnio e distensão da bexiga. O texto acima diz respeito à seguinte anomalia:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estenose da junção pieloureteral.",
+          "explanation": "Obstrução da junção pieloureteral costuma ser unilateral e não explica tipicamente megabexiga."
+        },
+        {
+          "letter": "B",
+          "text": "Refluxo vesicoureteral.",
+          "explanation": "Refluxo vesicoureteral pode causar dilatação, mas distensão vesical/oligoidrâmnio sugerem obstrução."
+        },
+        {
+          "letter": "C",
+          "text": "Válvula de uretra posterior.",
+          "explanation": "Válvula de uretra posterior pode comprometer bilateralmente o rim e causar DRC."
+        },
+        {
+          "letter": "D",
+          "text": "Hidrocele comunicante.",
+          "explanation": "Hidrocele comunicante não causa obstrução urinária fetal."
+        }
+      ],
+      "page": 5,
+      "id": "provao-m1-m2-2023:m2-q19:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Hidronefrose bilateral, bexiga distendida e oligoidrâmnio em feto masculino sugerem obstrução infravesical por válvula de uretra posterior.",
+      "answer": "C"
+    },
+    {
+      "number": 20,
+      "numberLabel": "M2 · 20",
+      "prompt": "Em relação às opções terapêuticas propostas para cálculo de ureter distal é correto que:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cirurgia laparoscópica é a primeira opção de tratamento.",
+          "explanation": "Laparoscopia é excepcional nesse cenário, não primeira linha."
+        },
+        {
+          "letter": "B",
+          "text": "Litotripsia extracorpórea e ureteroscopia retrógrada têm taxas de sucesso em torno de 80%.",
+          "explanation": "Atribuir 80% fixos a ambos desconsidera tamanho e localização; resultados variam."
+        },
+        {
+          "letter": "C",
+          "text": "Ureteroscopia é superior à litotripsia extracorpórea.",
+          "explanation": "Ureteroscopia oferece maior chance de permanecer sem cálculos após um procedimento."
+        },
+        {
+          "letter": "D",
+          "text": "Cirurgia aberta ainda é a mais empregada.",
+          "explanation": "Cirurgia aberta é hoje raramente utilizada."
+        }
+      ],
+      "page": 5,
+      "id": "provao-m1-m2-2023:m2-q20:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Ureteroscopia tem, em geral, maior taxa de eliminação em uma sessão do que litotripsia extracorpórea para ureter distal, ao custo de ser mais invasiva.",
+      "answer": "C"
+    },
+    {
+      "number": 21,
+      "numberLabel": "M2 · 21",
+      "prompt": "Qual zona da próstata é mais frequentemente acometida pelo câncer da próstata?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zona central.",
+          "explanation": "Zona central representa menor parcela das origens tumorais."
+        },
+        {
+          "letter": "B",
+          "text": "Zona anterior.",
+          "explanation": "Região anterior não é a mais acometida."
+        },
+        {
+          "letter": "C",
+          "text": "Zona periférica.",
+          "explanation": "Zona periférica concentra a maioria dos adenocarcinomas."
+        },
+        {
+          "letter": "D",
+          "text": "Zona de transição.",
+          "explanation": "Zona de transição é particularmente associada à hiperplasia benigna."
+        }
+      ],
+      "page": 6,
+      "id": "provao-m1-m2-2023:m2-q21:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "A zona periférica é a localização mais comum de adenocarcinoma prostático.",
+      "answer": "C"
+    },
+    {
+      "number": 22,
+      "numberLabel": "M2 · 22",
+      "prompt": "Não é correto dizer no conceito de injúria renal aguda:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volume urinário < 0,5 mL/kg/h por 12 horas.",
+          "explanation": "Oligúria por 12 h é compatível com AKI (estágio 2), portanto a frase não é falsa."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento de creatinina ≥ 0,3 mg/dL em (ILEGÍVEL).",
+          "explanation": "A janela temporal da elevação de creatinina está ilegível; pode ser correta ou incorreta."
+        },
+        {
+          "letter": "C",
+          "text": "Aumento da creatinina ≥ 1,5 vezes a basal, a qual é conhecida nos 7 dias anteriores.",
+          "explanation": "Elevação ≥1,5 vez do basal conhecido em 7 dias define AKI."
+        },
+        {
+          "letter": "D",
+          "text": "Aumento da creatinina ≥ 1,5 vezes a basal, a qual é presumida.",
+          "explanation": "Elevação ≥1,5 vez do basal presumidamente ocorrida em 7 dias também é aceita. RESSALVA: Não se pode determinar a alternativa INCORRETA sem conhecer o intervalo temporal da opção B."
+        }
+      ],
+      "page": 6,
+      "id": "provao-m1-m2-2023:m2-q22:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Os critérios KDIGO incluem creatinina ≥0,3 mg/dL em 48 h, ou ≥1,5 vez o basal em até 7 dias, ou oligúria <0,5 mL/kg/h por pelo menos 6 horas.",
+      "answerIssue": "sem_resposta"
+    },
+    {
+      "number": 23,
+      "numberLabel": "M2 · 23",
+      "prompt": "Qual desses pacientes tem menor risco para injúria renal aguda?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Em uso de diurético.",
+          "explanation": "Diuréticos podem facilitar hipovolemia e distúrbios renais."
+        },
+        {
+          "letter": "B",
+          "text": "Idoso.",
+          "explanation": "Idade avançada eleva vulnerabilidade renal."
+        },
+        {
+          "letter": "C",
+          "text": "Diabético.",
+          "explanation": "Diabetes aumenta risco de DRC e episódios de AKI."
+        },
+        {
+          "letter": "D",
+          "text": "Alérgico a penicilina.",
+          "explanation": "Alergia à penicilina não implica, por si, menor reserva renal ou maior risco basal."
+        }
+      ],
+      "page": 6,
+      "id": "provao-m1-m2-2023:m2-q23:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Entre as opções, alergia à penicilina, isoladamente, não é fator clínico de risco estabelecido para injúria renal aguda.",
+      "answer": "D"
+    },
+    {
+      "number": 24,
+      "numberLabel": "M2 · 24",
+      "prompt": "A doença renal policística autossômica dominante tipo 1:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocorre por mutação no gene PKD2.",
+          "explanation": "PKD2 define, em geral, doença autossômica dominante tipo 2."
+        },
+        {
+          "letter": "B",
+          "text": "Ocorre por mutação no cromossomo 4.",
+          "explanation": "PKD1 localiza-se no cromossomo 16, não 4."
+        },
+        {
+          "letter": "C",
+          "text": "Tem o fenótipo pior que o outro tipo.",
+          "explanation": "PKD1 tende a evolução mais grave que PKD2."
+        },
+        {
+          "letter": "D",
+          "text": "Acomete mais mulheres que homens.",
+          "explanation": "Não há predominância feminina que defina PKD1."
+        }
+      ],
+      "page": 6,
+      "id": "provao-m1-m2-2023:m2-q24:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "DRPAD tipo 1 associa-se a mutações em PKD1 (cromossomo 16) e curso em geral mais grave/precocemente progressivo que PKD2.",
+      "answer": "C"
+    },
+    {
+      "number": 25,
+      "numberLabel": "M2 · 25",
+      "prompt": "Na hiponatremia dilucional:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O sódio está baixo por perda de sódio na urina.",
+          "explanation": "Perda renal de sódio caracteriza outros mecanismos de hiponatremia, não simplesmente diluição."
+        },
+        {
+          "letter": "B",
+          "text": "Um exemplo é a doença renal crônica.",
+          "explanation": "DRC avançada pode causar retenção relativa de água e hiponatremia dilucional."
+        },
+        {
+          "letter": "C",
+          "text": "O sódio está baixo por redistribuição da água para o terceiro espaço.",
+          "explanation": "Terceiro espaço causa perda de volume circulante, não é definição do mecanismo dilucional."
+        },
+        {
+          "letter": "D",
+          "text": "O melhor tratamento é o uso de tiazídicos.",
+          "explanation": "Tiazídicos podem provocar ou agravar hiponatremia. RESSALVA: Nem toda DRC cursa com hiponatremia; depende da gravidade e da ingestão de água."
+        }
+      ],
+      "page": 6,
+      "id": "provao-m1-m2-2023:m2-q25:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Hiponatremia dilucional decorre de água em excesso relativamente ao sódio corporal; pode ocorrer em DRC avançada com limitação de excreção de água livre.",
+      "answer": "B"
+    },
+    {
+      "number": 26,
+      "numberLabel": "M2 · 26",
+      "prompt": "Paciente de 35 anos, masculino, ex-tabagista, é internado na UTI em insuficiência respiratória devido a hemorragia pulmonar aguda, injúria renal aguda oligúrica e hipertensão arterial. Iniciado tratamento hemodialítico de urgência, anti-hipertensivos e investigação de causas secundárias para o quadro clínico. Laboratorialmente apresentava EAS com leucocitúria, hematúria e proteinúria com presença de cilindros hemáticos; proteinúria de 24 horas = 0,5 g/24 horas; creatinina sérica = 5,5 mg/dL; ANCAs negativos e anticorpo antimembrana basal reagente. O principal diagnóstico sindrômico e etiológico neste caso são:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Síndrome nefrótica e nefropatia por lesão mínima primária.",
+          "explanation": "Lesões mínimas causam tipicamente proteinúria nefrótica e não síndrome pulmão-rim."
+        },
+        {
+          "letter": "B",
+          "text": "Síndrome nefrótica e nefropatia por IgA.",
+          "explanation": "Nefropatia por IgA não é hipótese principal com anti-MBG positivo e hemorragia pulmonar."
+        },
+        {
+          "letter": "C",
+          "text": "Síndrome nefrítica e síndrome de Goodpasture.",
+          "explanation": "Doença anti-MBG pode combinar hemorragia pulmonar e glomerulonefrite rapidamente progressiva."
+        },
+        {
+          "letter": "D",
+          "text": "Síndrome nefrítica e glomeruloesclerose segmentar e focal.",
+          "explanation": "GESF causa tipicamente síndrome nefrótica, não a associação anti-MBG/hemorragia alveolar."
+        }
+      ],
+      "page": 6,
+      "id": "provao-m1-m2-2023:m2-q26:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Hemorragia alveolar, glomerulonefrite nefrítica com cilindros hemáticos e anticorpos antimembrana basal positivos sustentam doença anti-MBG (síndrome de Goodpasture).",
+      "answer": "C"
+    },
+    {
+      "number": 27,
+      "numberLabel": "M2 · 27",
+      "prompt": "Correlacione as complicações da síndrome nefrótica de acordo com a proteína perdida e assinale a alternativa que apresenta a sequência correta, de cima para baixo: 1 - Perda urinária de albumina. 2 - Perda urinária de imunoglobulinas e fatores do complemento. 3 - Perda urinária de antitrombina III. 4 - Perda urinária da proteína transportadora de vitamina D. ( ) Trombose venosa profunda. ( ) Edema. ( ) Peritonite bacteriana espontânea. ( ) Hiperparatireoidismo.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3-1-2-4.",
+          "explanation": "A sequência 3-1-2-4 relaciona corretamente cada complicação."
+        },
+        {
+          "letter": "B",
+          "text": "2-1-3-4.",
+          "explanation": "2-1-3-4 atribui infecção à trombose e antitrombina à peritonite."
+        },
+        {
+          "letter": "C",
+          "text": "3-1-4-2.",
+          "explanation": "3-1-4-2 inverte os mecanismos da infecção e do metabolismo mineral."
+        },
+        {
+          "letter": "D",
+          "text": "1-3-4-2.",
+          "explanation": "1-3-4-2 atribui edema à antitrombina e trombose à albumina."
+        }
+      ],
+      "page": 7,
+      "id": "provao-m1-m2-2023:m2-q27:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Perda de antitrombina III predispõe à trombose; albumina à formação de edema; imunoglobulinas/complemento a infecção; proteína ligadora de vitamina D a distúrbio mineral.",
+      "answer": "A"
+    },
+    {
+      "number": 28,
+      "numberLabel": "M2 · 28",
+      "prompt": "Criança de oito anos, após diagnóstico de impetigo há 15 dias, dá entrada no pronto-socorro com quadro de dispneia, cansaço, edema, hipertensão arterial, diminuição do volume urinário e coloração avermelhada na urina há 48 horas. A fisiopatologia envolvida no surgimento da hipertensão arterial e edema neste caso são:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento da filtração glomerular com maior reabsorção tubular de água.",
+          "explanation": "A filtração não aumenta; normalmente diminui na fase aguda."
+        },
+        {
+          "letter": "B",
+          "text": "Diminuição da filtração glomerular e hipervolemia.",
+          "explanation": "Redução da TFG com expansão do volume extracelular explica edema/hipertensão."
+        },
+        {
+          "letter": "C",
+          "text": "Necrose tubular aguda secundária ao quadro infeccioso e oligúria.",
+          "explanation": "Não é primariamente necrose tubular aguda."
+        },
+        {
+          "letter": "D",
+          "text": "Aumento da permeabilidade da membrana basal glomerular e hipovolemia.",
+          "explanation": "O mecanismo predominante não é hipovolemia decorrente de permeabilidade aumentada."
+        }
+      ],
+      "page": 7,
+      "id": "provao-m1-m2-2023:m2-q28:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Glomerulonefrite pós-infecciosa reduz filtração glomerular, promovendo retenção de sódio e água, hipertensão e edema.",
+      "answer": "B"
+    },
+    {
+      "number": 29,
+      "numberLabel": "M2 · 29",
+      "prompt": "Paciente com obesidade mórbida evolui com quadro clínico e laboratorial compatível com síndrome nefrótica e foi submetida à biópsia renal que mostrou alguns glomérulos alterados, com lesões segmentares de esclerose e colapso de alças capilares. Baseado neste laudo de biópsia renal pode-se dizer que se trata de:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doença por lesões mínimas.",
+          "explanation": "Lesões mínimas têm glomérulos relativamente normais à óptica e alteração podocitária à eletrônica."
+        },
+        {
+          "letter": "B",
+          "text": "Glomerulonefrite membranoproliferativa.",
+          "explanation": "Membranoproliferativa envolve padrão de proliferação/duplicação da membrana basal."
+        },
+        {
+          "letter": "C",
+          "text": "Glomerulonefrite membranosa.",
+          "explanation": "Membranosa apresenta espessamento de parede capilar e depósitos subepiteliais."
+        },
+        {
+          "letter": "D",
+          "text": "Glomeruloesclerose segmentar e focal.",
+          "explanation": "Lesão focal e segmentar esclerótica é a definição de GESF."
+        }
+      ],
+      "page": 7,
+      "id": "provao-m1-m2-2023:m2-q29:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Esclerose de parte de alguns glomérulos define histologicamente glomeruloesclerose segmentar e focal, que pode ser associada à obesidade.",
+      "answer": "D"
+    },
+    {
+      "number": 30,
+      "numberLabel": "M2 · 30",
+      "prompt": "Assinale a alternativa CORRETA:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A correção intempestiva de uma hiponatremia crônica pode levar a edema cerebral.",
+          "explanation": "Correção rápida de hiponatremia crônica pode ocasionar desmielinização osmótica, não edema cerebral."
+        },
+        {
+          "letter": "B",
+          "text": "Hipernatremia importante é menos frequente se o paciente tem o mecanismo da sede intacto e livre acesso à água.",
+          "explanation": "A sede e o livre acesso à água costumam proteger de hipernatremia grave."
+        },
+        {
+          "letter": "C",
+          "text": "A mielinólise pontina é a lesão neurológica causada pela correção rápida da hipernatremia.",
+          "explanation": "Mielinólise pontina associa-se classicamente à correção excessivamente rápida da hiponatremia crônica."
+        },
+        {
+          "letter": "D",
+          "text": "O diabetes insipidus é uma causa comum de hiponatremia.",
+          "explanation": "Diabetes insipidus cursa com perda de água livre e tendência à hipernatremia."
+        }
+      ],
+      "page": 7,
+      "id": "provao-m1-m2-2023:m2-q30:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Hipernatremia importante é incomum com sede preservada e disponibilidade adequada de água.",
+      "answer": "B"
+    },
+    {
+      "number": 31,
+      "numberLabel": "M2 · 31",
+      "prompt": "Qual dessas é a principal causa de injúria renal aguda?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nefrite túbulo-intersticial.",
+          "explanation": "Nefrite intersticial é etiologia menos frequente."
+        },
+        {
+          "letter": "B",
+          "text": "Necrose cortical aguda.",
+          "explanation": "Necrose cortical aguda é rara."
+        },
+        {
+          "letter": "C",
+          "text": "Necrose tubular aguda.",
+          "explanation": "Necrose tubular aguda predomina entre as causas de lesão renal intrínseca."
+        },
+        {
+          "letter": "D",
+          "text": "Glomerulonefrite rapidamente progressiva.",
+          "explanation": "Glomerulonefrite rapidamente progressiva é causa bem menos frequente de AKI. RESSALVA: O enunciado deveria especificar \"causa renal intrínseca\"."
+        }
+      ],
+      "page": 8,
+      "id": "provao-m1-m2-2023:m2-q31:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "A causa mais frequente de AKI em geral é pré-renal; entre as lesões renais intrínsecas apresentadas, necrose/lesão tubular aguda é a mais comum.",
+      "answer": "C"
+    },
+    {
+      "number": 32,
+      "numberLabel": "M2 · 32",
+      "prompt": "Em qual dessas causas de doença renal crônica o rim permanece geralmente de tamanho normal?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Glomerulonefrite crônica.",
+          "explanation": "Glomerulonefrite crônica frequentemente determina rins pequenos e retraídos."
+        },
+        {
+          "letter": "B",
+          "text": "Nefroesclerose hipertensiva benigna.",
+          "explanation": "Nefroesclerose hipertensiva costuma reduzir volume renal."
+        },
+        {
+          "letter": "C",
+          "text": "Diabetes mellitus.",
+          "explanation": "Nefropatia diabética pode manter rins de dimensões normais/aumentadas."
+        },
+        {
+          "letter": "D",
+          "text": "Pielonefrite crônica.",
+          "explanation": "Pielonefrite crônica produz retrações cicatriciais e assimetria renal."
+        }
+      ],
+      "page": 8,
+      "id": "provao-m1-m2-2023:m2-q32:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Rins de tamanho normal ou aumentados podem ocorrer em DRC por diabetes, especialmente antes de estágios muito avançados.",
+      "answer": "C"
+    },
+    {
+      "number": 33,
+      "numberLabel": "M2 · 33",
+      "prompt": "Quanto à GNDA pós-estreptocócica é correto afirmar:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "É mais frequente em crianças abaixo de 2 anos de idade.",
+          "explanation": "Acomete principalmente crianças escolares, não menores de dois anos."
+        },
+        {
+          "letter": "B",
+          "text": "Tem indicação absoluta de hospitalização para melhor manejo da fase aguda.",
+          "explanation": "Internação depende de gravidade, não é obrigatória em todos os casos."
+        },
+        {
+          "letter": "C",
+          "text": "Cursa com hematúria microscópica isomórfica.",
+          "explanation": "Hematúria glomerular costuma conter hemácias dismórficas e, às vezes, cilindros hemáticos."
+        },
+        {
+          "letter": "D",
+          "text": "O tratamento de escolha para o edema e hipertensão é a restrição hidrossalina e diuréticos.",
+          "explanation": "Restrição hidrossalina e diurese dirigida ao excesso de volume controlam edema/pressão."
+        }
+      ],
+      "page": 8,
+      "id": "provao-m1-m2-2023:m2-q33:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "O tratamento de edema e hipertensão da glomerulonefrite pós-estreptocócica inclui restrição de sódio e líquidos conforme estado volêmico e diurético de alça quando necessário.",
+      "answer": "D"
+    },
+    {
+      "number": 1,
+      "numberLabel": "M1 · 1",
+      "prompt": "JCA, 47 anos, sexo feminino, procura o médico com queixas de dor difusa em todo o corpo, sono não reparador, labilidade emocional, fadiga intensa, além de déficit de memória e concentração. Negava outras queixas. Comorbidades: síndrome do intestino irritável e enxaqueca. Exame físico: sem sinais de artrite, com dor à palpação em toda a musculatura dos MMSS, MMII e em toda a região dorsal. Exames complementares: hemograma e TSH normais, provas de atividade inflamatória (VHS e PCR) normais e fator reumatoide negativo. Considerando a principal hipótese diagnóstica, assinale o tratamento medicamentoso mais adequado:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prednisona 20 mg/dia.",
+          "explanation": "Prednisona não trata o mecanismo central de sensibilização e traz efeitos adversos."
+        },
+        {
+          "letter": "B",
+          "text": "Hidroxicloroquina 400 mg/dia.",
+          "explanation": "Hidroxicloroquina destina-se a algumas doenças autoimunes, não à fibromialgia isolada."
+        },
+        {
+          "letter": "C",
+          "text": "Metotrexato 15 mg/semana.",
+          "explanation": "Metotrexato não é indicado sem artrite inflamatória."
+        },
+        {
+          "letter": "D",
+          "text": "Pregabalina 75 mg/dia.",
+          "explanation": "Pregabalina pode aliviar dor e distúrbios do sono em alguns pacientes. RESSALVA: Exercício graduado, educação e abordagem do sono são centrais; não se presume que fármaco isolado seja primeira escolha universal."
+        }
+      ],
+      "page": 9,
+      "id": "provao-m1-m2-2023:m1-q1:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Dor difusa crônica, fadiga, sono não reparador, queixas cognitivas e exames não inflamatórios sugerem fibromialgia; manejo é multimodal.",
+      "answer": "D"
+    },
+    {
+      "number": 2,
+      "numberLabel": "M1 · 2",
+      "prompt": "VSB, 67 anos, sexo feminino, procura o médico na unidade básica de saúde, assintomática, para mostrar seu exame de densitometria óssea, que descrevia os seguintes achados: coluna lombar (L1-L4) T-score = -2,1; fêmur total T-score = -2,3; colo do fêmur T-score = -1,9. Assinale o diagnóstico correto da paciente:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Osteoporose em coluna e fêmur total, osteopenia em colo do fêmur.",
+          "explanation": "Valores de -2,1 e -2,3 não alcançam limiar densitométrico de osteoporose."
+        },
+        {
+          "letter": "B",
+          "text": "Osteoporose em todas as regiões.",
+          "explanation": "Nenhum dos sítios possui T-score ≤-2,5."
+        },
+        {
+          "letter": "C",
+          "text": "Osteopenia em todas as regiões.",
+          "explanation": "Todos os três sítios estão entre -1,0 e -2,5."
+        },
+        {
+          "letter": "D",
+          "text": "Osteopenia em coluna e fêmur total, osteoporose em colo do fêmur.",
+          "explanation": "Colo femoral -1,9 indica osteopenia, não osteoporose."
+        }
+      ],
+      "page": 9,
+      "id": "provao-m1-m2-2023:m1-q2:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "T-scores entre -1,0 e -2,5 caracterizam baixa massa óssea (osteopenia), na ausência de fratura por fragilidade que por si altere o diagnóstico.",
+      "answer": "C"
+    },
+    {
+      "number": 3,
+      "numberLabel": "M1 · 3",
+      "prompt": "NAS, 49 anos, sexo masculino, procura o pronto-socorro para tratamento de entorse de tornozelo ocorrida durante prática esportiva. Comorbidades: tratamento de úlcera péptica há cerca de dois anos. Considerando os antecedentes do paciente, assinale o AINE mais adequado para o seu tratamento:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nimesulida.",
+          "explanation": "Nimesulida não oferece segurança gastrointestinal preferencial e tem questões de hepatotoxicidade."
+        },
+        {
+          "letter": "B",
+          "text": "Etoricoxibe.",
+          "explanation": "Etoricoxibe reduz toxicidade gastrointestinal relativa, mas exige ponderar risco cardiovascular/renal."
+        },
+        {
+          "letter": "C",
+          "text": "Ibuprofeno.",
+          "explanation": "Ibuprofeno é não seletivo e pode precipitar recidiva de úlcera."
+        },
+        {
+          "letter": "D",
+          "text": "Meloxicam.",
+          "explanation": "Meloxicam é preferencial por COX-2 em certas doses, mas menos seletivo que etoricoxibe. RESSALVA: Após entorse, priorizar medidas não farmacológicas e considerar analgesia tópica; se AINE oral indispensável, menor dose e menor tempo, com avaliação de gastroproteção."
+        }
+      ],
+      "page": 9,
+      "id": "provao-m1-m2-2023:m1-q3:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Etoricoxibe é um inibidor relativamente seletivo de COX-2, associado a menor risco de úlcera gastroduodenal em comparação com AINEs não seletivos.",
+      "answer": "B"
+    },
+    {
+      "number": 4,
+      "numberLabel": "M1 · 4",
+      "prompt": "Em pacientes gestantes, com lúpus eritematoso sistêmico, em vigência de quadro confirmado de lúpus neonatal com bradicardia fetal importante, com anti-Ro no sangue materno positivo em altos títulos, é necessário o uso de um corticosteroide capaz de atravessar a barreira placentária em altas concentrações. Neste caso, deve-se dar preferência a:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dexametasona.",
+          "explanation": "Dexametasona é fluorada e alcança circulação fetal, compatível com a premissa farmacológica."
+        },
+        {
+          "letter": "B",
+          "text": "Prednisolona.",
+          "explanation": "Prednisolona sofre inativação placentária importante."
+        },
+        {
+          "letter": "C",
+          "text": "Prednisona.",
+          "explanation": "Prednisona também é bastante metabolizada antes de alcançar o feto."
+        },
+        {
+          "letter": "D",
+          "text": "Pulsoterapia com metilprednisolona.",
+          "explanation": "Metilprednisolona geralmente tem menor exposição fetal, não sendo a escolha para efeito direto sobre o feto. RESSALVA: A administração não é automática: diretriz ACR recomenda condicionalmente dexametasona para bloqueio AV fetal de 1º/2º grau, mas recomenda não utilizá-la em bloqueio completo isolado."
+        }
+      ],
+      "page": 9,
+      "id": "provao-m1-m2-2023:m1-q4:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Dexametasona atravessa a placenta em concentrações relevantes; prednisona/prednisolona são em grande parte metabolizadas placentariamente.",
+      "answer": "A"
+    },
+    {
+      "number": 5,
+      "numberLabel": "M1 · 5",
+      "prompt": "Mulher de 70 anos queixa-se de dor no ombro direito, de intensidade moderada, acompanhada de diminuição da amplitude dos movimentos e diminuição da força no membro, de início há seis meses e piora progressiva. Traz a seguinte radiografia: (INCOMPLETO) — As alternativas da questão não aparecem na fotografia.",
+      "type": "discursive",
+      "options": [],
+      "page": 10,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Dor crônica no ombro e limitação funcional exigem correlação de radiografia com exame físico e, quando necessário, US/RM; a imagem isolada não fixa uma única conduta. RESSALVA: A radiografia da página 10 foi integralmente preservada. Como não há alternativas, não se inventou diagnóstico nem letra.",
+      "id": "provao-m1-m2-2023:m1-q5:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Não é possível indicar uma letra: as alternativas não constam do material original.",
+      "images": [
+        "imagens/provao-m1-m2-2023/p10-img1.png"
+      ],
+      "answerIssue": "sem_resposta"
+    },
+    {
+      "number": 13,
+      "numberLabel": "M1 · 13",
+      "prompt": "Na displasia do desenvolvimento do quadril, podemos dizer que:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "É mais comum no sexo masculino.",
+          "explanation": "Acomete mais meninas do que meninos."
+        },
+        {
+          "letter": "B",
+          "text": "É mais comum em casos de gestação com apresentação cefálica.",
+          "explanation": "A apresentação cefálica é a usual e não representa o fator de risco descrito."
+        },
+        {
+          "letter": "C",
+          "text": "É mais comum em casos de gestação com apresentação córmica.",
+          "explanation": "A apresentação córmica não é o fator classicamente associado."
+        },
+        {
+          "letter": "D",
+          "text": "É mais comum em casos de gestação com apresentação pélvica.",
+          "explanation": "A posição pélvica aumenta o risco de instabilidade/displasia do quadril."
+        }
+      ],
+      "page": 10,
+      "id": "provao-m1-m2-2023:m1-q13:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Apresentação pélvica é fator de risco reconhecido para displasia do desenvolvimento do quadril.",
+      "answer": "D"
+    },
+    {
+      "number": 14,
+      "numberLabel": "M1 · 14",
+      "prompt": "Um adulto tem uma queimadura em casa enquanto cozinhava. Chega ao hospital com a lesão na mão e antebraço com as seguintes características: indolor, de aspecto nacarado e sem bolhas. Esta queimadura é classificada quanto à profundidade em:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Queimadura de primeiro grau.",
+          "explanation": "Primeiro grau é superficial e doloroso, sem necrose profunda."
+        },
+        {
+          "letter": "B",
+          "text": "Queimadura de segundo grau superficial.",
+          "explanation": "Segundo grau superficial forma bolhas, é úmido e muito doloroso."
+        },
+        {
+          "letter": "C",
+          "text": "Queimadura de segundo grau profunda.",
+          "explanation": "Segundo grau profundo pode ser pálido e pouco doloroso, mas perda completa da sensibilidade e aspecto nacarado seco favorecem espessura total."
+        },
+        {
+          "letter": "D",
+          "text": "Queimadura de terceiro grau.",
+          "explanation": "Terceiro grau destrói terminações sensitivas, sendo frequentemente indolor."
+        }
+      ],
+      "page": 10,
+      "id": "provao-m1-m2-2023:m1-q14:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Queimadura indolor, seca, esbranquiçada/nacarada e sem bolhas é compatível com lesão de espessura total (terceiro grau).",
+      "answer": "D"
+    },
+    {
+      "number": 15,
+      "numberLabel": "M1 · 15",
+      "prompt": "Uma mulher de 75 anos, portadora de hemiplegia direita pós-AVC, foi reabilitada por equipe multiprofissional por 1 ano, tendo evoluído de uma condição de dependência total em todas as atividades para uma condição de independência para autocuidados e dependência parcial para marcha e transferências. Após a alta deste Centro de Reabilitação, procurou outro serviço de reabilitação com objetivo de obter maior destreza para atividades bimanuais, pois decidiu dedicar-se aos trabalhos artesanais para obter seu sustento. Assinale a alternativa correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O programa de reabilitação não atingiu seu objetivo.",
+          "explanation": "Houve melhora funcional importante; não se pode afirmar fracasso do programa."
+        },
+        {
+          "letter": "B",
+          "text": "Os autocuidados são o principal objetivo do programa de reabilitação.",
+          "explanation": "Autocuidados são importantes, mas não únicos nem necessariamente objetivo final."
+        },
+        {
+          "letter": "C",
+          "text": "Como a paciente é hemiplégica, ela não vai conseguir destreza para atividades bimanuais, por isso necessita, na verdade, de uma abordagem psicológica para trabalhar o limite de seus ganhos funcionais.",
+          "explanation": "Não se pode concluir impossibilidade de atividades bimanuais só por hemiplegia preexistente."
+        },
+        {
+          "letter": "D",
+          "text": "A mudança de objetivos do paciente durante o programa de reabilitação é frequente, e a equipe deve estar atenta para isso, para não frustrar as expectativas do paciente.",
+          "explanation": "Objetivos mudam ao longo da recuperação e devem ser redefinidos com a equipe e a pessoa."
+        }
+      ],
+      "page": 11,
+      "id": "provao-m1-m2-2023:m1-q15:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Metas da reabilitação devem acompanhar objetivos relevantes para autonomia e participação social do paciente.",
+      "answer": "D"
+    },
+    {
+      "number": 16,
+      "numberLabel": "M1 · 16",
+      "prompt": "As úlceras por pressão podem se desenvolver em pacientes acamados, com pouca mobilidade e/ou paraplégicos e tetraplégicos. Em todos eles, o fator mais importante na formação dessas úlceras é a:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pressão direta.",
+          "explanation": "Pressão direta e cisalhamento levam à lesão isquêmica/deformação tecidual."
+        },
+        {
+          "letter": "B",
+          "text": "Anemia.",
+          "explanation": "Anemia pode predispor, mas não é o agente mecânico fundamental."
+        },
+        {
+          "letter": "C",
+          "text": "Hipoproteinemia.",
+          "explanation": "Hipoproteinemia agrava vulnerabilidade, mas não define a causa básica."
+        },
+        {
+          "letter": "D",
+          "text": "Insensibilidade na área envolvida.",
+          "explanation": "Insensibilidade facilita exposição prolongada, mas não é indispensável nem mecanismo primário."
+        }
+      ],
+      "page": 11,
+      "id": "provao-m1-m2-2023:m1-q16:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Pressão sustentada sobre proeminências ósseas, especialmente combinada a cisalhamento, é o mecanismo central da lesão por pressão.",
+      "answer": "A"
+    },
+    {
+      "number": 17,
+      "numberLabel": "M1 · 17",
+      "prompt": "Na fratura de diáfise de úmero a lesão neurológica mais comum é do nervo:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ulnar.",
+          "explanation": "O nervo ulnar está mais exposto junto ao epicôndilo medial."
+        },
+        {
+          "letter": "B",
+          "text": "Radial.",
+          "explanation": "Nervo radial é a associação anatômica clássica da diáfise umeral."
+        },
+        {
+          "letter": "C",
+          "text": "Mediano.",
+          "explanation": "Nervo mediano é menos frequentemente afetado nessa fratura."
+        },
+        {
+          "letter": "D",
+          "text": "Musculocutâneo.",
+          "explanation": "Nervo musculocutâneo não é a principal lesão neurológica associada."
+        }
+      ],
+      "page": 11,
+      "id": "provao-m1-m2-2023:m1-q17:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "O nervo radial acompanha o sulco do úmero e é particularmente vulnerável em fraturas diafisárias.",
+      "answer": "B"
+    },
+    {
+      "number": 18,
+      "numberLabel": "M1 · 18",
+      "prompt": "Em relação às infecções osteoarticulares, marque a correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Podem ser divididas em aguda, crônica e crônica agudizada.",
+          "explanation": "Classificação temporal pode ser usada, mas não é a alternativa que melhor descreve a apresentação epidemiológica clássica."
+        },
+        {
+          "letter": "B",
+          "text": "O germe mais comum é o Streptococcus do tipo B, mas a incidência de cada germe varia muito de acordo com a idade do indivíduo (Salmonella na anemia falciforme, Gram negativo no RN, Pseudomonas nos usuários de drogas EV).",
+          "explanation": "O principal agente é Staphylococcus aureus, não Streptococcus do grupo B em todas as idades."
+        },
+        {
+          "letter": "C",
+          "text": "A mais comum é a osteomielite aguda hematogênica, que acomete mais crianças, e ocorre normalmente a implantação da bactéria na região metafisária do osso na região de circulação sinusoidal (fluxo lento).",
+          "explanation": "A metáfise dos ossos longos é local típico de semeadura hematogênica em crianças."
+        },
+        {
+          "letter": "D",
+          "text": "A osteomielite crônica se caracteriza pela presença do sequestro ósseo (osso morto), e normalmente é tratada com antibioticoterapia endovenosa.",
+          "explanation": "O sequestro ósseo caracteriza cronicidade, mas tratamento habitualmente exige desbridamento quando há osso necrótico, além de antibiótico. RESSALVA: A opção A descreve uma classificação possível, tornando a pergunta menos precisa; C é a mais específica."
+        }
+      ],
+      "page": 11,
+      "id": "provao-m1-m2-2023:m1-q18:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "A osteomielite hematogênica aguda é comum na infância e costuma iniciar-se na metáfise, rica em fluxo sinusoidal relativamente lento.",
+      "answer": "C"
+    },
+    {
+      "number": 19,
+      "numberLabel": "M1 · 19",
+      "prompt": "Paciente sexo feminino, 42 anos, sedentária, vem apresentando lombalgia há 3 meses. A dor piora à movimentação, não tem irradiação. Nega alterações esfincterianas, perda de peso, febre ou déficit de força. A conduta médica inicial deve ser:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solicitar ressonância de coluna lombar, por ter essa queixa de forma persistente e crônica.",
+          "explanation": "RM não é automaticamente necessária sem sinais de alerta; considerar depois conforme evolução."
+        },
+        {
+          "letter": "B",
+          "text": "Encaminhar à reabilitação para melhora da flexibilidade muscular, fortalecimento muscular e orientações ergonômicas.",
+          "explanation": "Fortalecimento, exercício, mobilidade e educação são apropriados."
+        },
+        {
+          "letter": "C",
+          "text": "Prescrever anti-inflamatório associado a miorrelaxante por 6 semanas.",
+          "explanation": "AINEs e relaxantes por seis semanas sem reavaliação não são primeira medida preferível."
+        },
+        {
+          "letter": "D",
+          "text": "Provavelmente se trata de hérnia discal, pela característica da dor.",
+          "explanation": "Hérnia discal não é diagnosticada só por lombalgia sem irradiação."
+        }
+      ],
+      "page": 11,
+      "id": "provao-m1-m2-2023:m1-q19:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Lombalgia mecânica sem sinais de alerta ou déficits neurológicos deve iniciar com reabilitação, manutenção de atividade e orientações.",
+      "answer": "B"
+    },
+    {
+      "number": 20,
+      "numberLabel": "M1 · 20",
+      "prompt": "São características de uma estabilidade absoluta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Redução anatômica, consolidação secundária, usada em fraturas diafisárias, expõe o foco de fratura.",
+          "explanation": "Consolidação secundária com calo exuberante corresponde a estabilidade relativa."
+        },
+        {
+          "letter": "B",
+          "text": "Não expõe o foco de fratura, consolidação primária, usada em fraturas articulares, calo ósseo exuberante.",
+          "explanation": "Sem exposição e com calo exuberante descreve em geral estabilidade relativa, não absoluta."
+        },
+        {
+          "letter": "C",
+          "text": "Redução anatômica, consolidação primária, usada em fraturas articulares e expõe o foco de fratura.",
+          "explanation": "Redução anatômica e consolidação primária definem estratégia de estabilidade absoluta."
+        },
+        {
+          "letter": "D",
+          "text": "Não expõe o foco de fratura, consolidação secundária, usada em fraturas diafisárias, calo ósseo exuberante.",
+          "explanation": "Consolidação secundária/calo exuberante descrevem estabilidade relativa. RESSALVA: Estabilidade absoluta pode ocorrer por técnicas que não exigem exposição direta de todo foco; esse trecho de C não é definição universal."
+        }
+      ],
+      "page": 12,
+      "id": "provao-m1-m2-2023:m1-q20:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Estabilidade absoluta visa eliminar micromovimentos no foco e promove consolidação direta/primária, especialmente em fraturas articulares com redução anatômica.",
+      "answer": "C"
+    },
+    {
+      "number": 21,
+      "numberLabel": "M1 · 21",
+      "prompt": "Os sintomas de um paciente em tratamento paliativo devem ser avaliados periodicamente e registrados de forma acessível para todos os integrantes da equipe. A Escala de Avaliação de Sintomas de Edmonton (ESAS) usualmente é utilizada para avaliar vários sintomas, sendo acessível para toda a equipe. Nesta escala o sintoma é avaliado:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Em uma escala de 6 pontos, sendo 0 a ausência de sintoma e 5 pontos para a maior intensidade.",
+          "explanation": "A escala padrão não vai de 0 a 5."
+        },
+        {
+          "letter": "B",
+          "text": "Em uma escala de 10 pontos, sendo 0 a menor intensidade e 10 para a maior.",
+          "explanation": "Corresponde ao intervalo numérico usual de 0 (ausente) a 10 (pior intensidade)."
+        },
+        {
+          "letter": "C",
+          "text": "Através de uma classificação qualitativa de sintoma ausente, leve, moderado, intenso e muito intenso.",
+          "explanation": "Categorias exclusivamente qualitativas não são o formato do ESAS."
+        },
+        {
+          "letter": "D",
+          "text": "Através de 5 representações de faces, sendo a sorridente para a ausência de sintoma e a chorando para a maior intensidade.",
+          "explanation": "Escala de faces não é a ferramenta-padrão descrita. RESSALVA: A expressão \"escala de 10 pontos\" é imprecisa: de 0 a 10 há 11 valores."
+        }
+      ],
+      "page": 12,
+      "id": "provao-m1-m2-2023:m1-q21:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "A Escala de Edmonton usa pontuação numérica de 0 a 10 para cada sintoma (11 valores possíveis).",
+      "answer": "B"
+    },
+    {
+      "number": 22,
+      "numberLabel": "M1 · 22",
+      "prompt": "A esposa relata que o marido de 82 anos, advogado aposentado, vem apresentando, há dois anos, distúrbio de atenção e alucinações visuais bem detalhadas, episódios de esquecimento, especialmente para informações recentes, chegando a se perder em trajeto usual. Simultaneamente, ela notou que apresenta dificuldades para deambular com lentidão de marcha e quedas frequentes. Ao exame físico, observa-se bradicinesia, tremores de extremidades e rigidez muscular. Timed Get Up and Go Test (TGUG): 27 segundos; Barthel: 75 pontos; Pfeffer: 28 pontos; Mini Exame do Estado Mental: 24 pontos; Escala de Depressão Geriátrica: 8 pontos. Qual é o diagnóstico mais provável?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demência por corpúsculos de Lewy.",
+          "explanation": "O conjunto de sinais nucleares é típico de demência com corpos de Lewy."
+        },
+        {
+          "letter": "B",
+          "text": "Demência na doença de Parkinson.",
+          "explanation": "Demência da doença de Parkinson costuma surgir após parkinsonismo estabelecido por mais de um ano."
+        },
+        {
+          "letter": "C",
+          "text": "Demência frontotemporal.",
+          "explanation": "Demência frontotemporal é mais marcada por mudança comportamental/linguagem."
+        },
+        {
+          "letter": "D",
+          "text": "Demência vascular.",
+          "explanation": "Demência vascular dependeria de história/achados cerebrovasculares e padrão compatível."
+        }
+      ],
+      "page": 12,
+      "id": "provao-m1-m2-2023:m1-q22:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Alucinações visuais formadas, flutuação cognitiva e parkinsonismo de início próximo caracterizam demência com corpos de Lewy.",
+      "answer": "A"
+    },
+    {
+      "number": 23,
+      "numberLabel": "M1 · 23",
+      "prompt": "Mulher, de 72 anos, procura atendimento médico em pronto-socorro com queixa de dor intensa há 2 semanas, em tórax anterior direito, além de dispneia. Refere que recebeu diagnóstico de câncer de pulmão há 6 meses e está em seguimento pelos cuidados paliativos. Está fazendo uso de paracetamol sem controle da dor. Nega febre. Ao exame físico e radiológico foi descartado derrame pleural ou atelectasia, verificando-se grande massa tumoral em pulmão direito. A paciente está em regular estado geral, com frequência respiratória de 28 i.p.m., saturação de O2 de 95%, dor atual de intensidade 8 em 10. Qual seria a melhor opção para controle de sintomas neste momento?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tramadol.",
+          "explanation": "Tramadol é menos apropriado para dor intensa persistente quando opioide forte é necessário."
+        },
+        {
+          "letter": "B",
+          "text": "AINE.",
+          "explanation": "AINE isolado não costuma controlar dor tumoral intensa e possui riscos."
+        },
+        {
+          "letter": "C",
+          "text": "Morfina.",
+          "explanation": "Morfina é opção-padrão, com dose titulada à resposta e avaliação de dispneia."
+        },
+        {
+          "letter": "D",
+          "text": "Dipirona.",
+          "explanation": "Dipirona isolada é insuficiente para intensidade relatada."
+        }
+      ],
+      "page": 12,
+      "id": "provao-m1-m2-2023:m1-q23:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Dor oncológica intensa (8/10) não controlada por paracetamol exige analgesia com opioide forte, com acompanhamento e titulação individualizada.",
+      "answer": "C"
+    },
+    {
+      "number": 24,
+      "numberLabel": "M1 · 24",
+      "prompt": "Um homem de 92 anos de idade, funcionalmente independente e com cognição preservada, foi admitido numa unidade de terapia intensiva em decorrência de queda do estado geral e piora do padrão respiratório, tendo sido firmado o diagnóstico de broncopneumonia. Instituído o tratamento com antimicrobiano, cursou com significativa melhora clínica. Entretanto, no terceiro dia de internação, apresentou mudança súbita de seu estado de consciência, com flutuação entre vigília e pronunciado rebaixamento. Além disso, verificou-se desatenção persistente. Qual é o provável diagnóstico?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acidente vascular encefálico.",
+          "explanation": "AVC pode alterar consciência, mas flutuação e desatenção no contexto clínico sustentam delirium."
+        },
+        {
+          "letter": "B",
+          "text": "Síndrome demencial.",
+          "explanation": "Demência tende a instalar-se cronicamente, não subitamente em horas/dias."
+        },
+        {
+          "letter": "C",
+          "text": "Coma por sepse.",
+          "explanation": "Coma implica rebaixamento sustentado profundo, não alternância flutuante descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Delirium.",
+          "explanation": "Delirium reúne início agudo, curso oscilante e comprometimento de atenção/consciência."
+        }
+      ],
+      "page": 13,
+      "id": "provao-m1-m2-2023:m1-q24:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Desatenção, alteração aguda e flutuante da consciência durante internação são altamente sugestivas de delirium.",
+      "answer": "D"
+    },
+    {
+      "number": 25,
+      "numberLabel": "M1 · 25",
+      "prompt": "Pessoas famosas também podem necessitar de usar dispositivos auxiliares de marcha (DAM). Entretanto, eles também podem usá-los de forma inadequada, aumentando o risco de lesões e até mesmo de quedas. Nas imagens abaixo, quatro figuras públicas estão usando bengalas: Sua Santidade o Papa Francisco (a), Sua Majestade a Rainha Elizabeth II (b), o ator Marco Nanini (c) e o primeiro-ministro inglês Sir Winston Churchill (d). Marque a alternativa em que o famoso está usando corretamente a bengala. As opções A, B, C e D correspondem às imagens identificadas na figura.",
+      "type": "discursive",
+      "options": [],
+      "page": 13,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. A escolha do lado correto requer saber qual membro inferior está fraco/doloroso; a bengala costuma ficar contralateral ao membro acometido, com altura e sequência adequadas.",
+      "id": "provao-m1-m2-2023:m1-q25:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answerIssue": "sem_resposta",
+      "modelAnswer": "Indeterminável com segurança apenas pelas imagens preservadas; consultar a ressalva do gabarito.",
+      "images": [
+        "imagens/provao-m1-m2-2023/p14-img1.png"
+      ]
+    },
+    {
+      "number": 26,
+      "numberLabel": "M1 · 26",
+      "prompt": "Mulher, de 82 anos de idade, diabética, hipertensa, portadora de osteoartrite de joelhos, retinopatia diabética com baixa visão e polineuropatia. Estava em avaliação devido à perda de 6% do peso corporal nos últimos 6 meses com perda da força e consequente dificuldade de subir escadas e carregar uma sacola de 5 kg. Foi admitida no pronto-socorro após queda no quintal de casa, apresentando escala de coma de Glasgow 15 e sinais vitais estáveis. Ela foi encontrada desacordada, com ferimento corto-contuso na face, e retomou a consciência dentro da ambulância. Recentemente, havia fraturado o punho também em razão de uma queda. Fazia uso de omeprazol, metformina, hidroclorotiazida, enalapril, alprazolam e diclofenaco, este último em função da osteoartrite. Durante o atendimento, foi constatada uma fratura intertrocantérica do quadril esquerdo. Marque a alternativa que contenha os principais riscos para as quedas dessa paciente:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Baixa visão, polineuropatia, uso de omeprazol, osteoporose, osteoartrite e hipertensão.",
+          "explanation": "Osteoporose relaciona-se mais diretamente à fratura; omeprazol/hipertensão são menos explicativos das quedas que sedativos e neuropatia."
+        },
+        {
+          "letter": "B",
+          "text": "Osteoporose, hipertensão, baixa visão, uso de dois anti-hipertensivos e de metformina.",
+          "explanation": "Metformina não explica diretamente o risco principal e omite benzodiazepínico/neuropatia."
+        },
+        {
+          "letter": "C",
+          "text": "Andar no quintal, osteoartrite, polineuropatia, uso de diclofenaco, hidroclorotiazida e de alprazolam.",
+          "explanation": "Andar no quintal não é fator clínico central; a alternativa desconsidera baixa visão e sarcopenia."
+        },
+        {
+          "letter": "D",
+          "text": "Baixa visão, polineuropatia, perda de peso e possível sarcopenia, polifarmácia e uso de alprazolam.",
+          "explanation": "Reúne fatores sensoriais, neuromusculares e farmacológicos relevantes."
+        }
+      ],
+      "page": 14,
+      "id": "provao-m1-m2-2023:m1-q26:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Riscos consistentes incluem retinopatia/baixa visão, neuropatia, perda ponderal e provável fragilidade muscular, polifarmácia e benzodiazepínico.",
+      "answer": "D"
+    },
+    {
+      "number": 27,
+      "numberLabel": "M1 · 27",
+      "prompt": "Um paciente de 77 anos de idade compareceu à consulta com sua filha, que relatou que seu pai apresentou episódios de esquecimento e desorientação temporal. Referiu, também, que ele não conseguia mais realizar atividades como controlar as finanças, dirigir e sair de casa sozinho. Relatou que o quadro iniciou há cerca de 18 meses e piorou progressivamente. O paciente não apresentava dificuldades motoras e tinha a visão e a audição adequadas. Mantinha-se capaz de realizar as atividades básicas de vida diária, como ir ao banheiro e alimentar-se sem ajuda. Ele era militar aposentado, com ensino médio, fazia uso de losartana 50 mg. A filha trouxe um exame recente de tomografia de crânio com laudo dentro da normalidade. Qual é o próximo passo?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solicitar exames laboratoriais, eletroencefalograma e ressonância magnética do crânio.",
+          "explanation": "EEG não é exame de rotina e RM não substitui avaliação cognitiva inicial."
+        },
+        {
+          "letter": "B",
+          "text": "Solicitar exame do líquor para dosagem de beta-amiloide e proteína Tau e PET-CT neurológico.",
+          "explanation": "Biomarcadores invasivos/PET não são primeira etapa universal."
+        },
+        {
+          "letter": "C",
+          "text": "Aplicar testes e escalas para avaliação cognitiva e funcional e solicitar exames laboratoriais.",
+          "explanation": "Escalas e laboratório complementam anamnese e exame físico para caracterizar síndrome e etiologia."
+        },
+        {
+          "letter": "D",
+          "text": "Solicitar avaliação neuropsicológica e PET-CT com marcador de beta-amiloide.",
+          "explanation": "Neuropsicologia e PET amiloide são recursos selecionados, não o primeiro passo necessário."
+        }
+      ],
+      "page": 14,
+      "id": "provao-m1-m2-2023:m1-q27:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Declínio progressivo cognitivo associado à perda de atividades instrumentais requer teste cognitivo/funcional padronizado e exames para causas reversíveis.",
+      "answer": "C"
+    },
+    {
+      "number": 28,
+      "numberLabel": "M1 · 28",
+      "prompt": "Paciente do sexo masculino, 72 anos de idade, independente, faz controle adequado de suas doenças crônicas (depressão, hipertensão, dislipidemia, doença arterial coronariana e hipertrofia prostática benigna) com acompanhamento médico frequente. Tem acompanhamento cardiológico, urológico e psiquiátrico. Faz uso diário de losartana, atenolol, hidroclorotiazida, AAS, sinvastatina, doxazosina, fluoxetina, amitriptilina e clonazepam. Sobre os medicamentos pode-se dizer que:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Não se trata de polifarmácia, pois todos são prescritos por médicos para suas doenças crônicas.",
+          "explanation": "Prescrição por diferentes especialistas não descaracteriza polifarmácia."
+        },
+        {
+          "letter": "B",
+          "text": "Trata-se de polifarmácia e o paciente faz uso de medicamentos potencialmente inapropriados para idosos.",
+          "explanation": "É polifarmácia, com medicamentos de alto risco anticolinérgico e sedativo."
+        },
+        {
+          "letter": "C",
+          "text": "A prescrição não é inapropriada, pois o paciente tem doenças que justificam o uso de todos os medicamentos.",
+          "explanation": "A indicação clínica não dispensa avaliação periódica do risco-benefício."
+        },
+        {
+          "letter": "D",
+          "text": "Trata-se de polifarmácia, mas os medicamentos são todos apropriados para a condição do paciente.",
+          "explanation": "Nem todos os medicamentos são apropriados: tricíclicos e benzodiazepínicos merecem revisão."
+        }
+      ],
+      "page": 15,
+      "id": "provao-m1-m2-2023:m1-q28:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "O paciente usa nove fármacos, configurando polifarmácia; amitriptilina e clonazepam são potencialmente inapropriados em idosos e elevam risco de quedas/delirium.",
+      "answer": "B"
+    },
+    {
+      "number": 29,
+      "numberLabel": "M1 · 29",
+      "prompt": "Assinale a alternativa que apresenta critérios do Fenótipo da Fragilidade descritos pela pesquisadora americana Linda Fried e colaboradores (2001).",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "São 5 sinais e sintomas e para ser considerado frágil o paciente necessita apresentar todos. São eles: perda maior que 10% da musculatura; velocidade lenta de marcha; exaustão subjetiva; baixa atividade física e déficit cognitivo.",
+          "explanation": "A composição e o limiar \"todos\" estão incorretos."
+        },
+        {
+          "letter": "B",
+          "text": "São 5 sinais e sintomas e para ser considerado frágil o paciente necessita apresentar todos. São eles: sarcopenia evidenciada por (ILEGÍVEL), baixa atividade física e sensação de exaustão subjetiva.",
+          "explanation": "Requerer todos os critérios é incorreto e há trecho ilegível."
+        },
+        {
+          "letter": "C",
+          "text": "São 5 sinais e sintomas e é considerado frágil aquele que apresenta 3 ou mais. São eles: perda de peso maior que 4,5 kg em 1 ano; velocidade lenta da marcha; inatividade física; exaustão subjetiva e redução da força de preensão manual.",
+          "explanation": "Três ou mais critérios indicam fragilidade; a perda ponderal de ~4,5 kg/ano é um corte usado no estudo clássico."
+        },
+        {
+          "letter": "D",
+          "text": "São 5 sinais e sintomas e é considerado frágil aquele que apresenta pelo menos 2. São eles: perda de peso maior que 5 kg em 1 ano; redução da força de preensão manual e velocidade lenta da marcha.",
+          "explanation": "Dois critérios caracterizam pré-fragilidade, e a lista omite componentes. RESSALVA: Questão reproduz os critérios de Fried; os limiares devem ser adaptados à população e método."
+        }
+      ],
+      "page": 15,
+      "id": "provao-m1-m2-2023:m1-q29:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Fragilidade física de Fried é operacionalizada por ≥3 de cinco critérios (não apenas perda ponderal).",
+      "answer": "C"
+    },
+    {
+      "number": 30,
+      "numberLabel": "M1 · 30",
+      "prompt": "Para o diagnóstico de sarcopenia é necessário avaliação da força muscular. Marque alternativa que contenha uma forma recomendada para a medida de força na prática clínica e os respectivos pontos de corte.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Força de preensão manual, medida através de dinamômetro validado, sendo que os pontos de corte são de 16 kg para mulheres e (ILEGÍVEL) para homens.",
+          "explanation": "Método está correto e o limiar visível para mulheres coincide; o valor masculino está ilegível."
+        },
+        {
+          "letter": "B",
+          "text": "Levantar-se e sentar-se 5 vezes consecutivas, sendo que os pontos de corte são de 15 segundos para homens e 20 segundos para mulheres.",
+          "explanation": "No teste de levantar da cadeira, >15 segundos para cinco repetições é referência para ambos os sexos no EWGSOP2."
+        },
+        {
+          "letter": "C",
+          "text": "Força muscular medida por dinamometria isocinética lombar, sendo que os pontos de corte são 30 kg para homens e 20 kg para mulheres.",
+          "explanation": "Dinamometria isocinética lombar e esses cortes não correspondem ao protocolo recomendado."
+        },
+        {
+          "letter": "D",
+          "text": "Teste Timed Get Up and Go (TGUG), sendo que os pontos de corte são 20 segundos para os homens e 30 segundos para as mulheres.",
+          "explanation": "TGUG avalia desempenho/mobilidade global, não mede força isoladamente nem utiliza esses limites por sexo. RESSALVA: Não é possível atestar o número que constava para homens na alternativa A."
+        }
+      ],
+      "page": 15,
+      "id": "provao-m1-m2-2023:m1-q30:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "EWGSOP2 recomenda dinamometria de preensão palmar, com pontos de corte <16 kg para mulheres e <27 kg para homens.",
+      "answer": "A"
+    },
+    {
+      "number": 31,
+      "numberLabel": "M1 · 31",
+      "prompt": "Paciente do sexo masculino, 60 anos de idade, cor branca e residente em Goiânia. Procurou médico por apresentar nódulo na coxa direita. Ao exame por imagem o nódulo media 10,0 cm, é profundo e não apresenta envolvimento neurovascular. Diante desses achados é correto afirmar:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O diagnóstico mais provável é lipossarcoma.",
+          "explanation": "Não é possível afirmar lipossarcoma apenas por dimensão e localização."
+        },
+        {
+          "letter": "B",
+          "text": "A lesão deve ser biopsiada.",
+          "explanation": "Biópsia é indicada para elucidação histológica de massa profunda e volumosa."
+        },
+        {
+          "letter": "C",
+          "text": "Recomenda-se acompanhar o paciente para verificar se há crescimento da lesão.",
+          "explanation": "Somente acompanhamento é inadequado diante dos sinais de alerta."
+        },
+        {
+          "letter": "D",
+          "text": "É necessária a realização de imuno-histoquímica.",
+          "explanation": "Imuno-histoquímica pode ser necessária após biópsia, mas não pode ser indicada obrigatoriamente sem histologia."
+        }
+      ],
+      "page": 16,
+      "id": "provao-m1-m2-2023:m1-q31:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Massa profunda de 10 cm exige investigação em centro especializado e biópsia planejada após imagem apropriada; tamanho/profundidade elevam suspeição.",
+      "answer": "B"
+    },
+    {
+      "number": 32,
+      "numberLabel": "M1 · 32",
+      "prompt": "Em relação aos tumores malignos de partes moles (sarcomas), assinale a alternativa INCORRETA:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "As metástases são geralmente hematogênicas.",
+          "explanation": "Disseminação hematogênica, especialmente pulmonar, é padrão comum."
+        },
+        {
+          "letter": "B",
+          "text": "A ressonância magnética não é precisa na definição do tipo histológico.",
+          "explanation": "RM avalia extensão, mas não determina com precisão o subtipo histológico por si."
+        },
+        {
+          "letter": "C",
+          "text": "São mais frequentes em idosos.",
+          "explanation": "A incidência de muitos sarcomas de partes moles cresce com a idade."
+        },
+        {
+          "letter": "D",
+          "text": "Localização em retroperitônio é associada a melhor prognóstico.",
+          "explanation": "Localização retroperitoneal não é marcador de melhor prognóstico."
+        }
+      ],
+      "page": 16,
+      "id": "provao-m1-m2-2023:m1-q32:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Sarcomas retroperitoneais apresentam em geral pior prognóstico por detecção tardia, tamanho e dificuldade de ressecção completa.",
+      "answer": "D"
+    },
+    {
+      "number": 33,
+      "numberLabel": "M1 · 33",
+      "prompt": "Paciente do sexo feminino, cor branca e 25 anos de idade. Procurou médico por apresentar aumento de volume na região do joelho direito e dor local intermitente. Ao exame físico apresentava limitação dos movimentos. A radiografia evidenciou lesão tibial epifisária, derrame articular, fratura patológica, rarefação óssea, fina trabeculação e limites nítidos. Na macroscopia da peça cirúrgica evidenciou-se lesão volumosa, densa, avermelhada e com lacunas hemorrágicas. Na microscopia a neoplasia é constituída por tecido com rica vascularização e grande número de células gigantes multinucleadas. O diagnóstico menos provável é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tumor de células gigantes.",
+          "explanation": "Tumor de células gigantes apresenta predileção epifisária e células osteoclásticas gigantes."
+        },
+        {
+          "letter": "B",
+          "text": "Cisto ósseo aneurismático.",
+          "explanation": "Cisto ósseo aneurismático pode ser expansivo e hemorrágico, com células gigantes."
+        },
+        {
+          "letter": "C",
+          "text": "Tumor marrom do hiperparatiroidismo.",
+          "explanation": "Tumor marrom do hiperparatireoidismo pode ter células gigantes e hemorragia."
+        },
+        {
+          "letter": "D",
+          "text": "Sarcoma de Ewing.",
+          "explanation": "Ewing costuma ser lesão diafisária/metadiafisária de pequenas células redondas, não esse padrão."
+        }
+      ],
+      "page": 16,
+      "id": "provao-m1-m2-2023:m1-q33:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Padrão epifisário em adulto jovem com células gigantes multinucleadas favorece tumor de células gigantes; sarcoma de Ewing é o menos compatível.",
+      "answer": "D"
+    },
+    {
+      "number": 34,
+      "numberLabel": "M1 · 34",
+      "prompt": "Um homem de 60 anos com histórico de gota crônica é iniciado em tratamento com alopurinol para reduzir os níveis de ácido úrico. Após duas semanas de tratamento, o paciente retorna ao consultório médico com queixas de erupção cutânea pruriginosa, acompanhada de febre e mal-estar geral. A erupção cutânea é maculopapular, envolvendo o tronco e as extremidades. O médico suspeita de uma reação adversa ao alopurinol. Qual das seguintes opções é a reação adversa mais provável associada ao uso do alopurinol neste paciente?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Síndrome de Stevens-Johnson.",
+          "explanation": "Stevens-Johnson requer, em geral, lesões dolorosas/atípicas, necrose epidérmica e acometimento mucoso; não foi demonstrado."
+        },
+        {
+          "letter": "B",
+          "text": "Neutropenia.",
+          "explanation": "Neutropenia é alteração laboratorial e não explica por si o padrão cutâneo descrito."
+        },
+        {
+          "letter": "C",
+          "text": "Hiperuricemia.",
+          "explanation": "Hiperuricemia é condição tratada pelo alopurinol, não reação que explique exantema febril."
+        },
+        {
+          "letter": "D",
+          "text": "Trombocitopenia.",
+          "explanation": "Trombocitopenia pode causar púrpura, não o quadro maculopapular típico descrito. RESSALVA: A opção A é a reação grave mais próxima entre as listadas, mas a descrição não permite diagnosticá-la. Avaliar DRESS, exantema medicamentoso e manifestações de gravidade."
+        }
+      ],
+      "page": 16,
+      "id": "provao-m1-m2-2023:m1-q34:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Duas semanas após introduzir alopurinol, exantema maculopapular, febre e mal-estar indicam reação de hipersensibilidade medicamentosa, que pode ser grave; é preciso suspender fármaco e investigar sinais sistêmicos.",
+      "answerIssue": "sem_resposta"
+    },
+    {
+      "number": 35,
+      "numberLabel": "M1 · 35",
+      "prompt": "Durante estímulos de corpos estranhos ou lesões, citocinas pró-inflamatórias intensificam a produção de prostaglandinas e COX-2. Etanercepte e adalimumabe são utilizados no tratamento da artrite reumatoide, por serem antagonistas de uma das principais citocinas pró-inflamatórias envolvidas na ativação dessas enzimas. A explicação acima trata-se de qual citocina?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "IL-2.",
+          "explanation": "IL-2 não é o alvo desses dois biológicos."
+        },
+        {
+          "letter": "B",
+          "text": "IL-6.",
+          "explanation": "IL-6 é alvo de tocilizumabe/sarilumabe, não etanercepte/adalimumabe."
+        },
+        {
+          "letter": "C",
+          "text": "IL-1.",
+          "explanation": "IL-1 é alvo de anakinra/canaquinumabe, não desses fármacos."
+        },
+        {
+          "letter": "D",
+          "text": "TNF-alfa.",
+          "explanation": "TNF-alfa é neutralizado por ambos os agentes citados."
+        }
+      ],
+      "page": 16,
+      "id": "provao-m1-m2-2023:m1-q35:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Etanercepte e adalimumabe antagonizam o fator de necrose tumoral alfa (TNF-alfa), citocina que promove sinalização inflamatória.",
+      "answer": "D"
+    },
+    {
+      "number": 36,
+      "numberLabel": "M1 · 36",
+      "prompt": "Uma mulher de 45 anos chega ao consultório médico com queixas de dor, rigidez e inchaço nas articulações, que vêm se agravando ao longo dos últimos seis meses. A paciente relata que a rigidez matinal dura mais de uma hora e que as articulações afetadas incluem punhos, mãos e joelhos. Além disso, ela apresenta fadiga persistente e perda de peso não intencional. Exames laboratoriais mostram presença de fator reumatoide (FR) e anticorpos antipéptidos citrulinados (anti-CCP) positivos. A velocidade de hemossedimentação (VHS) é (ILEGÍVEL). Considerando o quadro clínico e os exames, o diagnóstico é artrite reumatoide. Qual das seguintes opções é a terapia farmacológica de escolha para o tratamento inicial da artrite reumatoide, visando controlar a progressão da doença?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infliximabe.",
+          "explanation": "Infliximabe é biológico, geralmente reservado a falha/intolerância a DMARD convencional."
+        },
+        {
+          "letter": "B",
+          "text": "Corticosteroides sistêmicos.",
+          "explanation": "Corticosteroides aliviam inflamação, mas não substituem DMARD e devem ser minimizados."
+        },
+        {
+          "letter": "C",
+          "text": "Leflunomida.",
+          "explanation": "Leflunomida é alternativa válida quando MTX não pode ser usado, mas não preferência habitual."
+        },
+        {
+          "letter": "D",
+          "text": "Metotrexato.",
+          "explanation": "Metotrexato limita progressão articular e constitui estratégia inicial preferencial."
+        }
+      ],
+      "page": 17,
+      "id": "provao-m1-m2-2023:m1-q36:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Metotrexato é DMARD convencional âncora e primeira opção habitual na artrite reumatoide com atividade moderada/alta.",
+      "answer": "D"
+    },
+    {
+      "number": 37,
+      "numberLabel": "M1 · 37",
+      "prompt": "Paciente de 66 anos, etilista de longa data, apresenta palidez cutânea e astenia. O hemograma apresenta anemia macrocítica (VCM acima dos valores de referência), com dacriócitos e corpúsculos de Howell-Jolly, (ILEGÍVEL). Considerando essas características no hemograma, assinale a alternativa correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Devo dosar a ferritina, que deverá estar alta, porque deve se tratar de anemia da doença crônica (ILEGÍVEL).",
+          "explanation": "Anemia de doença crônica é em geral normocítica; macrocitose requer outras hipóteses."
+        },
+        {
+          "letter": "B",
+          "text": "(ILEGÍVEL).",
+          "explanation": "Não é possível julgar a alternativa B, que está ilegível."
+        },
+        {
+          "letter": "C",
+          "text": "Devo dosar o ácido fólico, que deve dar abaixo dos valores de referência, pois é a causa mais frequente de anemia no idoso etilista (ILEGÍVEL).",
+          "explanation": "Deficiência de folato é hipótese pertinente em etilismo; confirmar com exames, incluindo B12."
+        },
+        {
+          "letter": "D",
+          "text": "Devo dosar a ferritina, que deve dar abaixo dos valores de referência, pois deve se tratar de uma anemia ferropriva (ILEGÍVEL).",
+          "explanation": "Deficiência de ferro tende a microcitose, não ao padrão relatado. RESSALVA: Corpúsculos de Howell-Jolly também podem ocorrer por hipoesplenismo; dacriócitos não são específicos de deficiência de folato. Não há prova suficiente de diagnóstico único."
+        }
+      ],
+      "page": 17,
+      "id": "provao-m1-m2-2023:m1-q37:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Macrocitose em etilista, associada a achados de alteração maturativa eritrocitária, levanta hipótese de deficiência de folato, mas exige dosagem de B12 e avaliação hematológica.",
+      "answer": "C"
+    },
+    {
+      "number": 38,
+      "numberLabel": "M1 · 38",
+      "prompt": "O lúpus eritematoso sistêmico (LES ou apenas lúpus) é uma doença inflamatória crônica de origem autoimune, cujos sintomas podem surgir em diversos órgãos de forma lenta e progressiva (em meses) ou mais rapidamente (em semanas), e variar com fases de atividade e de remissão. As manifestações podem ocorrer devido à inflamação na pele, articulações (juntas), rins, nervos, cérebro e membranas que recobrem o pulmão (pleura) e o coração (pericárdio). Em 2012, foram publicados novos critérios de classificação do LES, denominados critérios do SLICC (Systemic Lupus International Collaborating Clinics). Os 11 critérios da classificação anterior (ACR de 1997) foram substituídos por 17 critérios, sendo preciso ter 4 ou mais critérios, sendo que destes quatro pelo menos 1 tem que ser clínico/laboratorial e pelo menos 1 tem que ser imunológico, para se receber o diagnóstico de LES. (ILEGÍVEL) Dito isto, responda: quais dos itens abaixo fazem parte destes critérios imunológicos para diagnóstico de LES?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "FAN (positivo em mais de 98% dos casos), anti-DNA dupla hélice (anti-DNAds), anti-Sm, anticorpos antifosfolípides, hipocomplementemia e Coombs direto positivo.",
+          "explanation": "Relaciona corretamente os critérios imunológicos do SLICC 2012."
+        },
+        {
+          "letter": "B",
+          "text": "Hemograma, contagem de eritrócitos, (ILEGÍVEL); fosfatase alcalina, bilirrubinas total e frações, desidrogenase lática, ureia, (ILEGÍVEL).",
+          "explanation": "Lista testes bioquímicos/hemograma de investigação, não conjunto de critérios imunológicos."
+        },
+        {
+          "letter": "C",
+          "text": "Hemograma, podendo apresentar anemia hemolítica, leucopenia ou linfopenia e plaquetopenia, e na urina proteinúria e cilindros hemáticos (ILEGÍVEL).",
+          "explanation": "Achados hematológicos e urinários podem ser critérios clínicos, não imunológicos em conjunto."
+        },
+        {
+          "letter": "D",
+          "text": "Exames de VHS e proteína C reativa, complementos, albumina, VDRL e avaliação de autoanticorpos (ILEGÍVEL).",
+          "explanation": "VHS e PCR são inespecíficos; a alternativa mistura exames gerais e sorologia. RESSALVA: Critérios SLICC 2012 são de classificação, não diagnóstico isolado; EULAR/ACR 2019 usam pontuação e ANA como critério de entrada."
+        }
+      ],
+      "page": 17,
+      "id": "provao-m1-m2-2023:m1-q38:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Nos critérios SLICC 2012, itens imunológicos incluem ANA, anti-dsDNA, anti-Sm, antifosfolípides, complemento reduzido e teste de Coombs direto positivo na ausência de anemia hemolítica.",
+      "answer": "A"
+    },
+    {
+      "number": 39,
+      "numberLabel": "M1 · 39",
+      "prompt": "Correlacione adequadamente as colunas, cada anticorpo com a doença em que ele mais frequentemente está positivo: 1 - Anti-histonas. 2 - c-ANCA. 3 - Anti-RNP. 4 - Anti-DNA nativo. 5 - Anti-SSA/Ro. ( ) Doença Mista do Tecido Conjuntivo. ( ) Nefrite Lúpica. ( ) LES induzido por drogas. ( ) Granulomatose com Poliangeíte - ex Granulomatose de Wegener. ( ) Síndrome de Sjögren. A sequência correta está em:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1,2,3,4,5.",
+          "explanation": "1-2-3-4-5 associa incorretamente todas as posições iniciais."
+        },
+        {
+          "letter": "B",
+          "text": "1,5,4,2,3.",
+          "explanation": "1-5-4-2-3 não preserva associações específicas de DMTC e nefrite lúpica."
+        },
+        {
+          "letter": "C",
+          "text": "3,4,1,2,5.",
+          "explanation": "3-4-1-2-5 é a sequência correta dos cinco pares."
+        },
+        {
+          "letter": "D",
+          "text": "5,1,2,4,3.",
+          "explanation": "5-1-2-4-3 atribui anti-SSA/Ro à doença mista e confunde os demais marcadores."
+        }
+      ],
+      "page": 18,
+      "id": "provao-m1-m2-2023:m1-q39:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "A correspondência é anti-RNP→DMTC (3), anti-DNA nativo→nefrite lúpica (4), anti-histonas→LES induzido (1), c-ANCA→GPA (2), anti-SSA/Ro→Sjögren (5).",
+      "answer": "C"
+    },
+    {
+      "number": 40,
+      "numberLabel": "M1 · 40",
+      "prompt": "Estreitamento difuso do espaço articular, erosões marginais, osteopenia e edema de tecidos moles periarticulares são achados de imagem sugestivos de:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Osteoartrite.",
+          "explanation": "Osteoartrite mostra osteófitos e esclerose subcondral com estreitamento geralmente focal."
+        },
+        {
+          "letter": "B",
+          "text": "Pioartrite.",
+          "explanation": "Pioartrite pode destruir articulação rapidamente, mas não define o padrão erosivo crônico simétrico citado."
+        },
+        {
+          "letter": "C",
+          "text": "Artrite reumatoide.",
+          "explanation": "Artrite reumatoide cursa com osteopenia justarticular e erosões marginais."
+        },
+        {
+          "letter": "D",
+          "text": "Gota.",
+          "explanation": "Gota tem erosões em saca-bocado com bordas salientes e espaço articular preservado inicialmente."
+        }
+      ],
+      "page": 18,
+      "id": "provao-m1-m2-2023:m1-q40:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Erosões marginais, osteopenia periarticular, redução relativamente uniforme do espaço e edema de partes moles são padrão de artrite reumatoide.",
+      "answer": "C"
+    },
+    {
+      "number": 41,
+      "numberLabel": "M1 · 41",
+      "prompt": "Estreitamento localizado do espaço articular, esclerose subcondral, osteófitos e cistos subcorticais são achados de imagem sugestivos de:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Osteoartrite.",
+          "explanation": "Padrão degenerativo típico da osteoartrite."
+        },
+        {
+          "letter": "B",
+          "text": "Pioartrite.",
+          "explanation": "Pioartrite é inflamatória/infecciosa e não caracteriza osteófitos marginais crônicos."
+        },
+        {
+          "letter": "C",
+          "text": "Artrite reumatoide.",
+          "explanation": "AR costuma apresentar erosões e osteopenia, sem osteófitos como achado definidor."
+        },
+        {
+          "letter": "D",
+          "text": "Gota.",
+          "explanation": "Gota tem erosões bem delimitadas e tofos, não esse conjunto degenerativo."
+        }
+      ],
+      "page": 18,
+      "id": "provao-m1-m2-2023:m1-q41:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Redução assimétrica/localizada do espaço, osteófitos, esclerose e cistos subcondrais formam padrão clássico radiográfico de osteoartrite.",
+      "answer": "A"
+    },
+    {
+      "number": 42,
+      "numberLabel": "M1 · 42",
+      "prompt": "Erosão marginal com borda saliente, preservação relativa do espaço articular, ausência de osteopenia, massa de tecido mole assimétrica são achados de imagem sugestivos de:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Osteoartrite.",
+          "explanation": "Osteoartrite associa-se a osteófitos e esclerose, não a erosões com borda saliente típicas."
+        },
+        {
+          "letter": "B",
+          "text": "Pioartrite.",
+          "explanation": "Pioartrite produz erosão e perda cartilaginosa rápida, com outro padrão."
+        },
+        {
+          "letter": "C",
+          "text": "Artrite reumatoide.",
+          "explanation": "AR cursa com osteopenia e estreitamento uniforme, não o padrão descrito."
+        },
+        {
+          "letter": "D",
+          "text": "Gota.",
+          "explanation": "Gota crônica erosiva produz as lesões marginais típicas com tofos."
+        }
+      ],
+      "page": 18,
+      "id": "provao-m1-m2-2023:m1-q42:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Erosões em saca-bocado com bordas salientes (overhanging edges), espaço preservado e massas de tofos apontam para artropatia gotosa.",
+      "answer": "D"
+    }
+  ],
+  "questionCount": 68
+}

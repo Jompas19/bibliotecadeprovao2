@@ -1,0 +1,34 @@
+/* Comentários OituTigas — estilos compatíveis com o modo escuro */
+.oitu-comments{border-top:1px solid var(--line);margin-top:25px;padding-top:24px}
+.oitu-heading{display:flex;align-items:center;gap:12px;justify-content:space-between;flex-wrap:wrap;margin-bottom:10px}
+.oitu-heading-main{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.oitu-heading h3{font-size:19px;font-weight:800;margin:0;letter-spacing:-.02em}
+.oitu-counter{font-size:12px;color:var(--muted);background:var(--surface2);border:1px solid var(--line);border-radius:20px;padding:3px 9px}
+.oitu-admin-toggle{background:transparent;color:var(--muted);border:1px solid var(--line);padding:5px 9px;border-radius:8px;cursor:pointer;font-size:12px}
+.oitu-admin-toggle.is-active{border-color:var(--accent);color:var(--accent);font-weight:750}
+.oitu-description{font-size:13px;color:var(--muted);margin:0 0 14px}
+.oitu-list{display:grid;gap:11px;margin-bottom:18px}
+.oitu-item{padding:14px;border-radius:12px;background:var(--surface2);border:1px solid var(--line)}
+.oitu-item-head{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.oitu-author{font-size:14px;font-weight:750;overflow-wrap:anywhere}
+.oitu-date{color:var(--muted);font-size:12px}
+.oitu-body{font-size:14px;white-space:pre-wrap;overflow-wrap:anywhere;margin:9px 0 0;line-height:1.65}
+.oitu-delete{background:transparent;border:0;padding:4px 0;color:var(--bad);cursor:pointer;font-size:12px;text-decoration:underline;text-underline-offset:2px}
+.oitu-admin-delete{font-weight:750}
+.oitu-form{padding:15px;background:var(--surface2);border:1px solid var(--line);border-radius:13px}
+.oitu-form-title{font-size:14px;font-weight:750;margin:0 0 11px}
+.oitu-label{font-size:13px;color:var(--text);font-weight:650;display:block;margin-bottom:6px}
+.oitu-input,.oitu-textarea{display:block;width:100%;border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:9px;padding:10px 11px;font-size:14px;outline:none}
+.oitu-input:focus,.oitu-textarea:focus{border-color:var(--accent)}
+.oitu-textarea{resize:vertical;min-height:88px;margin-bottom:10px}
+.oitu-field{display:block;margin-bottom:11px}
+.oitu-form-bottom{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.oitu-hint,.oitu-status{font-size:12px;color:var(--muted)}
+.oitu-status{margin:8px 0 0}.oitu-status.error{color:var(--bad)}
+.oitu-recovery{font-size:13px;line-height:1.55;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px;margin:12px 0}
+.oitu-code{word-break:break-all;font:12px ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--surface2);border:1px dashed var(--line);padding:7px 9px;border-radius:7px;margin:7px 0;user-select:all}
+.oitu-empty{color:var(--muted);font-size:13px;padding:12px;border:1px dashed var(--line);border-radius:10px}
+.oitu-disabled{font-size:13px;color:var(--muted);border:1px dashed var(--line);padding:15px;border-radius:12px}
+.oitu-author-pill{font-weight:500;color:var(--muted);font-size:12px}
+.oitu-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:8px}
+@media(max-width:560px){.oitu-comments{margin-top:20px;padding-top:20px}.oitu-form{padding:12px}}

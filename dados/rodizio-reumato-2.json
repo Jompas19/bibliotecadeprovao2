@@ -1,0 +1,1389 @@
+{
+  "id": "rodizio-reumato-2",
+  "title": "Prova Rodízio - Reumato 2",
+  "original": "QUESTÕES REUMATOLOGIA E O RESTO - RESPOSTAS",
+  "key_source": "Gabarito comentado do PDF",
+  "questions": [
+    {
+      "number": 1,
+      "numberLabel": "1",
+      "prompt": "Leia o caso a seguir. Paciente, sexo feminino, 58 anos, apresenta-se no ambulatório com história de dor no joelho direito há anos com piora há 4 meses, associado há rigidez matinal de 25 minutos. Durante a deambulação, há intensificação da dor. Ao exame, o joelho direito apresenta crepitação ao movimento ativo e passivo. Qual hipótese diagnóstica?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atrite Reumatóide",
+          "explanation": "Artrite reumatoide costuma causar poliartrite inflamatória, sinovite e rigidez prolongada; não é a melhor explicação para dor mecânica isolada com crepitação."
+        },
+        {
+          "letter": "B",
+          "text": "Doença por pirofosfato de cálcio",
+          "explanation": "Doença por depósito de pirofosfato pode afetar joelhos, mas o caso não descreve crise aguda ou condrocalcinose que a favoreça."
+        },
+        {
+          "letter": "C",
+          "text": "Osteoartrite",
+          "explanation": "CORRETA. Dor que piora com a carga, crepitação e rigidez matinal breve são características de osteoartrite do joelho."
+        },
+        {
+          "letter": "D",
+          "text": "Condromalácia de patela",
+          "explanation": "Condromalácia costuma causar dor femoropatelar anterior, especialmente ao subir escadas ou agachar, e não explica tão bem o conjunto descrito."
+        }
+      ],
+      "page": 1,
+      "id": "rodizio-reumato-2:q1:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "C"
+    },
+    {
+      "number": 2,
+      "numberLabel": "2",
+      "prompt": "Uma paciente de 38 anos relata 2 anos de evolução de dor e aumento de volume das articulações 2ª, 3ª e 4ª metacarpofalangeanas, os punhos e as 3ª e 4ª interfalageanas, de forma aditiva. Relata dificuldade para realizar atividades no período matinal, com rigidez de 2 horas. Nega xeroftalmia, xerostomia, úlceras orais, fotossensibilidade, manchas na pele e fenômeno de Raynaud. Ao exame, observa-se artrite das articulações envolvidas e desvio ulnar bilateral. Qual dos achados abaixo não é esperado para o caso?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radiografia com erosão subcondral",
+          "explanation": "Erosões marginais/justa-articulares podem ocorrer na artrite reumatoide estabelecida, embora 'subcondral' seja termo impreciso para seu padrão clássico."
+        },
+        {
+          "letter": "B",
+          "text": "Fator reumatóide positivo",
+          "explanation": "Fator reumatoide pode ser positivo, mas não é obrigatório nem isoladamente diagnóstico."
+        },
+        {
+          "letter": "C",
+          "text": "VHS elevado",
+          "explanation": "VHS pode elevar-se por inflamação sinovial persistente, ainda que também possa ser normal."
+        },
+        {
+          "letter": "D",
+          "text": "Acometimento da coluna lombar",
+          "explanation": "CORRETA (não esperado). A artrite reumatoide tipicamente poupa a coluna lombar; quando acomete coluna, predomina a região cervical."
+        }
+      ],
+      "page": 1,
+      "id": "rodizio-reumato-2:q2:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "D"
+    },
+    {
+      "number": 3,
+      "numberLabel": "3",
+      "prompt": "AAS, 28 anos, comparece ao consultório queixando-se de emagrecimento, dores no corpo com piora progressiva nos últimos 2 meses. Nega sintomas neurológicos, respiratórios, urinários e gastrointestinais. Relata muita astenia, dor em joelhos, tornozelos e edema nos tornozelos. Ao exame, bom estado geral, mucosas moderadamente descoradas e úlceras orais. Traz radiografia de tornozelo normal, HB de 9 g/dL, HT de 26%, PLAQ de 90.000, LEUCO de 2000, EAS com proteínas 2+. Assinale a alternativa que apresenta a principal hipótese diagnóstica e quais os exames para auxiliar na sua confirmação.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artrite reumatóide. ANTI CCP e VHS",
+          "explanation": "Artrite reumatoide isolada não explica tão bem a combinação de pancitopenia, úlceras orais e proteinúria."
+        },
+        {
+          "letter": "B",
+          "text": "Lúpus Eritematoso Sistêmico. Anticorpo antinuclear e Anti-DNA",
+          "explanation": "CORRETA. Citopenias, úlceras orais, artralgias e provável acometimento renal favorecem LES; FAN, anti-dsDNA, complementos e avaliação renal auxiliam."
+        },
+        {
+          "letter": "C",
+          "text": "Síndrome de Sjögren. Fator reumatóide e Anti-Ro",
+          "explanation": "Sjögren costuma predominar com secura ocular e oral e não explica a apresentação multissistêmica tão bem."
+        },
+        {
+          "letter": "D",
+          "text": "Hepatites virais. Sorologias virais e pesquisa de crioglobulinemia",
+          "explanation": "Hepatites podem causar artralgia e alterações sistêmicas, mas o conjunto clínico favorece mais LES; sorologias caberiam conforme exposição e diferencial."
+        }
+      ],
+      "page": 1,
+      "id": "rodizio-reumato-2:q3:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "B"
+    },
+    {
+      "number": 4,
+      "numberLabel": "4",
+      "prompt": "O equilíbrio entre agentes anabólicos e catabólicos determina a homeostase, e um desequilíbrio entre estes agentes, com predomínio dos catabólicos, ocasiona a degradação cartilaginosa observada na osteoartrite. Com relação à resposta catabólica dos condrócitos, a seguinte alteração é descrita:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diminuição da síntese de proteoglicanos",
+          "explanation": "CORRETA. Na resposta catabólica há perda de matriz e menor síntese/retensão de proteoglicanos, contribuindo para degradação cartilaginosa."
+        },
+        {
+          "letter": "B",
+          "text": "Diminuição da síntese de metaloproteases",
+          "explanation": "Metaloproteinases que degradam matriz geralmente aumentam, não diminuem."
+        },
+        {
+          "letter": "C",
+          "text": "Aumento da síntese do inibidor tecidual do plasminogênio",
+          "explanation": "A alternativa menciona 'inibidor tecidual do plasminogênio'; é terminologicamente confusa e não representa a alteração catabólica central. Inibidores de metaloproteinases não caracterizam aumento destrutivo."
+        },
+        {
+          "letter": "D",
+          "text": "Aumento da síntese de colágenos tipo II e IX",
+          "explanation": "Colágeno II é componente estrutural da cartilagem hialina; aumento de sua síntese é resposta reparativa, não o marcador catabólico solicitado."
+        }
+      ],
+      "page": 1,
+      "id": "rodizio-reumato-2:q4:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "A"
+    },
+    {
+      "number": 5,
+      "numberLabel": "5",
+      "prompt": "“A doença do manguito rotador pode se desenvolver apenas como tendinite ou evoluir para a ruptura”. Nesse contexto, torna-se imprescindível a realização de testes específicos que identifiquem a tendinite e de testes que avaliem a integridade dos tendões. Dentre os testes utilizados para avaliação da integridade dos tendões, incluem-se:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Neer e Hawkins",
+          "explanation": "Neer e Hawkins são testes de impacto subacromial; não demonstram especificamente integridade tendínea."
+        },
+        {
+          "letter": "B",
+          "text": "Palm-up test e Yergason",
+          "explanation": "Palm-up/Speed e Yergason avaliam principalmente alterações da cabeça longa do bíceps."
+        },
+        {
+          "letter": "C",
+          "text": "Jobe e Patte",
+          "explanation": "CORRETA. Jobe testa principalmente supraespinal, e Patte avalia rotação externa/infraespinal, úteis na suspeita de lesões tendíneas do manguito."
+        },
+        {
+          "letter": "D",
+          "text": "Gerber e Yocum",
+          "explanation": "Gerber (lift-off) testa subescapular, mas Yocum é teste de impacto; a dupla não corresponde somente a testes de integridade."
+        }
+      ],
+      "page": 2,
+      "id": "rodizio-reumato-2:q5:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "C"
+    },
+    {
+      "number": 6,
+      "numberLabel": "6",
+      "prompt": "VSB, sexo feminino, 32 anos, é encaminhada para o ambulatório de reumatologia em uso de anti-inflamatórios, com dor intensa na mão direita. Relata que não gosta de atividades físicas e que fica muitas horas seguidas no uso de computador, tablet ou celular. O possível diagnóstico é a tenossinovite estenosante de Quervain, que abrange o primeiro compartimento dorsal (tendões do abdutor longo e do extensor curto do polegar). Assinale o teste adequado para sua confirmação:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thompson",
+          "explanation": "Thompson pesquisa ruptura do tendão de Aquiles."
+        },
+        {
+          "letter": "B",
+          "text": "Tinel",
+          "explanation": "Tinel identifica irritação de nervo, como no túnel do carpo; não é teste principal de De Quervain."
+        },
+        {
+          "letter": "C",
+          "text": "Finkelstein",
+          "explanation": "CORRETA. Finkelstein provoca dor no primeiro compartimento extensor do punho, compatível com De Quervain."
+        },
+        {
+          "letter": "D",
+          "text": "Cosen",
+          "explanation": "Cozen/Cosen é empregado na avaliação de epicondilalgia lateral."
+        }
+      ],
+      "page": 2,
+      "id": "rodizio-reumato-2:q6:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "C"
+    },
+    {
+      "number": 7,
+      "numberLabel": "7",
+      "prompt": "Os auto-anticorpos devem ser solicitados nos cenários em que se suspeita de uma doença inflamatória imunomediada. A dosagem positiva de anticorpos anti-DNA ss e anti-SM tem maior especificidade para o diagnóstico de:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "LES",
+          "explanation": "CORRETA pela presença de anti-Sm, anticorpo de alta especificidade para LES. Ressalva: anti-DNA de fita simples (ssDNA) é pouco específico, ao contrário de anti-dsDNA."
+        },
+        {
+          "letter": "B",
+          "text": "Doença de Behçet",
+          "explanation": "Behçet é diagnóstico predominantemente clínico, com úlceras recorrentes e outras manifestações; anti-Sm não é típico."
+        },
+        {
+          "letter": "C",
+          "text": "Doença Mista do Colágeno",
+          "explanation": "Doença mista do tecido conjuntivo relaciona-se especialmente a anti-U1-RNP, não anti-Sm."
+        },
+        {
+          "letter": "D",
+          "text": "Dermatopolimiosite",
+          "explanation": "Dermatomiosite associa-se a anticorpos miosite-específicos e fraqueza proximal; anti-Sm não a define."
+        }
+      ],
+      "page": 2,
+      "id": "rodizio-reumato-2:q7:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "A"
+    },
+    {
+      "number": 8,
+      "numberLabel": "8",
+      "prompt": "Durante a expansão cutânea realizada para reconstrução de uma sequela de queimadura, o que podemos observar na área tecidual operada?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atrofia da derme",
+          "explanation": "VERDADEIRA. O estiramento cutâneo pode afinar a derme durante a expansão."
+        },
+        {
+          "letter": "B",
+          "text": "Hipertrofia da epiderme",
+          "explanation": "VERDADEIRA. Ocorre aumento proliferativo/espessamento epidérmico na expansão tecidual."
+        },
+        {
+          "letter": "C",
+          "text": "Formação de cápsula fibrosa em volta do expansor",
+          "explanation": "VERDADEIRA. Uma cápsula fibrosa pode se formar ao redor do expansor como resposta a corpo estranho."
+        },
+        {
+          "letter": "D",
+          "text": "Todas estão corretas",
+          "explanation": "CORRETA. Os três fenômenos histológicos descritos podem coexistir durante a expansão."
+        }
+      ],
+      "page": 2,
+      "id": "rodizio-reumato-2:q8:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "D"
+    },
+    {
+      "number": 9,
+      "numberLabel": "9",
+      "prompt": "Você está descrevendo os riscos e benefícios da expansão tecidual para os pais de uma criança que apresenta uma área de alopecia no couro cabeludo. Qual das seguintes alternativas constitui a principal vantagem da expansão tecidual para esta criança?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O menor número de procedimentos com anistia geral",
+          "explanation": "A expansão demanda colocação e posterior remoção do expansor; não garante menos procedimentos sob anestesia."
+        },
+        {
+          "letter": "B",
+          "text": "O menor número de consultas clínicas hospitalares",
+          "explanation": "O processo requer acompanhamento e insuflações seriadas; não reduz necessariamente o número de consultas."
+        },
+        {
+          "letter": "C",
+          "text": "O defeito pode fechar diretamente utilizando um retalho de pele com cabelo",
+          "explanation": "CORRETA. Permite aproximar pele pilosa do couro cabeludo, preservando cobertura com cabelo e melhor compatibilidade estética."
+        },
+        {
+          "letter": "D",
+          "text": "A reconstrução pode ser terminada rapidamente",
+          "explanation": "A expansão costuma ser gradual por semanas; não representa reconstrução necessariamente rápida."
+        }
+      ],
+      "page": 2,
+      "id": "rodizio-reumato-2:q9:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "C"
+    },
+    {
+      "number": 10,
+      "numberLabel": "10",
+      "prompt": "Paciente, 38 anos, masculino, tem acidente de carro e chega ao PS queixando-se de muita dor na coluna. Logo após o exame físico, é feito a hipótese de fratura de coluna toracolombar, que é confirmado pelo RX de coluna torácica e lombar. É considerado critério de instabilidade na fratura de explosão de coluna toracolombar:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cifose > 10º",
+          "explanation": "Cifose superior a 10 graus, isoladamente, não é critério universal de instabilidade de fratura explosão."
+        },
+        {
+          "letter": "B",
+          "text": "Acunhamento > 20º",
+          "explanation": "Acunhamento de 20 graus isolado tampouco determina necessariamente instabilidade; parâmetros e lesão ligamentar devem ser considerados."
+        },
+        {
+          "letter": "C",
+          "text": "Déficit neurológico",
+          "explanation": "MAIS ADEQUADA. Déficit neurológico sugere lesão grave e aumenta a pontuação no TLICS; deve motivar avaliação especializada urgente."
+        },
+        {
+          "letter": "D",
+          "text": "Destruição da coluna média",
+          "explanation": "A coluna média é frequentemente acometida por definição na fratura explosão; sua lesão isolada não estabelece instabilidade cirúrgica no TLICS moderno. Enunciado usa conceito histórico de Denis."
+        }
+      ],
+      "page": 3,
+      "id": "rodizio-reumato-2:q10:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "C"
+    },
+    {
+      "number": 11,
+      "numberLabel": "11",
+      "prompt": "Os primeiros cuidados no trauma de extremidades devem ser feitos pelo protocolo PRICE, no qual é INCORRETO:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "P significa proteção",
+          "explanation": "P é 'Protection', isto é, proteção."
+        },
+        {
+          "letter": "B",
+          "text": "R significa repouso",
+          "explanation": "R é 'Rest', repouso relativo."
+        },
+        {
+          "letter": "C",
+          "text": "I significa imobilização",
+          "explanation": "CORRETA (incorreta na sigla). I significa 'Ice' (gelo), não imobilização."
+        },
+        {
+          "letter": "D",
+          "text": "C significa compressão leve",
+          "explanation": "C significa 'Compression' (compressão), aplicada sem comprometer a perfusão."
+        }
+      ],
+      "page": 3,
+      "id": "rodizio-reumato-2:q11:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "C"
+    },
+    {
+      "number": 12,
+      "numberLabel": "12",
+      "prompt": "Paciente após acidente motociclístico, apresenta fratura exposta de membro superior esquerdo com sangramento abundante. Para se estancar uma hemorragia, devemos realizar a seguinte sequência:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compressão direta do ferimento, elevação do membro, compressão da artéria proximal, pinçamento dos cotos vasculares e torniquete",
+          "explanation": "A ordem descrita reserva o torniquete para depois de pinçamento de cotos, inadequado no controle inicial de hemorragia de extremidade."
+        },
+        {
+          "letter": "B",
+          "text": "Elevação do membro, compressão da artéria proximal, compressão direta do ferimento, torniquete e pinçamento dos cotos vasculares",
+          "explanation": "A sequência posterga a compressão direta, que é medida de controle imediata."
+        },
+        {
+          "letter": "C",
+          "text": "Compressão direta do ferimento, compressão da artéria proximal, torniquete e pinçamento dos cotos vasculares, elevação do membro",
+          "explanation": "Embora comece com compressão direta, inclui pinçamento indiscriminado e coloca elevação ao final; não reproduz protocolo atual."
+        },
+        {
+          "letter": "D",
+          "text": "Compressão direta do ferimento, elevação do membro, compressão da artéria proximal, torniquete e pinçamento dos cotos vasculares",
+          "explanation": "MAIS PRÓXIMA da sequência didática antiga e provável intenção da questão. Contudo, NÃO é protocolo contemporâneo: diante de sangramento intenso use pressão direta e, se indicado, torniquete rapidamente; não tente pinçar vasos em primeiros socorros nem dependa de elevação/pontos de pressão."
+        }
+      ],
+      "page": 3,
+      "id": "rodizio-reumato-2:q12:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "D"
+    },
+    {
+      "number": 13,
+      "numberLabel": "13",
+      "prompt": "Paciente, sexo feminino, 24 anos, submetida à plástica mamária (mastopexia com prótese) há 90 dias e queixa-se da qualidade da sua cicatriz. Ela refere que apresenta ardência local eventualmente. Ao exame físico da cicatriz, encontra-se com coloração avermelhada, de consistência pouco mais endurecida e levemente elevada, porém, não ultrapassando os limites da própria cicatriz. Essa paciente apresenta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uma cicatriz queloideana",
+          "explanation": "Queloide ultrapassa os limites da ferida original e pode crescer além deles."
+        },
+        {
+          "letter": "B",
+          "text": "Um tumor desmóide",
+          "explanation": "Tumor desmoide é lesão fibromatosa profunda, não o aspecto usual de uma cicatriz de 90 dias."
+        },
+        {
+          "letter": "C",
+          "text": "Uma cicatriz hipertrófica",
+          "explanation": "CORRETA. Cicatriz hipertrófica é elevada, eritematosa e permanece restrita aos limites da incisão."
+        },
+        {
+          "letter": "D",
+          "text": "Um carcinoma basocelular",
+          "explanation": "Carcinoma basocelular não é a explicação típica para elevação linear recente confinada à cicatriz."
+        }
+      ],
+      "page": 3,
+      "id": "rodizio-reumato-2:q13:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "C"
+    },
+    {
+      "number": 14,
+      "numberLabel": "14",
+      "prompt": "Quanto à fratura exposta, temos os seguintes cuidados: I. Não movimentar o acidentado II. Imobilizar o local usando talas improvisadas III. Tentar colocar o osso no lugar, tracionando as extremidades do membro afetado, para que não ocorra maior perfuração de órgãos ou rompimento de veias ou artérias IV. Amarrar a tala com tiras de pano, em lugares acima e abaixo do local fratura até a vítima ser encaminhada para o hospital mais próximo O item totalmente INCORRETO é: __________",
+      "type": "discursive",
+      "options": [],
+      "page": 3,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. I. I: geralmente apropriado evitar movimentação desnecessária até avaliação da segurança, coluna e risco de lesão adicional; a frase absoluta admite exceções por perigo no local. II. II: correto imobilizar de maneira cuidadosa e acolchoada, reduzindo deslocamentos. III. III: INCORRETO como orientação leiga geral. Não se deve tentar reintroduzir osso exposto ou executar manobras de redução sem avaliação e treinamento adequados. IV. IV: correto fixar talas acima e abaixo da lesão sem apertar excessivamente e verificando circulação distal.",
+      "id": "rodizio-reumato-2:q14:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "— item III (incorreto)"
+    },
+    {
+      "number": 15,
+      "numberLabel": "15",
+      "prompt": "Paciente, 32 anos, sexo masculino, foi vítima de queda de bicicleta. Foi socorrido queixando-se de muita dor e incapacidade movimentar ombro e cotovelo esquerdo. Consegue movimentar punhos e dedos. Levado ao hospital, o médico já suspeito de fratura de úmero, confirmado pela radiografia que mostrou uma fratura intra-articular. Nos casos de fraturas com comprometimento articular do úmero, o tratamento pode ser conservador, caso seja um desvio menor que:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 mm",
+          "explanation": "MAIS ADEQUADA. Desvio articular de até cerca de 2 mm é referência usada em alguns padrões de fratura do úmero, mas o sítio da fratura não foi especificado; conduta real depende também de estabilidade e segmento."
+        },
+        {
+          "letter": "B",
+          "text": "2 graus",
+          "explanation": "Dois graus medem angulação, não o degrau articular solicitado."
+        },
+        {
+          "letter": "C",
+          "text": "5 graus",
+          "explanation": "Cinco graus também medem angulação; não correspondem ao limite em milímetros."
+        },
+        {
+          "letter": "D",
+          "text": "5 mm",
+          "explanation": "Desvio de 5 mm costuma exceder o tolerável em superfícies articulares congruentes."
+        }
+      ],
+      "page": 4,
+      "id": "rodizio-reumato-2:q15:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "A"
+    },
+    {
+      "number": 16,
+      "numberLabel": "16",
+      "prompt": "No atendimento imediato ao traumatizado de face, a prioridade absoluta é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proteger a coluna cervical",
+          "explanation": "Proteção cervical é imprescindível e ocorre simultaneamente à abordagem da via aérea, mas não substitui assegurar sua perviedade."
+        },
+        {
+          "letter": "B",
+          "text": "Reposição volêmica adequada",
+          "explanation": "Reposição volêmica pode ser essencial se houver choque, mas segue priorização inicial da via aérea."
+        },
+        {
+          "letter": "C",
+          "text": "Estabelecer via aérea adequada",
+          "explanation": "CORRETA. No trauma facial, obstrução por sangue, edema ou fragmentos pode ameaçar rapidamente a vida; manter via aérea com proteção cervical é prioritário."
+        },
+        {
+          "letter": "D",
+          "text": "Colocar o paciente em prancha longa",
+          "explanation": "Prancha longa não é a medida imediata prioritária; sua utilização é seletiva e não deve atrasar via aérea."
+        }
+      ],
+      "page": 4,
+      "id": "rodizio-reumato-2:q16:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "C"
+    },
+    {
+      "number": 17,
+      "numberLabel": "17",
+      "prompt": "Mulher, 42 anos, jogando beach tenis, apresenta ao saltar para uma jogada, dor importante no pé e panturrilha ao pisar novamente no chão. No diagnóstico de trauma de extremidades é correto afirmar:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fratura é uma incongruência articular",
+          "explanation": "Fratura corresponde à perda de continuidade do osso, não à incongruência articular."
+        },
+        {
+          "letter": "B",
+          "text": "Luxação é uma lesão direta das partes moles ou osso com hematoma",
+          "explanation": "Luxação é perda completa do contato articular; contusão é trauma de partes moles sem esse deslocamento."
+        },
+        {
+          "letter": "C",
+          "text": "Entorse é uma solução de continuidade do osso",
+          "explanation": "Entorse é lesão de ligamentos/cápsula por movimento anormal, não solução de continuidade do osso."
+        },
+        {
+          "letter": "D",
+          "text": "Lesão miotendínea é uma impotência funcional por ruptura",
+          "explanation": "CORRETA na formulação geral. Ruptura muscular ou tendínea pode causar perda importante da função; o episódio é sugestivo, inclusive, de lesão do tendão de Aquiles."
+        }
+      ],
+      "page": 4,
+      "id": "rodizio-reumato-2:q17:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "D"
+    },
+    {
+      "number": 18,
+      "numberLabel": "18",
+      "prompt": "Homem com aumento de edema de joelho foi prescrito AINE e começou a se queixar de epigastralgia. Para o edema de joelho foi passado um diurético que causou hipocalemia, sendo administrado K+, o que piorou epigastralgia. (tem uma sequência de medicamentos e efeitos adversos). Como chamamos esse efeito:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Efeito dominó",
+          "explanation": "'Efeito dominó' é expressão coloquial, não a denominação farmacoterapêutica específica."
+        },
+        {
+          "letter": "B",
+          "text": "Prescrição em cascata",
+          "explanation": "CORRETA. Prescrição em cascata ocorre quando efeito adverso de um medicamento é interpretado como novo problema e tratado com outro fármaco, originando novos eventos."
+        },
+        {
+          "letter": "C",
+          "text": "Interação medicamentosa",
+          "explanation": "Interação entre fármacos é possibilidade distinta, mas o caso enfatiza o tratamento sucessivo de reações adversas."
+        },
+        {
+          "letter": "D",
+          "text": "Ineficácia Terapêutica",
+          "explanation": "Ineficácia terapêutica é falta de benefício esperado, não prescrição motivada por efeito adverso."
+        }
+      ],
+      "page": 4,
+      "id": "rodizio-reumato-2:q18:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "B"
+    },
+    {
+      "number": 19,
+      "numberLabel": "19",
+      "prompt": "O que deve ser EVITADO na desprescrição:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Retirar medicamentos preventivos independente da expectativa de vida",
+          "explanation": "TAMBÉM PROBLEMÁTICA: retirar preventivos 'independentemente da expectativa de vida' ignora prognóstico, benefício esperado e riscos; logo também é prática a evitar. A questão é ambígua."
+        },
+        {
+          "letter": "B",
+          "text": "Retirar medicamentos sintomáticos, mesmo que sintomas já tenham melhorado",
+          "explanation": "Medicamentos sintomáticos podem ser revistos quando sintomas cessam, com vigilância de recidivas e indicação original."
+        },
+        {
+          "letter": "C",
+          "text": "Retirar vários medicamentos inapropriados ou de alto risco de uma só vez",
+          "explanation": "RESPOSTA MAIS DIRETA: suspender simultaneamente vários medicamentos dificulta identificar síndrome de retirada ou retorno da doença; prioriza-se retirada escalonada quando possível."
+        },
+        {
+          "letter": "D",
+          "text": "Retirar medicamentos psicotrópicos reduzindo a dose lenta e gradualmente",
+          "explanation": "A redução lenta de muitos psicotrópicos, quando indicada, é prática prudente para reduzir abstinência e efeitos de rebote; portanto não é o que deve ser evitado."
+        }
+      ],
+      "page": 4,
+      "id": "rodizio-reumato-2:q19:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "C"
+    },
+    {
+      "number": 20,
+      "numberLabel": "20",
+      "prompt": "Mulher, 78 anos, diabética, perdeu 6kg em 4 meses, apresenta fraqueza, fadiga, dificuldade em subir escadas. Ao teste de preensão palmar obteve resultado de 10kg. Circunferência de panturrilha: 31cm. No caso em questão a paciente apresenta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provável sarcopenia",
+          "explanation": "CORRETA. Preensão de 10 kg é força baixa para mulher (EWGSOP2: abaixo de 16 kg); indica sarcopenia provável."
+        },
+        {
+          "letter": "B",
+          "text": "Sarcopenia confirmada",
+          "explanation": "Para confirmar, é necessário demonstrar quantidade/qualidade muscular reduzida, geralmente com DXA ou bioimpedância validada; perímetro isolado não confirma."
+        },
+        {
+          "letter": "C",
+          "text": "Não apresenta sarcopenia",
+          "explanation": "A preensão muito baixa refuta ausência de suspeita."
+        },
+        {
+          "letter": "D",
+          "text": "Dados insuficientes para diagnóstico",
+          "explanation": "Há dados suficientes para classificar sarcopenia PROVÁVEL, embora não para confirmação diagnóstica."
+        }
+      ],
+      "page": 5,
+      "id": "rodizio-reumato-2:q20:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "A"
+    },
+    {
+      "number": 21,
+      "numberLabel": "21",
+      "prompt": "Queimadura indolor, aspecto polvilhado, vermelho vivo, nacarado, sem bolhas. Classificação?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1º grau",
+          "explanation": "Primeiro grau é queimadura superficial, geralmente muito dolorosa, eritematosa e sem bolhas."
+        },
+        {
+          "letter": "B",
+          "text": "2º grau sup.",
+          "explanation": "Segundo grau superficial costuma ser úmido, vermelho, muito doloroso e frequentemente com bolhas."
+        },
+        {
+          "letter": "C",
+          "text": "2º grau prof.",
+          "explanation": "Segundo grau profundo pode ser pálido/avermelhado, menos doloroso e com sensibilidade reduzida; o aspecto descrito não distingue com certeza essa categoria."
+        },
+        {
+          "letter": "D",
+          "text": "3º grau",
+          "explanation": "MAIS PROVÁVEL pela ausência de dor e aspecto nacarado: terceiro grau (espessura total). Ressalva: 'vermelho vivo' é achado atípico isolado e a profundidade requer avaliação clínica da perfusão e sensibilidade."
+        }
+      ],
+      "page": 5,
+      "id": "rodizio-reumato-2:q21:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "D"
+    },
+    {
+      "number": 22,
+      "numberLabel": "22",
+      "prompt": "Masc., 75, CA de próstata há 2 anos, finalizou TTO com QT. Prostatectomia. Lombalgia contínua, sem fator de melhora ou piora, sem irradiação p/ MMII. Não melhorou com fisioterapia nem relaxante muscular. A dor piorou.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Imagem, ... dor compressiva.",
+          "explanation": "Alternativa textual INCOMPLETA ('Imagem, ... dor compressiva'); não se pode julgar sua proposição integral sem inventar o trecho omitido."
+        },
+        {
+          "letter": "B",
+          "text": "Investigar metástase para coluna",
+          "explanation": "CORRETA. História de câncer de próstata e dor lombar progressiva persistente exigem investigação de metástase vertebral; avaliar sinais de compressão medular e realizar imagem adequada."
+        },
+        {
+          "letter": "C",
+          "text": "RX de coluna ( +S e +E)",
+          "explanation": "Radiografia isolada pode não detectar metástase precocemente; conforme sinais de alerta, RM é exame preferencial, especialmente se suspeita de compressão."
+        },
+        {
+          "letter": "D",
+          "text": "Metástase para coluna é pouco provável.",
+          "explanation": "A doença neoplásica torna metástase plausível; considerá-la improvável sem investigação é incorreto."
+        }
+      ],
+      "page": 5,
+      "id": "rodizio-reumato-2:q22:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "B"
+    },
+    {
+      "number": 23,
+      "numberLabel": "23",
+      "prompt": "Mulher de 72 anos com osteoporose. Após avaliação médica foi diagnosticado sarcopenia. Quais os critérios para este diagnóstico?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diminuição da massa muscular e diminuição da força",
+          "explanation": "CORRETA. Redução de força e de massa/qualidade muscular confirma sarcopenia segundo EWGSOP2."
+        },
+        {
+          "letter": "B",
+          "text": "Diminuição da força muscular e alto perfil físico",
+          "explanation": "Desempenho físico 'alto' não é critério; baixo desempenho indica maior gravidade."
+        },
+        {
+          "letter": "C",
+          "text": "Massa muscular normal e diminuição das enzimas musculares",
+          "explanation": "Massa normal não confirma sarcopenia, e dosagem de enzimas não integra seus critérios."
+        },
+        {
+          "letter": "D",
+          "text": "Fraqueza muscular e elevação das enzimas musculares",
+          "explanation": "Elevação de enzimas musculares sugere outras miopatias; não é critério diagnóstico de sarcopenia."
+        }
+      ],
+      "page": 5,
+      "id": "rodizio-reumato-2:q23:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "A"
+    },
+    {
+      "number": 24,
+      "numberLabel": "24",
+      "prompt": "Homem de 80 anos com osteoartrite no joelho direito em uso de bengala. Quais são as orientações para este paciente?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Durante a marcha, a bengala deve ser posicionada no degrau no membro superior esquerdo",
+          "explanation": "MAIS ADEQUADA quanto ao lado: a bengala deve ficar na MÃO ESQUERDA, contralateral ao joelho direito comprometido. A expressão 'no degrau' durante marcha plana é mal redigida."
+        },
+        {
+          "letter": "B",
+          "text": "Para descer uma escada, a bengala deve ser posicionada no degrau, primeiramente. Então, deve-se apoiar o MIE e, finalmente, o MDF, o qual suportará o peso do corpo.",
+          "explanation": "Na descida, bengala e perna comprometida descem primeiro; colocar a perna esquerda sadia antes da direita contraria a técnica usual."
+        },
+        {
+          "letter": "C",
+          "text": "Para levantar de uma cadeira, a bengala deve ser posicionada na frente do corpo, primeiramente. Em seguida, deve-se apoiar sobre a mesma inclinando o corpo para frente e levantar.",
+          "explanation": "Ao levantar da cadeira, o correto é impulsionar-se nos apoios da cadeira, não descarregar todo o peso em uma bengala à frente."
+        },
+        {
+          "letter": "D",
+          "text": "Para deambular, a bengala deve avançar simultaneamente com o membro inferior esquerdo.",
+          "explanation": "Na marcha, bengala esquerda avança junto com a perna DIREITA sintomática, e não junto com a esquerda."
+        }
+      ],
+      "page": 5,
+      "id": "rodizio-reumato-2:q24:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "A"
+    },
+    {
+      "number": 25,
+      "numberLabel": "25",
+      "prompt": "Homem de 27 anos refere dor e edema em joelho D há 4 semanas associado a inchaço bilateral dos dedos. Exame mostra artrite no JD, dactilite e exame geniturinário normal. Qual a principal hipótese diagnóstica?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artrite reativa",
+          "explanation": "CORRETA. Oligoartrite assimétrica de membro inferior e dactilite em adulto jovem sugerem espondiloartrite periférica, especialmente artrite reativa; avaliar antecedente infeccioso."
+        },
+        {
+          "letter": "B",
+          "text": "Artrite reumatoide",
+          "explanation": "Artrite reumatoide costuma cursar com poliartrite simétrica de pequenas articulações; dactilite não é clássica."
+        },
+        {
+          "letter": "C",
+          "text": "Gota",
+          "explanation": "Gota pode inflamar joelho, porém dactilite e idade tornam artrite reativa mais sugestiva; diagnóstico por cristais exige artrocentese."
+        },
+        {
+          "letter": "D",
+          "text": "Artrite séptica",
+          "explanation": "Artrite séptica permanece diagnóstico importante a excluir com análise sinovial, mas dactilite associada favorece a hipótese da letra A."
+        }
+      ],
+      "page": 6,
+      "id": "rodizio-reumato-2:q25:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "A"
+    },
+    {
+      "number": 26,
+      "numberLabel": "26",
+      "prompt": "Qual o fármaco padrão para o tratamento de AR (artrite reumatoide)?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sulfassalazina",
+          "explanation": "Sulfassalazina é DMARD convencional alternativa em contextos selecionados, não o principal fármaco âncora."
+        },
+        {
+          "letter": "B",
+          "text": "Leflunomida",
+          "explanation": "Leflunomida é DMARD efetivo, mas usualmente alternativa ao metotrexato."
+        },
+        {
+          "letter": "C",
+          "text": "Difosfato de cloroquina",
+          "explanation": "Cloroquina tem uso mais restrito e potencial de toxicidade; não é droga padrão preferencial da AR moderada/alta."
+        },
+        {
+          "letter": "D",
+          "text": "Metotrexato",
+          "explanation": "CORRETA. Metotrexato é DMARD âncora na artrite reumatoide ativa, salvo contraindicações, com monitorização e ácido fólico."
+        }
+      ],
+      "page": 6,
+      "id": "rodizio-reumato-2:q26:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "D"
+    },
+    {
+      "number": 27,
+      "numberLabel": "27",
+      "prompt": "A oesteoporose é uma enfermidade caracterizada por redução na densidade mineral óssea e aumento no risco de fraturas. Sobre essa doença, é correto afirmar",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A atv física de impacto deve ser evitada, pelo risco de fratura",
+          "explanation": "Atividade física resistida e com carga, adaptada ao risco, costuma ser recomendada; proibição generalizada é incorreta."
+        },
+        {
+          "letter": "B",
+          "text": "A teriparatida é a droga de escolha no tto da osteoporose com fratura",
+          "explanation": "Teriparatida pode ser preferível em risco de fratura MUITO alto, sobretudo fraturas vertebrais, mas não é obrigatoriamente primeira escolha após toda e qualquer fratura."
+        },
+        {
+          "letter": "C",
+          "text": "A densitometria óssea deve ser realizada em todas as mulheres, a partir dos 40 anos",
+          "explanation": "Não se indica densitometria indiscriminadamente a todas as mulheres desde os 40 anos; rastreio segue idade e fatores de risco."
+        },
+        {
+          "letter": "D",
+          "text": "Quando indicado o uso do alendronato, não é necessário prescrever cálcio e vitamina",
+          "explanation": "Não é obrigatório SUPLEMENTAR cálcio/vitamina D quando a ingestão alimentar e o estado vitamínico são suficientes; porém devem-se assegurar níveis adequados durante tratamento. O enunciado omite o 'D' e é absoluto, impedindo afirmação universal."
+        }
+      ],
+      "page": 6,
+      "id": "rodizio-reumato-2:q27:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answerIssue": "sem_resposta"
+    },
+    {
+      "number": 28,
+      "numberLabel": "28",
+      "prompt": "Paciente, fem, 23 anos, deu entrada no P.S. do HC, referindo falta de ar há 1 mês, com pior há 3 dias. Relatava dor e edema nas articulações das mãos (IFPs e punhos) e joelhos há 6 meses. Referia também edema de MMII e urina espumosa. Ao exame físico: BEG, hipocorada +/4+, dispneica, afebril, PA 140/90 mmHg. ACV: RCR, 2T, BNF, sem sopro, FC 100 bpm. AR: MV diminuído em base de hemitórax D. Abdome: flácido, indolor a palpação sem visceromegalias. Articular: Edema e dor a palpação e movimentação das 2as e 3as e 4as IFPs e joelhos. Edema de MMII 2+/4+. Ex. labs: Hemograma: Hb = 8,0, Leucocitos : 2000; Plaquetas: 50.000; VHS : 80 m/h (VR<20); ASO : 540 * (VR<200); Fator reumatoide : 10 UI/ml (VR <20); FAN : 1/640 nuclear pontilhado grosso. Eletroforese de proteínas: hipoalbuminemia e gamopatia policlonal. A radiografia de tórax com derrame pleural à D. Nesse caso, a melhor hipótese diagnóstica é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "LES",
+          "explanation": "CORRETA. Artrite, citopenias hematológicas, proteinúria/edema, serosite pleural e FAN alto favorecem LES com possível nefrite; requer investigação urgente."
+        },
+        {
+          "letter": "B",
+          "text": "AR",
+          "explanation": "Artrite reumatoide pode causar sinovite e pleurite, mas leucopenia e plaquetopenia importantes e possível acometimento renal favorecem LES."
+        },
+        {
+          "letter": "C",
+          "text": "Sjögren",
+          "explanation": "Sjögren não costuma causar esse conjunto sistêmico grave na ausência de manifestações glandulares."
+        },
+        {
+          "letter": "D",
+          "text": "Artrite psoriásica QUESTÕES DISCURSIVAS E DE RESPOSTA CURTA",
+          "explanation": "Artrite psoriásica costuma estar associada a psoríase, alterações ungueais, entesite ou dactilite; não explica bem pancitopenia e nefropatia. QUESTÕES DISCURSIVAS – RESPOSTAS FUNDAMENTADAS"
+        }
+      ],
+      "page": 6,
+      "id": "rodizio-reumato-2:q28:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "answer": "A"
+    },
+    {
+      "number": 29,
+      "numberLabel": "29",
+      "prompt": "Poliartrite acomete quantas articulações?",
+      "type": "discursive",
+      "options": [],
+      "page": 6,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Cinco ou mais articulações. Comentário: Poliartrite é acometimento de pelo menos cinco articulações; oligoartrite envolve 2 a 4, e monoartrite apenas uma.",
+      "id": "rodizio-reumato-2:q29:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Cinco ou mais articulações."
+    },
+    {
+      "number": 30,
+      "numberLabel": "30",
+      "prompt": "Gota pertence à qual diagnóstico sindrômico?",
+      "type": "discursive",
+      "options": [],
+      "page": 6,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Artrite aguda, frequentemente monoartrite por cristais. Comentário: A crise típica de gota é uma monoartrite inflamatória súbita (podagra é clássica), mas gota crônica ou crises intensas também podem ser oligo/poliarticulares.",
+      "id": "rodizio-reumato-2:q30:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Artrite aguda, frequentemente monoartrite por cristais."
+    },
+    {
+      "number": 31,
+      "numberLabel": "31",
+      "prompt": "Aspecto radiológico da artrite psoriásica?",
+      "type": "discursive",
+      "options": [],
+      "page": 7,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Erosões associadas a neoformação óssea; deformidade 'lápis na taça'. Comentário: Na artrite psoriásica podem ocorrer erosões periféricas, proliferação óssea periosteal, anquilose e osteólise de falanges; 'pencil-in-cup' é achado clássico, não obrigatório.",
+      "id": "rodizio-reumato-2:q31:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Erosões associadas a neoformação óssea; deformidade 'lápis na taça'."
+    },
+    {
+      "number": 32,
+      "numberLabel": "32",
+      "prompt": "Tratamento medicamentoso da espondilite anquilosante após falha em 3 meses de AINEs?",
+      "type": "discursive",
+      "options": [],
+      "page": 7,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Biológico: inibidor de TNF ou de IL-17, em doença axial persistente ativa com critérios de elegibilidade. Comentário: Após resposta inadequada a pelo menos dois AINEs e atividade inflamatória objetiva, recomendações ASAS-EULAR permitem TNFi ou IL-17i; JAKi é outra opção selecionada. 'Três meses' isoladamente não basta.",
+      "id": "rodizio-reumato-2:q32:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Biológico: inibidor de TNF ou de IL-17, em doença axial persistente ativa com critérios de elegibilidade."
+    },
+    {
+      "number": 33,
+      "numberLabel": "33",
+      "prompt": "Caso sugestivo de LES, qual exame solicitar?",
+      "type": "discursive",
+      "options": [],
+      "page": 7,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: FAN por imunofluorescência como exame de triagem; associar exames dirigidos. Comentário: Diante de suspeita clínica de LES, pedir FAN e, para confirmação/caracterização, anti-dsDNA, anti-Sm, C3/C4, hemograma, creatinina, EAS e proteinúria. FAN isolado não confirma LES.",
+      "id": "rodizio-reumato-2:q33:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "FAN por imunofluorescência como exame de triagem; associar exames dirigidos."
+    },
+    {
+      "number": 34,
+      "numberLabel": "34",
+      "prompt": "Demências no idoso e suas etiologias?",
+      "type": "discursive",
+      "options": [],
+      "page": 7,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Principais etiologias: doença de Alzheimer, doença cerebrovascular, demência com corpos de Lewy, demência frontotemporal e apresentações mistas. Comentário: Classificar por perfil cognitivo, curso temporal e exame clínico; pesquisar causas potencialmente tratáveis de comprometimento cognitivo, como fármacos, hipotireoidismo e deficiência de B12 quando apropriado.",
+      "id": "rodizio-reumato-2:q34:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Principais etiologias: doença de Alzheimer, doença cerebrovascular, demência com corpos de Lewy, demência frontotemporal e apresentações mistas."
+    },
+    {
+      "number": 35,
+      "numberLabel": "35",
+      "prompt": "Prevenção de quedas em idosos",
+      "type": "discursive",
+      "options": [],
+      "page": 7,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Prevenção multifatorial: exercício de força e equilíbrio, revisar medicações e causas clínicas, corrigir riscos domiciliares e déficits sensoriais. Comentário: Avaliar quedas prévias, marcha, visão, hipotensão ortostática, calçados, obstáculos, iluminação e dispositivos auxiliares. Individualizar a intervenção em vez de adotar uma única medida.",
+      "id": "rodizio-reumato-2:q35:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Prevenção multifatorial: exercício de força e equilíbrio, revisar medicações e causas clínicas, corrigir riscos domiciliares e déficits sensoriais."
+    },
+    {
+      "number": 36,
+      "numberLabel": "36",
+      "prompt": "Ossos mais fraturas em situações que o indivíduo cai do telhado de pé?",
+      "type": "discursive",
+      "options": [],
+      "page": 7,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Calcâneos e vértebras toracolombares; tálus também pode fraturar. Comentário: Queda vertical sobre os pés transmite carga axial, predispondo a fraturas de calcâneo, tálus e por compressão/explosão toracolombar; investigar lesões associadas.",
+      "id": "rodizio-reumato-2:q36:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Calcâneos e vértebras toracolombares; tálus também pode fraturar."
+    },
+    {
+      "number": 37,
+      "numberLabel": "37",
+      "prompt": "Tratamento pé torto congênito?",
+      "type": "discursive",
+      "options": [],
+      "page": 7,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Método de Ponseti. Comentário: Consiste em manipulações e gessos seriados, frequentemente tenotomia percutânea do Aquiles para equino residual, seguidos de órtese de abdução para prevenir recidiva.",
+      "id": "rodizio-reumato-2:q37:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Método de Ponseti."
+    },
+    {
+      "number": 38,
+      "numberLabel": "38",
+      "prompt": "Vantagem do autoenxerto?",
+      "type": "discursive",
+      "options": [],
+      "page": 7,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Biocompatibilidade e ausência de rejeição imunológica do enxerto autólogo. Comentário: Tecido do próprio paciente integra-se bem, sem reação imunológica de aloenxerto; limitações incluem morbidade e disponibilidade da área doadora.",
+      "id": "rodizio-reumato-2:q38:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Biocompatibilidade e ausência de rejeição imunológica do enxerto autólogo."
+    },
+    {
+      "number": 39,
+      "numberLabel": "39",
+      "prompt": "Critérios do fenótipo de fragilidade no idoso da Linda Fried.",
+      "type": "discursive",
+      "options": [],
+      "page": 7,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Cinco critérios de Fried: perda ponderal involuntária, exaustão, fraqueza de preensão, lentidão da marcha e baixo nível de atividade física. Comentário: Três ou mais caracterizam fragilidade; um a dois indicam pré-fragilidade; nenhum, robustez, conforme operacionalização utilizada.",
+      "id": "rodizio-reumato-2:q39:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Cinco critérios de Fried: perda ponderal involuntária, exaustão, fraqueza de preensão, lentidão da marcha e baixo nível de atividade física."
+    },
+    {
+      "number": 40,
+      "numberLabel": "40",
+      "prompt": "Como conduzir um caso de trauma raquimedular para evitar lesões secundárias?",
+      "type": "discursive",
+      "options": [],
+      "page": 7,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: ABCDE com proteção da coluna, evitar hipóxia e hipotensão e providenciar estabilização, avaliação neurológica e imagem adequadas. Comentário: Manter alinhamento e perfusão medular, controlar hemorragia e oxigenação; realizar exame neurológico seriado, TC quando indicada e RM em déficits/lesão ligamentar suspeita. Encaminhar precocemente à equipe de coluna; corticoide em altas doses não é rotina.",
+      "id": "rodizio-reumato-2:q40:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "ABCDE com proteção da coluna, evitar hipóxia e hipotensão e providenciar estabilização, avaliação neurológica e imagem adequadas."
+    },
+    {
+      "number": 41,
+      "numberLabel": "41",
+      "prompt": "Critérios para serem observados ao debridar musculatura em fraturas expostas.",
+      "type": "discursive",
+      "options": [],
+      "page": 7,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Viabilidade do músculo: quatro Cs - cor, consistência, contratilidade e circulação/sangramento. Comentário: No desbridamento, músculo necrótico tende a estar escurecido, friável, não contrátil à estimulação e sem sangramento capilar; preservar tecido viável e reavaliar quando necessário.",
+      "id": "rodizio-reumato-2:q41:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Viabilidade do músculo: quatro Cs - cor, consistência, contratilidade e circulação/sangramento."
+    },
+    {
+      "number": 42,
+      "numberLabel": "42",
+      "prompt": "Como conduzir um caso de grande queimado em criança?",
+      "type": "discursive",
+      "options": [],
+      "page": 7,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Atendimento de grande queimado pediátrico: ABCDE, via aérea, controle térmico e analgesia, cálculo da superfície queimada, reposição volêmica monitorizada e transferência para centro especializado. Comentário: Estimativa de SCQ exclui eritema isolado de 1º grau; em queimaduras extensas, iniciar solução cristaloide titulada por diurese (em crianças geralmente alvo de 1 mL/kg/h) e acrescentar manutenção com glicose conforme idade/necessidade. Avaliar inalação de fumaça, lesões associadas e vacinação antitetânica.",
+      "id": "rodizio-reumato-2:q42:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Atendimento de grande queimado pediátrico: ABCDE, via aérea, controle térmico e analgesia, cálculo da superfície queimada, reposição volêmica monitorizada e transferência para centro especializado."
+    },
+    {
+      "number": 43,
+      "numberLabel": "43",
+      "prompt": "Síndromes geriátricas.",
+      "type": "discursive",
+      "options": [],
+      "page": 8,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Síndromes geriátricas incluem quedas/instabilidade, imobilidade, incontinências, comprometimento cognitivo/demência, delirium, fragilidade, sarcopenia, iatrogenia e polifarmácia. Comentário: São condições frequentemente multifatoriais, inter-relacionadas e associadas a perda de autonomia. A lista varia conforme a classificação; depressão, disfagia e desnutrição também podem integrar a avaliação geriátrica.",
+      "id": "rodizio-reumato-2:q43:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Síndromes geriátricas incluem quedas/instabilidade, imobilidade, incontinências, comprometimento cognitivo/demência, delirium, fragilidade, sarcopenia, iatrogenia e polifarmácia."
+    },
+    {
+      "number": 44,
+      "numberLabel": "44",
+      "prompt": "Mulher de 45 anos, branca, professora, procura o ambulatório com queixas de dor e edema em mãos e punhos, associada a rigidez matinal de noventa minutos, há pelo menos 5 minutos. Nega outras queixas. Ao exame físico, observa-se artrite de punhos; 2a e 3a metacarpofalangeanas, bilateralmente; 2a/3a/4a interfalangeanas proximais, bilateralmente; atrofia de interósseos; 2o/3o dedos em pescoço de cisne, bilateralmente. Traz os seguintes exames: Hemograma normal; fator reumatoide positivo; FAN negativo; VHS e PCR elevadas. Quais as alterações radiográficas esperadas nesse caso?",
+      "type": "discursive",
+      "options": [],
+      "page": 8,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Erosões marginais e osteopenia justa-articular, com possível redução uniforme do espaço articular. Comentário: Poliartrite simétrica de pequenas articulações, rigidez prolongada, deformidades e FR positivo favorecem AR estabelecida. A expressão 'há pelo menos 5 minutos' é erro do texto e não deve alterar interpretação.",
+      "id": "rodizio-reumato-2:q44:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Erosões marginais e osteopenia justa-articular, com possível redução uniforme do espaço articular."
+    },
+    {
+      "number": 45,
+      "numberLabel": "45",
+      "prompt": "JR, 49 anos, branca, professora, procura o ambulatório com queixa de dor disseminada em todo o corpo, ansiedade, nervosismo, insônia e irritabilidade. Interrogatório sintomatológico: refere obstipação intestinal crônica. Ao exame físico, apresenta 14 tender points e não apresenta artrite ou deformidades articulares. Traz os seguintes exames: hemograma normal, fator reumatoide negativo, FAN negativo, TSH normal, VHS e PCR normais. Sobre esse caso, pode-se afirmar que:",
+      "type": "discursive",
+      "options": [],
+      "page": 8,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Hipótese principal: fibromialgia; tratamento multimodal. Comentário: Dor difusa e sono alterado sem inflamação objetiva sugerem fibromialgia. Exercícios graduais, educação e manejo do sono são fundamentais; amitriptilina em baixa dose pode ser opção individualizada, mas não é obrigatória. Tender points não são exigidos pelos critérios atuais.",
+      "id": "rodizio-reumato-2:q45:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Hipótese principal: fibromialgia; tratamento multimodal."
+    },
+    {
+      "number": 46,
+      "numberLabel": "46",
+      "prompt": "Homem de 28 anos relata dor lombar, que se iniciou há fez anos, que piora com o repouso e melhora com o movimento, associada a rigidez matinal de uma hora. Informa também dor nos ombros e na coluna cervical. Não está conseguindo dormir a noite. Ao exame físico, observa-se retificação lombar e teste de Patrick Fabere positivo, bilateralmente. Qual o provável diagnóstico e exame a ser solicitado, nesse caso?",
+      "type": "discursive",
+      "options": [],
+      "page": 8,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Espondiloartrite axial (possível espondilite anquilosante); radiografia da bacia/articulações sacroilíacas ou RM quando necessário. Comentário: Lombalgia inflamatória em jovem favorece espondiloartrite. Radiografia de sacroilíacas pode revelar sacroileíte estrutural; RM detecta inflamação em doença não radiográfica. FABER não é específico para sacroileíte.",
+      "id": "rodizio-reumato-2:q46:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Espondiloartrite axial (possível espondilite anquilosante); radiografia da bacia/articulações sacroilíacas ou RM quando necessário."
+    },
+    {
+      "number": 47,
+      "numberLabel": "47",
+      "prompt": "Homem de 59 anos, refere dor em joelhos, cotovelos e dorso dos pés, de início há mais de 10 anos. Relata que no início a dor era episódica e acometia principalmente os pés (pododáctilos e tornozelos), mas nos últimos dois anos está quase constante, com crise a cada dois meses, associada ao aparecimento de nodulações, nos cotovelos e nos pés. Atualmente, está sem crise. Faz uso constante de anti-inflamatório não hormonal. Traz os seguintes exames complementares: IIb = 14,0 g/dL; leucócitos = 5.000/mm3 (diferencial normal); plaquetas = 180.000/mm3. VHS = 50mm. Ureia/creatinina/TGO/TGP/Glicemia -= normais. RX pés = lesão em saca bocado nas primeiras MTFs, bilateralmente, e nos ossos do tarso. Qual a principal hipótese diagnóstica e conduta para esse caso?",
+      "type": "discursive",
+      "options": [],
+      "page": 8,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Gota crônica tofácea; confirmar quando possível e iniciar terapia redutora de urato, preferencialmente alopurinol. Comentário: Nódulos, episódios clássicos e erosões em 'saca-bocado' favorecem gota tofácea. O alopurinol requer titulação por uricemia-alvo (<6 mg/dL) e profilaxia anti-inflamatória inicial, considerando função renal e contraindicações.",
+      "id": "rodizio-reumato-2:q47:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Gota crônica tofácea; confirmar quando possível e iniciar terapia redutora de urato, preferencialmente alopurinol."
+    },
+    {
+      "number": 48,
+      "numberLabel": "48",
+      "prompt": "Mulher de 58 anos, profissão de salgadeira, relata parestesia no primeiro, segundo e terceiro dedos da mão direita. Após a avaliação, o acadêmico de medicina concluiu que a paciente tinha síndrome do túnel do carpo. Que manobra de exame físico auxiliou o acadêmico a chegar a essa conclusão?",
+      "type": "discursive",
+      "options": [],
+      "page": 8,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Manobras de Phalen e Tinel sobre o nervo mediano. Comentário: Parestesias nos três primeiros dedos sugerem síndrome do túnel do carpo. Manobras clínicas ajudam; eletroneuromiografia pode ser útil em dúvida diagnóstica ou pré-operatório selecionado.",
+      "id": "rodizio-reumato-2:q48:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Manobras de Phalen e Tinel sobre o nervo mediano."
+    },
+    {
+      "number": 49,
+      "numberLabel": "49",
+      "prompt": "O lúpus eritematoso sistêmico é uma doença inflamatória, autoimune, com formação de imunocomplexos, que teve seus critérios de classificação reavaliados em 2012. De acordo com essa reavaliação, fazem parte dos novos critérios da doença:",
+      "type": "discursive",
+      "options": [],
+      "page": 8,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Nos critérios SLICC de 2012: mielite, alopecia não cicatricial e consumo de complemento (C3, C4 ou CH50 reduzidos). Comentário: O conjunto realmente integra critérios de 2012; a classificação EULAR/ACR de 2019 possui estrutura diferente, com FAN como critério de entrada. Critérios classificatórios não substituem diagnóstico clínico.",
+      "id": "rodizio-reumato-2:q49:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Nos critérios SLICC de 2012: mielite, alopecia não cicatricial e consumo de complemento (C3, C4 ou CH50 reduzidos)."
+    },
+    {
+      "number": 50,
+      "numberLabel": "50",
+      "prompt": "A osteoartrite é uma doença caracterizada por dor articular e limitação dos movimentos. Radiologicamente, caracteriza-se por:",
+      "type": "discursive",
+      "options": [],
+      "page": 9,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Estreitamento do espaço articular, osteófitos marginais e esclerose subcondral. Comentário: Em osteoartrite também podem ocorrer cistos subcondrais e deformidades; o estreitamento costuma ser assimétrico, conforme compartimento acometido.",
+      "id": "rodizio-reumato-2:q50:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Estreitamento do espaço articular, osteófitos marginais e esclerose subcondral."
+    },
+    {
+      "number": 51,
+      "numberLabel": "51",
+      "prompt": "Paciente masc, 23 anos, natural e procedente de Goiânia – GO, administrador de empresa, procurou o ambulatório com quadro de dor e aumento de volume de tornozelos e joelho D, de início há 1 mês. Referia antecedente de uretrite, tratado por urologista, há 2 meses. Ao exame físico, apresentava artrite de tornozelos (D e E) e joelho D; e hiperemia conjuntival à D. Ausência de lesões cutâneas palmo-plantares. A principal hipótese diagnóstica nesse caso é:",
+      "type": "discursive",
+      "options": [],
+      "page": 9,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Artrite reativa. Comentário: Oligoartrite assimétrica após uretrite acompanhada de conjuntivite é apresentação sugestiva. Excluir artrite séptica, pesquisar infecção urogenital ativa e tratar sintomas/artropatia conforme gravidade.",
+      "id": "rodizio-reumato-2:q51:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Artrite reativa."
+    },
+    {
+      "number": 52,
+      "numberLabel": "52",
+      "prompt": "Paciente fem, 68 anos, natural e procedente de Abadiânia, passadeira de roupas, procura o ambulatório com queixa de dor em mãos e ombros, de início há 3 anos, que melhora com o repouso e piora com o esforço físico. Nega sintomas concomitantes. Ao exame físico, apresenta dor e limitação aos movimentos do ombro D, nodulações dolorosas à palpação em IFPs e IFDs, e dor aos movimentos do punho D. Quais exames complementares são essenciais na investigação diagnóstica?",
+      "type": "discursive",
+      "options": [],
+      "page": 9,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Radiografias das mãos e ultrassonografia do ombro direito, se houver suspeita de tendinopatia do manguito. Comentário: Quadro mecânico com nodulações interfalangeanas sugere artrose das mãos; dor de ombro requer exame físico e, se indicado, ultrassom para partes moles. Não há exame obrigatório universal sem melhor caracterização clínica.",
+      "id": "rodizio-reumato-2:q52:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Radiografias das mãos e ultrassonografia do ombro direito, se houver suspeita de tendinopatia do manguito."
+    },
+    {
+      "number": 53,
+      "numberLabel": "53",
+      "prompt": "Paciente masc, 43 anos, natural e procedente de Goiânia, bancário, procurou assistência médica com dor e edema no joelho D há 2 dias. Referia quadro semelhante no tornozelo esquerdo há 6 meses. Antecedente de hipertensão arterial sistêmica em uso de HCTZ. Relatava etilismo e tabagismo. Ao exame físico, apresentava eritema, aumento de volume, calor e dor em joelho D. Qual deve ser o melhor esquema terapêutico após feita a principal hipótese diagnóstica?",
+      "type": "discursive",
+      "options": [],
+      "page": 9,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Primeiro tratar a provável crise aguda de gota com anti-inflamatório apropriado, após afastar artrite séptica. Comentário: Monoartrite quente deve motivar consideração de artrocentese, especialmente antes de presumir gota. AINE, colchicina OU glicocorticoide são opções condicionadas às comorbidades; alopurinol é para prevenção de longo prazo quando indicado, podendo ser iniciado durante a crise com cobertura anti-inflamatória.",
+      "id": "rodizio-reumato-2:q53:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Primeiro tratar a provável crise aguda de gota com anti-inflamatório apropriado, após afastar artrite séptica."
+    },
+    {
+      "number": 54,
+      "numberLabel": "54",
+      "prompt": "Paciente fem, 18 anos, natural e procedente de Trindade, procurou o CAIS referindo dor nas interfalangeanas proximais e punhos há 6 meses, com piora há 2 meses, quando iniciou edema das articulações referidas, rigidez matinal de 1 hora, febre, tosse seca e dor torácica ventilatório dependente. Relatava antecedente de púrpura trombocitopênica há 1 ano quando teve que usar corticoide. Trazia um hemograma com anemia normocítica e normocromica sem outras alterações. Quais exames complementares são necessários na investigação da principal hipótese diagnóstica?",
+      "type": "discursive",
+      "options": [],
+      "page": 9,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Investigar LES: FAN, anti-dsDNA, anti-Sm, C3/C4, hemograma, EAS/proteinúria e função renal; radiografia de tórax para pleurite. Comentário: Mulher jovem com artrite, pleurite e antecedente hematológico sugere LES. Radiografia avalia derrame, mas não confirma autoimunidade; sorologias e órgãos-alvo definem o quadro.",
+      "id": "rodizio-reumato-2:q54:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Investigar LES: FAN, anti-dsDNA, anti-Sm, C3/C4, hemograma, EAS/proteinúria e função renal; radiografia de tórax para pleurite."
+    },
+    {
+      "number": 55,
+      "numberLabel": "55",
+      "prompt": "Em uma paciente de 43 anos, com poliartrite crônica, de acometimento de mãos e pés, procedente da região central do Brasil, além da investigação para artrite reumatoide, é fundamental o diagnóstico diferencial com:",
+      "type": "discursive",
+      "options": [],
+      "page": 9,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Hanseníase, entre outros diagnósticos diferenciais. Comentário: A hanseníase pode produzir poliartrite ou neurite e simular AR, particularmente em áreas endêmicas; investigar alterações de sensibilidade, nervos periféricos e lesões cutâneas.",
+      "id": "rodizio-reumato-2:q55:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Hanseníase, entre outros diagnósticos diferenciais."
+    },
+    {
+      "number": 56,
+      "numberLabel": "56",
+      "prompt": "São considerados fatores de risco para osteoporose:",
+      "type": "discursive",
+      "options": [],
+      "page": 9,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Baixo IMC e tabagismo. Comentário: Também são fatores de risco envelhecimento, fratura por fragilidade, corticoterapia, baixa ingestão de cálcio, hipogonadismo, sedentarismo e antecedentes familiares, conforme contexto.",
+      "id": "rodizio-reumato-2:q56:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Baixo IMC e tabagismo."
+    },
+    {
+      "number": 57,
+      "numberLabel": "57",
+      "prompt": "No diagnóstico da síndrome do túnel do carpo, a hiperflexão forçada dos punhos pode desencadear os sintomas de dor e parestesia no território do nervo mediano. Tal manobra é conhecida como teste de:",
+      "type": "discursive",
+      "options": [],
+      "page": 10,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Teste de Phalen. Comentário: A flexão sustentada do punho pode desencadear parestesias no território do nervo mediano na síndrome do túnel do carpo; teste isolado não é definitivo.",
+      "id": "rodizio-reumato-2:q57:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Teste de Phalen."
+    },
+    {
+      "number": 58,
+      "numberLabel": "58",
+      "prompt": "A manobra de Patrick-Fabere, quando positiva, indica:",
+      "type": "discursive",
+      "options": [],
+      "page": 10,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Dor sacroilíaca pode sugerir sacroileíte, mas FABER não a confirma isoladamente. Comentário: A localização da dor importa: posterior, na região sacroilíaca, favorece origem sacroilíaca; dor inguinal aponta para patologia do quadril. Teste clínico tem especificidade limitada.",
+      "id": "rodizio-reumato-2:q58:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Dor sacroilíaca pode sugerir sacroileíte, mas FABER não a confirma isoladamente."
+    },
+    {
+      "number": 59,
+      "numberLabel": "59",
+      "prompt": "Segundo o Consenso Brasileiro de Artrite Reumatoide, são fatores que indicam pior prognóstico em pacientes com artrite reumatoide:",
+      "type": "discursive",
+      "options": [],
+      "page": 10,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Erosões precoces, altos títulos de FR/anti-CCP e atividade inflamatória persistente ou extensa. Comentário: Extenso número de articulações acometidas, incapacidade funcional, manifestações extra-articulares e PCR/VHS elevados sustentados também indicam pior prognóstico.",
+      "id": "rodizio-reumato-2:q59:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Erosões precoces, altos títulos de FR/anti-CCP e atividade inflamatória persistente ou extensa."
+    },
+    {
+      "number": 60,
+      "numberLabel": "60",
+      "prompt": "Em um paciente com FAN positivo, a possibilidade de ele apresentar lúpus eritematoso sistêmico é mais relevante, na presença de auto-anticorpo:",
+      "type": "discursive",
+      "options": [],
+      "page": 10,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Anti-Sm (anti-Smith). Comentário: É altamente específico para LES, embora pouco sensível. Anti-dsDNA também é útil, especialmente em avaliação de nefrite/atividade, mas não é exclusivo de todos os casos.",
+      "id": "rodizio-reumato-2:q60:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Anti-Sm (anti-Smith)."
+    },
+    {
+      "number": 61,
+      "numberLabel": "61",
+      "prompt": "Paciente masc 22 anos, branco, lavrador, natural de sorriso MT, procedente de rio verde, procura o HC com queixa de dor lombar à direita, de início há 2 anos que piora com o repouso e no período noturno, e melhora durante o dia. Relata rigidez matinal de até meia hora. No IS, refere dor em calcanhares, intermitente e alternante, há 6 meses. Há uma semana, apresentando dor no olho esquerdo, fotofobia e diminuição da acuidade visual. Nesse caso, a principal hipótese diagnóstica é:",
+      "type": "discursive",
+      "options": [],
+      "page": 10,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Espondiloartrite axial/espondilite anquilosante com provável uveíte anterior aguda. Comentário: Dor lombar inflamatória, entesite de calcâneo e olho doloroso com fotofobia sugerem espondiloartrite. Queixa ocular exige avaliação oftalmológica urgente.",
+      "id": "rodizio-reumato-2:q61:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Espondiloartrite axial/espondilite anquilosante com provável uveíte anterior aguda."
+    },
+    {
+      "number": 62,
+      "numberLabel": "62",
+      "prompt": "Paciente, fem, 52 anos, negra, serviços gerais, natural de ouro preto MG, procedente de mineiros, refere dor em mãos, ombros, joelhos e coluna lombar, de início há 3 anos e piora progressiva. Relata inchaço dos joelhos, principalmente quando permanece longos períodos de pé. Ao exame físico: ausência de artrite; presença de nodulações, de consistência endurecida, em IFPs e IFDs; crepitação em joelhos, principalmente à direita; limitação aos movimentos do segmento lombar. Nesse caso, a principal hipótese diagnóstica é:",
+      "type": "discursive",
+      "options": [],
+      "page": 10,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Osteoartrite. Comentário: Nódulos em interfalangeanas, crepitação em joelhos e dor relacionada a carga sugerem doença degenerativa, não poliartrite inflamatória ativa.",
+      "id": "rodizio-reumato-2:q62:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Osteoartrite."
+    },
+    {
+      "number": 63,
+      "numberLabel": "63",
+      "prompt": "Paciente, masc, 45 anos, refere dor e edema na 1a metatarsofalangeana a direita iniciada na madrugada (há 8 h). Relata episódios anteriores semelhantes em 1a metatarso falangeanas, tornozelos e dorso dos pés. Traz uma dosagem de ácido úrico sérico de 11 mg/dl realizada há um mês. É hipertenso, em uso de HCTZ 25 mg/d, anlodipina 5mg/d e AAS 100mg/d. Nesse caso, a conduta terapêutica inicial é:",
+      "type": "discursive",
+      "options": [],
+      "page": 10,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Controlar a crise aguda presumida de gota com AINE, colchicina ou corticosteroide, após avaliação de contraindicações e exclusão de infecção. Comentário: A uricemia elevada apoia predisposição, mas não confirma a causa da monoartrite; se dúvida, analisar líquido sinovial. Revisar hidroclorotiazida se viável; alopurinol é prevenção, não analgésico da crise.",
+      "id": "rodizio-reumato-2:q63:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Controlar a crise aguda presumida de gota com AINE, colchicina ou corticosteroide, após avaliação de contraindicações e exclusão de infecção."
+    },
+    {
+      "number": 64,
+      "numberLabel": "64",
+      "prompt": "Paciente fem, 49 anos, branca, professora, natural e procedente de Goiânia, procurou o OS/HC com queixas de dor nas juntas. Referiu início dos sintomas há 4 meses, com dor e edema em punhos, 2o/3o metacarpofalangeanas (bilateralmente) e joelhos. O quadro é mais acentuado pela manhã, com alivio após atividade física, associado à rigidez matinal de 2 horas. Negava outras queixas e comorbidades. Exame físico: artrite em joelhos, punhos e 2o/3o metacarpofalangeanas(bilateralmente). Nódulo subcutâneo em face extensora de cotovelo direito. Labs: Hemograma normal, VHS 56 mm (1o hora), fator reumatoide 173 UI/ml (normal < 20). Rx de mãos: erosão no processo estiloide da ulna bilateralmente. Nesse caso, a principal hipótese diagnóstica é:",
+      "type": "discursive",
+      "options": [],
+      "page": 11,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Artrite reumatoide. Comentário: Poliartrite simétrica de pequenas articulações, rigidez prolongada, nódulo reumatoide, FR alto e erosões radiográficas caracterizam AR soropositiva erosiva.",
+      "id": "rodizio-reumato-2:q64:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Artrite reumatoide."
+    },
+    {
+      "number": 65,
+      "numberLabel": "65",
+      "prompt": "Paciente, 64 anos fem, doméstica, procurou o ambulatório com queixas de dor em joelhos, iniciada há 6 meses. Refere piora do quadro com atividade física e alívio com repouso. Nega rigidez matinal, edema articular e calor local. Exame físico: crepitações grosseiras em joelhos, sem sinais de artrite ou ruptura ligamentar. Peso: 87 kg, altura: 1,54m; trazia consigo radiografia de joelhos revelando esclerose subcondral, redução do espaço articular e osteofitose. Assinale a principal hipótese diagnóstica para o caso:",
+      "type": "discursive",
+      "options": [],
+      "page": 11,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Osteoartrite dos joelhos. Comentário: Dor mecânica, obesidade, crepitações, osteófitos, esclerose subcondral e estreitamento do espaço articular são típicos.",
+      "id": "rodizio-reumato-2:q65:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Osteoartrite dos joelhos."
+    },
+    {
+      "number": 66,
+      "numberLabel": "66",
+      "prompt": "Paciente, 25 anos, fem, negra, auxiliar de escritório, relata dor e edema em IFPS das mãos, punhos e tornozelos há 2 meses, seguida de queda de cabelo, úlceras orais e fotossensibilidade. Traz um FAN 1/640 pontilhado grosso e VHS = 45 mm. Baseado na principal hipótese diagnóstica qual a medicação deve ser iniciada para a paciente?",
+      "type": "discursive",
+      "options": [],
+      "page": 11,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Hidroxicloroquina, se confirmado LES e não houver contraindicações. Comentário: Artrite, alopecia, úlceras, fotossensibilidade e FAN alto sugerem LES. Hidroxicloroquina é terapia basal, mas avaliar primeiro envolvimento renal/hematológico e dose/monitorização oftalmológica.",
+      "id": "rodizio-reumato-2:q66:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Hidroxicloroquina, se confirmado LES e não houver contraindicações."
+    },
+    {
+      "number": 67,
+      "numberLabel": "67",
+      "prompt": "Paciente, masc, 45 anos, foi despertado durante a madrugada por dor súbita no joelho direito associado a edema, calor e rubor. Negava febre. Relatava episódios prévios semelhantes, porem em primeira metatarsofalangeana. Etilista diário. Sedentário. A principal hipótese diagnóstica e a conduta imediata seriam:",
+      "type": "discursive",
+      "options": [],
+      "page": 11,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Provável crise aguda de gota; tratar com AINE, colchicina ou glicocorticoide conforme o perfil clínico. Comentário: Monoartrite súbita de joelho com podagra prévia é sugestiva, mas infecção deve ser excluída. Associação AINE + colchicina não é obrigatória e pode aumentar toxicidade.",
+      "id": "rodizio-reumato-2:q67:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Provável crise aguda de gota; tratar com AINE, colchicina ou glicocorticoide conforme o perfil clínico."
+    },
+    {
+      "number": 68,
+      "numberLabel": "68",
+      "prompt": "Paciente, 24 anos, fem, jogadora de basquete, iniciou há cerca de 3 meses com queixa de dor em ombro direito, continua, pior a movimentação, aliviada parcialmente com uso de anti-inflamatórios. Procurou o reumatologista sendo evidenciado piora da dor com a elevação contra a resistência do braço direito (sinal de Neer positivo). O tendão possivelmente acometido é:",
+      "type": "discursive",
+      "options": [],
+      "page": 11,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Tendão supraespinal, como hipótese mais provável. Comentário: Dor no arco de elevação e testes de impacto podem envolver supraespinal; Neer é teste de impacto e não identifica isoladamente o tendão. Teste de Jobe e imagem, quando indicados, refinam o diagnóstico.",
+      "id": "rodizio-reumato-2:q68:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Tendão supraespinal, como hipótese mais provável."
+    },
+    {
+      "number": 69,
+      "numberLabel": "69",
+      "prompt": "Paciente, 82 anos, sexo feminino, do lar, natural e procedente de Goiânia, procura assistência medica para avaliação de densitometria óssea. Tabagista há 60 anos. Nega etilismo. Nega doenças pessoais. G IX; P VIII; A I. Após avaliação da densitometria, o médico assistente conclui por osteoporose. Neste caso, a prescrição médica deverá incluir:",
+      "type": "discursive",
+      "options": [],
+      "page": 11,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Tratamento antirreabsortivo, frequentemente bisfosfonato, e garantia de ingestão adequada de cálcio e vitamina D. Comentário: A seleção depende do risco de fratura, função renal, tolerabilidade e outros fatores. Suplementar cálcio ou vitamina D somente se necessário para assegurar aporte e níveis adequados; medidas de quedas e exercício também são essenciais.",
+      "id": "rodizio-reumato-2:q69:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Tratamento antirreabsortivo, frequentemente bisfosfonato, e garantia de ingestão adequada de cálcio e vitamina D."
+    },
+    {
+      "number": 70,
+      "numberLabel": "70",
+      "prompt": "A espondilite anquilosante, é uma doença inflamatória que acomete o esqueleto axial. Quais as alterações encontradas da radiografia da coluna lombar na espondilite anquilosante?",
+      "type": "discursive",
+      "options": [],
+      "page": 12,
+      "reviewNote": "Questão sem alternativas completas no PDF; consulte o gabarito comentado após a confirmação. Resposta: Quadratura dos corpos vertebrais e sindesmófitos marginais; em doença avançada, coluna em bambu. Comentário: Entesite vertebral e pontes ósseas podem causar anquilose e retificação das curvaturas da coluna.",
+      "id": "rodizio-reumato-2:q70:1",
+      "answerSource": "Gabarito comentado do PDF",
+      "modelAnswer": "Quadratura dos corpos vertebrais e sindesmófitos marginais; em doença avançada, coluna em bambu."
+    }
+  ],
+  "questionCount": 70
+}

@@ -1,0 +1,4 @@
+[functions.oitutigas-comments]
+# A função valida os dados e o código de exclusão por conta própria.
+# Não exige JWT, pois os visitantes não precisam fazer login.
+verify_jwt = false

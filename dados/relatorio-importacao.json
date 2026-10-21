@@ -1,0 +1,102 @@
+{
+  "total_provas": 17,
+  "total_questoes": 987,
+  "comentarios_alternativas": 3562,
+  "formatos": {
+    "multiple_choice": 882,
+    "discursive": 103,
+    "true_false": 2
+  },
+  "ordem": [
+    {
+      "titulo": "Provão M1 (2026)",
+      "questoes": 30,
+      "id": "provao-m1-2026"
+    },
+    {
+      "titulo": "Provão M2 (2026)",
+      "questoes": 30,
+      "id": "provao-m2-2026"
+    },
+    {
+      "titulo": "Provão M1 (2023)",
+      "questoes": 49,
+      "id": "provao-m1-2023"
+    },
+    {
+      "titulo": "Provão M1 e M2 (2023)",
+      "questoes": 68,
+      "id": "provao-m1-m2-2023"
+    },
+    {
+      "titulo": "Provão M1 e M2 (2022)",
+      "questoes": 83,
+      "id": "provao-m1-m2-2022"
+    },
+    {
+      "titulo": "Provão M1 (2019.2)",
+      "questoes": 40,
+      "id": "provao-m1-2019-2"
+    },
+    {
+      "titulo": "Provão M2 (2019.2)",
+      "questoes": 40,
+      "id": "provao-m2-2019-2"
+    },
+    {
+      "titulo": "Provão M1 (2019)",
+      "questoes": 24,
+      "id": "provao-m1-2019"
+    },
+    {
+      "titulo": "Provão M2 (2019)",
+      "questoes": 28,
+      "id": "provao-m2-2019"
+    },
+    {
+      "titulo": "Compilado M1",
+      "questoes": 234,
+      "id": "compilado-m1"
+    },
+    {
+      "titulo": "Compilado M2",
+      "questoes": 170,
+      "id": "compilado-m2"
+    },
+    {
+      "titulo": "Prova Rodízio M1 (2025)",
+      "questoes": 20,
+      "id": "rodizio-m1-2025"
+    },
+    {
+      "titulo": "Prova Rodízio M1 (2023)",
+      "questoes": 14,
+      "id": "rodizio-m1-2023"
+    },
+    {
+      "titulo": "Prova Rodízio M1 (2013)",
+      "questoes": 4,
+      "id": "rodizio-m1-2013"
+    },
+    {
+      "titulo": "Prova Rodízio - Reumato",
+      "questoes": 46,
+      "id": "rodizio-reumato"
+    },
+    {
+      "titulo": "Prova Rodízio - Reumato 2",
+      "questoes": 70,
+      "id": "rodizio-reumato-2"
+    },
+    {
+      "titulo": "Prova Rodízio - Reumato 3",
+      "questoes": 37,
+      "id": "rodizio-reumato-3"
+    }
+  ],
+  "observacoes": [
+    "Questões incompletas e sem gabarito único mantidas com ressalvas.",
+    "Questões de Reumatologia sem alternativas tratadas como discursivas.",
+    "Material adicional de dezembro de 2022 incluído no catálogo como “Provão M1 e M2 (2022)”."
+  ]
+}

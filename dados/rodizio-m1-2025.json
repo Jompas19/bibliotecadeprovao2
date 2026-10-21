@@ -1,0 +1,660 @@
+{
+  "id": "rodizio-m1-2025",
+  "title": "Prova Rodízio M1 (2025)",
+  "original": "N1 2025",
+  "key_source": "Gabarito comentado do PDF",
+  "questionCount": 20,
+  "questions": [
+    {
+      "number": 1,
+      "prompt": "Paciente do sexo masculino, 45 anos, trabalhador braçal, apresenta dor no ombro direito há 3 meses, especialmente ao levantar o braço acima da cabeça e realizar movimentos de rotação. A dor piora à noite e durante atividades que envolvem levantamento de peso. O exame físico sugere síndrome do impacto e possível tendinite do tendão da cabeça longa do bíceps. A Manobra adequada para confirmar tendinite do tendão da cabeça longa do bíceps nesse paciente é a Manobra de",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Neer.",
+          "explanation": "INCORRETA. Neer é manobra de impacto subacromial, não teste dirigido especificamente ao tendão bicipital."
+        },
+        {
+          "letter": "B",
+          "text": "Yergason.",
+          "explanation": "CORRETA. Yergason solicita supinação resistida e pode reproduzir dor no sulco bicipital, sugerindo afecção da cabeça longa do bíceps. O teste não confirma isoladamente a lesão."
+        },
+        {
+          "letter": "C",
+          "text": "Hawkins-Kennedy.",
+          "explanation": "INCORRETA. Hawkins-Kennedy provoca sintomas de impacto subacromial."
+        },
+        {
+          "letter": "D",
+          "text": "Jobe.",
+          "explanation": "INCORRETA. Jobe (empty-can) explora sobretudo o músculo/tendão supraespinal."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "1",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q1:1"
+    },
+    {
+      "number": 2,
+      "prompt": "Paciente do sexo feminino, 38 anos, professora de educação física, apresenta dor no cotovelo direito há 4 meses. Refere piora da dor ao realizar movimentos de extensão do punho e ao levantar objetos. O exame físico revela sensibilidade sobre o epicôndilo lateral do cotovelo, sugerindo epicondilite lateral. A manobra apropriada para confirmar o diagnóstico de epicondilite lateral nesse caso é a Manobra de",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cozen.",
+          "explanation": "CORRETA. Cozen provoca dor epicondilar lateral ao solicitar extensão resistida do punho."
+        },
+        {
+          "letter": "B",
+          "text": "Phalen.",
+          "explanation": "INCORRETA. Phalen avalia compressão do nervo mediano na síndrome do túnel do carpo."
+        },
+        {
+          "letter": "C",
+          "text": "Finkelstein.",
+          "explanation": "INCORRETA. Finkelstein investiga tenossinovite de De Quervain no punho."
+        },
+        {
+          "letter": "D",
+          "text": "Thompson.",
+          "explanation": "INCORRETA. Thompson pesquisa ruptura do tendão de Aquiles por compressão da panturrilha."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "2",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q2:2"
+    },
+    {
+      "number": 3,
+      "prompt": "Paciente do sexo feminino, 32 anos, com diagnóstico de lúpus eritematoso sistêmico há 5 anos, apresenta fadiga, artralgias e rash malar recorrente nos últimos 3 meses. Refere piora progressiva da dor articular e episódios de febre baixa. O exame físico revela artrite em pequenas articulações das mãos e hiperemia malar. Os exames laboratoriais mostram: VHS = 55 mm/h (↑), PCR = 1,2 mg/dL (↑), complemento C3 e C4 reduzidos e anti-DNA positivo em altos títulos. O anticorpo anti-Ro também está positivo. Com base nesse contexto clínico e laboratorial, qual a principal interpretação dos achados?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atividade inflamatória inespecífica, sem relação com a atividade do lúpus eritematoso sistêmico.",
+          "explanation": "INCORRETA. Anti-dsDNA elevado, hipocomplementemia e atividade articular/cutânea favorecem atividade do LES, não simples inflamação inespecífica."
+        },
+        {
+          "letter": "B",
+          "text": "A positividade do anti-DNA em altos títulos está associada ao risco de nefrite lúpica.",
+          "explanation": "CORRETA. Títulos elevados de anti-DNA de dupla hélice, sobretudo com C3/C4 baixos, associam-se a atividade do LES e maior atenção ao comprometimento renal; não bastam para diagnosticar nefrite."
+        },
+        {
+          "letter": "C",
+          "text": "Presença de sobreposição entre o lúpus eritematoso sistêmico e doença de Sjögren primária.",
+          "explanation": "INCORRETA. Anti-Ro positivo isoladamente não diagnostica síndrome de Sjögren; seriam necessários achados clínicos e critérios próprios."
+        },
+        {
+          "letter": "D",
+          "text": "Ativação viral como principal explicação para as alterações laboratoriais, sem relação com a atividade do lúpus eritematoso sistêmico.",
+          "explanation": "INCORRETA. Infecção viral pode simular exacerbações, mas não constitui a principal interpretação do conjunto apresentado."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "3",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q3:3"
+    },
+    {
+      "number": 4,
+      "prompt": "S.S.S., 67 anos, branca, feminina, compareceu no ambulatório de reumatologia referindo dor em IFDs e IFPs e joelhos há 10 anos anos, com rigidez matinal de 20 (ILEGÍVEL) no decorrer do dia e quando lava roupa. Ao exame (ILEGÍVEL) nódulos de Heberden e Bouchard, e crepitação em (ILEGÍVEL) do joelho D. (Questão com trecho parcialmente ilegível na dobra do papel.) Quais as alterações encontrada na radiografia e o diagnóstico? Radiografia da questão 4, preservada a partir da fotografia original.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Redução do espaço e lesão em saca bocado - gota",
+          "explanation": "INCORRETA. Erosões em saca-bocado, frequentemente com bordas salientes, lembram gota crônica, não explicam melhor o conjunto clínico."
+        },
+        {
+          "letter": "B",
+          "text": "Esclerose subcondral e lesão em ponta de lápis - artrite psoriásica",
+          "explanation": "INCORRETA. Deformidade em lápis-na-taça é própria da artrite psoriásica avançada, não do padrão ilustrado."
+        },
+        {
+          "letter": "C",
+          "text": "Redução do espaço articular e esclerose subcondral- osteoartrite",
+          "explanation": "CORRETA. Redução do espaço articular e esclerose subcondral, com rigidez curta, crepitação e nódulos de Heberden/Bouchard, apontam para osteoartrite."
+        },
+        {
+          "letter": "D",
+          "text": "Esclerose subcondral e erosões ósseas - artrite reumatóide.",
+          "explanation": "INCORRETA. Artrite reumatoide produz tipicamente erosões marginais e osteopenia periarticular, sem os clássicos nódulos de Heberden/Bouchard."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "4",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "images": [
+        "imagens/rodizio-m1-2025/p2-img1.png"
+      ],
+      "id": "rodizio-m1-2025:q4:4"
+    },
+    {
+      "number": 5,
+      "prompt": "Sobre a gota, assinale a alternativa correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "é muito importante fazer a medida do ácido úrico sérico no início da crise, para confirma o diagnóstico.",
+          "explanation": "INCORRETA. A uricemia pode estar normal durante uma crise; sua medida isolada não confirma gota. A demonstração de cristais de urato no líquido sinovial é referência diagnóstica."
+        },
+        {
+          "letter": "B",
+          "text": "classicamente se manifesta como monoartrite aguda, que se instala rapidamente em poucas horas, com dor muito intensa e sinais flogísticos na articulação acometida",
+          "explanation": "CORRETA. A apresentação clássica é monoartrite de instalação em horas, muito dolorosa, com calor, rubor e edema."
+        },
+        {
+          "letter": "C",
+          "text": "apesar de poder manifestar-se com crises repetidas de artrite, não provoca problemas permanentes nas articulações acometidas.",
+          "explanation": "INCORRETA. Crises repetidas e gota tofácea podem produzir erosões e dano articular permanente."
+        },
+        {
+          "letter": "D",
+          "text": "controle da hiperuricemia devem ser indicado após a primeira crises sendo a droga de escolha a colchicina.",
+          "explanation": "INCORRETA. Colchicina trata ou previne crises, mas não reduz urato. A indicação de terapia hipouricemiante após a primeira crise é seletiva, não universal; quando indicada, alopurinol costuma ser primeira escolha."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "5",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q5:5"
+    },
+    {
+      "number": 6,
+      "prompt": "Mulher de 18 anos comparece com queixa de emagrecimento e dores no corpo, com piora progressiva nos últimos 2 meses. Ela nega sintomas neurológicos, respiratórios, urinários e gastrointestinais. Relata muita astenia, fraqueza e que as dores no corpo concentram-se nas mãos, nos joelhos e nos tornozelos. No momento da consulta, ela apresenta um bom estado geral, com mucosas descoradas moderadamente, com um úlceras orais, artrite nas interfalangeanas proximais das mãos e edema de membros inferiores ++. Ela traz os exames que foram realizados: hemoglobina = 9g/dL, hematócrito = 26%; 82.000 plaquetas; leucograma normal; urina I com ++ de proteína. De acordo com a principal hipótese diagnóstica assinale a alternativa que consta os exames que mais auxiliariam sua confirmação:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fator antinúcleo, e anticorpo anti-Sm",
+          "explanation": "CORRETA. FAN é exame de triagem sensível e anti-Sm é altamente específico para LES, coerente com úlceras orais, artrite, citopenias e proteinúria."
+        },
+        {
+          "letter": "B",
+          "text": "anti Ro e teste de Schirmer",
+          "explanation": "INCORRETA. Anti-Ro e teste de Schirmer são úteis especialmente na investigação de Sjögren, não constituindo a dupla mais esclarecedora aqui."
+        },
+        {
+          "letter": "C",
+          "text": "dosagem de enzimas musculares e eletromiografia",
+          "explanation": "INCORRETA. Enzimas musculares e eletromiografia avaliam miopatias inflamatórias, não explicando adequadamente citopenias e proteinúria."
+        },
+        {
+          "letter": "D",
+          "text": "fator reumatoide e complemento",
+          "explanation": "INCORRETA. Fator reumatoide não é específico e complemento isolado não confirma o diagnóstico. Seriam úteis também anti-dsDNA, C3/C4, função renal e quantificação da proteinúria."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "6",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q6:6"
+    },
+    {
+      "number": 7,
+      "prompt": "A figura abaixo, extraída de \"Reumatologia – Diagnóstico e Tratamento, 5ª ed, 2019\", ilustra a fisiopatologia da osteoartrite, artropatia caracterizada por um desequilíbrio entre degradação e reparação cartilaginosa: Figura da questão 7, preservada a partir da fotografia original. Como demonstrado na figura, os condrócitos sintetizam proteases, por ação de diversas citocinas. Dentre as citocinas que atuam na síntese destas proteases, incluem-se:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "IL-4, IL-10 e IL-13.",
+          "explanation": "INCORRETA. IL-4, IL-10 e IL-13 têm perfis predominantemente imunorreguladores/anti-inflamatórios em comparação ao grupo solicitado."
+        },
+        {
+          "letter": "B",
+          "text": "IL-1, IL-6 e TNF.",
+          "explanation": "CORRETA. IL-1, IL-6 e TNF-alfa estimulam mediadores catabólicos e metaloproteinases produzidos por condrócitos, contribuindo para degradação da matriz."
+        },
+        {
+          "letter": "C",
+          "text": "IL-2, IL-17 e IL-23.",
+          "explanation": "INCORRETA. IL-17 pode participar da inflamação, mas IL-2 e IL-23 não formam o trio clássico enfatizado nesse mecanismo."
+        },
+        {
+          "letter": "D",
+          "text": "IFN-alfa, IL-12 e IL-22.",
+          "explanation": "INCORRETA. IFN-alfa, IL-12 e IL-22 não correspondem ao conjunto central descrito no esquema."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "7",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "images": [
+        "imagens/rodizio-m1-2025/p3-img1.png"
+      ],
+      "id": "rodizio-m1-2025:q7:7"
+    },
+    {
+      "number": 8,
+      "prompt": "Paciente de 38 anos, paraplégica há 20 anos, apresenta úlcera por pressão sobre o ísquio esquerdo. Foi submetida a tratamento cirúrgico onde foi realizado isquiectomia total com reconstrução com retalho glúteo maior. A complicação mais frequente que poderá ocorrer neste pós-operatório é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipovolemia no pós-operatório imediato",
+          "explanation": "INCORRETA. Hipovolemia pode ocorrer em cirurgias, mas não é a complicação particular mais esperada dessa técnica."
+        },
+        {
+          "letter": "B",
+          "text": "Necrose total do retalho glúteo",
+          "explanation": "INCORRETA. Necrose total do retalho é evento possível, porém não é a consequência mecânica típica da retirada do ísquio."
+        },
+        {
+          "letter": "C",
+          "text": "Fístula uretro-cutânea",
+          "explanation": "INCORRETA. Fístula uretrocutânea é complicação relatada, mas incomum e geralmente relacionada a ulcerações perineais extensas."
+        },
+        {
+          "letter": "D",
+          "text": "Aparecimento de úlcera por pressão em ísquio contra-lateral",
+          "explanation": "MAIS ADEQUADA. A isquiectomia unilateral redistribui a carga ao ísquio oposto, favorecendo nova úlcera contralateral. O enunciado usa «mais frequente» sem quantificar o risco; a associação causal é bem descrita, mas não há base para afirmar frequência universal."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "8",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q8:8"
+    },
+    {
+      "number": 9,
+      "prompt": "Paciente 18 anos, masculino, teve queda de escada com trauma direto sobre o hemicorpo Direito, e evoluiu com os seguintes sintomas na primeira hora na topografia de cotovelo. I- dor local II- edema ou deformidade III- hematoma IV- crepitação ao movimentar ou incapacidade funcional do membro Qual sua principal hipótese?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lesão de nervo interósseo posterior",
+          "explanation": "INCORRETA como hipótese principal. Lesão isolada de nervo interósseo posterior exige achado motor específico, não fornecido."
+        },
+        {
+          "letter": "B",
+          "text": "Fratura de rádio proximal",
+          "explanation": "MAIS PLAUSÍVEL. Fratura do rádio proximal pode causar dor, edema, crepitação e incapacidade na região do cotovelo após trauma."
+        },
+        {
+          "letter": "C",
+          "text": "Fratura de úmero proximal",
+          "explanation": "INCORRETA para a topografia informada. Fratura proximal do úmero costuma gerar manifestações na região do ombro, não no cotovelo."
+        },
+        {
+          "letter": "D",
+          "text": "Luxação articulação radiocarpal",
+          "explanation": "INCORRETA. Luxação radiocarpal acomete o punho. RESSALVA: o enunciado não descreve dor à palpação da cabeça do rádio, limitação de pronossupinação ou radiografia; não é possível confirmar a fratura específica."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "9",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q9:9"
+    },
+    {
+      "number": 10,
+      "prompt": "Na displasia do desenvolvimento do quadril, podemos dizer que o quadril instável é aquele que:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está reduzido e luxa quando fazemos manobra de abdução",
+          "explanation": "INCORRETA. A abdução integra a manobra de Ortolani, utilizada para reduzir a luxação; não é o mecanismo provocativo clássico."
+        },
+        {
+          "letter": "B",
+          "text": "É aquele que tem a cabeça femural com 50% de cobertura pelo acetábulo",
+          "explanation": "INCORRETA. Cobertura acetabular de 50% é informação de avaliação por imagem, não a definição clínica de quadril luxável."
+        },
+        {
+          "letter": "C",
+          "text": "Está reduzido e luxa quando realizamos manobra de adução",
+          "explanation": "CORRETA. O quadril reduzido, porém deslocável por adução suave com manobra de Barlow, é instável."
+        },
+        {
+          "letter": "D",
+          "text": "Apresenta incongruência entre a epífise femural e o acetábulo",
+          "explanation": "INCORRETA. Incongruência pode caracterizar quadril já luxado, mas não define especificamente o quadril reduzido e luxável."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "10",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q10:10"
+    },
+    {
+      "number": 11,
+      "prompt": "Quais os primeiros cuidados com uma criança com queimaduras provocadas por líquidos aquecidos e que atingiram 20% de área corporal, sendo aproximadamente 15% de segundo grau e 5% de terceiro grau?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cateterização de uma veia periférica e hidratação com soro ringer lactato",
+          "explanation": "ADEQUADA. Acesso venoso e reposição de cristaloide, geralmente Ringer lactato, fazem parte do atendimento inicial de queimaduras extensas."
+        },
+        {
+          "letter": "B",
+          "text": "Cateterização vesical e gástrica",
+          "explanation": "ADEQUADA conforme extensão e protocolo. Cateter vesical permite acompanhar a diurese; sonda gástrica pode ser necessária em queimaduras extensas e risco de íleo, mas não é obrigatória para toda criança."
+        },
+        {
+          "letter": "C",
+          "text": "Curativos oclusivos com tópicos antimicrobianos, internação em UTI",
+          "explanation": "ADEQUADA em contexto selecionado. Curativos apropriados e avaliação por centro de queimados são importantes; internação em UTI depende de gravidade e recursos, não apenas de uma regra rígida para toda queimadura de 20%."
+        },
+        {
+          "letter": "D",
+          "text": "Todas estão corretas",
+          "explanation": "RESPOSTA PROVAVELMENTE PRETENDIDA. Integra medidas potencialmente apropriadas, mas «todas» pressupõe indicação individual das sondas e do nível de internação. Avaliação ABCDE e analgesia também são prioritárias."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "11",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q11:11"
+    },
+    {
+      "number": 12,
+      "prompt": "Senhor J.P.A., 77 anos, chega ao Ambulatório de Ortopedia, com queixa de dor intensa na coluna lombar, que iniciou há 2 meses. A dor é contínua, porém piora a noite de forma importante, e com os movimentos, vem tendo perda de peso (10kg em 3 meses) e astenia. Foi levantada hipótese de fratura de vértebra por metástase Qual opção de tumores malignos que mais ocasionam metástases na coluna vertebral nesta população, como J.P.A.?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pulmão",
+          "explanation": "INCORRETA como resposta preferencial no perfil descrito. Pulmão também é origem frequente de metástases ósseas, não sendo uma hipótese descartável."
+        },
+        {
+          "letter": "B",
+          "text": "Rins",
+          "explanation": "INCORRETA como mais frequente no perfil. Carcinoma renal pode metastatizar para o esqueleto, porém é menos prevalente que próstata na população masculina idosa."
+        },
+        {
+          "letter": "C",
+          "text": "Próstata",
+          "explanation": "CORRETA no contexto. Câncer de próstata é uma das causas principais de metástases ósseas/vertebrais em homens idosos; as lesões são frequentemente osteoblásticas."
+        },
+        {
+          "letter": "D",
+          "text": "Fígado",
+          "explanation": "INCORRETA. Fígado não é fonte usualmente principal de metástases vertebrais nessa faixa clínica. Ressalva: frequências variam conforme a população estudada."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "12",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q12:12"
+    },
+    {
+      "number": 13,
+      "prompt": "Adulto jovem, 28 anos, foi vítima de politrauma por atropelamento. Você como plantonista do Pronto-Socorro, e baseado no conhecimento do que é preconizado pelo ATLS, quais radiografia solicitaria?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RX em perfil da coluna cervical, AP do tórax e AP da bacia",
+          "explanation": "MELHOR ENTRE AS OPÇÕES DA PROVA ANTIGA: perfil da cervical, AP de tórax e AP de pelve reproduzem o conjunto clássico de radiografias auxiliares do atendimento ao trauma."
+        },
+        {
+          "letter": "B",
+          "text": "RX em perfil da coluna cervical, AP do tórax e AP do abdome",
+          "explanation": "INCORRETA. Radiografia AP de abdome não substitui a avaliação da pelve como adjunto convencional no contexto fornecido."
+        },
+        {
+          "letter": "C",
+          "text": "RX em AP da coluna cervical, AP do tórax e AP da bacia",
+          "explanation": "INCORRETA. Projeção AP isolada da cervical não é exame adequado para excluir lesão cervical."
+        },
+        {
+          "letter": "D",
+          "text": "RX em perfil da coluna cervical, perfil do tórax e AP do abdome.",
+          "explanation": "INCORRETA. Perfil de tórax e AP de abdome não correspondem à sequência tradicional. ATUALIZAÇÃO: no trauma moderno, a indicação de imagem é individualizada e a TC é preferível à radiografia simples para investigação cervical quando necessária; não se devem atrasar medidas de ressuscitação para obter radiografias."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "13",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q13:13"
+    },
+    {
+      "number": 14,
+      "prompt": "Um paciente com 6 meses de trauma raquimedular apresenta ao exame físico: Babinsky, clônus de membros inferiores e reflexo de Hoffmann positivo. Qual a altura provável da lesão do paciente?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C4C5",
+          "explanation": "CORRETA. Lesão medular cervical em C4-C5 é compatível com Hoffmann positivo e sinais de primeiro neurônio motor em membros inferiores."
+        },
+        {
+          "letter": "B",
+          "text": "T8T9",
+          "explanation": "INCORRETA. Lesão torácica T8-T9 justifica sinais piramidais em pernas, mas não explica de modo consistente Hoffmann patológico em membros superiores."
+        },
+        {
+          "letter": "C",
+          "text": "T12L1",
+          "explanation": "INCORRETA. Lesão em T12-L1 não esclarece o acometimento de vias motoras dos membros superiores."
+        },
+        {
+          "letter": "D",
+          "text": "L4L5",
+          "explanation": "INCORRETA. L4-L5 é nível lombar, predominantemente de raízes, não explicando esse conjunto de reflexos patológicos. Os reflexos não definem com precisão um nível vertebral sem exame completo e imagem."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "14",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q14:14"
+    },
+    {
+      "number": 15,
+      "prompt": "Para avaliação de sintomas utiliza-se em Cuidados Paliativos:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Questionário de funcionalidade de Pfeffer",
+          "explanation": "INCORRETA. Pfeffer avalia atividades instrumentais e funcionalidade, frequentemente em avaliação cognitiva."
+        },
+        {
+          "letter": "B",
+          "text": "Escala de Performance Paliativa (PPS)",
+          "explanation": "INCORRETA. PPS mensura estado de desempenho e funcionalidade paliativa, não a intensidade individual de sintomas."
+        },
+        {
+          "letter": "C",
+          "text": "Escala de Avaliação de Sintomas de Edmonton (ESAS)",
+          "explanation": "CORRETA. ESAS quantifica sintomas como dor, fadiga, náusea, ansiedade e dispneia, usualmente de 0 a 10."
+        },
+        {
+          "letter": "D",
+          "text": "Escala Clínica de Fragilidade (ECF)",
+          "explanation": "INCORRETA. Escala Clínica de Fragilidade avalia grau de fragilidade global, não a carga sintomática específica."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "15",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q15:15"
+    },
+    {
+      "number": 16,
+      "prompt": "Mulher de 87 anos, portadora de doença de Alzheimer em fase grave, faz uso de donepezila, memantina, sertralina e olanzapina. Além disso, utiliza valsartana, anlodipina, hidroclorotiazida para hipertensão; metformina e glibenclamida para diabetes; sinvastatina para controle da dislipidemia; corticosteroide em baixa dose para osteoartrite; alendronato, cálcio e vitamina D para osteoporose; e paracetamol para dores eventuais. Acompanhantes relatam que a paciente começou a apresentar frequentes recusas ou dificuldades para ingerir as medicações. Nesse caso, assinale a conduta mais adequada.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amassar e dissolver todos os medicamentos de uso habitual nos alimentos e líquidos.",
+          "explanation": "INCORRETA. Nem todos os comprimidos podem ser amassados; isso pode modificar liberação, segurança e absorção, além de não resolver prescrição excessiva."
+        },
+        {
+          "letter": "B",
+          "text": "(ILEGÍVEL) um medicamento inibidor de bomba de prótons para proteção gástrica.",
+          "explanation": "INCORRETA. Introduzir IBP sem indicação apenas aumenta a carga farmacológica."
+        },
+        {
+          "letter": "C",
+          "text": "(ILEGÍVEL) nasoenteral para garantir o fornecimento de todos os medicamentos.",
+          "explanation": "INCORRETA como medida geral. Sonda nasoenteral não deve ser instituída apenas para manter todas as medicações, sobretudo diante de objetivos de conforto e possível desprescrição."
+        },
+        {
+          "letter": "D",
+          "text": "(ILEGÍVEL) prescrição e avaliar a desprescrição dos medicamentos inapropriados.",
+          "explanation": "MAIS ADEQUADA. Rever integralmente a prescrição e considerar retirada criteriosa de fármacos de benefício remoto ou risco desproporcional. O início da alternativa encontra-se ilegível no PDF, mas a parte disponível sustenta essa leitura."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "16",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q16:16"
+    },
+    {
+      "number": 17,
+      "prompt": "(ILEGÍVEL) de 78 anos é levado ao ambulatório de Geriatria pelo filho que refere que, há (ILEGÍVEL) de 1 ano, o pai começou a apresentar episódios de confusão, irritabilidade e comportamento agressivo, tendo se perdido nas ruas do bairro em que mora por 2 vezes. Associado a isso, ele tem apresentado episódios de desequilíbrio com quedas frequentes e escapes urinários, com necessidade de uso de fraldas, principalmente à noite, quando acorda frequentemente relatando a presença de pessoas estranhas em seu quarto. Durante a anamnese e avaliação clínica, apresentava-se apático e com marcha instável, além de rigidez de movimentos e tremores de membros superiores. O Mini Exame do Estado Mental foi de 26 pontos e o Questionário de Pfeffer de 27 pontos. Qual é a hipótese mais provável?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Delirium hiperativo.",
+          "explanation": "INCORRETA. Delirium possui início agudo/flutuante e costuma ser precipitado por condição médica; a evolução de aproximadamente um ano favorece transtorno neurocognitivo."
+        },
+        {
+          "letter": "B",
+          "text": "Demência por Corpos de Lewy.",
+          "explanation": "CORRETA. Alucinações visuais formadas, parkinsonismo e declínio cognitivo temporalmente associados sustentam demência com corpos de Lewy."
+        },
+        {
+          "letter": "C",
+          "text": "Doença de Alzheimer.",
+          "explanation": "INCORRETA como explicação principal. Alzheimer isolado costuma ter predomínio de déficit de memória episódica e não explica tão bem alucinações precoces com parkinsonismo."
+        },
+        {
+          "letter": "D",
+          "text": "Demência da Doença de Parkinson.",
+          "explanation": "MENOS PROVÁVEL. Demência da doença de Parkinson é preferida quando doença de Parkinson estabelecida precede a demência por mais de um ano; isso não foi descrito."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "17",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q17:17"
+    },
+    {
+      "number": 18,
+      "prompt": "O conceito de funcionalidade é muito discutido nas avaliações geriátricas. Em relação a esse tema, é correto afirmar que:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "não é necessária a avaliação de funcionalidade, para o diagnóstico de demências.",
+          "explanation": "INCORRETA. Avaliar impacto funcional é fundamental para caracterizar comprometimento neurocognitivo maior."
+        },
+        {
+          "letter": "B",
+          "text": "pacientes classificados como dependentes certamente têm o diagnóstico de demência.",
+          "explanation": "INCORRETA. Dependência pode decorrer de doenças motoras, sensoriais, sociais ou outras causas, sem demência."
+        },
+        {
+          "letter": "C",
+          "text": "existem diversas escalas validadas para a avaliação de funcionalidade, sendo uma delas o MoCa (Montreal Cognitive Assessment).",
+          "explanation": "INCORRETA. MoCA é teste cognitivo, não escala específica de atividades da vida diária."
+        },
+        {
+          "letter": "D",
+          "text": "avalia a capacidade de o idoso cuidar de si mesmo e do ambiente onde vive.",
+          "explanation": "CORRETA. Funcionalidade compreende autonomia e capacidade nas atividades básicas, instrumentais e no manejo do ambiente."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "18",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q18:18"
+    },
+    {
+      "number": 19,
+      "prompt": "Em uma Síndrome Geriátrica observa-se:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "múltiplas alterações fisiopatológicas que concorrem simultaneamente para um conjunto de sinais e sintomas.",
+          "explanation": "CORRETA. Síndromes geriátricas habitualmente surgem da interação simultânea de vários fatores fisiopatológicos e ambientais, gerando manifestações clínicas."
+        },
+        {
+          "letter": "B",
+          "text": "múltiplas alterações fisiopatológicas que concorrem sequencialmente para único sinal clínico.",
+          "explanation": "INCORRETA. Sequência de causas para um único sinal não representa o conceito abrangente da síndrome geriátrica."
+        },
+        {
+          "letter": "C",
+          "text": "uma única alteração fisiopatológica que resulta em um conjunto de sinais e sintomas.",
+          "explanation": "INCORRETA. Um único mecanismo causal caracteriza melhor doença ou processo específico, não a natureza multifatorial típica."
+        },
+        {
+          "letter": "D",
+          "text": "uma única alteração fisiopatológica que resulta em único fenômeno clínico.",
+          "explanation": "INCORRETA. Uma causa isolada e uma manifestação isolada não traduzem a síndrome geriátrica."
+        },
+        {
+          "letter": "E",
+          "text": "um conjunto de sinais e sintomas no qual não se consegue definir nenhuma alteração fisiopatológica causal.",
+          "explanation": "INCORRETA. Multifatorialidade não significa ausência de causas identificáveis; os componentes frequentemente podem ser investigados."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "19",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q19:19"
+    },
+    {
+      "number": 20,
+      "prompt": "Homem, de 74 anos, professor aposentado, portador de hipertensão e fibrilação atrial, ficou viúvo há um ano e a filha, que foi morar com o pai, observou que ele vinha apresentando perda progressiva de memória, pois observou que ele começou a fazer confusão com os medicamentos de uso habitual, esqueceu várias vezes a senha do banco, fez uma retirada de sua conta e não se lembra para que usou o dinheiro, além de ter se perdido uma vez ao ir a paróquia, caminho que conhecia muito bem, pois residia no mesmo bairro há mais de 30 anos. Apesar dessas dificuldades, ele não tinha incontinência e era capaz de alimentar-se e andar sem ajuda, tomar banho e vestir-se adequadamente e fazer a barba e a própria higiene. as dificuldades apresentadas pelo paciente caracterizavam incapacidade para executar as:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "atividades básicas de vida diária.",
+          "explanation": "INCORRETA. Alimentação, banho, higiene e vestuário (atividades básicas) estão preservados no caso."
+        },
+        {
+          "letter": "B",
+          "text": "atividades avançadas de vida diária.",
+          "explanation": "INCORRETA. Atividades avançadas incluem participação social complexa e lazer; não são a melhor categoria para finanças e administração de remédios."
+        },
+        {
+          "letter": "C",
+          "text": "atividades instrumentais de vida diária.",
+          "explanation": "CORRETA. Administrar medicamentos, lidar com finanças e deslocar-se autonomamente são atividades instrumentais, comprometidas na descrição."
+        },
+        {
+          "letter": "D",
+          "text": "atividades básicas e instrumentais de vida diária.",
+          "explanation": "INCORRETA. Não há evidência de perda das atividades básicas mencionadas na alternativa."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "20",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-m1-2025:q20:20"
+    }
+  ]
+}

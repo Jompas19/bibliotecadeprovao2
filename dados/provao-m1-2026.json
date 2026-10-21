@@ -1,0 +1,969 @@
+{
+  "id": "provao-m1-2026",
+  "title": "Provão M1 (2026)",
+  "original": "Provão M1 - A e B - 71",
+  "key_source": "Gabarito comentado do PDF",
+  "questionCount": 30,
+  "questions": [
+    {
+      "number": 1,
+      "prompt": "Um homem de 41 anos, professor de educação física, foi encaminhado para avaliação após fratura de baixo impacto em pododáctilo durante atividade habitual. Na investigação complementar, realizou densitometria óssea, que evidenciou Z escore de -2,6 no colo do fêmur. Com base nesse resultado, a interpretação mais adequada é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Osteopenia",
+          "explanation": "Incorreta. “Osteopenia” é classificação baseada no T-escore, não no Z-escore indicado para esse grupo etário."
+        },
+        {
+          "letter": "B",
+          "text": "Osteoporose",
+          "explanation": "Incorreta como interpretação densitométrica isolada. Em homem de 41 anos, Z-escore −2,6 não estabelece, por si só, diagnóstico de osteoporose."
+        },
+        {
+          "letter": "C",
+          "text": "Massa óssea adequada para a idade",
+          "explanation": "Incorreta. O Z-escore está abaixo da faixa esperada para a idade, pois é inferior ou igual a −2,0."
+        },
+        {
+          "letter": "D",
+          "text": "Baixa massa óssea para a idade",
+          "explanation": "Correta. O Z-escore −2,6 representa baixa massa/densidade óssea para a idade segundo a ISCD. Observação crítica: Ressalva: a fratura em pododáctilo, isoladamente, não é uma das fraturas clássicas de fragilidade utilizadas para definir osteoporose; é pertinente investigar causas secundárias de baixa massa óssea."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "1",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q1:1"
+    },
+    {
+      "number": 2,
+      "prompt": "Uma mulher de 49 anos, auxiliar administrativa, procura atendimento por dor difusa há cerca de cinco meses. Refere sensação de \"corpo pesado\", sono não reparador, cansaço frequente ao longo do dia, dificuldade de concentração e piora dos sintomas em períodos de maior estresse. Nega edema articular, rigidez matinal prolongada ou febre. Ao exame físico, não há sinovite, deformidades ou limitação articular objetiva, mas observa-se dor difusa à palpação de grupos musculares em diferentes regiões do corpo. Os exames laboratoriais mostram hemograma, TSH, VHS e PCR sem alterações. Considerando a principal hipótese diagnóstica, a conduta mais adequada é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabapentina, repouso relativo e redução das atividades físicas até melhora completa",
+          "explanation": "Incorreta. Repouso e diminuição persistente da atividade física tendem a piorar o condicionamento; gabapentina não substitui a estratégia não farmacológica."
+        },
+        {
+          "letter": "B",
+          "text": "Pregabalina, repouso relativo e encaminhamento exclusivo para psicoterapia",
+          "explanation": "Incorreta. Pregabalina pode ser considerada em casos selecionados, mas repouso e psicoterapia exclusiva não constituem tratamento integral."
+        },
+        {
+          "letter": "C",
+          "text": "Gabapentina, infiltrações analgésicas seriadas e suspensão temporária do trabalho",
+          "explanation": "Incorreta. Infiltrações seriadas e afastamento rotineiro do trabalho não são o tratamento central da fibromialgia."
+        },
+        {
+          "letter": "D",
+          "text": "Pregabalina, exercícios físicos aeróbios, fortalecimento muscular e psicoterapia",
+          "explanation": "Correta entre as opções. Exercícios aeróbicos, fortalecimento progressivo e terapia psicológica/cognitivo-comportamental são medidas úteis; pregabalina pode ser adjuvante individualizado. Observação crítica: Nota: recomendações EULAR priorizam exercício e outras intervenções não farmacológicas; pregabalina não é obrigatória nem primeira escolha universal."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "2",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q2:2"
+    },
+    {
+      "number": 3,
+      "prompt": "Uma mulher de 62 anos com polimialgia reumática iniciou tratamento com prednisona há três meses e deverá permanecer em corticoterapia por tempo prolongado. Durante o retorno ambulatorial, o médico discute medidas para reduzir efeitos adversos relacionados ao uso crônico dessa medicação, especialmente no tecido ósseo. Nesse contexto, qual conduta está corretamente indicada?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evitar prednisona, pois corticosteroides são formalmente contraindicados em doenças inflamatórias sistêmicas",
+          "explanation": "Incorreta. Prednisona é tratamento habitual da polimialgia reumática; não há contraindicação absoluta para doenças inflamatórias sistêmicas."
+        },
+        {
+          "letter": "B",
+          "text": "Monitorar principalmente hipoglicemia e hipotensão, por serem efeitos típicos da corticoterapia prolongada",
+          "explanation": "Incorreta. Corticoterapia prolongada associa-se com maior frequência a hiperglicemia, hipertensão, infecções e osteoporose, entre outros efeitos."
+        },
+        {
+          "letter": "C",
+          "text": "Considerar que prednisona, metilprednisolona e dexametasona têm a mesma potência e o mesmo efeito mineralocorticoide",
+          "explanation": "Incorreta. Esses glicocorticoides diferem na potência anti-inflamatória, na duração de ação e na atividade mineralocorticoide."
+        },
+        {
+          "letter": "D",
+          "text": "Prescrever cálcio e vitamina D como parte da prevenção da osteoporose induzida por corticosteroides",
+          "explanation": "Correta. Otimizar ingestão de cálcio e vitamina D integra a prevenção da osteoporose induzida por glicocorticoides. Observação crítica: Ressalva: cálcio e vitamina D isoladamente podem ser insuficientes; é necessário avaliar risco de fratura e possível indicação de terapia farmacológica específica."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "3",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q3:3"
+    },
+    {
+      "number": 4,
+      "prompt": "Uma estudante de 22 anos relata dor epigástrica em queimação, pior após jejum prolongado, associada a azia nas últimas semanas. Durante a consulta, informa uso frequente de anti-inflamatório não esteroidal por conta própria para tratar dor lombar após longos períodos sentada estudando. Nega uso de corticoide, anticoagulante ou etilismo. A queixa digestiva pode ser explicada pela redução de prostaglandinas protetoras da mucosa gástrica, decorrente da inibição da:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dihidrofolato redutase",
+          "explanation": "Incorreta. Dihidrofolato redutase participa do metabolismo dos folatos; é alvo de medicamentos como metotrexato, não do mecanismo típico dos AINEs. Apêndice de estudo | Não oficial"
+        },
+        {
+          "letter": "B",
+          "text": "Fosfodiesterase",
+          "explanation": "Incorreta. Fosfodiesterases degradam nucleotídeos cíclicos e não explicam a perda de prostaglandinas gástricas pelos AINEs."
+        },
+        {
+          "letter": "C",
+          "text": "Ciclooxigenase 2",
+          "explanation": "Incorreta como melhor resposta. COX-2 participa da resposta inflamatória e também de processos de reparação, mas a proteção basal gástrica depende principalmente de COX-1."
+        },
+        {
+          "letter": "D",
+          "text": "Ciclooxigenase 1",
+          "explanation": "Correta. A inibição da COX-1 reduz prostaglandinas relacionadas à produção de muco e bicarbonato, fluxo sanguíneo da mucosa e citoproteção. Observação crítica: Na prática, AINEs não seletivos inibem ambas as isoformas; COX-1 é a melhor resposta ao mecanismo protetor basal citado."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "4",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q4:4"
+    },
+    {
+      "number": 5,
+      "prompt": "\"As lesões do manguito rotador representam uma causa frequente de dor no ombro e podem variar desde uma tendinite aguda até rotura dos tendões que o compõem.\" Sobre a fisiopatologia da síndrome do manguito rotador, analise as assertivas abaixo: I - A \"zona crítica\" corresponde à área hipovascular que ocupa o tendão subescapular e apresenta maior predisposição à hipóxia e aos processos degenerativos locais. II - O impacto subacromial constitui o principal fator extrínseco para a tendinopatia e ocorre contra a superfície anteroinferior do acrômio durante e elevação anterior do membro superior. III - De acordo com sua curvatura anterior, o acrômio pode ser classificado como plano, curvo e ganchoso, sendo as rupturas de manguito associadas principalmente às formas curvas e ganchosas. Está correto o que se afirma em:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I e II, apenas.",
+          "explanation": "Incorreta. A assertiva I atribui ao subescapular a “zona crítica”, classicamente relacionada ao tendão supraespinhal."
+        },
+        {
+          "letter": "B",
+          "text": "II e III, apenas.",
+          "explanation": "Correta. II descreve o mecanismo extrínseco clássico de impacto e III a classificação de Bigliani (plano, curvo, ganchoso), com maior associação de lesões aos formatos curvo/ganchoso."
+        },
+        {
+          "letter": "C",
+          "text": "II, apenas.",
+          "explanation": "Incorreta. II está correta, mas III também integra a descrição anatômica clássica."
+        },
+        {
+          "letter": "D",
+          "text": "III, apenas.",
+          "explanation": "Incorreta. III está correta, mas omite a assertiva II. Observação crítica: A associação do formato acromial com ruptura não estabelece causalidade obrigatória em cada paciente; outros mecanismos intrínsecos e extrínsecos também contribuem."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "5",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q5:5"
+    },
+    {
+      "number": 6,
+      "prompt": "Mulher, 20 anos de idade, apresenta poliartralgia inflamatória; fator antinuclear (IFI-HEp-2) padrão nuclear homogêneo, 1:320; anti-DNAds reagente, 1:40; sedimento urinário com cilindros hemáticos ++, proteinuria de 24h de 750 mg (VR: < 300 mg). Qual a melhor hipótese diagnóstica?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doença de Sjögren",
+          "explanation": "Incorreta. Sjögren causa principalmente síndrome seca e pode ter manifestações extraglandulares, mas não explica tão bem anti-DNA dupla hélice e cilindros hemáticos."
+        },
+        {
+          "letter": "B",
+          "text": "Crioglobulinemia mista",
+          "explanation": "Incorreta. Crioglobulinemia pode afetar rins e articulações, mas o conjunto FAN homogêneo/anti-dsDNA positivo aponta com mais força para LES."
+        },
+        {
+          "letter": "C",
+          "text": "Lúpus eritematoso sistêmico",
+          "explanation": "Correta. Autoanticorpos e alterações urinárias (proteinúria de 750 mg/24 h e cilindros hemáticos) sugerem LES com possível nefrite lúpica."
+        },
+        {
+          "letter": "D",
+          "text": "Artrite reumatoide",
+          "explanation": "Incorreta. Artrite reumatoide não costuma provocar esse perfil imunológico e sedimento urinário nefrítico. Observação crítica: A confirmação e classificação da nefrite exigem avaliação especializada; anticorpos isolados não substituem investigação renal e, quando indicada, biópsia."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "6",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q6:6"
+    },
+    {
+      "number": 7,
+      "prompt": "Uma paciente de 45 anos apresenta quadro de poliartrite simétrica envolvendo metacarpofalangeanas (MCFs), interfalangeanas proximais (IFPs) e punhos, com rigidez matinal de 45 minutos, iniciada há 3 meses. Ao exame físico, observa- se sinovite em mãos e leve hiperpigmentação em membros inferiores, sem outras lesões cutâneas. Os exames laboratoriais mostram: Fator Reumatoide (FR): Reagente (Título alto: 120 UI/mL); Anti-CCP (Anticorpo antipeptídeo citrulinado cíclico): Não reagente; VHS: 42 mm/h (VR: até 20 mm/h); AST (TGO): 58 U/L (VR: até 35 U/L) | ALT (TGP): 62 U/L (VR: até 35 U/L); Complemento (C3 e C4): C4 reduzido; C3 normal. Diante do quadro clínico e laboratorial, qual é a principal hipótese diagnóstica e qual exame para a confirmação?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artrite Reumatoide soropositiva; Radiografia de mãos e pés.",
+          "explanation": "Incorreta como primeira hipótese. FR elevado também ocorre na infecção pelo HCV; a combinação anti-CCP negativo, transaminases elevadas e C4 baixo aponta para outra etiologia."
+        },
+        {
+          "letter": "B",
+          "text": "Artrite Reumatoide soronegativa; Pesquisa de HLA- DRB1.",
+          "explanation": "Incorreta. FR reagente não corresponde a artrite reumatoide “soronegativa”; HLA-DRB1 não é exame confirmatório de rotina de AR."
+        },
+        {
+          "letter": "C",
+          "text": "Artrite associada ao Vírus da Hepatite C (HCV); Pesquisa de Anti-HCV.",
+          "explanation": "Correta. HCV pode causar poliartrite semelhante à AR e crioglobulinemia associada a FR positivo e hipocomplementemia C4; anti-HCV é triagem apropriada."
+        },
+        {
+          "letter": "D",
+          "text": "Lúpus Eritematoso Sistêmico; Pesquisa de Anticorpo Anti-DNA nativo.",
+          "explanation": "Incorreta como hipótese principal. Anti-dsDNA pode auxiliar em LES, mas a constelação clínica e hepática apresentada é mais sugestiva de HCV. Observação crítica: Anti-HCV positivo deve ser seguido de investigação com HCV-RNA para demonstrar infecção ativa; os achados não excluem coexistência com artrite reumatoide."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "7",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q7:7"
+    },
+    {
+      "number": 8,
+      "prompt": "Um paciente masculino de 35 anos apresenta-se com dor súbita, calor e edema importante em joelho direito e tornozelo esquerdo há 1 semana. Relata etilismo, tabagismo e relação sexual desprotegida. Ao exame apresenta artrite do joelho direito, dactilite no 3º pododáctilo. O médico solicita análise do líquido sinovial. Qual o achado do líquido sinovial é compatível com a principal hipótese diagnóstica.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Líquido sinovial com predominância de polimorfonucleares e ausência de cristais ou microrganismos.",
+          "explanation": "Correta como padrão compatível. A artrite reativa pode apresentar líquido inflamatório neutrofílico, sem cristais e sem crescimento de microrganismos em cultura habitual."
+        },
+        {
+          "letter": "B",
+          "text": "Líquido sinovial de com presença de cristais de urato monossódico com birrefringência negativa sob luz polarizada.",
+          "explanation": "Incorreta para a hipótese proposta. Cristais de urato monossódico, com birrefringência negativa, favorecem artrite gotosa."
+        },
+        {
+          "letter": "C",
+          "text": "Líquido sinovial de com presença de cristais romboides com birrefringência positiva sob luz polarizada.",
+          "explanation": "Incorreta. Cristais romboides de pirofosfato de cálcio, com birrefringência positiva fraca, sugerem artrite por depósito de CPPD."
+        },
+        {
+          "letter": "D",
+          "text": "Líquido sinovial com presença de bactérias cocos gram positivos.",
+          "explanation": "Incorreta. Identificação de cocos Gram-positivos no líquido apontaria para artrite bacteriana séptica, não reativa. Observação crítica: Importante: história sexual de risco e artrite aguda obrigam excluir artrite séptica, inclusive gonocócica; cultura negativa isolada não a descarta. A infecção antecedente não foi documentada no enunciado."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "8",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q8:8"
+    },
+    {
+      "number": 9,
+      "prompt": "Paciente feminina, 45 anos, com queixa de xerostomia, xeroftalmia e fadiga crônica. Ao exame, apresenta aumento discreto de parótidas. Exames laboratoriais: [FOTO CORTADA]",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lúpus eritematoso sistêmico",
+          "explanation": "Menos provável. LES pode associar-se a sintomas secos secundários, mas não é o padrão sindrômico dominante apresentado."
+        },
+        {
+          "letter": "B",
+          "text": "Doença de Sjögren",
+          "explanation": "Mais provável entre as opções. Xerostomia, xeroftalmia e aumento parotídeo são sugestivos da doença de Sjögren."
+        },
+        {
+          "letter": "C",
+          "text": "Artrite reumatoide",
+          "explanation": "Menos provável. Artrite reumatoide pode coexistir com Sjögren, mas não foi descrito quadro articular inflamatório."
+        },
+        {
+          "letter": "D",
+          "text": "Vasculite sistêmica",
+          "explanation": "Menos provável. Vasculites podem ter manifestações sistêmicas e glandulares, porém não são a primeira explicação para o conjunto descrito. Observação crítica: QUESTÃO INCOMPLETA NO ORIGINAL: os exames laboratoriais aparecem apenas como “[FOTO CORTADA]”. A letra B é hipótese clínica, não diagnóstico definitivamente confirmado. Investigar anti-SSA/Ro, testes de produção lacrimal/salivar e, conforme o caso, biópsia glandular."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "9",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q9:9"
+    },
+    {
+      "number": 10,
+      "prompt": "Paciente feminina, 72 anos, com queixa de fadiga progressiva, dispneia aos esforços leves, tonturas e palidez cutâneo-mucosa. Refere inapetência e história de perda ponderal recente. Nega sangramentos evidentes. Exames laboratoriais: Eritrograma Hemácias: 3,2 milhões/mm³ (VR 4,0–5,2); Hemoglobina (Hb): 9,0 g/dL (VR 12–16); Hematócrito (Ht): 28% (VR 36–46); VCM: 68 fL (VR 80–100); HCM: 22 pg (VR 27–33); CHCM: 30 g/dL (VR 32–36); RDW: 19% (VR <14,5). Série branca Leucócitos: 6.800/mm³ (VR 4.000–10.000); Diferencial: sem alterações significativas. Série Plaquetária Plaquetas: 420.000/mm³ (VR 150.000– 400.000). Ferritina: 10 ng/mL (VR 30–300). Qual a melhor interpretação clínico-laboratorial?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anemia ferropriva",
+          "explanation": "Correta. Hb 9 g/dL, VCM 68 fL, hipocromia, RDW elevado e ferritina 10 ng/mL caracterizam fortemente anemia por deficiência de ferro."
+        },
+        {
+          "letter": "B",
+          "text": "Anemia da doença crônica",
+          "explanation": "Incorreta como melhor interpretação. Anemia inflamatória pode ser normocítica ou microcítica, mas costuma apresentar ferritina normal/elevada, salvo deficiência associada."
+        },
+        {
+          "letter": "C",
+          "text": "Anemia hemolítica",
+          "explanation": "Incorreta. Anemia hemolítica costuma cursar com reticulocitose e marcadores de hemólise; ferritina baixa e microcitose não são o padrão típico."
+        },
+        {
+          "letter": "D",
+          "text": "Anemia megaloblástica",
+          "explanation": "Incorreta. Anemia megaloblástica costuma ser macrocítica (VCM elevado), associada a deficiência de B12 ou folato. Observação crítica: Em paciente idosa com perda ponderal e anemia ferropriva, é importante pesquisar perda sanguínea oculta, sobretudo gastrointestinal, e outras causas de deficiência de ferro."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "10",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q10:10"
+    },
+    {
+      "number": 11,
+      "prompt": "Um paciente de anos, foi diagnosticado com artrite reumatoide moderada e iniciou o uso de leflunomida como parte de seu tratamento. Com base nesse cenário, qual é o principal mecanismo de ação da leflunomida e como ele contribui para o controle da doença?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inibição da síntese de pirimidinas, bloqueando a proliferação e inibição de linfócitos T e B, o que reduz a resposta inflamatória nas articulações.",
+          "explanation": "Correta quanto ao mecanismo central. Seu metabólito ativo inibe a diidro-orotato desidrogenase, reduzindo a síntese de novo de pirimidinas e a proliferação de linfócitos ativados."
+        },
+        {
+          "letter": "B",
+          "text": "Estímulo da produção de prostaglandinas, aumentando a inflamação local nas articulações.",
+          "explanation": "Incorreta. Não estimula síntese de prostaglandinas nem busca aumentar inflamação."
+        },
+        {
+          "letter": "C",
+          "text": "Inibição da síntese de purinas, reduzindo a produção de DNA nas células imunológicas, o que inibe a ativação dos linfócitos.",
+          "explanation": "Incorreta. O alvo principal é a síntese de pirimidinas, e não de purinas."
+        },
+        {
+          "letter": "D",
+          "text": "Bloqueio dos receptores de TNF-alfa, aliviando a inflamação nas articulações e melhorando os sintomas da artrite.",
+          "explanation": "Incorreta. Bloqueio de TNF-alfa por anticorpos ou receptores solúveis é mecanismo de agentes biológicos específicos, não da leflunomida. Observação crítica: A redação da alternativa A contém expressão imprecisa (“proliferação e inibição”), mas a identificação da via bioquímica é inequívoca."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "11",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q11:11"
+    },
+    {
+      "number": 12,
+      "prompt": "Um paciente de 60 anos, com histórico de crises recorrentes de gota, foi aconselhado a iniciar o uso de alopurinol para o controle crônico dos níveis de ácido úrico. No entanto, ele está atualmente em uma crise aguda de gota e questiona se pode iniciar o alopurinol imediatamente. Com base nesse cenário, qual é a principal razão pela qual o alopurinol não deve ser utilizado durante uma crise aguda de gota?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O alopurinol pode causar reações alérgicas graves e hipersensibilidade durante a fase aguda da gota.",
+          "explanation": "Incorreta. Hipersensibilidade grave é risco potencial do alopurinol, mas não constitui razão específica para proibi-lo durante crise."
+        },
+        {
+          "letter": "B",
+          "text": "O alopurinol reduz a uricemia rapidamente, o que pode desestabilizar os cristais já depositados, desencadeando uma resposta inflamatória mais intensa.",
+          "explanation": "Mecanismo historicamente invocado: mudanças da uricemia na introdução de tratamento hipouricemiante podem precipitar crises se não houver profilaxia. Porém NÃO justifica a afirmação de que não se pode iniciá-lo durante crise."
+        },
+        {
+          "letter": "C",
+          "text": "O alopurinol age como um anti-inflamatório e pode prejudicar a eficácia de outros medicamentos utilizados durante a crise.",
+          "explanation": "Incorreta. Alopurinol é inibidor da xantina oxidase e redutor de urato; não é anti-inflamatório para controlar crise."
+        },
+        {
+          "letter": "D",
+          "text": "O alopurinol inibe a eliminação renal de ácido úrico, exacerbando o quadro de gota aguda.",
+          "explanation": "Incorreta. Alopurinol diminui a formação de ácido úrico; não atua bloqueando sua eliminação renal. Observação crítica: QUESTÃO TECNICAMENTE PROBLEMÁTICA: a diretriz ACR de 2020 recomenda condicionalmente iniciar terapia redutora de urato durante a crise quando indicada, usando baixa dose e profilaxia anti-inflamatória. Logo, nenhuma alternativa valida a proibição categórica do enunciado; B é somente a resposta provavelmente esperada em ensino tradicional. É defensável pedir anulação ou revisão."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "12",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q12:12"
+    },
+    {
+      "number": 13,
+      "prompt": "A perda da capacidade de realizar extensão ativa do joelho indica:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lesão isolada de ligamento",
+          "explanation": "Incorreta. Lesão ligamentar isolada geralmente causa instabilidade, não perda completa da cadeia extensora ativa."
+        },
+        {
+          "letter": "B",
+          "text": "Lesão do ligamento cruzado posterior",
+          "explanation": "Incorreta. Lesão do ligamento cruzado posterior provoca instabilidade posterior, sem tipicamente impedir extensão ativa."
+        },
+        {
+          "letter": "C",
+          "text": "Ruptura do mecanismo extensor",
+          "explanation": "Correta. Ruptura do tendão patelar, do quadríceps ou lesão relevante da patela pode interromper o mecanismo extensor, prejudicando elevação da perna estendida."
+        },
+        {
+          "letter": "D",
+          "text": "Lesão meniscal",
+          "explanation": "Incorreta. Lesão meniscal pode causar bloqueio mecânico ou dor, mas não é a causa clássica da incapacidade de extensão ativa por falha do mecanismo extensor. Observação crítica: Um bloqueio mecânico pode limitar extensão em lesões meniscais, mas é entidade distinta da falha na extensão ativa contra a gravidade."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "13",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q13:13"
+    },
+    {
+      "number": 14,
+      "prompt": "Sobre as fraturas de Bennett e Rolando da base do primeiro metacarpo, assinale a alternativa correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A fratura de Bennett é extra-articular e tratada conservadoramente com imobilização simples.",
+          "explanation": "Incorreta. Bennett é fratura-luxação INTRA-articular da base do primeiro metacarpo, não extra-articular."
+        },
+        {
+          "letter": "B",
+          "text": "A fratura de Rolando tem melhor prognóstico que a de Bennett por ser menos cominuída.",
+          "explanation": "Incorreta. Rolando é tipicamente cominuída/intra-articular e costuma ter reconstrução mais difícil e prognóstico funcional menos favorável. Apêndice de estudo | Não oficial"
+        },
+        {
+          "letter": "C",
+          "text": "A fratura de Bennett é uma fratura-luxação intra- articular com dois fragmentos (tração do abdutor longo do polegar causa subluxação dorsal), sempre cirúrgica; a fratura de Rolando é cominuída em Y ou T, com pior prognóstico.",
+          "explanation": "Alternativa pretendida. Descreve adequadamente o padrão clássico de Bennett, deslocamento pela tração do abdutor longo e a fratura de Rolando em T ou Y, mais cominuída."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas são fraturas extra-articulares da diáfise do primeiro metacarpo tratadas com gesso simples.",
+          "explanation": "Incorreta. Ambas envolvem a base articular do primeiro metacarpo, e não a diáfise como regra. Observação crítica: RESSALVA RELEVANTE: a palavra “sempre cirúrgica” torna a letra C literalmente incorreta: fraturas de Bennett estáveis/minimamente desviadas podem ser manejadas conservadoramente, desde que mantida redução adequada e acompanhamento. Portanto não há alternativa inteiramente correta; C é o gabarito provável, com possibilidade de questionamento."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "14",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q14:14"
+    },
+    {
+      "number": 15,
+      "prompt": "A principal complicação aguda que deve ser investigada imediatamente na luxação do joelho é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lesão do nervo fibular",
+          "explanation": "Incorreta como prioridade maior. Lesão do nervo fibular comum é importante, mas a ameaça imediata à viabilidade do membro é vascular."
+        },
+        {
+          "letter": "B",
+          "text": "Lesão da artéria poplítea",
+          "explanation": "Correta. A artéria poplítea pode sofrer lesão grave com isquemia do membro, mesmo após redução espontânea da luxação."
+        },
+        {
+          "letter": "C",
+          "text": "Lesão dos meniscos",
+          "explanation": "Incorreta. Lesões meniscais podem coexistir, porém não são a principal urgência inicial."
+        },
+        {
+          "letter": "D",
+          "text": "Lesão do ligamento cruzado anterior",
+          "explanation": "Incorreta. Lesão do ligamento cruzado anterior é comum, mas a avaliação de perfusão tem precedência. Observação crítica: Exame vascular com pulsos e índice tornozelo-braquial integra abordagem; conforme os achados, pode ser necessária angiotomografia e avaliação vascular imediata."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "15",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q15:15"
+    },
+    {
+      "number": 16,
+      "prompt": "O exame laboratorial mais importante para confirmar artrite séptica é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Velocidade de hemossedimentação",
+          "explanation": "Incorreta. VHS pode estar elevada, mas é inespecífica e não confirma infecção articular."
+        },
+        {
+          "letter": "B",
+          "text": "Proteína C reativa",
+          "explanation": "Incorreta. PCR ajuda na avaliação inflamatória e acompanhamento, não confirma ou exclui isoladamente artrite séptica."
+        },
+        {
+          "letter": "C",
+          "text": "Hemocultura",
+          "explanation": "Incorreta como exame isolado principal. Hemoculturas são úteis, especialmente se bacteremia, mas podem ser negativas e não substituem artrocentese."
+        },
+        {
+          "letter": "D",
+          "text": "Análise do líquido sinovial",
+          "explanation": "Correta. A análise do líquido sinovial, especialmente Gram, cultura e contagem/diferencial celular, é o eixo diagnóstico. Observação crítica: Resultado de cultura sinovial negativo não elimina totalmente infecção; decisão clínica depende do conjunto de dados e da urgência do quadro."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "16",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q16:16"
+    },
+    {
+      "number": 17,
+      "prompt": "Em relação à estabilização de fraturas expostas, assinale a correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fixadores externos são contraindicados",
+          "explanation": "Incorreta. Fixadores externos são recursos usuais, especialmente em fraturas graves e lesões extensas de partes moles."
+        },
+        {
+          "letter": "B",
+          "text": "A fixação definitiva imediata é obrigatória",
+          "explanation": "Incorreta. Fixação definitiva no primeiro procedimento não é obrigatória; estratégias em estágios podem ser preferíveis."
+        },
+        {
+          "letter": "C",
+          "text": "A estabilização provisória com fixador externo é comum nos tipos Gustilo três",
+          "explanation": "Correta. Em fraturas expostas Gustilo III, fixação externa provisória pode ser utilizada para estabilização inicial e controle de danos."
+        },
+        {
+          "letter": "D",
+          "text": "Imobilização gessada é o padrão-ouro",
+          "explanation": "Incorreta. Gesso isolado não constitui padrão-ouro para todas as fraturas expostas; é necessário considerar desbridamento, antibióticos e estabilização apropriada. Observação crítica: A escolha depende da lesão, estabilidade, condições de partes moles e recursos de reconstrução. Apêndice de estudo | Não oficial"
+        }
+      ],
+      "page": 4,
+      "numberLabel": "17",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q17:17"
+    },
+    {
+      "number": 18,
+      "prompt": "Na fratura de clavícula o paciente apresenta com a cabeça:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "inclinada para o mesmo lado da fratura e o queixo rodado contralateral",
+          "explanation": "Correta. A descrição clínica clássica é inclinação da cabeça para o lado da fratura e rotação do mento para o lado oposto."
+        },
+        {
+          "letter": "B",
+          "text": "inclinada para o lado contralateral da fratura e o queixo rodado contralateral",
+          "explanation": "Incorreta. A inclinação descrita é contralateral, diferente da postura antálgica clássica."
+        },
+        {
+          "letter": "C",
+          "text": "inclinada para o mesmo lado da fratura e o queixo rodado para o mesmo lado",
+          "explanation": "Incorreta. A rotação do queixo para o próprio lado não corresponde ao padrão descrito."
+        },
+        {
+          "letter": "D",
+          "text": "inclinada para o lado contralateral da fratura e o queixo rodado para o mesmo lado",
+          "explanation": "Incorreta. Inverte o sentido clássico da inclinação da cabeça e do mento. Observação crítica: Esse sinal postural é possível, não obrigatório, e não substitui palpação, avaliação neurovascular e radiografia."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "18",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q18:18"
+    },
+    {
+      "number": 19,
+      "prompt": "O sinal da dragona é característico de uma luxação:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "do cotovelo",
+          "explanation": "Incorreta. Luxação do cotovelo causa deformidade local, não o aplainamento característico do contorno do ombro."
+        },
+        {
+          "letter": "B",
+          "text": "da glenoumeral",
+          "explanation": "Correta. Na luxação glenoumeral, especialmente anterior, perde-se a convexidade lateral do ombro, produzindo o aspecto em “dragona”."
+        },
+        {
+          "letter": "C",
+          "text": "da esternoclavicular",
+          "explanation": "Incorreta. Luxação esternoclavicular altera o contorno junto ao esterno."
+        },
+        {
+          "letter": "D",
+          "text": "da acromioclavicular",
+          "explanation": "Incorreta. Lesão acromioclavicular pode gerar saliência distal da clavícula e “sinal da tecla”, diferente do sinal da dragona."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "19",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q19:19"
+    },
+    {
+      "number": 20,
+      "prompt": "Pela \"regra dos nove\", um adulto com queimadura provocada por líquido superaquecido acometendo toda o membro inferior direito (anterior e posterior), representa percentil de queimadura de:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3,5% da Superfície Corporal Queimada",
+          "explanation": "Incorreta. 3,5% não corresponde a um membro inferior completo."
+        },
+        {
+          "letter": "B",
+          "text": "4,5% da Superfície Corporal Queimada",
+          "explanation": "Incorreta. 4,5% corresponde à metade de um membro superior, não ao membro inferior inteiro."
+        },
+        {
+          "letter": "C",
+          "text": "9,0% da Superfície Corporal Queimada",
+          "explanation": "Incorreta. 9% corresponde aproximadamente à face anterior OU posterior de um membro inferior adulto."
+        },
+        {
+          "letter": "D",
+          "text": "18,0% da Superfície Corporal Queimada",
+          "explanation": "Correta. Um membro inferior inteiro (anterior 9% + posterior 9%) equivale a 18% da superfície corporal total. Observação crítica: Para estimativas de queimadura contam-se áreas de espessura parcial ou total, e não eritema superficial isolado."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "20",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q20:20"
+    },
+    {
+      "number": 21,
+      "prompt": "A síndrome da imobilidade é uma condição considerada como irreversível. Decorre, principalmente, do fato de que todos os órgãos e sistemas podem ressentir-se, de forma grave, da condição de imobilidade prolongada. Existem critérios para identificá-la e para afirmarmos que um(a) paciente é portador(a) da síndrome de imobilidade. Assinale, dentre as alternativas abaixo, aquela que apresenta esses critérios diagnósticos.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Obrigatoriamente tem que ter déficit cognitivo moderado à grave, comprometimento das atividades instrumentais da vida diária, dermatite amoniacal, agnosia e desnutrição.",
+          "explanation": "Incorreta. Comprometimento de atividades instrumentais, dermatite amoniacal, agnosia e desnutrição não compõem a lista clássica exigida."
+        },
+        {
+          "letter": "B",
+          "text": "Obrigatoriamente tem que ter déficit cognitivo moderado à grave múltiplas contraturas e pelo menos dois dentre disfagia, afasia, dupla incontinência e lesões por pressão.",
+          "explanation": "Correta no modelo clássico da prova. Os critérios maiores são déficit cognitivo moderado/grave e múltiplas contraturas; entre os menores estão disfagia, afasia, dupla incontinência e lesões por pressão."
+        },
+        {
+          "letter": "C",
+          "text": "Obrigatoriamente tem que ter múltiplas contraturas e afasia e pelo menos dois dentre dupla incontinência, disfagia leve à grave e paralisia dos membros inferiores.",
+          "explanation": "Incorreta. Afasia integra os critérios menores, não os dois maiores obrigatórios; paralisia de membros inferiores não pertence ao grupo clássico dos menores."
+        },
+        {
+          "letter": "D",
+          "text": "Não é necessário nenhum critério obrigatório, mas tem que ter pelo menos dois dentre déficit cognitivo moderado à grave, múltiplas contraturas, afasia, incapacidade funcional e disfagia.",
+          "explanation": "Incorreta. A classificação ensinada exige critérios maiores; apenas reunir dois achados isolados dessa lista não basta. Observação crítica: Observação bibliográfica: textos podem descrever o requisito de um ou de dois critérios maiores; a alternativa B reproduz o par de critérios maiores e os critérios menores reconhecidos. A irreversibilidade não deve ser interpretada como impossibilidade absoluta de reabilitação de consequências do imobilismo. Apêndice de estudo | Não oficial"
+        }
+      ],
+      "page": 4,
+      "numberLabel": "21",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q21:21"
+    },
+    {
+      "number": 22,
+      "prompt": "Em relação à comunicação em cuidados paliativos, qual alternativa está de acordo com os protocolos que visam fornecer notícias ruins, como o SPIKES?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O médico deve iniciar a conversa focando diretamente nas informações sobre o diagnóstico e prognóstico.",
+          "explanation": "Incorreta. Antes de comunicar detalhes, preparam-se o ambiente e avalia-se o que o paciente sabe e deseja saber."
+        },
+        {
+          "letter": "B",
+          "text": "Evita-se explorar sentimentos do paciente para não aumentar o sofrimento e o desconforto.",
+          "explanation": "Incorreta. Reconhecer e acolher emoções é componente central do protocolo."
+        },
+        {
+          "letter": "C",
+          "text": "Deve-se explorar o entendimento e os sentimentos do paciente antes de qualquer informação.",
+          "explanation": "Correta entre as opções. Deve-se explorar a percepção prévia e as necessidades e reações emocionais do paciente, adaptando a comunicação."
+        },
+        {
+          "letter": "D",
+          "text": "Toda comunicação deve ser feita antes para os familiares e este devem filtrar o que o paciente vai receber de informação.",
+          "explanation": "Incorreta. A autonomia e a preferência do paciente orientam participação dos familiares; não se deve substituir automaticamente o paciente. Observação crítica: Precisão: o SPIKES explora percepção e convite antes da informação e acolhe emoções também durante e depois da transmissão; “antes de qualquer informação” na opção C é formulação simplificada."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "22",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q22:22"
+    },
+    {
+      "number": 23,
+      "prompt": "Sobre as Síndromes Geriátricas é correto afirmar que:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "apresentam-se na forma de manifestações de uma doença clínica com fator causal e fisiopatologia únicos.",
+          "explanation": "Incorreta. São tipicamente multifatoriais e resultam da interação de doenças, vulnerabilidades e ambiente."
+        },
+        {
+          "letter": "B",
+          "text": "têm como característica marcante as manifestações típicas, que facilitam o diagnóstico e a avaliação com exames complementares.",
+          "explanation": "Incorreta. Podem ter manifestações inespecíficas ou apresentações atípicas, exigindo avaliação clínica e funcional abrangente."
+        },
+        {
+          "letter": "C",
+          "text": "a fragilidade, a sarcopenia, as quedas e a imobilidade são exemplos de síndromes geriátricas, o que não é o caso das demências.",
+          "explanation": "Incorreta. Demências estão entre as condições clássicas associadas às grandes síndromes geriátricas; sua exclusão categórica está errada."
+        },
+        {
+          "letter": "D",
+          "text": "geralmente são multifatoriais, dividem fatores causais entre si e podem coexistir, de forma que uma pode contribuir para outra.",
+          "explanation": "Correta. Fragilidade, quedas, imobilidade e outras síndromes compartilham fatores predisponentes, podem coexistir e se potencializar."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "23",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q23:23"
+    },
+    {
+      "number": 24,
+      "prompt": "Paciente de 82 anos, masculino, portador de diabetes, hipertensão, osteoartrite de joelhos e doença de Parkinson com disfagia é admitido no hospital com pneumonia aspirativa e com sepsis e insuficiência renal aguda. Pode-se dizer que o paciente é portador de multimorbidade porque apresenta",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "condição que acontece como complicação de uma doença crônica (pneumonia aspirativa na doença de Parkinson).",
+          "explanation": "Incorreta. Descreve complicação atribuível a doença crônica, não a presença de múltiplas doenças."
+        },
+        {
+          "letter": "B",
+          "text": "simultaneamente duas ou mais doenças crônicas (diabetes, hipertensão, osteoartrite de joelhos e doença de Parkinson).",
+          "explanation": "Correta. Multimorbidade é a coexistência de duas ou mais condições crônicas na mesma pessoa; o caso apresenta quatro."
+        },
+        {
+          "letter": "C",
+          "text": "doença aguda (pneumonia) na vigência de doenças crônicas (diabetes, hipertensão, osteoartrite de joelhos e doença de Parkinson).",
+          "explanation": "Incorreta. Doença aguda sobreposta a doenças crônicas não é o que define multimorbidade, embora possa ocorrer nessa pessoa."
+        },
+        {
+          "letter": "D",
+          "text": "complicações graves (sepsis e insuficiência renal aguda) de uma doença aguda (pneumonia aspirativa).",
+          "explanation": "Incorreta. Sepse e injúria renal aguda são complicações agudas e não explicam o conceito solicitado."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "24",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q24:24"
+    },
+    {
+      "number": 25,
+      "prompt": "Uma mulher de 76 anos, com osteoartrite de joelhos e queixa de dor ao caminhar, principalmente a direita onde a lesão é mais acentuada, relata sensação de instabilidade leve, mas mantém boa força muscular e equilíbrio preservado ao exame físico. Não há histórico de quedas recentes. Qual é a melhor indicação de dispositivo auxiliar para marcha nesse caso?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bengala, para melhorar a estabilidade e reduzir a sobrecarga articular, usada, preferencialmente, no lado esquerdo.",
+          "explanation": "Correta. Bengala no lado esquerdo, contralateral ao joelho direito mais sintomático, pode aliviar a carga sobre a articulação e auxiliar estabilidade."
+        },
+        {
+          "letter": "B",
+          "text": "Andador fixo, devido ao risco elevado de quedas, mesmo que ainda não tenha caído.",
+          "explanation": "Incorreta. Andador fixo é medida mais restritiva e não se justifica apenas pela instabilidade leve com equilíbrio preservado."
+        },
+        {
+          "letter": "C",
+          "text": "Cadeira de rodas, para evitar dor e carga sobre os joelhos durante a deambulação.",
+          "explanation": "Incorreta. Cadeira de rodas é excessiva para paciente ainda capaz de caminhar com boa força e equilíbrio."
+        },
+        {
+          "letter": "D",
+          "text": "Nenhum dispositivo é indicado, pois não há limitação funcional importante e a osteoartrite é bilateral.",
+          "explanation": "Incorreta. Dor e sensação de instabilidade durante marcha podem justificar bengala mesmo sem quedas ou deficiência funcional grave. Observação crítica: A indicação deve ser individualizada por avaliação funcional e treinamento de ajuste/uso. Apêndice de estudo | Não oficial"
+        }
+      ],
+      "page": 5,
+      "numberLabel": "25",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q25:25"
+    },
+    {
+      "number": 26,
+      "prompt": "Mulher de 78 anos é trazida pela filha por queixas de esquecimento progressivo há cerca de 2 anos. Inicialmente apresentava dificuldade para lembrar compromissos e repetir perguntas, evoluindo com prejuízo para lidar com finanças e medicações. Atualmente necessita de ajuda para escolher roupas adequadas e tem episódios de desorientação temporal. Nas avaliações cognitiva e funcional, apresenta: MEEM: 18/30 (perdas em memória, orientação temporal e cálculo); Teste do Desenho do Relógio: números desorganizados e ponteiros incorretos; Dependente para atividades instrumentais de vida diária; Dependência parcial para atividades básicas (vestir-se); Escala de Pfeffer: 12 pontos. Com estes dados, qual é o diagnóstico que pode ser realizado?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprometimento Cognitivo Leve",
+          "explanation": "Incorreta. Comprometimento cognitivo leve pressupõe independência funcional relativamente preservada; há dependência nas atividades instrumentais e parte das básicas."
+        },
+        {
+          "letter": "B",
+          "text": "Síndrome demencial",
+          "explanation": "Correta. O declínio cognitivo progressivo em múltiplos domínios com prejuízo funcional caracteriza síndrome demencial (transtorno neurocognitivo maior)."
+        },
+        {
+          "letter": "C",
+          "text": "Déficit cognitivo",
+          "explanation": "Incorreta como diagnóstico mais específico. “Déficit cognitivo” descreve achado amplo e não contempla a perda de autonomia."
+        },
+        {
+          "letter": "D",
+          "text": "Doença de Alzheimer",
+          "explanation": "Não demonstrada apenas pelo enunciado. Doença de Alzheimer é etiologia possível/provável, mas exige avaliação clínica e exclusão de causas alternativas; o diagnóstico sindrômico é mais seguro. Observação crítica: Ressalva: MEEM e Pfeffer apoiam o quadro, mas pontuação isolada não define etiologia; escolaridade, comorbidades e delirium devem ser considerados."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "26",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q26:26"
+    },
+    {
+      "number": 27,
+      "prompt": "Sobre a localização preferencial das patologias ósseas, assinale a afirmação CORRETA:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O tumor de células gigantes é tipicamente diafisário.",
+          "explanation": "Incorreta. Tumor de células gigantes costuma ser epifisário/metafisário, próximo à articulação após maturidade esquelética."
+        },
+        {
+          "letter": "B",
+          "text": "O osteossarcoma é raro em regiões de ossos longos.",
+          "explanation": "Incorreta. Osteossarcoma ocorre com frequência na metáfise de ossos longos, especialmente ao redor do joelho."
+        },
+        {
+          "letter": "C",
+          "text": "O condrossarcoma é comum no esqueleto axial e fêmur.",
+          "explanation": "Correta. Condrossarcoma é encontrado com frequência em pelve e outros ossos do esqueleto axial, além de fêmur proximal."
+        },
+        {
+          "letter": "D",
+          "text": "A displasia fibrosa raramente ocorre nos ossos da face e costelas.",
+          "explanation": "Incorreta. A displasia fibrosa pode acometer com frequência ossos craniofaciais e costelas."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "27",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q27:27"
+    },
+    {
+      "number": 28,
+      "prompt": "Paciente do sexo masculino, 60 anos de idade, cor branca e residente em Goiânia. Procurou médico por apresentar cinco nódulos na coxa direita. Ao exame por imagem os nódulos medem em média 5,0 cm cada um, são superficiais e não apresentam envolvimento neurovascular. O diagnóstico mais provável é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lipoma",
+          "explanation": "Resposta presumível. Lipomas são comuns e podem ser múltiplos/superficiais, mas o texto não descreve conteúdo gorduroso, ecogenicidade, RM nem histologia para identificá-los."
+        },
+        {
+          "letter": "B",
+          "text": "hemangioma",
+          "explanation": "Não demonstrada. Hemangioma/malformação vascular exigiria sugestão clínica ou imagem vascular, ausente no enunciado."
+        },
+        {
+          "letter": "C",
+          "text": "sarcoma pleomórfico de alto grau",
+          "explanation": "Não demonstrada. Sarcoma pleomórfico é tumor maligno possível na faixa etária, mas cinco nódulos superficiais isoladamente não permitem afirmá-lo."
+        },
+        {
+          "letter": "D",
+          "text": "leiomioma",
+          "explanation": "Não demonstrada. Leiomioma de partes moles necessita características clínicas e/ou anatomopatológicas não fornecidas. Observação crítica: QUESTÃO INSUFICIENTEMENTE ESPECÍFICA: tamanho de aproximadamente 5 cm merece atenção e eventual investigação com ultrassom/RM; crescimento, profundidade, vascularização e padrões de imagem são essenciais. Resposta A é hipótese epidemiológica, não conclusão diagnóstica segura."
+        }
+      ],
+      "page": 6,
+      "numberLabel": "28",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q28:28"
+    },
+    {
+      "number": 29,
+      "prompt": "Relacione as doenças reumáticas listadas na Coluna A com seus respectivos achados radiológicos típicos descritos na Coluna B. Coluna A: 1. Artrite Reumatoide 2. Osteoartrite (Artrose) 3. Espondilite Anquilosante 4. Artrite Psoriásica 5. Gota (Crônica Tofácea). Coluna B: ( ) Presença de osteófitos, redução assimétrica do espaço articular e esclerose subcondral. ( ) Erosões marginais em \"saca-bocado\" com bordas em balanço. ( ) Erosões simétricas, osteopenia justa-articular e desvios ulnares/em \"Z\". ( ) Formação de sindesmófitos marginais e fusão vertebral (aspecto de \"coluna em bambu\"). ( ) Erosões distais com proliferação óssea, aspecto de \"lápis no copo\" (pencil-in-cup).",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 - 1 - 5 - 3 - 4.",
+          "explanation": "Incorreta. O segundo achado (erosão “saca-bocado” com bordas em balanço) pertence à gota, não à AR. Apêndice de estudo | Não oficial"
+        },
+        {
+          "letter": "B",
+          "text": "4 - 2 - 1 - 5 - 3.",
+          "explanation": "Incorreta. Osteófitos e redução assimétrica do espaço indicam artrose, não artrite psoriásica."
+        },
+        {
+          "letter": "C",
+          "text": "2 - 5 - 1 - 3 - 4.",
+          "explanation": "Correta. Ordem: 2 (osteoartrite) – 5 (gota) – 1 (artrite reumatoide) – 3 (espondilite anquilosante) – 4 (artrite psoriásica)."
+        },
+        {
+          "letter": "D",
+          "text": "4 - 3 - 1 - 2 - 5.",
+          "explanation": "Incorreta. Atribui artrose ao item 4 e gota ao item 3, contrariando os padrões descritos. Observação crítica: Lembretes: artrose = osteófitos/esclerose; gota tofácea = erosões com bordas salientes; AR = erosões e osteopenia periarticular; espondilite = sindesmófitos; psoriásica = “lápis no copo”."
+        }
+      ],
+      "page": 6,
+      "numberLabel": "29",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q29:29"
+    },
+    {
+      "number": 30,
+      "prompt": "Qual dos seguintes achados é mais indicativo de osteomielite em uma radiografia?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento da densidade óssea.",
+          "explanation": "Incorreta como melhor resposta. Esclerose/aumento de densidade podem ocorrer especialmente na osteomielite crônica, mas são inespecíficos."
+        },
+        {
+          "letter": "B",
+          "text": "Perda de definição da cortical óssea.",
+          "explanation": "Correta. Apagamento, erosão ou destruição cortical óssea é achado sugestivo de infecção óssea no contexto clínico adequado."
+        },
+        {
+          "letter": "C",
+          "text": "Redução do espaço articular.",
+          "explanation": "Incorreta. Redução do espaço articular é mais relacionada a patologia articular; pode ocorrer em infecção articular associada, mas não é sinal direto mais típico."
+        },
+        {
+          "letter": "D",
+          "text": "Calcificação dos tecidos moles.",
+          "explanation": "Incorreta. Calcificações de tecidos moles têm numerosas causas e não são marcador radiográfico mais específico de osteomielite. Observação crítica: Radiografias podem ser normais nas primeiras 1–2 semanas; ressonância magnética tem maior sensibilidade para doença precoce."
+        }
+      ],
+      "page": 6,
+      "numberLabel": "30",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2026:q30:30"
+    }
+  ]
+}

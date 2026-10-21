@@ -1,0 +1,1210 @@
+{
+  "id": "rodizio-reumato-3",
+  "title": "Prova Rodízio - Reumato 3",
+  "original": "QUESTÕES ANTIGAS REUMATO",
+  "key_source": "Gabarito comentado do PDF",
+  "questionCount": 37,
+  "questions": [
+    {
+      "number": 1,
+      "prompt": "A gota é um distúrbio metabólico que se manifesta por níveis elevados de ácido úrico sérico, crises recorrentes de artrite aguda e formações crônicas de cristais de monurato de sódio. Pode ser classificada como primária ou secundária (quando se relaciona a outras condições que concorrem para o acúmulo de ácido úrico sérico). O principal mecanismo da hiperuricemia em pacientes com gota primária é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dieta rica em purinas",
+          "explanation": "A dieta pode contribuir, mas não é o principal mecanismo isolado."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento da taxa de renovação celular",
+          "explanation": "O aumento de renovação celular explica causas de hiperprodução, como algumas neoplasias; não é a explicação predominante da gota primária."
+        },
+        {
+          "letter": "C",
+          "text": "Diminuição da excreção renal de ácido úrico",
+          "explanation": "Correta: a subexcreção renal de urato predomina, com fatores genéticos e renais."
+        },
+        {
+          "letter": "D",
+          "text": "Deficiência total da enzima hipoxantinaguanina fosforribosiltransferase (HGPRT-ase)",
+          "explanation": "A deficiência completa de HGPRT causa síndrome de Lesch-Nyhan, forma rara de hiperprodução; não corresponde à maioria dos casos."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "1",
+      "sourceImage": "01",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q1:1"
+    },
+    {
+      "number": 4,
+      "prompt": "Sobre as fraturas transtrocanterianas, marque a correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "São fraturas com altos índices de pseudoartrose por acometerem região de osso osteoporótico",
+          "explanation": "Incorreta: possuem vascularização metafisária relativamente favorável e pseudoartrose é menos comum que nas fraturas intracapsulares do colo."
+        },
+        {
+          "letter": "B",
+          "text": "Podem ser tratadas com fixação dos fragmentos e nos pacientes com boa capacidade de deambular dá-se preferência para as artroplastias totais de quadril",
+          "explanation": "Incorreta como regra: a artroplastia total não é preferida rotineiramente em paciente deambulador apenas por essa característica; a fixação é usual."
+        },
+        {
+          "letter": "C",
+          "text": "São classificadas por Tronzo, sendo as fraturas tipo I e II mais estáveis",
+          "explanation": "Correta: a classificação de Tronzo descreve tipos I e II usualmente estáveis."
+        },
+        {
+          "letter": "D",
+          "text": "O tratamento deve sempre ser realizado de urgência pelo alto risco de necrose da cabeça do femur",
+          "explanation": "Incorreta: não há alto risco típico de necrose avascular da cabeça como nas fraturas intracapsulares; a cirurgia é precoce por outros motivos."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "4",
+      "sourceImage": "02",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q4:4"
+    },
+    {
+      "number": 18,
+      "prompt": "Paciente, 40 anos, sofreu queda da própria altura com trauma de cotovelo direito. Encaminhada dos PS há 14h, atendida imediatamente pelo traumatologista. Exame físico: pele íntegra, edema e deformidade ao nível do cotovelo, neurovascular normal. Radiografia mostra luxação póstero-lateral do cotovelo. A conduta correta é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Redução fechada imediata na sala de gesso, imediatamente após diagnóstico",
+          "explanation": "Possivelmente correta se a redução imediata for realizada com sedação/analgesia apropriadas e avaliação neurovascular; o local físico não é decisivo."
+        },
+        {
+          "letter": "B",
+          "text": "Encaminhamento para centro cirúrgico para redução aberta e reparação ligamentar, necessária de rotina",
+          "explanation": "Incorreta: redução aberta e reparo ligamentar não são necessários de rotina em luxações simples redutíveis e estáveis."
+        },
+        {
+          "letter": "C",
+          "text": "Redução incruenta sob anestesia",
+          "explanation": "Melhor formulação: redução incruenta sob analgesia/anestesia ou sedação, sem demora injustificada."
+        },
+        {
+          "letter": "D",
+          "text": "Colocação de tala gessada, internar o paciente e programar redução no centro cirúrgico na manhã do dia seguinte, em condições ideais",
+          "explanation": "Incorreta: postergar a redução até o dia seguinte aumenta riscos sem justificativa apresentada."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "18",
+      "sourceImage": "03",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q18:18"
+    },
+    {
+      "number": 6,
+      "prompt": "Mulher, 32 anos, apresenta-se com queixa de fraqueza muscular proximal, de início há vinte dias e piora progressiva, acompanhada de heliotropo nas regiões palpebrais e sinal de Gottron nas MCFs e IFPs. Nesse caso, a principal hipótese diagnóstica é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "LES",
+          "explanation": "O LES pode causar sintomas musculoesqueléticos e lesões cutâneas, mas heliotropo e Gottron apontam especificamente para dermatomiosite."
+        },
+        {
+          "letter": "B",
+          "text": "Vasculite urticária",
+          "explanation": "Vasculite urticariforme costuma apresentar lesões urticariformes prolongadas, não esse conjunto típico de sinais."
+        },
+        {
+          "letter": "C",
+          "text": "Reação de hipersensibilidade",
+          "explanation": "Hipersensibilidade não explica adequadamente o padrão cutâneo-muscular característico."
+        },
+        {
+          "letter": "D",
+          "text": "Dermatomiosite",
+          "explanation": "Correta: apresentação clássica de dermatomiosite."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "6",
+      "sourceImage": "04",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q6:6"
+    },
+    {
+      "number": 2,
+      "prompt": "Criança obesa, 10 anos, claudicando, com dor no quadril e marcha com rotação externa do membro acometido. Das doenças abaixo, qual a mais provável?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doença de Legg-Calvé-Perthes",
+          "explanation": "Perthes ocorre mais frequentemente em crianças menores e não apresenta associação tão típica com obesidade e rotação externa."
+        },
+        {
+          "letter": "B",
+          "text": "Artrite reumatóide juvenil",
+          "explanation": "Artrite idiopática juvenil exige achados inflamatórios articulares persistentes, ausentes no enunciado."
+        },
+        {
+          "letter": "C",
+          "text": "Epifisiolise proximal do fêmur",
+          "explanation": "Correta: epifisiólise do fêmur proximal deve ser investigada urgentemente, evitando apoio de peso."
+        },
+        {
+          "letter": "D",
+          "text": "Sinovite transitória do quadril",
+          "explanation": "Sinovite transitória é geralmente autolimitada, sem o perfil clássico de obesidade/rotação externa descrito."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "2",
+      "sourceImage": "05",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q2:2"
+    },
+    {
+      "number": 16,
+      "prompt": "Na paralisia cerebral do tipo hemiparesia espástica tipo III, o paciente apresenta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deformidade somente do pé",
+          "explanation": "Tipo I envolve principalmente queda do pé; é menos abrangente que o tipo III."
+        },
+        {
+          "letter": "B",
+          "text": "Deformidade do pé e joelho",
+          "explanation": "Correta: alterações do pé/tornozelo e comprometimento do joelho."
+        },
+        {
+          "letter": "C",
+          "text": "Deformidade do pé, joelho e quadril",
+          "explanation": "Corresponde melhor ao padrão tipo IV, com acometimento adicional do quadril."
+        },
+        {
+          "letter": "D",
+          "text": "Deformidade do joelho e quadril",
+          "explanation": "Não descreve adequadamente o padrão distal de pé/tornozelo do tipo III."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "16",
+      "sourceImage": "06",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q16:16"
+    },
+    {
+      "number": 12,
+      "prompt": "As fraturas com maior facilidade para consolidação são aquelas que apresentam:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traço cominutivo (?)",
+          "explanation": "Fraturas cominutivas têm mais fragmentos e podem perder estabilidade ou suprimento vascular, não sendo em regra as de consolidação mais simples."
+        },
+        {
+          "letter": "B",
+          "text": "Traço espiral",
+          "explanation": "Alternativa preferível no sentido clássico de ampla área de contato, mas não há garantia de consolidação mais rápida só pelo desenho do traço."
+        },
+        {
+          "letter": "C",
+          "text": "Desvio em valgo",
+          "explanation": "O desvio em valgo é desalinhamento, não atributo que favoreça consolidação."
+        },
+        {
+          "letter": "D",
+          "text": "Desvio em varo",
+          "explanation": "O desvio em varo igualmente não favorece a estabilidade anatômica nem garante consolidação."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "12",
+      "sourceImage": "07",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q12:12"
+    },
+    {
+      "number": 2,
+      "prompt": "O LES é diagnosticado com base em critérios clínicos e laboratoriais. Sobre os auto-anticorpos associados à enfermidade, é verdadeiro:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O anti-Sm é também observado na artrite reumatóide",
+          "explanation": "Anti-Sm é altamente específico do LES; positividade em AR típica é incomum e não representa associação clássica."
+        },
+        {
+          "letter": "B",
+          "text": "O anti-RNP é também observado na síndrome de Sjögren",
+          "explanation": "O anti-RNP associa-se a doença mista do tecido conjuntivo e LES; também pode aparecer em Sjögren, de modo que a exclusão absoluta não é válida."
+        },
+        {
+          "letter": "C",
+          "text": "O Anti-Ro e Anti-La são também observados na esclerodermia",
+          "explanation": "Anti-Ro/La associam-se sobretudo a Sjögren e LES, mas podem ocorrer em sobreposições com esclerose sistêmica; redação não absolutamente falsa."
+        },
+        {
+          "letter": "D",
+          "text": "O Anti-coagulante lúpico, quando positivo, pode indicar síndrome do anticorpo antifosfolípede secundária",
+          "explanation": "Mais adequada: anticorpo antifosfolípide positivo pode sugerir investigação de SAF secundária, dependente de critérios clínicos e confirmação persistente."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "2 (2ª ocorrência)",
+      "sourceImage": "07a",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q2:2-(2ª-ocorrência)"
+    },
+    {
+      "number": 10,
+      "prompt": "O fator reumatóide é um auto-anticorpo produzido contra a fração Fc da IgG e pode ser encontrado na seguinte condição clínica: I – Síndrome de Sjögren II – Hepatite C III – Artrite Reumatóide Estão corretas as assertivas:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I e II.",
+          "explanation": "Incorreta por incompleta: I e II podem ser positivas, mas III também."
+        },
+        {
+          "letter": "B",
+          "text": "II e III.",
+          "explanation": "Incorreta por incompleta: II e III podem ser positivas, mas I também."
+        },
+        {
+          "letter": "C",
+          "text": "Somente III.",
+          "explanation": "Incorreta: a presença não se restringe à artrite reumatoide."
+        },
+        {
+          "letter": "D",
+          "text": "I, II e III.",
+          "explanation": "Correta: as três condições podem cursar com fator reumatoide positivo."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "10",
+      "sourceImage": "08",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q10:10"
+    },
+    {
+      "number": 20,
+      "prompt": "Em relação à epidemiologia do trauma raquimedular, podemos afirmar que:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A principal causa são os ferimentos por arma de fogo, consequentes à grande violência urbana que enfrentamos atualmente.",
+          "explanation": "Ferimento por arma de fogo é relevante em certas regiões, mas não a principal causa universal."
+        },
+        {
+          "letter": "B",
+          "text": "É muito mais comum o acometimento da região lombar, mais exposta a traumas no trânsito ou trauma diretos.",
+          "explanation": "A coluna lombar não é universalmente a região mais atingida; os segmentos cervicais são muito frequentes."
+        },
+        {
+          "letter": "C",
+          "text": "A principal causa são os acidentes de trânsito, responsáveis por mais de 50% dos casos.",
+          "explanation": "Melhor resposta no enquadramento epidemiológico clássico, porém o percentual acima de 50% não é universal nem permanente."
+        },
+        {
+          "letter": "D",
+          "text": "É muito mais comum o acometimento da região torácica, mais exposta a traumas, sejam por arma de fogo ou acidente de trânsito.",
+          "explanation": "A região torácica não é consistentemente a localização mais comum em todas as populações."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "20",
+      "sourceImage": "09",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q20:20"
+    },
+    {
+      "number": 8,
+      "prompt": "A densitometria óssea é exame considerado padrão ouro no diagnóstico da osteoporose. Tal procedimento deve ser realizado na seguinte circunstância:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Homens a partir dos 40 anos, independente de fatores de risco",
+          "explanation": "Somente a idade de 40 anos não indica DXA de rotina para homens."
+        },
+        {
+          "letter": "B",
+          "text": "Mulheres a partir dos 40 anos, independente de fatores de risco",
+          "explanation": "Somente 40 anos não justifica exame universal em mulheres."
+        },
+        {
+          "letter": "C",
+          "text": "Mulheres no primeiro ano após a menopausa",
+          "explanation": "O primeiro ano após menopausa não constitui indicação universal, sem fatores adicionais."
+        },
+        {
+          "letter": "D",
+          "text": "Mulheres com mais de 65 anos",
+          "explanation": "Correta: mulheres com 65 anos ou mais devem ser rastreadas."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "8",
+      "sourceImage": "10",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q8:8"
+    },
+    {
+      "number": 19,
+      "prompt": "Qual a afirmação correta?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A fratura desviada consolida 2x mais rápido que a fratura não desviada",
+          "explanation": "Fraturas desviadas não consolidam invariavelmente mais rápido; o desvio pode dificultar união."
+        },
+        {
+          "letter": "B",
+          "text": "A consolidação radiológica da fratura precede a consolidação clínica",
+          "explanation": "A consolidação clínica geralmente antecede a consolidação radiográfica completa."
+        },
+        {
+          "letter": "C",
+          "text": "Toda fratura desviada é cirúrgica",
+          "explanation": "Nem toda fratura desviada necessita cirurgia; depende de estabilidade, alinhamento e outras características."
+        },
+        {
+          "letter": "D",
+          "text": "Toda fratura intra-articular necessita redução anatômica",
+          "explanation": "Melhor alternativa em sentido didático: deve-se buscar redução anatômica nas fraturas articulares deslocadas; uma fratura sem desvio pode não exigir manobra de redução."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "19",
+      "sourceImage": "11",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q19:19"
+    },
+    {
+      "number": 7,
+      "prompt": "A osteoporose é uma desordem caracterizada por diminuição da massa óssea e maior risco de fraturas. Das medicações abaixo, assinale aquela associada à um maior risco para tal enfermidade:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hidroclorotiazida",
+          "explanation": "Tiazídicos reduzem excreção urinária de cálcio e não são causa clássica de osteoporose."
+        },
+        {
+          "letter": "B",
+          "text": "Heparina",
+          "explanation": "Correta: heparina prolongada pode produzir perda óssea, com risco variável conforme formulação/duração."
+        },
+        {
+          "letter": "C",
+          "text": "Loratadina",
+          "explanation": "Loratadina não é causa clássica de osteoporose."
+        },
+        {
+          "letter": "D",
+          "text": "Carvedilol",
+          "explanation": "Carvedilol não representa causa habitual de osteoporose medicamentosa."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "7",
+      "sourceImage": "12",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q7:7"
+    },
+    {
+      "number": 13,
+      "prompt": "Paciente, 18 anos, vítima de acidente automobilístico. Atendido no PS. Foi feito o diagnóstico de fratura de diáfise de úmero, simples, fechada e com desvio segmentar em varo. [...] (INCOMPLETO)",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anterior",
+          "explanation": "Não é possível definir o significado de “anterior” sem o trecho ausente."
+        },
+        {
+          "letter": "B",
+          "text": "Medial",
+          "explanation": "Não é possível definir o significado de “medial” sem o trecho ausente."
+        },
+        {
+          "letter": "C",
+          "text": "Lateral",
+          "explanation": "Não é possível definir o significado de “lateral” sem o trecho ausente."
+        },
+        {
+          "letter": "D",
+          "text": "Posterior",
+          "explanation": "Não é possível definir o significado de “posterior” sem o trecho ausente."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "13",
+      "sourceImage": "13",
+      "answerIssue": "sem_resposta",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q13:13"
+    },
+    {
+      "number": 3,
+      "prompt": "A sacroilite é achado característico das espondiloartrites, cujo protótipo é a espondilite anquilosante. Tal achado pode ser detectado ao exame físico através da manobra de:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tinel",
+          "explanation": "Tinel avalia irritação de nervos periféricos."
+        },
+        {
+          "letter": "B",
+          "text": "Patrick-Fabere",
+          "explanation": "Correta no contexto: Patrick-FABER mobiliza quadril e articulação sacroilíaca."
+        },
+        {
+          "letter": "C",
+          "text": "Phalen",
+          "explanation": "Phalen avalia compressão do nervo mediano no túnel do carpo."
+        },
+        {
+          "letter": "D",
+          "text": "Thompson",
+          "explanation": "Thompson avalia integridade do tendão calcâneo (Aquiles)."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "3",
+      "sourceImage": "14",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q3:3"
+    },
+    {
+      "number": 9,
+      "prompt": "A velocidade de hemossedimentação (VHS) avalia a resposta inflamatória de fase aguda através da medida de",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "haptoglobina",
+          "explanation": "Haptoglobina é proteína de fase aguda, mas não é o principal determinante medido pela VHS."
+        },
+        {
+          "letter": "B",
+          "text": "amilóide A",
+          "explanation": "Amiloide A é reagente de fase aguda, porém não explica o mecanismo predominante do teste."
+        },
+        {
+          "letter": "C",
+          "text": "fibrinogênio",
+          "explanation": "Correta: fibrinogênio facilita formação de rouleaux e acelera a sedimentação."
+        },
+        {
+          "letter": "D",
+          "text": "albumina",
+          "explanation": "Albumina não é marcador responsável pelo aumento típico da VHS e tende a diminuir na inflamação."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "9",
+      "sourceImage": "15",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q9:9"
+    },
+    {
+      "number": 1,
+      "prompt": "O lúpus eritematoso sistêmico (LES) é uma doença reumática de etiologia desconhecida e natureza autoimune. A cerca do envolvimento renal na enfermidade, assinale a assertiva verdadeira:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Geralmente pacientes com nefrite lúpica em atividade apresentam anti-coagulante lúpico positivo",
+          "explanation": "Anticoagulante lúpico não é marcador usual ou obrigatório da atividade da nefrite lúpica."
+        },
+        {
+          "letter": "B",
+          "text": "É raro o envolvimento renal no LES",
+          "explanation": "O acometimento renal do LES é relativamente frequente, não raro."
+        },
+        {
+          "letter": "C",
+          "text": "A glomerulonefrite proliferativa difusa (classe IV) é a classe histológica mais frequentemente observada",
+          "explanation": "Correta no entendimento clássico dos casos biopsiados: a classe IV é uma forma proliferativa comum e grave; não é predominante em todas as séries."
+        },
+        {
+          "letter": "D",
+          "text": "A biópsia renal é contra-indicada em pacientes com proteinuria maciça pelo risco de sangramento",
+          "explanation": "Proteinúria importante pode ser justamente indicação de biópsia, após avaliação de riscos; não é contraindicação por si só."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "1 (2ª ocorrência)",
+      "sourceImage": "16",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q1:1-(2ª-ocorrência)"
+    },
+    {
+      "number": 4,
+      "prompt": "As espondiloartrites são doenças que compartilham características clínicas, laboratoriais e genéticas. Sobre tais enfermidades, é verdadeiro:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "É comum o achado de entesopatia do calcâneo",
+          "explanation": "Correta: entesopatia do calcâneo é manifestação frequente."
+        },
+        {
+          "letter": "B",
+          "text": "Poliartrite crônica de pequenas articulações é a apresentação mais comum da espondilite anquilosante",
+          "explanation": "Poliartrite simétrica crônica das pequenas articulações não é o padrão mais comum da espondilite anquilosante."
+        },
+        {
+          "letter": "C",
+          "text": "A coriorretinite é a manifestação oftalmológica mais comum no grupo",
+          "explanation": "O comprometimento ocular típico é uveíte anterior, não coriorretinite."
+        },
+        {
+          "letter": "D",
+          "text": "A artrite psoriásica geralmente antecede o diagnóstico de psoríase cutânea",
+          "explanation": "Na artrite psoriásica, a psoríase cutânea em geral precede a artropatia; exceções ocorrem."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "4 (2ª ocorrência)",
+      "sourceImage": "17",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q4:4-(2ª-ocorrência)"
+    },
+    {
+      "number": 5,
+      "prompt": "As espondiloartrites abrangem um grupo de doenças que apresentam peculiaridades epidemiológicas, clínicas, radiográficas e imunogenéticas. Sobre as características desse grupo é correto afirmar que:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apresentam acometimento da coluna vertebral em especial do segmento cervical, com subluxação atlas- áxis",
+          "explanation": "Subluxação atlantoaxial é mais clássica de artrite reumatoide que do grupo como um todo."
+        },
+        {
+          "letter": "B",
+          "text": "A agregação familiar é marcante, sendo o fator maior de risco a positividade para o Anti CCP",
+          "explanation": "Anti-CCP é relacionado sobretudo à artrite reumatoide; HLA-B27 é importante em espondiloartrites axiais."
+        },
+        {
+          "letter": "C",
+          "text": "O acometimento ocular é importante, caracterizado como iridociclite, unilateral, recidivante",
+          "explanation": "Correta: iridociclite (uveíte anterior) frequentemente é unilateral, aguda e recidivante."
+        },
+        {
+          "letter": "D",
+          "text": "O envolvimento articular periférico caracteriza-se por comprometimento assimétrico de grandes articulações de membros superiores.",
+          "explanation": "A artrite periférica costuma predominar de forma assimétrica nos membros inferiores, não superiores."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "5",
+      "sourceImage": "18",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q5:5"
+    },
+    {
+      "number": 17,
+      "prompt": "Na classificação de Herring para doença de Perthes, o tipo:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A é caracterizado por 50% de achatamento do pilar lateral",
+          "explanation": "Grupo A não apresenta achatamento de 50%; o pilar lateral preserva altura."
+        },
+        {
+          "letter": "B",
+          "text": "B é caracterizado por 70% de achatamento do pilar lateral",
+          "explanation": "Se o pilar perdeu 70%, sobra 30%: corresponde a C, não B."
+        },
+        {
+          "letter": "C",
+          "text": "B é caracterizado por 60% de achatamento do pilar lateral",
+          "explanation": "Se perdeu 60%, sobra 40%: também C, não B."
+        },
+        {
+          "letter": "D",
+          "text": "C é caracterizado por achatamento acima de 50% do pilar lateral",
+          "explanation": "Correta se “achatamento acima de 50%” significa perda de mais de 50% da altura do pilar lateral."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "17",
+      "sourceImage": "19",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q17:17"
+    },
+    {
+      "number": 4,
+      "prompt": "Os anti-inflamatórios são um grupo de fármacos que tem em comum o objetivo de controlar a inflamação e promover analgesia. Podem ser classificados em anti-inflamatórios não esteroidais (AINEs) e esteroidais (corticoesteroides). Sobre essas medicações marque a alternativa correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A nimesulida e o meloxican são considerados AINE não seletivos",
+          "explanation": "Nimesulida e meloxicam são preferencialmente COX-2 em graus distintos, não se resumem corretamente a “não seletivos” sem qualificação."
+        },
+        {
+          "letter": "B",
+          "text": "Os AINEs seletivos cox 2 não necessitam de monitorização de função renal.",
+          "explanation": "Mesmo coxibes seletivos podem afetar perfusão e função renal; deve haver avaliação clínica."
+        },
+        {
+          "letter": "C",
+          "text": "Os corticoesteróides quando usados a longo prazo, porém em doses baixas, não requerem avaliação da massa óssea.",
+          "explanation": "Baixas doses cumulativas/prolongadas de corticoides podem elevar risco de perda óssea; avaliação depende de dose, duração e outros fatores."
+        },
+        {
+          "letter": "D",
+          "text": "O uso crônico de corticoesteróides por via inalatória ou tópica pode acarretar em eventos adversos semelhantes ao da terapia oral.",
+          "explanation": "Correta em sentido de possibilidade, não de equivalência de risco: efeito sistêmico pode ocorrer com vias inaladas/tópicas."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "4 (3ª ocorrência)",
+      "sourceImage": "20",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q4:4-(3ª-ocorrência)"
+    },
+    {
+      "number": 5,
+      "prompt": "Marque a correta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A classificação de Gustillo para fraturas expostas é baseada na avaliação do tamanho do ferimento (até 1, de 1 a 10 e maior de 10 cm)",
+          "explanation": "Tamanho da ferida participa da classificação de Gustilo, mas energia, contaminação, partes moles e vascularização são essenciais."
+        },
+        {
+          "letter": "B",
+          "text": "Paciente caiu do cavalo no curral com fratura da perna com ferimento de cerca de 4cm ao nível da fratura, sem pulso na topografia da a. tibial posterior. O seu diagnóstico é: fratura exposta da perna grau II de Gustillo",
+          "explanation": "Ferida rural/contaminada e possível lesão arterial não podem ser automaticamente grau II por medir 4 cm; lesão arterial que exige reparo implica grau IIIC."
+        },
+        {
+          "letter": "C",
+          "text": "A complicação mais temida na fratura exposta é a infecção e por isso é muito importante a limpeza e o debridamento desses ferimentos",
+          "explanation": "Correta: infecção é complicação central; desbridamento e limpeza apropriados são medidas fundamentais."
+        },
+        {
+          "letter": "D",
+          "text": "O tratamento da fratura exposta pode ser conservador, principalmente nos casos com mais de 6h de exposição",
+          "explanation": "Fratura exposta não é geralmente tratada apenas de modo conservador por ter mais de 6 horas; a demora não favorece isso."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "5 (2ª ocorrência)",
+      "sourceImage": "21",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q5:5-(2ª-ocorrência)"
+    },
+    {
+      "number": 3,
+      "prompt": "Serafina, 30 anos, iniciou há 3 meses quadro de astenia, artralgia com edema articular associado em punhos, metacarpofalangeanas e joelhos. Concomitante apresentou erupção maculopapular na região malar e no dorso do nariz persistente, exacerbada com exposição solar e urina espumosa. Hemograma: Hb: 11,0 g/dl (VR: 12-16 g/dl), Leucócitos: 3000/mm3 (VR: 4000- 11000/mm3), Plaquetas: 80.000/mm3 (150.000- 400.000/mm3). Considerando sua principal hipótese diagnóstica, o padrão do FAN esperado é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nuclear pontilhado fino",
+          "explanation": "Plausível: o padrão pontilhado fino está documentado no LES."
+        },
+        {
+          "letter": "B",
+          "text": "Nuclear homogêneo",
+          "explanation": "Também plausível: padrão nuclear homogêneo pode ocorrer com anticorpos anti-DNA/cromatina em LES."
+        },
+        {
+          "letter": "C",
+          "text": "Nuclear pontilhado fino denso",
+          "explanation": "Pontilhado fino denso isolado (frequentemente anti-DFS70) é menos sugestivo de doença autoimune sistêmica."
+        },
+        {
+          "letter": "D",
+          "text": "Nuclear pontilhado centromérico",
+          "explanation": "Centromérico é classicamente associado a esclerose sistêmica limitada e não ao quadro mais típico descrito."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "3 (2ª ocorrência)",
+      "sourceImage": "22",
+      "answerIssue": "sem_resposta",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q3:3-(2ª-ocorrência)"
+    },
+    {
+      "number": 8,
+      "prompt": "Mulher, 68 anos, IMC = 23, procura assistência médica com história de dor em joelhos, de início há dois anos. Relata piora com as atividades laborais e melhora com o repouso. Ao exame físico, observa-se aumento de volume dos joelhos, crepitação bilateral e dor aos movimentos. Baseando-se na principal hipótese diagnóstica, a conduta neste caso deverá incluir a seguinte orientação:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uso de bengala, para amortecer o peso sobre os joelhos.",
+          "explanation": "Correta: uso individualizado de bengala é recomendado quando OA compromete deambulação e estabilidade."
+        },
+        {
+          "letter": "B",
+          "text": "Artroplastia bilateral, imediatamente.",
+          "explanation": "Artroplastia bilateral imediata não é primeira conduta universal; exige avaliação de gravidade e falha de tratamento não cirúrgico."
+        },
+        {
+          "letter": "C",
+          "text": "Controle do peso, pois a obesidade apresentada pela paciente é um fator que pior sua doença articular.",
+          "explanation": "IMC 23 não é obesidade; controle ponderal pode ser útil se houver excesso de peso, não comprovado aqui."
+        },
+        {
+          "letter": "D",
+          "text": "Prescrição de prednisona, 20 mg/dia, VO, durante 30 dias, devido ao quadro inflamatório.",
+          "explanation": "Prednisona sistêmica prolongada não é tratamento habitual da OA mecânica e traz riscos."
+        }
+      ],
+      "page": 5,
+      "numberLabel": "8 (2ª ocorrência)",
+      "sourceImage": "23",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q8:8-(2ª-ocorrência)"
+    },
+    {
+      "number": 10,
+      "prompt": "Em relação às fraturas expostas é correto afirmar: (INCOMPLETO)",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A fratura exposta mais comum é a de [...]",
+          "explanation": "A localização de fratura exposta mais comum depende da população; opção incompleta."
+        },
+        {
+          "letter": "B",
+          "text": "[...] há exposição [..] para o meio externo",
+          "explanation": "O conceito de comunicação da fratura com o exterior é pertinente, mas a frase foi cortada."
+        },
+        {
+          "letter": "C",
+          "text": "Está indicado uso de [...] em fraturas tipo II de Gustillo (?) e Anderson",
+          "explanation": "A indicação e o grau de Gustilo estão truncados e impedem julgamento."
+        },
+        {
+          "letter": "D",
+          "text": "Debridamento (?) e [...] têm se mostrado seguro na maioria dos [...]",
+          "explanation": "O texto sobre desbridamento e segurança está truncado; não é possível confirmar."
+        }
+      ],
+      "page": 6,
+      "numberLabel": "10 (2ª ocorrência)",
+      "sourceImage": "24",
+      "answerIssue": "sem_resposta",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q10:10-(2ª-ocorrência)"
+    },
+    {
+      "number": 9,
+      "prompt": "Nas fraturas de extremidades (?), podemos afirmar que: (INCOMPLETO)",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[...] década de 60, graças às [...]",
+          "explanation": "Não é possível conferir afirmação histórica interrompida."
+        },
+        {
+          "letter": "B",
+          "text": "[...] maior incidência em [...] idosos",
+          "explanation": "Não é possível conferir afirmação epidemiológica truncada."
+        },
+        {
+          "letter": "C",
+          "text": "O aumento do 2IdC (?) não é fator de risco",
+          "explanation": "Fator descrito como “2IdC (?)” é ilegível e não deve ser inferido."
+        },
+        {
+          "letter": "D",
+          "text": "A fratura intraarticular (?) é a mais comum",
+          "explanation": "Tipo de fratura e proposição final não estão suficientemente disponíveis."
+        }
+      ],
+      "page": 6,
+      "numberLabel": "9 (2ª ocorrência)",
+      "sourceImage": "25",
+      "answerIssue": "sem_resposta",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q9:9-(2ª-ocorrência)"
+    },
+    {
+      "number": 14,
+      "prompt": "Na investigação diagnóstica de um paciente com suspeita de fratura dos ossos da perna [...] pedir radiografias nas seguintes incidências: (INCOMPLETO)",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "AP, perfil, oblíqua D, oblíqua E",
+          "explanation": "Quatro incidências incluindo oblíquas podem ser úteis em casos selecionados, mas não constituem a série inicial básica."
+        },
+        {
+          "letter": "B",
+          "text": "AP, perfil e axial do tornozelo",
+          "explanation": "A vista axial do tornozelo não é exame inicial padrão de toda a perna."
+        },
+        {
+          "letter": "C",
+          "text": "AP e perfil",
+          "explanation": "Correta para avaliação inicial: AP e perfil."
+        },
+        {
+          "letter": "D",
+          "text": "AP, perfil e axial da patela",
+          "explanation": "A incidência axial da patela é voltada ao joelho/patelofemoral, não à avaliação geral dos ossos da perna."
+        }
+      ],
+      "page": 6,
+      "numberLabel": "14",
+      "sourceImage": "26",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q14:14"
+    },
+    {
+      "number": 5,
+      "prompt": "A osteoporose é uma doença osteometabólica caracterizada por redução na densidade mineral óssea e aumento no risco de fraturas. Em seu tratamento, a atividade física deve ser encorajada. Assinale a atividade mais indicada para ganho de massa óssea e prevenção de fraturas:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hidroginástica",
+          "explanation": "Hidroginástica melhora condicionamento e mobilidade, mas oferece menor estímulo de carga gravitacional óssea."
+        },
+        {
+          "letter": "B",
+          "text": "Natação",
+          "explanation": "Natação é benéfica à saúde geral, com pouco estímulo osteogênico pela flutuação."
+        },
+        {
+          "letter": "C",
+          "text": "Alongamento",
+          "explanation": "Alongamentos melhoram flexibilidade, não são o principal estímulo para ganho de massa óssea."
+        },
+        {
+          "letter": "D",
+          "text": "Musculação",
+          "explanation": "Correta: musculação com sobrecarga progressiva é a melhor opção apresentada."
+        }
+      ],
+      "page": 6,
+      "numberLabel": "5 (3ª ocorrência)",
+      "sourceImage": "27",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q5:5-(3ª-ocorrência)"
+    },
+    {
+      "number": 6,
+      "prompt": "Quais as áreas mais sujeitas às ulcerações de pressão?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tuberosidade isquiática, trocanter, região sacra",
+          "explanation": "Correta: regiões sacra, isquiática e trocantérica são locais clássicos de alto risco."
+        },
+        {
+          "letter": "B",
+          "text": "Calcanhar, joelhos, trocanter",
+          "explanation": "Calcâneo e trocânter são importantes, mas joelhos não são tão classicamente prevalentes nessa combinação."
+        },
+        {
+          "letter": "C",
+          "text": "Trocanter, calcanhar, nuca",
+          "explanation": "Inclui trocânter e calcâneo, porém nuca é menos típica do que sacro e ísquio na maioria dos pacientes."
+        },
+        {
+          "letter": "D",
+          "text": "Cotovelo, região zigomática, ombro",
+          "explanation": "Essas áreas podem lesionar em posições específicas, mas não representam o conjunto predominante."
+        }
+      ],
+      "page": 6,
+      "numberLabel": "6 (2ª ocorrência)",
+      "sourceImage": "28",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q6:6-(2ª-ocorrência)"
+    },
+    {
+      "number": 11,
+      "prompt": "Em relação às fraturas (?) de diáfise da tíbia é correto afirmar que: (INCOMPLETO)",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A fratura é mais comum no sexo feminino",
+          "explanation": "Fraturas diafisárias da tíbia não são tipicamente mais frequentes em mulheres em todas as séries."
+        },
+        {
+          "letter": "B",
+          "text": "Não é indicado tratamento conservador por ser um osso que [...]",
+          "explanation": "O tratamento conservador é possível em casos estáveis selecionados; a justificativa do item está incompleta."
+        },
+        {
+          "letter": "C",
+          "text": "A fixação com placa e parafuso é uma das formas (?) de tratamento cirúrgico",
+          "explanation": "Fato defensável: placas e parafusos são uma opção cirúrgica, mas o restante da alternativa também foi parcialmente cortado."
+        },
+        {
+          "letter": "D",
+          "text": "Não há associação com lesões de estrutura do joelho (ligamentos [...]) anterior e posterior (?)",
+          "explanation": "Não é possível julgar completamente a relação com lesões ligamentares do joelho, pois a frase foi truncada."
+        }
+      ],
+      "page": 6,
+      "numberLabel": "11",
+      "sourceImage": "29",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q11:11"
+    },
+    {
+      "number": 15,
+      "prompt": "A paralisia cerebral (?) é uma patologia:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evolutiva, causando por lesão nos núcleos da base",
+          "explanation": "A encefalopatia causal não é progressiva por definição e não decorre obrigatoriamente dos núcleos da base."
+        },
+        {
+          "letter": "B",
+          "text": "Não evolutiva, causada por lesão no cérebro imaturo",
+          "explanation": "Correta: condição de origem não progressiva do cérebro em desenvolvimento."
+        },
+        {
+          "letter": "C",
+          "text": "Lentamente progressiva, causada por lesão piramidal",
+          "explanation": "Não é doença neurodegenerativa lentamente progressiva."
+        },
+        {
+          "letter": "D",
+          "text": "Caracterizada por déficit cognitivo em 85% dos casos",
+          "explanation": "Déficit cognitivo não é universal nem possui prevalência fixa de 85%; pode haver inteligência preservada."
+        }
+      ],
+      "page": 7,
+      "numberLabel": "15",
+      "sourceImage": "30",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q15:15"
+    },
+    {
+      "number": 3,
+      "prompt": "Sobre as fraturas do colo do fêmur, marque a incorreta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Via de regra, nos pacientes mais jovens normalmente se preconiza a fixação da fratura e nos mais idosos se utiliza mais as artroplastias",
+          "explanation": "Correta como tendência, com exceções: fixação em jovens; artroplastia mais comum em idosos com fraturas desviadas."
+        },
+        {
+          "letter": "B",
+          "text": "Apresentam complicações como pseudoartrose e necrose avascular da cabeça que são menos comuns nas fraturas transtrocanterianas",
+          "explanation": "Correta: a vascularização da cabeça é mais ameaçada nas fraturas intracapsulares."
+        },
+        {
+          "letter": "C",
+          "text": "São classificadas por Garden em quatro tipos, sendo as de grau I e II estáveis e as de grau III e IV instáveis",
+          "explanation": "Correta no esquema tradicional: Garden I e II são impactadas/não desviadas; III e IV apresentam desvio."
+        },
+        {
+          "letter": "D",
+          "text": "As estáveis são de tratamento conservador, com bons índices de consolidação",
+          "explanation": "Incorreta como regra geral: fraturas não desviadas não são automaticamente conservadoras; fixação é frequente conforme risco."
+        }
+      ],
+      "page": 7,
+      "numberLabel": "3 (3ª ocorrência)",
+      "sourceImage": "31",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q3:3-(3ª-ocorrência)"
+    },
+    {
+      "number": 2,
+      "prompt": "Joana, 35 anos, gestante, costureira, com sensação de formigamento e queimação em mãos, principalmente no período noturno. Procurou o reumatologista apresentando, ao exame físico, sinais de Tinel e Phalen positivos, bilateralmente. Considerando a distribuição do nervo acometido, esta paciente apresenta parestesia, especificamente, em:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro, segundo, terceiro e parte do quarto dedo",
+          "explanation": "Correta: corresponde ao território sensitivo clássico do nervo mediano."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo, terceiro e quarto dedos",
+          "explanation": "Não descreve precisamente a participação do polegar e metade radial do anelar."
+        },
+        {
+          "letter": "C",
+          "text": "Todos os dedos das mãos exceto polegar",
+          "explanation": "A maior parte do quinto dedo e metade ulnar do anelar pertencem ao nervo ulnar; o polegar participa."
+        },
+        {
+          "letter": "D",
+          "text": "Todos os dedos das mãos",
+          "explanation": "O quinto dedo geralmente não participa da distribuição típica mediana."
+        }
+      ],
+      "page": 7,
+      "numberLabel": "2 (3ª ocorrência)",
+      "sourceImage": "32",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q2:2-(3ª-ocorrência)"
+    },
+    {
+      "number": 1,
+      "prompt": "A gota é um distúrbio metabólico que se manifesta por níveis elevados de ácido úrico sérico, crises recorrentes de artrite aguda e formações crônicas de cristais de monurato de sódio. Pode ser classificada como primária ou secundária (quando se relaciona a outras condições que concorrem para o acúmulo de ácido úrico sérico). O principal mecanismo da hiperuricemia em pacientes com gota primária é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dieta rica em purinas",
+          "explanation": "A dieta pode contribuir, mas não é o principal mecanismo isolado."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento da taxa de renovação celular",
+          "explanation": "O aumento de renovação celular explica causas de hiperprodução, como algumas neoplasias; não é a explicação predominante da gota primária."
+        },
+        {
+          "letter": "C",
+          "text": "Diminuição da excreção renal de ácido úrico",
+          "explanation": "Correta: a subexcreção renal de urato predomina, com fatores genéticos e renais."
+        },
+        {
+          "letter": "D",
+          "text": "Deficiência total da enzima hipoxantinaguanina fosforribosiltransferase (HGPRT-ase)",
+          "explanation": "A deficiência completa de HGPRT causa síndrome de Lesch-Nyhan, forma rara de hiperprodução; não corresponde à maioria dos casos."
+        }
+      ],
+      "page": 7,
+      "numberLabel": "1 (3ª ocorrência)",
+      "sourceImage": "33.1",
+      "answer": "C",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q1:1-(3ª-ocorrência)"
+    },
+    {
+      "number": 2,
+      "prompt": "Joana, 35 anos, gestante, costureira, com sensação de formigamento e queimação em mãos, principalmente no período noturno. Procurou o reumatologista apresentando, ao exame físico, sinais de Tinel e Phalen positivos, bilateralmente. Considerando a distribuição do nervo acometido, esta paciente apresenta parestesia, especificamente, em:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro, segundo, terceiro e parte do quarto dedo",
+          "explanation": "Correta: corresponde ao território sensitivo clássico do nervo mediano."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo, terceiro e quarto dedos",
+          "explanation": "Não descreve precisamente a participação do polegar e metade radial do anelar."
+        },
+        {
+          "letter": "C",
+          "text": "Todos os dedos das mãos exceto polegar",
+          "explanation": "A maior parte do quinto dedo e metade ulnar do anelar pertencem ao nervo ulnar; o polegar participa."
+        },
+        {
+          "letter": "D",
+          "text": "Todos os dedos das mãos",
+          "explanation": "O quinto dedo geralmente não participa da distribuição típica mediana."
+        }
+      ],
+      "page": 7,
+      "numberLabel": "2 (4ª ocorrência)",
+      "sourceImage": "33.2",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q2:2-(4ª-ocorrência)"
+    },
+    {
+      "number": 3,
+      "prompt": "Serafina, 30 anos, iniciou há 3 meses quadro de astenia, artralgia com edema articular associado em punhos, metacarpofalangeanas e joelhos. Concomitante apresentou erupção maculopapular na região malar e no dorso do nariz persistente, exacerbada com exposição solar e urina espumosa. Hemograma: Hb: 11,0 g/dl (VR: 12-16 g/dl), Leucócitos: 3000/mm3 (VR: 4000-11000/mm3), Plaquetas: 80.000/mm3 (150.000-400.000/mm3). Considerando sua principal hipótese diagnóstica, o padrão do FAN esperado é:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nuclear pontilhado fino",
+          "explanation": "Plausível: o padrão pontilhado fino está documentado no LES."
+        },
+        {
+          "letter": "B",
+          "text": "Nuclear homogêneo",
+          "explanation": "Também plausível: padrão nuclear homogêneo pode ocorrer com anticorpos anti-DNA/cromatina em LES."
+        },
+        {
+          "letter": "C",
+          "text": "Nuclear pontilhado fino denso",
+          "explanation": "Pontilhado fino denso isolado (frequentemente anti-DFS70) é menos sugestivo de doença autoimune sistêmica."
+        },
+        {
+          "letter": "D",
+          "text": "Nuclear pontilhado centromérico",
+          "explanation": "Centromérico é classicamente associado a esclerose sistêmica limitada e não ao quadro mais típico descrito."
+        }
+      ],
+      "page": 8,
+      "numberLabel": "3 (4ª ocorrência)",
+      "sourceImage": "33.3",
+      "answerIssue": "sem_resposta",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q3:3-(4ª-ocorrência)"
+    },
+    {
+      "number": 4,
+      "prompt": "Os anti-inflamatórios são um grupo de fármacos que tem em comum o objetivo de controlar a inflamação e promover analgesia. Podem ser classificados em anti- (INCOMPLETO)",
+      "type": "discursive",
+      "options": [],
+      "page": 8,
+      "reviewNote": "O enunciado original está incompleto ou não apresenta alternativas suficientes.",
+      "numberLabel": "4 (4ª ocorrência)",
+      "sourceImage": "33.4",
+      "answerIssue": "sem_resposta",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "rodizio-reumato-3:q4:4-(4ª-ocorrência)"
+    }
+  ]
+}

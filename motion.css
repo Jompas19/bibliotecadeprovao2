@@ -1,0 +1,109 @@
+/* Biblioteca de Provões — movimento sutil. Sem bibliotecas externas. */
+:root {
+  --motion-fast: 160ms;
+  --motion-base: 250ms;
+  --motion-slow: 330ms;
+  --motion-ease: cubic-bezier(.22, 1, .36, 1);
+}
+
+/* Ações pequenas devem responder imediatamente ao toque. */
+.btn, .status-btn, .filter, .qdot, .option, .vf-button, .matching-choice,
+.keypick, .notes-toolbar button, .study-option-exclude, .study-marker-toggle,
+.oitu-admin-toggle, .oitu-delete, .oitu-form button, .oitu-input, .oitu-textarea,
+.tutorial-help-button, .cover-image, .cover-tag {
+  transition: transform var(--motion-fast) var(--motion-ease),
+              box-shadow var(--motion-base) ease,
+              border-color var(--motion-fast) ease,
+              background-color var(--motion-base) ease,
+              color var(--motion-base) ease,
+              opacity var(--motion-base) ease;
+}
+.btn:not(:disabled):active, .status-btn:active, .filter:active, .qdot:active,
+.keypick:active, .vf-button:active, .notes-toolbar button:active,
+.oitu-form button:active, .tutorial-help-button:active {
+  transform: scale(.965);
+}
+.option:not(:disabled):active { transform: scale(.992); }
+.status-btn:hover, .keypick:hover, .vf-button:hover, .qdot:hover,
+.tutorial-help-button:hover { transform: translateY(-1px); }
+.status-btn.active { box-shadow: 0 2px 9px rgba(49,86,211,.09); }
+
+/* Capas e cartões: profundidade leve, sem imagens deslizantes exageradas. */
+.exam-card { transition: transform var(--motion-base) var(--motion-ease),
+  box-shadow var(--motion-base) ease, border-color var(--motion-base) ease; }
+.exam-card:hover { transform: translateY(-4px); }
+.exam-card:hover .cover-image { transform: scale(1.025); }
+.progress > i { transition: width 500ms var(--motion-ease); }
+
+/* Modo escuro/claro: superfícies fazem uma transição curta. */
+body, .topbar, .exam-card, .question-card, .side, .notes-toolbar, .editor,
+.result, .oitu-form, .oitu-item, .oitu-input, .oitu-textarea, .alternative-comment {
+  transition: background-color 220ms ease, color 220ms ease,
+              border-color 220ms ease, box-shadow 220ms ease;
+}
+
+/* Entrada em página / troca de questão, disparadas só quando necessário. */
+.motion-enter-hero { animation: motion-up var(--motion-slow) var(--motion-ease) both; }
+.motion-enter-card { animation: motion-up 360ms var(--motion-ease) both;
+  animation-delay: var(--motion-delay, 0ms); }
+.motion-enter-shell .exam-head { animation: motion-up 280ms var(--motion-ease) both; }
+.motion-enter-shell .side { animation: motion-up 340ms var(--motion-ease) both; animation-delay:45ms; }
+.motion-enter-question { animation: motion-up 270ms var(--motion-ease) both; }
+.motion-picked { animation: motion-pick 240ms var(--motion-ease) both; }
+
+/* Confirmação: resultado e comentários surgem em sequência rápida. */
+.motion-reveal { animation: motion-up 300ms var(--motion-ease) both;
+  animation-delay: var(--motion-delay, 0ms); }
+.motion-reveal-result { animation: motion-result 340ms var(--motion-ease) both; }
+.option.selected .letter { transition: transform 200ms var(--motion-ease), background-color 200ms ease; }
+.option.correct .letter { animation: motion-pick 280ms var(--motion-ease) both; }
+
+/* Anotações, comentários públicos, alertas e modais. */
+.notes:not(.hidden) { animation: motion-open 260ms var(--motion-ease) both;
+  transform-origin: top center; }
+.oitu-item { animation: motion-up 265ms var(--motion-ease) both; }
+.oitu-form, .oitu-recovery, .oitu-disabled, .oitu-empty { animation: motion-soft 245ms ease both; }
+.modal-bg, .study-exam-warning-bg { animation: motion-backdrop 200ms ease both; }
+.modal-bg > .modal, .study-exam-warning-bg > .study-exam-warning-card {
+  animation: motion-dialog 275ms var(--motion-ease) both; }
+.study-highlight-pop { animation: motion-dialog 190ms var(--motion-ease) both; }
+.toast { animation: motion-soft 220ms ease both; }
+
+/* A rolagem permanece previsível durante a resolução de provas. */
+:root:not(.question-explanations-hidden) .alternative-comment.motion-reveal,
+:root:not(.question-explanations-hidden) .structured-correction.motion-reveal,
+:root:not(.question-explanations-hidden) .question-review-note.motion-reveal {
+  animation: motion-up 270ms var(--motion-ease) both;
+  animation-delay: var(--motion-delay, 0ms);
+}
+
+@keyframes motion-up {
+  from { opacity: 0; transform: translate3d(0, 9px, 0); }
+  to { opacity: 1; transform: translate3d(0, 0, 0); }
+}
+@keyframes motion-soft { from { opacity: 0; } to { opacity: 1; } }
+@keyframes motion-pick {
+  0% { transform: scale(.975); }
+  55% { transform: scale(1.018); }
+  100% { transform: scale(1); }
+}
+@keyframes motion-result {
+  from { opacity: 0; transform: translate3d(0, 7px, 0) scale(.992); }
+  to { opacity: 1; transform: translate3d(0, 0, 0) scale(1); }
+}
+@keyframes motion-open {
+  from { opacity: 0; transform: translate3d(0, -5px, 0) scaleY(.98); }
+  to { opacity: 1; transform: translate3d(0, 0, 0) scaleY(1); }
+}
+@keyframes motion-backdrop { from { opacity: 0; } to { opacity: 1; } }
+@keyframes motion-dialog {
+  from { opacity: 0; transform: translate3d(0, 12px, 0) scale(.985); }
+  to { opacity: 1; transform: translate3d(0, 0, 0) scale(1); }
+}
+
+/* Acessibilidade: sem movimento para quem optou por reduzi-lo. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important;
+    animation-delay: 0ms !important; transition-duration: .01ms !important;
+    scroll-behavior: auto !important; }
+}

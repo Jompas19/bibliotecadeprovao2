@@ -1,0 +1,637 @@
+{
+  "id": "provao-m1-2019",
+  "title": "Provão M1 (2019)",
+  "original": "Provão reumato e o resto - Junho",
+  "key_source": "Gabarito comentado do PDF",
+  "questionCount": 24,
+  "questions": [
+    {
+      "number": 6,
+      "prompt": "Quais são atividades instrumentais de vida diária?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[Alternativa não legível no PDF]",
+          "explanation": "Não consta texto da alternativa A no documento; impossível julgá-la."
+        },
+        {
+          "letter": "B",
+          "text": "telefonar, gerir recursos financeiros, usar transporte público",
+          "explanation": "Correta. Telefonar, gerir dinheiro e usar transporte são atividades instrumentais da vida diária (AIVD), assim como preparar refeições e fazer compras."
+        },
+        {
+          "letter": "C",
+          "text": "[Alternativa não legível no PDF]",
+          "explanation": "Alternativa não transcrita; não é possível examiná-la."
+        },
+        {
+          "letter": "D",
+          "text": "[Alternativa não legível no PDF]",
+          "explanation": "Alternativa não transcrita; não é possível examiná-la. Observação clínica ou limitação: Apenas B possui conteúdo verificável. Não se presume a redação das demais alternativas."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "6",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q6:6"
+    },
+    {
+      "number": 7,
+      "prompt": "Homem com aumento de edema de joelho foi prescrito AINE e começou a se queixar de epigastralgia. Para o edema de joelho foi passado um diurético que causou hipocalemia, sendo administrado K+, o que piorou epigastralgia. (tem uma sequência de medicamentos e efeitos adversos).Como chamamos esse efeito:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Efeito dominó",
+          "explanation": "Efeito dominó é termo inespecífico e não o nome técnico do fenômeno descrito."
+        },
+        {
+          "letter": "B",
+          "text": "Prescrição em cascata",
+          "explanation": "Correta. O efeito adverso de um fármaco é tratado com outro e gera novas prescrições e efeitos indesejados: prescrição em cascata."
+        },
+        {
+          "letter": "C",
+          "text": "Interação medicamentosa",
+          "explanation": "Uma interação pode causar dano, mas o eixo do enunciado é tratar sucessivamente eventos adversos com novos medicamentos."
+        },
+        {
+          "letter": "D",
+          "text": "Ineficácia Terapêutica",
+          "explanation": "Não se descreve apenas falta de eficácia: há iatrogenia progressiva."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "7",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q7:7"
+    },
+    {
+      "number": 8,
+      "prompt": "O que deve ser EVITADO na desprescrição:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Retirar medicamentos preventivos independente da expectativa de vida",
+          "explanation": "Também deve ser evitada: a decisão de retirar medidas preventivas depende de objetivos terapêuticos, risco/benefício e expectativa de vida; não se deve fazê-lo indistintamente."
+        },
+        {
+          "letter": "B",
+          "text": "Retirar medicamentos sintomáticos, mesmo que sintomas já tenham melhorado",
+          "explanation": "Suspender medicamentos sintomáticos pode ser apropriado após resolução dos sintomas, com avaliação de recorrência e necessidade de redução gradual; não é proibido por definição."
+        },
+        {
+          "letter": "C",
+          "text": "Retirar vários medicamentos inapropriados ou de alto risco de uma só vez",
+          "explanation": "Também deve ser evitada como conduta rotineira: suspender vários fármacos potencialmente perigosos ao mesmo tempo dificulta atribuir sintomas de retirada e controlar riscos. Exceções existem em situações urgentes."
+        },
+        {
+          "letter": "D",
+          "text": "Retirar medicamentos psicotrópicos reduzindo a dose lenta e gradualmente",
+          "explanation": "Conduta geralmente apropriada: psicotrópicos com risco de abstinência costumam requerer retirada gradual e individualizada. Observação clínica ou limitação: A e C são defensáveis como respostas. Sem critério adicional, a questão não tem resposta única segura."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "8",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q8:8"
+    },
+    {
+      "number": 9,
+      "prompt": "Mulher, 78 anos, diabética, perdeu 6kg em 4 meses, apresenta fraqueza, fadiga, dificuldade em subir escadas. Ao teste de preensão palmar obteve resultado de 10kg. Circunferência de panturrilha : 31cm. No caso em questão a paciente apresenta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provável sarcopenia",
+          "explanation": "Correta. A força de preensão palmar de 10 kg está abaixo do ponto de corte para mulheres (<16 kg no EWGSOP2), caracterizando sarcopenia provável."
+        },
+        {
+          "letter": "B",
+          "text": "Sarcopenia confirmada",
+          "explanation": "Para confirmar sarcopenia é necessário demonstrar baixa quantidade/qualidade muscular, usualmente por DXA ou bioimpedância. Panturrilha isolada não confirma o diagnóstico."
+        },
+        {
+          "letter": "C",
+          "text": "Não apresenta sarcopenia",
+          "explanation": "Incorreta diante da fraqueza objetivada por dinamometria."
+        },
+        {
+          "letter": "D",
+          "text": "Dados insuficientes para diagnóstico",
+          "explanation": "Há dados suficientes para classificar como provável, embora não para confirmar a sarcopenia."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "9",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q9:9"
+    },
+    {
+      "number": 10,
+      "prompt": "Mulher, 75 anos, sedentária, caiu 3x. Medidas ambientais.",
+      "type": "discursive",
+      "options": [],
+      "page": 1,
+      "reviewNote": "O enunciado original está incompleto ou não apresenta alternativas suficientes.",
+      "numberLabel": "10",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q10:10"
+    },
+    {
+      "number": 11,
+      "prompt": "Queimadura indolor, aspecto polvilhado, vermelho vivo, nacarado, sem bolhas. Classificação?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1º grau",
+          "explanation": "Queimadura superficial costuma ser dolorosa e eritematosa, sem perda total de sensibilidade."
+        },
+        {
+          "letter": "B",
+          "text": "2º grau sup.",
+          "explanation": "Segundo grau superficial costuma ser muito doloroso, úmido e frequentemente com bolhas."
+        },
+        {
+          "letter": "C",
+          "text": "2º grau prof.",
+          "explanation": "Segundo grau profundo pode ter sensibilidade reduzida e aspecto pálido, mas ainda preserva parte da derme e muitas vezes apresenta bolhas."
+        },
+        {
+          "letter": "D",
+          "text": "3º grau",
+          "explanation": "Mais compatível com a combinação de indolor, nacarado e sem bolhas, típica de espessura total (terceiro grau). Observação clínica ou limitação: A expressão “vermelho vivo” é discordante do aspecto clássico de queimadura profunda e limita a certeza. Examinar perfusão/sensibilidade e evolução."
+        }
+      ],
+      "page": 1,
+      "numberLabel": "11",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q11:11"
+    },
+    {
+      "number": 12,
+      "prompt": "8 anos, masculino, dor súbita no joelho Esq. após futebol, piorando há 5 dias, deambulação claudicante. Ao ex. físico: edema 2+ e aumento de temperatura.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedir RX ?",
+          "explanation": "Radiografia imediata do joelho e ossos adjacentes é pertinente no diagnóstico inicial de criança com dor, edema e calor, particularmente após prática esportiva."
+        },
+        {
+          "letter": "B",
+          "text": "Pioartrite, mas pedir RX após 10 dias",
+          "explanation": "Não se deve esperar dez dias para investigar suspeita de artrite séptica: eventual infecção articular exige avaliação urgente."
+        },
+        {
+          "letter": "C",
+          "text": "Via de contaminação é drenagem de osteomielite aguda de metáfise intra-articular.",
+          "explanation": "Disseminação de osteomielite adjacente é possível, mas não é a via obrigatória nem pode ser afirmada para o joelho com os dados existentes."
+        },
+        {
+          "letter": "D",
+          "text": "Tratamento é cirúrgico, limpeza, eletiva.",
+          "explanation": "Se houver artrite séptica, o tratamento não é limpeza eletiva; exige abordagem urgente, amostra sinovial e antibioticoterapia conforme gravidade. Observação clínica ou limitação: A é a opção mais aceitável entre as transcritas, mas radiografia isolada NÃO exclui artrite séptica. Considerar artrocentese, hemoculturas, PCR, ultrassom e avaliação ortopédica conforme a suspeita."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "12",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q12:12"
+    },
+    {
+      "number": 13,
+      "prompt": "Masc., 75, ca de próstata há 2 anos, finalizou tto com QT . Prostatectomia. Lombalgia contínua, sem fator de melhora ou piora, sem irradiação p/ MMII. Não melhorou com fisioterapia nem relaxante muscular. A dor piorou.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Imagem, … dor compressiva.",
+          "explanation": "Alternativa truncada; parece mencionar imagem e dor compressiva, mas não é possível afirmar qual conduta integral foi proposta."
+        },
+        {
+          "letter": "B",
+          "text": "Investigar metástase para coluna",
+          "explanation": "Correta. Dor lombar persistente e progressiva em paciente com câncer de próstata é sinal de alarme para metástase vertebral, exigindo investigação por imagem apropriada."
+        },
+        {
+          "letter": "C",
+          "text": "RX de coluna ( +S e +E)",
+          "explanation": "Radiografia convencional pode mostrar alterações, mas não é suficiente para afastar metástase ou compressão neural quando a suspeita clínica é relevante; RM é preferível conforme cenário."
+        },
+        {
+          "letter": "D",
+          "text": "Metástase para coluna é pouco provável.",
+          "explanation": "Incorreta. Câncer de próstata frequentemente metastatiza para o esqueleto axial. Observação clínica ou limitação: Se houver déficit neurológico, disfunção esfincteriana ou dor sugestiva de compressão medular, a avaliação é emergencial."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "13",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q13:13"
+    },
+    {
+      "number": 14,
+      "prompt": "Questão de pé torto congênito perguntava o tratamento:",
+      "type": "discursive",
+      "options": [
+        {
+          "letter": "D",
+          "text": "conservador = gesso semanal por 6 semanas + órtese de manutenção noturna por 4 anos (dennis brown) - cirúrgico = quando conservador nã o corrige",
+          "explanation": "O registro cita gessos semanais e órtese de abdução por anos, núcleo do método de Ponseti. Contudo, a sequência está abreviada: frequentemente há tenotomia percutânea do Aquiles e a órtese costuma ser contínua nos primeiros meses e depois noturna/nas sonecas. Observação clínica ou limitação: Não é possível comparar D com alternativas omitidas. A cirurgia extensa fica reservada a deformidades refratárias ou recidivas selecionadas."
+        }
+      ],
+      "page": 2,
+      "reviewNote": "O enunciado original está incompleto ou não apresenta alternativas suficientes.",
+      "numberLabel": "14",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q14:14"
+    },
+    {
+      "number": 15,
+      "prompt": "Neuroplasticidade - conceito",
+      "type": "discursive",
+      "options": [],
+      "page": 2,
+      "reviewNote": "O enunciado original está incompleto ou não apresenta alternativas suficientes.",
+      "numberLabel": "15",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q15:15"
+    },
+    {
+      "number": 16,
+      "prompt": "Classificação de Herring para doença de Perthes, o tipo",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a - 50% achatamento pilar lateral",
+          "explanation": "No grupo A, o pilar lateral mantém sua altura, e não perde 50%."
+        },
+        {
+          "letter": "B",
+          "text": "b - 70%",
+          "explanation": "O grupo B não é definido especificamente por 70% de achatamento; deve manter mais da metade da altura original."
+        },
+        {
+          "letter": "C",
+          "text": "b - 60%",
+          "explanation": "O grupo B não corresponde a 60% de perda de altura, o que já excederia o limiar do grupo C."
+        },
+        {
+          "letter": "D",
+          "text": "c - >50% de achatamento do pilar lateral",
+          "explanation": "Correta. O grupo C corresponde a mais de 50% de perda/colapso da altura do pilar lateral."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "16",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q16:16"
+    },
+    {
+      "number": 17,
+      "prompt": "Escoliose idiopática do adolescente",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "feminino, 11 - 18 anos",
+          "explanation": "Correta entre as apresentadas: escoliose idiopática do adolescente é mais comum em meninas durante o crescimento puberal, geralmente entre 10 anos e a maturidade esquelética."
+        },
+        {
+          "letter": "B",
+          "text": "masculino, 11 - 18 anos",
+          "explanation": "Meninos também podem ser acometidos, mas com frequência menor."
+        },
+        {
+          "letter": "C",
+          "text": "feminino, 12 - 25 anos",
+          "explanation": "A faixa etária até 25 anos não caracteriza a definição usual de escoliose idiopática do adolescente."
+        },
+        {
+          "letter": "D",
+          "text": "masculino, 12 - 25 anos",
+          "explanation": "Incorreta tanto pela predominância masculina alegada quanto pela faixa etária."
+        }
+      ],
+      "page": 2,
+      "numberLabel": "17",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q17:17"
+    },
+    {
+      "number": 18,
+      "prompt": "sobre o diagnóstico de trauma de extremidades, é correto:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fratura é uma incongruência articular",
+          "explanation": "Fratura é perda de continuidade do osso, não incongruência articular."
+        },
+        {
+          "letter": "B",
+          "text": "luxação é uma lesão direta das partes moles ou osso com hematoma",
+          "explanation": "Luxação significa perda de congruência articular, não simples contusão de partes moles."
+        },
+        {
+          "letter": "C",
+          "text": "entorse é uma solução de continuidade do osso",
+          "explanation": "Entorse é lesão capsuloligamentar por torção; solução de continuidade do osso define fratura."
+        },
+        {
+          "letter": "D",
+          "text": "lesão miotendínea é uma impotência funcional por ruptura",
+          "explanation": "Mais próxima. Rupturas miotendíneas podem causar perda de função; porém lesões miotendíneas também podem ser parciais e não obrigatoriamente provocar impotência completa. Observação clínica ou limitação: A alternativa D é aceita por exclusão, com ressalva à generalização."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "18",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q18:18"
+    },
+    {
+      "number": 25,
+      "prompt": "Mulher de 72 anos com osteoporose. Após avaliação médica foi diagnosticado sarcopenia. Quais os critérios para este diagnóstico?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diminuição da massa muscular e diminuição da força",
+          "explanation": "Correta. O diagnóstico confirmado de sarcopenia requer redução da força muscular e evidência de baixa massa/qualidade muscular."
+        },
+        {
+          "letter": "B",
+          "text": "Diminuição da força muscular e alto perfil físico",
+          "explanation": "Força reduzida não combina com “alto perfil físico” como definição diagnóstica."
+        },
+        {
+          "letter": "C",
+          "text": "Massa muscular normal e diminuição das enzimas musculares",
+          "explanation": "Massa normal e enzimas musculares reduzidas não constituem os critérios de sarcopenia."
+        },
+        {
+          "letter": "D",
+          "text": "Fraqueza muscular e elevação das enzimas musculares",
+          "explanation": "Elevação de enzimas musculares indica investigar lesão ou doença muscular, não é critério de sarcopenia."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "25",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q25:25"
+    },
+    {
+      "number": 26,
+      "prompt": "​ Homem de 80 anos com osteoartrite no joelho direito em uso de bengala. Quais são as orientações para este paciente?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Durante a marcha, a bengala deve ser posicionada no degrau no membro superior esquerdo",
+          "explanation": "O uso na mão esquerda está correto para osteoartrite dolorosa do joelho direito; porém a frase sobre “degrau” durante a marcha está incompleta ou inadequadamente redigida."
+        },
+        {
+          "letter": "B",
+          "text": "Para descer uma escada, a bengala deve ser posicionada no degrau, primeiramente. Então, deve-se apoiar o MIE e, finalmente, o MDF, o qual suportará o peso do corpo.",
+          "explanation": "Errada: ao DESCER escadas, bengala e membro comprometido (direito) vão primeiro ao degrau inferior; depois avança o esquerdo, mais forte."
+        },
+        {
+          "letter": "C",
+          "text": "Para levantar de uma cadeira, a bengala deve ser posicionada na frente do corpo, primeiramente. Em seguida, deve-se apoiar sobre a mesma inclinando o corpo para frente e levantar.",
+          "explanation": "Errada: levantar-se da cadeira deve utilizar braços da cadeira e membros inferiores de forma segura; não se recomenda puxar ou se apoiar inicialmente na bengala à frente do corpo."
+        },
+        {
+          "letter": "D",
+          "text": "Para deambular, a bengala deve avançar simultaneamente com o membro inferior esquerdo.",
+          "explanation": "Errada: bengala na mão esquerda deve avançar junto ao membro inferior DIREITO, e não ao esquerdo. Observação clínica ou limitação: Nenhuma alternativa descreve integralmente a técnica correta de maneira inequívoca; a letra A é apenas a mais próxima. Melhor formulação: bengala na mão esquerda, avançando com a perna direita."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "26",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q26:26"
+    },
+    {
+      "number": 27,
+      "prompt": "Homem de 27 anos refere dor e edema em joelho D há 4 semanas associado a inchaço bilateral dos dedos. Exame mostra artrite no JD, dactilite e exame genitourinário normal. Qual a principal hipótese diagnóstica?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artrite reativa",
+          "explanation": "Mais provável. Oligoartrite assimétrica de membro inferior e dactilite são compatíveis com artrite reativa, embora falte antecedente infeccioso documentado."
+        },
+        {
+          "letter": "B",
+          "text": "Artrite reumatóide",
+          "explanation": "Artrite reumatoide costuma cursar com poliartrite simétrica persistente de pequenas articulações e dactilite não é típica."
+        },
+        {
+          "letter": "C",
+          "text": "Gota",
+          "explanation": "Gota pode atingir o joelho, mas dactilite bilateral e quadro subagudo não a tornam a principal hipótese sem confirmação de cristais."
+        },
+        {
+          "letter": "D",
+          "text": "Artrite séptica",
+          "explanation": "Artrite séptica deve ser excluída se houver suspeita clínica de infecção, mas não explica bem a dactilite bilateral crônica descrita. Observação clínica ou limitação: Há incerteza etiológica; artrite psoriásica e outras espondiloartrites também entram no diferencial, mas não constam das opções."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "27",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q27:27"
+    },
+    {
+      "number": 31,
+      "prompt": "Acerca dos AINEs: I - O AINEs possuem como reação adversa gastrite e afecções do TGI. II - São AINEs: dipirona, corticosterona, loratadina e paracetamol. III - Esta classe de medicamentos inibe a atividade da COX. A COX 1 é constitutiva, e produz prostaglandinas da homeostasia. A COX 2 é ativada em processos inflamatórios. IV - Todos os AINEs são formados por ácido forte e base forte e por isso geram muitos efeitos adversos. V - Esta classe pode apresentar propriedades anti inflamatórias, analgésicas e antipiréticas.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I, II, III",
+          "explanation": "Incorreta porque inclui II: corticosterona e loratadina não são AINEs e paracetamol não é AINE clássico."
+        },
+        {
+          "letter": "B",
+          "text": "I, III e V",
+          "explanation": "Correta. I é verdadeira (efeitos gastrointestinais); III é didaticamente correta com ressalvas (COX-1 tem funções constitutivas e COX-2 pode ser induzida); V é verdadeira (efeitos analgésicos, antipiréticos e anti-inflamatórios)."
+        },
+        {
+          "letter": "C",
+          "text": "I, II e IV",
+          "explanation": "Incorreta: inclui II e IV, ambas falsas."
+        },
+        {
+          "letter": "D",
+          "text": "I, III e IV",
+          "explanation": "Incorreta por incluir IV: AINEs não são todos compostos por ácido e base fortes e tal justificativa não explica seus eventos adversos. Observação clínica ou limitação: Nota: COX-2 também possui expressão constitutiva em alguns tecidos; a dicotomia é simplificação didática."
+        }
+      ],
+      "page": 3,
+      "numberLabel": "31",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q31:31"
+    },
+    {
+      "number": 32,
+      "prompt": "Sobre os glicocorticóides e seu mecanismo de ação marque a alternativa incorreta:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Os glicocorticóides são derivados do colesterol e são capazes de atravessar livremente a membrana plasmática.",
+          "explanation": "Verdadeira: glicocorticoides derivam do colesterol e difundem-se através de membranas celulares."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta a transcrição de proteínas inflamatórias IL 2, IL3, IL4, IL6, IL8, IL 12, interferon gama e TGF alfa.",
+          "explanation": "Incorreta e, portanto, resposta. Glicocorticoides em geral reprimem a transcrição de mediadores pró-inflamatórios, e não a aumentam."
+        },
+        {
+          "letter": "C",
+          "text": "Após entrar na célula, os glicocorticóides se ligarão no receptor de glicocorticóides e depois se encaminharão para o núcleo celular. No DNA, o glicocorticoide ligado ao receptor afetará a transcrição gênica.",
+          "explanation": "Verdadeira: após ligação ao receptor intracelular, o complexo modula transcrição de genes no núcleo."
+        },
+        {
+          "letter": "D",
+          "text": "Os glicocorticóides indiretamente promovem a inibição da enzima fosfolipase A2, essencial para produção do ácido araquidônico.",
+          "explanation": "Verdadeira em termos gerais: glucocorticoides inibem etapas da via do ácido araquidônico, inclusive indiretamente a fosfolipase A2 por mediadores como anexina A1."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "32",
+      "answer": "B",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q32:32"
+    },
+    {
+      "number": 33,
+      "prompt": "Qual o fármaco padrão para o tratamento de AR (artrite reumatóide)?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sulfassalazina",
+          "explanation": "Sulfassalazina é DMARD convencional eficaz, opção em situações selecionadas, não o fármaco âncora preferencial da maioria dos casos."
+        },
+        {
+          "letter": "B",
+          "text": "Leflunomida",
+          "explanation": "Leflunomida é alternativa válida quando metotrexato não é adequado ou tolerado."
+        },
+        {
+          "letter": "C",
+          "text": "Difosfato de cloroquina",
+          "explanation": "Cloroquina tem papel limitado e maior preocupação com toxicidade; não é tratamento-padrão inicial."
+        },
+        {
+          "letter": "D",
+          "text": "Metotrexato",
+          "explanation": "Correta. Metotrexato é DMARD convencional âncora no tratamento inicial de AR com atividade moderada/alta, conforme ACR. Observação clínica ou limitação: Em doença de baixa atividade e situações especiais, o agente inicial pode variar. O enunciado pede o padrão geral."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "33",
+      "answer": "D",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q33:33"
+    },
+    {
+      "number": 34,
+      "prompt": "Laboratório de anemia no idoso I. O exame com melhor custo/benefício e maior poder de discriminação entre anemia ferropriva e da anemia de doença crônica no idoso é a dosagem de ferro. II. O exame com melhor custo/benefício e maior poder de discriminação entre anemia ferropriva e da anemia de doença crônica no idoso é a Ferritina. III. A contagem de reticulócitos é um exame muito útil para diferenciar a anemia ferropriva da megaloblástica, muito comum no idoso. IV. O sangue oculto nas fezes deve ser solicitado ao idoso se apresentar anemia microcítica e hipocrômica com anisocitose. Quais afirmativas são verdadeiras?",
+      "type": "discursive",
+      "options": [],
+      "page": 4,
+      "numberLabel": "34",
+      "answer": null,
+      "answerSource": "Gabarito comentado do PDF",
+      "reviewNote": "Chave de resposta não corresponde às alternativas disponíveis no arquivo.",
+      "id": "provao-m1-2019:q34:34"
+    },
+    {
+      "number": 39,
+      "prompt": "Questão de patologia sobre tumor de partes moles, perguntava em relação ao sarcoma:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tem metástase hematogênica",
+          "explanation": "Correta. Sarcomas de tecidos moles frequentemente se disseminam por via hematogênica, particularmente para os pulmões."
+        },
+        {
+          "letter": "B",
+          "text": "biópsia só se > 5 cm",
+          "explanation": "Incorreta. Critérios para investigação/biópsia incluem lesões profundas, crescentes, suspeitas por imagem ou com tamanho relevante; o limiar de 5 cm não é exclusivo."
+        },
+        {
+          "letter": "C",
+          "text": "mais frequente em menores de 10 anos",
+          "explanation": "Incorreta. Sarcomas de partes moles, no conjunto, são mais frequentes em adultos; alguns subtipos predominam na infância."
+        },
+        {
+          "letter": "D",
+          "text": "apresenta células fusiformes",
+          "explanation": "Incorreta como generalização: vários sarcomas podem ter morfologia fusiforme, mas outros são pleomórficos, epitelioides ou de células pequenas."
+        }
+      ],
+      "page": 4,
+      "numberLabel": "39",
+      "answer": "A",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q39:39"
+    },
+    {
+      "number": 40,
+      "prompt": "Questão de imagenologia perguntando as funções dos métodos de imagem,",
+      "type": "discursive",
+      "options": [],
+      "page": 4,
+      "numberLabel": "40",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q40:40"
+    },
+    {
+      "number": 41,
+      "prompt": "Quais os métodos de imagem mais usados em afecções osteoarticulares?",
+      "type": "discursive",
+      "options": [],
+      "page": 4,
+      "numberLabel": "41",
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q41:41"
+    },
+    {
+      "number": 42,
+      "prompt": "São características do estudo radiográfico, exceto:",
+      "type": "discursive",
+      "options": [],
+      "page": 4,
+      "reviewNote": "O enunciado original está incompleto ou não apresenta alternativas suficientes. Chave de resposta não corresponde às alternativas disponíveis no arquivo.",
+      "numberLabel": "42",
+      "answer": null,
+      "answerSource": "Gabarito comentado do PDF",
+      "id": "provao-m1-2019:q42:42"
+    }
+  ]
+}

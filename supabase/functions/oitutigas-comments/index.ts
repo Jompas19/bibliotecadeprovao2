@@ -23,7 +23,7 @@ const backend={
     .eq('id',id).select('id').maybeSingle());}
 };
 Deno.serve(createCommentHandler(backend,{
-  allowedOrigins:Deno.env.get('OITUTIGAS_ALLOWED_ORIGINS')||'',
-  ipSalt:Deno.env.get('OITUTIGAS_IP_SALT')||'',
+  allowedOrigins:Deno.env.get('OITUTIGAS_ALLOWED_ORIGINS')||'https://jompas19.github.io',
+  ipSalt:Deno.env.get('OITUTIGAS_IP_SALT')||secret,
   adminToken:Deno.env.get('OITUTIGAS_ADMIN_TOKEN')||''
 }));

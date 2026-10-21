@@ -42,13 +42,12 @@ body, .topbar, .exam-card, .question-card, .side, .notes-toolbar, .editor,
               border-color 220ms ease, box-shadow 220ms ease;
 }
 
-/* Entrada em página / troca de questão, disparadas só quando necessário. */
+/* Entrada na biblioteca e na prova, sem animação ao trocar de questão. */
 .motion-enter-hero { animation: motion-up var(--motion-slow) var(--motion-ease) both; }
 .motion-enter-card { animation: motion-up 360ms var(--motion-ease) both;
   animation-delay: var(--motion-delay, 0ms); }
 .motion-enter-shell .exam-head { animation: motion-up 280ms var(--motion-ease) both; }
 .motion-enter-shell .side { animation: motion-up 340ms var(--motion-ease) both; animation-delay:45ms; }
-.motion-enter-question { animation: motion-up 270ms var(--motion-ease) both; }
 .motion-picked { animation: motion-pick 240ms var(--motion-ease) both; }
 
 /* Confirmação: resultado e comentários surgem em sequência rápida. */
@@ -106,4 +105,11 @@ body, .topbar, .exam-card, .question-card, .side, .notes-toolbar, .editor,
   *, *::before, *::after { animation-duration: .01ms !important;
     animation-delay: 0ms !important; transition-duration: .01ms !important;
     scroll-behavior: auto !important; }
+}
+
+/* A visita guiada funciona sem transições ou efeitos visuais no conteúdo. */
+html.study-tour-active *, html.study-tour-active *::before, html.study-tour-active *::after {
+  animation: none !important;
+  transition: none !important;
+  scroll-behavior: auto !important;
 }

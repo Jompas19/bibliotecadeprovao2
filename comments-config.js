@@ -1,4 +1,4 @@
-/* Configuração PÚBLICA. Nunca armazene senha do administrador neste arquivo! */
+/* Configuração pública: nenhuma credencial administrativa deve aparecer aqui. */
 window.OITUTIGAS_CONFIG = {
-  apiUrl: '' // https://SEU-PROJETO.supabase.co/functions/v1/oitutigas-comments
+  apiUrl: 'https://mdksigkfkdltfthxvcxe.supabase.co/functions/v1/oitutigas-comments'
 };

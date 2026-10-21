@@ -18,7 +18,7 @@
         if (!r.ok) throw new Error('Não foi possível carregar o aplicativo.');
         const html = await r.text();
         frame.srcdoc = html
-          .replace('motion.css?v=20261021-v1', 'motion.css?v=20261021-v2')
+          .replace('motion.css?v=20261021-v1', 'motion.css?v=20261021-v3')
           .replace('motion.js?v=20261021-v1', 'motion.js?v=20261021-v2')
           .replace('comments.js?v=20261020-tour-1', 'comments.js?v=20261021-admin-2');
       } catch (e) {

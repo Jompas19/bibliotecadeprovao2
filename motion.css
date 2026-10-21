@@ -28,6 +28,28 @@
 .tutorial-help-button:hover { transform: translateY(-1px); }
 .status-btn.active { box-shadow: 0 2px 9px rgba(49,86,211,.09); }
 
+/* Acesso discreto ao tutorial, ao lado de Restaurar. */
+button.tutorial-help-button {
+  min-width: 31px !important;
+  width: 31px;
+  height: 31px;
+  padding: 0 !important;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  line-height: 1;
+  color: var(--muted) !important;
+  border-color: var(--line) !important;
+  background: var(--surface) !important;
+}
+button.tutorial-help-button:hover {
+  color: var(--accent) !important;
+  border-color: var(--accent) !important;
+}
+
 /* Capas e cartões: profundidade leve, sem imagens deslizantes exageradas. */
 .exam-card { transition: transform var(--motion-base) var(--motion-ease),
   box-shadow var(--motion-base) ease, border-color var(--motion-base) ease; }

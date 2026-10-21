@@ -63,9 +63,10 @@
       button.textContent='Moderação';button.classList.remove('is-active');
       await load(section);return;
     }
-    const code=window.prompt('Informe a chave secreta do administrador (configurada no Supabase):');
+    const code=window.prompt('Informe a chave de moderação configurada no Supabase (mínimo de 32 caracteres):');
     if(code===null)return;
     const entered=code.trim();if(!entered)return;
+    if(entered.length<32){status(section,'A chave administrativa deve ter no mínimo 32 caracteres. Configure uma nova chave aleatória no Supabase.',true);return;}
     button.disabled=true;
     try{
       await api('/admin/check',{headers:{'X-Oitutigas-Admin':entered}});

@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <meta name="theme-color" content="#ffffff" />
   <title>Biblioteca de Provões</title>
-  <link rel="stylesheet" href="motion-host.css?v=20261021-v1" />
+  <link rel="stylesheet" href="motion-host.css?v=20261021-v2" />
 </head>
 <body>
   <iframe id="appFrame" title="Biblioteca de Provões"></iframe>
@@ -14,10 +14,12 @@
     (async () => {
       const frame = document.getElementById('appFrame');
       try {
-        const r = await fetch('app.html?v=20261021-motion-1', { cache: 'no-store' });
+        const r = await fetch('app.html?v=20261021-tour-2', { cache: 'no-store' });
         if (!r.ok) throw new Error('Não foi possível carregar o aplicativo.');
         const html = await r.text();
-        frame.srcdoc = html;
+        frame.srcdoc = html
+          .replace('motion.css?v=20261021-v1', 'motion.css?v=20261021-v2')
+          .replace('motion.js?v=20261021-v1', 'motion.js?v=20261021-v2');
       } catch (e) {
         document.body.innerHTML = '<p style="font:16px system-ui;padding:24px">Não foi possível carregar a biblioteca agora. Atualize a página.</p>';
       }
@@ -25,6 +27,6 @@
   </script>
   <script src="sync.js?v=20261021-v2"></script>
   <script src="features.js?v=20261020-acervo-17-v2"></script>
-  <script src="tutorial.js?v=20261020-guia-1"></script>
+  <script src="tutorial.js?v=20261021-guia-2"></script>
 </body>
 </html>

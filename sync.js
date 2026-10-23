@@ -9,7 +9,7 @@
 
   const esc=(s='')=>String(s).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
   const norm=s=>String(s||'').trim().toLowerCase();
-  const valid=s=>/^[a-z0-9][a-z0-9_-]{15,79}$/.test(s);
+  const valid=s=>/^[a-z0-9][a-z0-9_-]{2,79}$/.test(s);
 
   function openDb(){return new Promise((ok,no)=>{if(!indexedDB)return no();const r=indexedDB.open(DB,1);r.onupgradeneeded=()=>{if(!r.result.objectStoreNames.contains(STORE))r.result.createObjectStore(STORE)};r.onsuccess=()=>ok(r.result);r.onerror=()=>no(r.error)})}
   async function get(k){try{const d=await openDb(),v=await new Promise((ok,no)=>{const r=d.transaction(STORE,'readonly').objectStore(STORE).get(k);r.onsuccess=()=>ok(r.result);r.onerror=()=>no(r.error)});d.close();if(v!==undefined)return v}catch(_){}try{const x=localStorage.getItem(LP+k);if(x!==null)return JSON.parse(x)}catch(_){}}
@@ -192,8 +192,8 @@
   function close(){document.getElementById('cloudSyncModal')?.remove()}
 
   async function create(raw){
-    const k=norm(raw||('med-'+Array.from(crypto.getRandomValues(new Uint8Array(20)),b=>b.toString(16).padStart(2,'0')).join('')));
-    if(!valid(k))throw new Error('Use uma chave privada com 16 a 80 caracteres.');
+    const k=norm(raw);
+    if(!valid(k))throw new Error('Escolha um ID de 3 a 80 caracteres, usando letras, números, hífen ou sublinhado.');
     key=k;
     try{
       const r=await req('create',await state());
@@ -202,12 +202,12 @@
     await set(SK,k);
     status('ok','Sincronizado');
     close();
-    window.prompt('Sincronização ativada! Copie e guarde esta chave privada para acessar em outro dispositivo:', k);
+    window.prompt('Sincronização ativada! Guarde este ID para usar em outros dispositivos:', k);
   }
 
   async function connect(raw){
     const k=norm(raw);
-    if(!valid(k))throw new Error('Chave inválida.');
+    if(!valid(k))throw new Error('ID inválido: use de 3 a 80 caracteres, com letras, números, hífen ou sublinhado.');
     key=k;
     try{
       const r=await req('sync',await state());
@@ -274,9 +274,9 @@
              <button class="cloud-btn danger" id="cDisc">Parar de sincronizar</button>
              <button class="cloud-btn primary" id="cNow">Sincronizar agora</button>
            </div>`:
-          `<p>Crie uma chave privada aleatória ou informe a chave de outro dispositivo. Quem possuir a chave poderá acessar seus dados.</p>
-           <input class="cloud-input" id="cKey" maxlength="80" autocomplete="off" placeholder="Cole sua chave privada para conectar">
-           <div class="cloud-help">Ao criar, geramos automaticamente uma chave privada longa. Guarde-a para acessar seus dados em outro dispositivo.</div>
+          `<p>Escolha seu próprio ID de sincronização ou digite o ID que já utiliza em outro dispositivo.</p>
+           <input class="cloud-input" id="cKey" maxlength="80" autocomplete="off" placeholder="Escolha um ID (ex.: joao-med)">
+           <div class="cloud-help">De 3 a 80 caracteres: letras, números, hífen ou sublinhado. Maiúsculas e minúsculas são equivalentes. Quem souber seu ID poderá acessar seus dados; evite IDs fáceis de adivinhar.</div>
            <div id="cloudSyncError" class="cloud-error"></div>
            <div class="cloud-actions stacked">
              <button class="cloud-btn secondary" id="cClose">Cancelar</button>
@@ -295,7 +295,7 @@
       setTimeout(()=>i?.focus(),20);
       document.getElementById('cCreate').onclick=async()=>{
         err('');
-        try{await create('')}
+        try{await create(i.value)}
         catch(e){err(e.code==='key_exists'?'Esse ID já existe. Escolha outro.':e.message)}
       };
       document.getElementById('cUse').onclick=async()=>{

@@ -202,7 +202,7 @@
     await set(SK,k);
     status('ok','Sincronizado');
     close();
-    window.prompt('Sincronização ativada! Guarde este ID para usar em outros dispositivos:', k);
+    toast('ID criado! A sincronização já está ativa.');
   }
 
   async function connect(raw){
@@ -277,7 +277,8 @@
           `<p>Escolha seu próprio ID de sincronização ou digite o ID que já utiliza em outro dispositivo.</p>
            <input class="cloud-input" id="cKey" maxlength="80" autocomplete="off" placeholder="Escolha um ID (ex.: joao-med)">
            <div class="cloud-help">De 3 a 80 caracteres: letras, números, hífen ou sublinhado. Maiúsculas e minúsculas são equivalentes. Quem souber seu ID poderá acessar seus dados; evite IDs fáceis de adivinhar.</div>
-           <div id="cloudSyncError" class="cloud-error"></div>
+           <div id="cloudSyncError" class="cloud-error" role="alert"></div>
+           <div id="cloudSyncProgress" class="cloud-sync-progress" role="status" aria-live="polite" hidden></div>
            <div class="cloud-actions stacked">
              <button class="cloud-btn secondary" id="cClose">Cancelar</button>
              <button class="cloud-btn secondary" id="cUse">Usar ID existente</button>
@@ -293,17 +294,45 @@
     }else{
       const i=document.getElementById('cKey');
       setTimeout(()=>i?.focus(),20);
-      document.getElementById('cCreate').onclick=async()=>{
+      const createBtn=document.getElementById('cCreate');
+      const connectBtn=document.getElementById('cUse');
+      const cancelBtn=document.getElementById('cClose');
+      const feedback=document.getElementById('cloudSyncProgress');
+      let submitting=false;
+      async function submitId(action){
+        if(submitting)return;
         err('');
-        try{await create(i.value)}
-        catch(e){err(e.code==='key_exists'?'Esse ID já existe. Escolha outro.':e.message)}
-      };
-      document.getElementById('cUse').onclick=async()=>{
-        err('');
-        try{await connect(i.value)}
-        catch(e){err(e.code==='key_not_found'?'Esse ID não foi encontrado.':e.message)}
-      };
-      i.addEventListener('keydown',e=>{if(e.key==='Enter')document.getElementById('cCreate').click()});
+        const selected=action==='create'?createBtn:connectBtn;
+        const originalLabel=selected.textContent;
+        submitting=true;
+        for(const control of [i,createBtn,connectBtn,cancelBtn])control.disabled=true;
+        selected.classList.add('loading');
+        selected.textContent=action==='create'?'Criando ID…':'Conectando…';
+        feedback.textContent=action==='create'
+          ?'Criando seu ID e ativando a sincronização…'
+          :'Conectando ao ID e recuperando seu progresso…';
+        feedback.hidden=false;
+        try{
+          if(action==='create')await create(i.value);
+          else await connect(i.value);
+        }catch(e){
+          err(e.code==='key_exists'?'Esse ID já existe. Escolha outro.'
+            :e.code==='key_not_found'?'Esse ID não foi encontrado.':e.message);
+        }finally{
+          // O modal é removido no sucesso. Reabilite os controles apenas se ele continuar aberto.
+          if(selected.isConnected){
+            selected.classList.remove('loading');
+            selected.textContent=originalLabel;
+            feedback.hidden=true;
+            feedback.textContent='';
+            for(const control of [i,createBtn,connectBtn,cancelBtn])control.disabled=false;
+          }
+          submitting=false;
+        }
+      }
+      createBtn.onclick=()=>submitId('create');
+      connectBtn.onclick=()=>submitId('connect');
+      i.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();submitId('create')}});
     }
   }
 
@@ -339,6 +368,13 @@ html[data-app-theme="dark"] .cloud-float{background:#1f2937;color:#e5e7eb;border
 .cloud-okline{background:#eefaf3;border:1px solid #bfe5cf;color:#17623d;border-radius:12px;padding:13px 14px;line-height:1.45}
 .cloud-key{font:700 19px ui-monospace,monospace;background:#f3f6fa;border:1px solid #d8e0eb;border-radius:10px;padding:12px;word-break:break-all}
 .cloud-error{min-height:20px;color:#b42318;font-size:13px;margin-top:8px}
+.cloud-sync-progress{display:flex;align-items:center;gap:9px;margin-top:11px;font-size:13px;font-weight:600;color:#2856c4}
+.cloud-sync-progress[hidden]{display:none}
+.cloud-sync-progress::before,.cloud-btn.loading::before{content:'';display:inline-block;width:13px;height:13px;flex:none;border:2px solid currentColor;border-right-color:transparent;border-radius:50%;animation:cloud-spin .75s linear infinite}
+.cloud-btn.loading{display:inline-flex;align-items:center;justify-content:center;gap:8px}
+.cloud-btn:disabled,.cloud-input:disabled{cursor:wait;opacity:.7}
+@keyframes cloud-spin{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.cloud-sync-progress::before,.cloud-btn.loading::before{animation-duration:1.6s}}
 .cloud-actions{display:flex;gap:8px;justify-content:flex-end;margin-top:14px;flex-wrap:wrap}
 .cloud-btn{border:1px solid #cfd8e5;background:#fff;border-radius:9px;padding:9px 12px;font-weight:600;cursor:pointer}
 .cloud-btn.primary{background:#2856c4;border-color:#2856c4;color:#fff}

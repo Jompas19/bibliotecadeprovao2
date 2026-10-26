@@ -48,7 +48,7 @@
               el.classList.add('motion-reveal-option');
               el.style.setProperty('--motion-delay', Math.min(i, 6) * 35 + 'ms');
             });
-          card.querySelectorAll('.structured-item .alternative-comment, .structured-correction, .question-review-note')
+          card.querySelectorAll('.structured-item .alternative-comment, .structured-correction')
             .forEach((el, i) => {
               el.classList.add('motion-reveal');
               el.style.setProperty('--motion-delay', Math.min(i, 6) * 35 + 'ms');

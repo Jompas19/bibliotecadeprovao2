@@ -129,6 +129,111 @@ body, .topbar, .exam-card, .question-card, .side, .notes-toolbar, .editor,
     scroll-behavior: auto !important; }
 }
 
+
+/* Gabarito comentado: alternativa e explicação são um único cartão.
+   O botão × continua em sua coluna, sem alargar o painel de comentário. */
+:root:not(.question-explanations-hidden) .option-block:has(> .alternative-comment) {
+  --review-border: var(--line);
+  --review-panel: var(--surface2);
+  --review-divider: rgba(83, 105, 137, .15);
+  gap: 0;
+  min-width: 0;
+}
+:root:not(.question-explanations-hidden) .option-block:has(> .study-option-row):has(> .alternative-comment) {
+  grid-template-columns: minmax(0, 1fr) 25px;
+  column-gap: 24px;
+}
+:root:not(.question-explanations-hidden) .option-block:has(> .alternative-comment) > .study-option-row {
+  grid-column: 1 / -1;
+  min-width: 0;
+}
+:root:not(.question-explanations-hidden) .option-block:has(> .alternative-comment) > .option,
+:root:not(.question-explanations-hidden) .option-block:has(> .alternative-comment) > .study-option-row > .option {
+  border-color: var(--review-border);
+  border-bottom: 0;
+  border-radius: 13px 13px 0 0;
+  min-width: 0;
+}
+:root:not(.question-explanations-hidden) .option-block:has(> .alternative-comment) > .alternative-comment {
+  grid-column: 1;
+  min-width: 0;
+  margin: 0;
+  border: 1.5px solid var(--review-border);
+  border-top: 0;
+  border-radius: 0 0 13px 13px;
+  background: var(--review-panel);
+  box-shadow: inset 0 1px 0 var(--review-divider);
+  padding: 13px 16px 15px;
+  color: var(--text);
+  font-size: 15px;
+  line-height: 1.6;
+}
+:root:not(.question-explanations-hidden) .option-block:has(> .alternative-comment) > .alternative-comment p {
+  margin: 9px 0 0;
+  line-height: 1.6;
+}
+:root:not(.question-explanations-hidden) .option-block:has(> .alternative-comment) > .alternative-comment .alternative-verdict {
+  display: inline-flex;
+  align-items: center;
+  width: fit-content;
+  padding: 5px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 750;
+  line-height: 1.3;
+}
+:root:not(.question-explanations-hidden) .option-block:has(> .alternative-comment):has(.option.correct) {
+  --review-border: #5dbd92;
+  --review-panel: #f4fbf7;
+  --review-divider: rgba(23, 131, 90, .2);
+}
+:root:not(.question-explanations-hidden) .option-block:has(> .alternative-comment):has(.option.wrong) {
+  --review-border: #e48585;
+  --review-panel: #fff8f8;
+  --review-divider: rgba(191, 59, 59, .2);
+}
+:root[data-theme="dark"]:not(.question-explanations-hidden) .option-block:has(> .alternative-comment):has(.option.correct) {
+  --review-border: #3e8f70;
+  --review-panel: #1b302b;
+  --review-divider: rgba(88, 201, 154, .23);
+}
+:root[data-theme="dark"]:not(.question-explanations-hidden) .option-block:has(> .alternative-comment):has(.option.wrong) {
+  --review-border: #9c4d52;
+  --review-panel: #32272d;
+  --review-divider: rgba(255, 133, 133, .23);
+}
+:root[data-theme="dark"]:not(.question-explanations-hidden) .option-block:has(> .alternative-comment) {
+  /* Estados neutros também têm um divisor discreto no modo escuro. */
+  --review-divider: rgba(164, 181, 205, .17);
+}
+:root[data-theme="dark"]:not(.question-explanations-hidden) .option-block:has(> .alternative-comment):has(.option.correct) {
+  --review-divider: rgba(88, 201, 154, .23);
+}
+:root[data-theme="dark"]:not(.question-explanations-hidden) .option-block:has(> .alternative-comment):has(.option.wrong) {
+  --review-divider: rgba(255, 133, 133, .23);
+}
+/* Quando as explicações estão ocultas, a alternativa volta a ser arredondada. */
+:root.question-explanations-hidden .option-block > .option,
+:root.question-explanations-hidden .option-block > .study-option-row > .option {
+  border-radius: 13px;
+}
+@media (max-width: 850px) {
+  :root:not(.question-explanations-hidden) .option-block:has(> .study-option-row):has(> .alternative-comment) {
+    column-gap: 18px;
+  }
+}
+@media (max-width: 560px) {
+  :root:not(.question-explanations-hidden) .option-block:has(> .alternative-comment) > .alternative-comment {
+    padding: 11px 13px 13px;
+    font-size: 14px;
+  }
+}
+/* Revelar o cartão inteiro preserva a união visual durante a animação. */
+.option-block.motion-reveal-option {
+  animation: motion-soft 230ms ease both;
+  animation-delay: var(--motion-delay, 0ms);
+}
+
 /* A visita guiada funciona sem transições ou efeitos visuais no conteúdo. */
 html.study-tour-active *, html.study-tour-active *::before, html.study-tour-active *::after {
   animation: none !important;

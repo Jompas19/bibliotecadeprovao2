@@ -42,7 +42,13 @@
       } else if (previous.id === current.id) {
         if (!previous.confirmed && current.confirmed) {
           add('.result', 'motion-reveal-result', card);
-          card.querySelectorAll('.alternative-comment, .structured-correction, .question-review-note')
+          // Revela alternativa + comentário como uma peça única, sem abrir emendas.
+          card.querySelectorAll('.option-block:has(> .alternative-comment)')
+            .forEach((el, i) => {
+              el.classList.add('motion-reveal-option');
+              el.style.setProperty('--motion-delay', Math.min(i, 6) * 35 + 'ms');
+            });
+          card.querySelectorAll('.structured-item .alternative-comment, .structured-correction, .question-review-note')
             .forEach((el, i) => {
               el.classList.add('motion-reveal');
               el.style.setProperty('--motion-delay', Math.min(i, 6) * 35 + 'ms');

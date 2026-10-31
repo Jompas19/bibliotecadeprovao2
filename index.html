@@ -14,7 +14,7 @@
     (async () => {
       const frame = document.getElementById('appFrame');
       try {
-        const r = await fetch('app.html?v=20261026-extra-comment-3', { cache: 'no-store' });
+        const r = await fetch('app.html?v=20261031-nav-after-result-v4', { cache: 'no-store' });
         if (!r.ok) throw new Error('Não foi possível carregar o aplicativo.');
         const html = await r.text();
         frame.srcdoc = html

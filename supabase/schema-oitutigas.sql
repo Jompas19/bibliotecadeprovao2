@@ -2,7 +2,7 @@
 -- Se você já executou o SQL da versão com imagens, consulte a migração separada.
 create table if not exists public.oitutigas_comments (
   id uuid primary key default gen_random_uuid(),
-  question_id text not null check(length(question_id) between 1 and 160 and question_id ~ '^[A-Za-z0-9:_./-]+$'),
+  question_id text not null check(length(question_id) between 1 and 160 and question_id ~ '^[A-Za-z0-9:_./()ªºÀ-ÖØ-öø-ÿ-]+$'),
   author_name text not null check(length(btrim(author_name)) between 1 and 60),
   body text not null check(length(btrim(body)) between 1 and 2000),
   delete_token_hash text not null check(delete_token_hash ~ '^[a-f0-9]{64}$'),

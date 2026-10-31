@@ -35,6 +35,21 @@ test('publica e lista texto público, sem expor hashes',async()=>{
   const list=await handle(req('/comments?question_id=m4-2026%3Aquestao-22'));
   assert.equal((await list.json()).comments.length,1);
 });
+test('aceita IDs reais com acentos, ordinal e parênteses em leitura e publicação',async()=>{
+  const {handle}=setup();
+  const ids=['rodizio-reumato-3:q2:2-(2ª-ocorrência)',
+    'rodizio-reumato-3:q4:4-(3ª-ocorrência)',
+    'rodizio-reumato-3:q10:10-(2ª-ocorrência)'];
+  for(const id of ids){
+    const posted=await handle(req('/comments','POST',payload({question_id:id})));
+    assert.equal(posted.status,201,'Falha ao publicar em '+id);
+    const listed=await handle(req('/comments?question_id='+encodeURIComponent(id)));
+    assert.equal(listed.status,200,'Falha ao listar '+id);
+    const body=await listed.json();
+    assert.equal(body.comments.length,1);
+    assert.equal(body.comments[0].question_id,id);
+  }
+});
 test('exclusão pelo código do autor e recusa código errado',async()=>{
   const {handle,rows}=setup(),id=await commentId(handle);
   assert.equal((await handle(req(`/comments/${id}`,'DELETE',{delete_token:'incorreto'}))).status,403);

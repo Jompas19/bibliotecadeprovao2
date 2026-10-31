@@ -7,7 +7,8 @@ const MAX_REQUEST_BYTES = 16000;
 class HttpError extends Error {
   constructor(message, status = 400) { super(message); this.status = status; }
 }
-const matchesQuestion = s => typeof s === 'string' && s.length > 0 && s.length <= 160 && /^[A-Za-z0-9:_./-]+$/.test(s);
+// IDs reais podem conter ordinais e acentos, como 2ª-ocorrência. Não os renomear.
+const matchesQuestion = s => typeof s === 'string' && s.length > 0 && s.length <= 160 && /^[A-Za-z0-9:_./()ªºÀ-ÖØ-öø-ÿ-]+$/.test(s);
 const hash = async s => Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(s))))
   .map(x => x.toString(16).padStart(2,'0')).join('');
 const headers = {'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store','X-Content-Type-Options':'nosniff'};

@@ -386,7 +386,25 @@ button,input,select{font:inherit}.hidden{display:none!important}.muted{color:var
   async function confirmQuestion(){const e=currentExam(),q=filteredQuestions(e)[route.qIndex];if(!q)return;if(!answerReady(q,selectedAnswer))return;const s=qState(q);const wasPreviouslyConfirmed=!!s.confirmed;s.confirmed=true;s.userAnswer=selectedAnswer||null;s.confirmedAt=Date.now();if(!wasPreviouslyConfirmed && structuredResult(q,selectedAnswer)===true)s.status='correct';progress[q.id]=s;await persist();retryMode=false;answerVisible=true;renderExam();} window.confirmQuestion=confirmQuestion;
   function showAnswer(){const e=currentExam(),q=filteredQuestions(e)[route.qIndex];if(!q||!qState(q).confirmed||retryMode)return;answerVisible=true;renderExam(false);} window.showAnswer=showAnswer;
   function startRetry(){const e=currentExam(),q=filteredQuestions(e)[route.qIndex];if(!q||!qState(q).confirmed)return;selectedAnswer=null;answerVisible=false;retryMode=true;renderExam(false);} window.startRetry=startRetry;
-  async function setStatus(st){const e=currentExam(),q=filteredQuestions(e)[route.qIndex],s=qState(q);s.status=(s.status===st?null:st);progress[q.id]=s;await persist();renderExam(false);} window.setStatus=setStatus;
+  async function setStatus(st){
+    const e=currentExam(),q=filteredQuestions(e)[route.qIndex];
+    if(!q)return;
+    const s=qState(q);
+    s.status=(s.status===st?null:st);
+    progress[q.id]=s;
+    await persist();
+
+    // Se a nova classificação retirar esta questão do filtro ativo,
+    // a próxima deve abrir pronta para responder novamente, sem mostrar gabarito.
+    if(!filteredQuestions(e).some(item=>item.id===q.id)){
+      selectedAnswer=null;
+      answerVisible=false;
+      retryMode=isReviewFilter();
+      renderExam();
+      return;
+    }
+    renderExam(false);
+  } window.setStatus=setStatus;
 
   function showKeyModal(){const e=currentExam(),q=filteredQuestions(e)[route.qIndex];const s=qState(q);const choices=q.options.length?q.options.map(o=>o.letter):['A','B','C','D','E'];document.body.insertAdjacentHTML('beforeend',`<div class="modal-bg" id="keyModal"><div class="modal"><h3>Mudar o gabarito</h3><p>Escolha o gabarito que deve valer para esta questão. A referência original continuará visível discretamente.</p><div class="key-options">${choices.map(l=>`<button class="keypick ${s.overrideAnswer===l?'active':''}" onclick="saveOverride('${l}')">${l}</button>`).join('')}</div><div class="modal-actions"><button class="btn" onclick="closeModal()">Cancelar</button>${s.overrideAnswer?'<button class="btn danger" onclick="removeOverride()">Restaurar original</button>':''}</div></div></div>`);} window.showKeyModal=showKeyModal;
   function closeModal(){document.getElementById('keyModal')?.remove();} window.closeModal=closeModal;
